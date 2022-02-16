@@ -17,7 +17,7 @@ The EOS Network Foundation (ENF) funds development grants for Public Goods for t
   <tr>
     <td valign="top"><b>Benefits</b></td>
     <td valign="top"><ul><li>Feedback during application process and evaluation</li><li>Introduction to related teams and projects</li></ul></td>
-    <td valign="top"><ul><li>All benefits from Level 1</li><li>Milestone support and engagement</li><li><a href="docs/grant-badge.md">ENF Grant Program Badge</a></li><li>Co-promotion on Twitter</li></ul></td>
+    <td valign="top"><ul><li>All benefits from Level 1</li><li>Milestone support and engagement</li><li><a href="docs/grant-badge.md">ENF Grant Program Badge</a></li><li><a href="docs/co-promotion.md">Co-promotion on Twitter</a></li></ul></td>
     <td valign="top"><ul><li>All benefits from Levels 1 and 2</li><li>Introductions to ENF Ventures VC partners</li></ul></td>
   </tr>
 </table>
