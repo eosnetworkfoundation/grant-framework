@@ -1,5 +1,5 @@
 # EOS Network Foundation Grant Framework
-Grant Framework Guidelines, Process, and Application
+Grant Framework Guidelines, Levels, Process, and Application
 
 ## Grant Overview
 
