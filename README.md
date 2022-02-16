@@ -4,7 +4,7 @@ Grant Framework Guidelines, Process, and Application
 ## Grant Overview
 
 ## Grant Levels
-The EOS Network Foundation (ENF) funds development grants for Public Goods for the EOS Mainnet network.  In the future, the ENF also plans to fund grants to “for profit” entities that will enhance the EOS community. Grants proposals are accepted in three levels, each having different amounts and acceptance criteria.  ENF Grants have guidelines, an application process, and a multi-stage approval process.  They also have a milestone based pay-out system. [Badge](docs/grant-badge.md)
+The EOS Network Foundation (ENF) funds development grants for Public Goods for the EOS Mainnet network.  In the future, the ENF also plans to fund grants to “for profit” entities that will enhance the EOS community. Grants proposals are accepted in three levels, each having different amounts and acceptance criteria.  ENF Grants have guidelines, an application process, and a multi-stage approval process.  They also have a milestone based pay-out system.
 <table width="100%">
   <tr><th>&nbsp;</th><th>Individual / Small</th><th>Team / Medium</th><th>Company / Large</th></tr>
   <tr><td><b>Amount</b></td><td align="center">$10,000</td><td align="center">$50,000</td><td align="center">Over $50,000</td></tr>
@@ -31,8 +31,26 @@ There are three teams that drive the process for ENF Direct Grants: Committee, E
 
 #### Grant Committee
 The Grant Committee are senior members of the EOS community that know the priorities of the ecosystem and can make required initial funding decisions based upon the guidelines of the grant program.  This committee is more business focused than technically focused but they understand the technical nature of the desired future.
+- [Yves La Rose](https://github.com/YvesLaRose)
+- [Aaron Cox](https://github.com/aaroncox)
+- Dafeng Guo
+- Fu Pan
+- Peter Watt
+- Van Kai
+- [Wen Huaqiang](https://github.com/orcoder) (might not be his github but looks possible)
+- Damian Byeon
+
 #### Grant Evaluators
 The Grant Evaluators review applications approved by the Grant Committee for technical merit and achievability.   They are more technical in nature and are more concerned with whether the proposal solves the problem optimally, is realizable in the specified time frame, and utilizes proper processes as required for the milestone achievement metrics.
+- [Todd Flemming](https://github.com/tbfleming)
+- Areg Hayrapetian
+- Matt Witherspoon
+- Bucky Kittle
+- [Aaron Cox](https://github.com/aaroncox)
+- [Stanislav Sinyagin]()
+- Bart Wyatt?
+- Deadlock
+
 #### Grant Operations
 The Grant Operations team manages the overall workflow of the ENF Grant process including: application acceptance and routing, notification of acceptance or rejection, monitoring of milestones and payment disbursals.
 - [Ted Cahall](https://github.com/tedcahalleos)
