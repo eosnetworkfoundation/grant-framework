@@ -4,7 +4,7 @@ Grant Framework Guidelines, Process, and Application
 ## Grant Overview
 
 ## Grant Levels
-The EOS Network Foundation (ENF) funds development grants for Public Goods for the EOS Mainnet network.  In the future, the ENF also plans to fund grants to “for profit” entities that will enhance the EOS community. Grants proposals are accepted in three levels, each having different amounts and acceptance criteria.  ENF Grants have guidelines, an application process, and a multi-stage approval process.  They also have a milestone based pay-out system.
+The EOS Network Foundation (ENF) funds development grants for Public Goods for the EOS Mainnet network.  In the future, the ENF also plans to fund grants to “for profit” entities that will enhance the EOS community. Grants proposals are accepted in three levels, each having different amounts and acceptance criteria.  ENF Grants have guidelines, an application process, and a multi-stage approval process.  They also have a milestone based pay-out system. [test](docs/grant-badge.md)
 <table width="100%">
   <tr><th>&nbsp;</th><th>Individual / Small</th><th>Team / Medium</th><th>Company / Large</th></tr>
   <tr><td><b>Amount</b></td><td align="center">$10,000</td><td align="center">$50,000</td><td align="center">Over $50,000</td></tr>
