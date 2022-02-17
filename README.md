@@ -2,7 +2,8 @@
 Grant Framework Guidelines, Levels, Process, and Application
 
 ## Grant Overview
-Individuals, small teams, and companies are all permitted to apply for grants. The purpose of the grants is to drive development of "[Public Good](https://en.wikipedia.org/wiki/Public_good_(economics))" for the EOS Mainnet community.  Grants [vary in size](#grant-levels) based on the size and scope of the initiative.
+Individuals, small teams, and companies are all permitted to apply for grants. The purpose of the grants is to drive development of "[Public Good](https://en.wikipedia.org/wiki/Public_good_(economics))" for the EOS Mainnet community.  Grants [vary in size](#grant-levels) based on the size and scope of the initiative.  All forms of projects are open for submission, core chain modifications, tools, libraries, etc.  However, strong technical projects that clearly add to the Public Good are preferred.
+The odds of getting your project approved increase if you follow our [acceptance recommendations]().  In all cases, you must meet the following [minimum requirements]().
 ## Grant Levels
 The EOS Network Foundation (ENF) funds development grants for Public Goods for the EOS Mainnet network.  In the future, the ENF also plans to fund grants to “for profit” entities that will enhance the EOS community. Grants proposals are accepted in three levels, each having different amounts and acceptance criteria.  ENF Grants have guidelines, an application process, and a multi-stage approval process.  They also have a milestone based pay-out system.
 <table width="100%">
