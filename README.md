@@ -32,7 +32,7 @@ It is likely most grant applications will take the form of a "New Proposal" from
 ### Maintenance Grant
 Maintenance grants are also initiated by the community to bring back support for a library, SDK or tool that has fallen out of maintenance.  These proposals are more limited in scope and milestone to ensure proper progress is made.  Maintenance grants should not be used to add feature or functionality to existing code, but to bring it up to current levels of the chain, OS or programming language levels.  New functionality to existing projects can be applied via a "New Proposal".
 ### RFP Response
-From time to time, the ENF will propose work that needs to be done back to the community in the form of an RFP.  All community members, teams and companies are welcome to reply to the RFP.  Responses from multiple teams are expected.
+From time to time, the ENF will propose a work request to the community in the form of an RFP.  All community members, teams and companies are welcome to reply to the RFP.  Responses from multiple teams are expected.  The ENF will then select the best RFP response and award the work to the team that submitted it.
 
 ## Grant Process
 ### Application Process
