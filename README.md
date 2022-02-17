@@ -25,7 +25,19 @@ The EOS Network Foundation (ENF) funds development grants for Public Goods for t
   </tr>
 </table>
 
+## Grant Types
+There are three types of grants that th ENF considers.  Some are originated by the community itself, and some are proposed in the form an an RFP by the ENF.
+### New Proposal
+It is likely most grant applications will take the form of a "New Proposal" from a member of the EOS community.  These projects range from core chain enhancements, SDKs, tools, and applications.  These are initiated by members of the community and run through the standard grant approval process.
+### Maintenance Grant
+Maintenance grants are also initiated by the community to bring back support for a library, SDK or tool that has fallen out of maintenance.  These proposals are more limited in scope and milestone to ensure proper progress is made.  Maintenance grants should not be used to add feature or functionality to exissting code, but to bring it up to current levels of the chain, OS or programming language levels.  New functionalitty to existing projects can be applied via a "New Proposal".
+### RFP Response
+From time to time, the ENF will propose work that needs to be done back to the community in the form of an RFP.  All community members, teams and companies are welcome to reply to the RFP.  Responses from multiple teams are expected.
+
 ## Grant Process
+### Application Process
+
+### Approval Process
 
 ### Grant Teams
 There are three teams that drive the process for ENF Direct Grants: Committee, Evaluators, and Operations
@@ -57,6 +69,4 @@ The Grant Operations team manages the overall workflow of the ENF Grant process 
 - [Ted Cahall](https://github.com/tedcahalleos)
 - [To be named](https://github.com/tedcahalleos)
 
-### Application Process
 
-### Approval Process
