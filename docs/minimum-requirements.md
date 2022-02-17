@@ -1,3 +1,4 @@
+# Grant Project Minimum Requirements
 - All code produced as part of a grant must be open-sourced, and it must also not rely on closed-source software for full functionality. 
 -- We prefer Apache 2.0, but GPLv3, MIT or Unlicense are also acceptable.
 - We do not award grants for projects that have been the object of a successful token sale.
