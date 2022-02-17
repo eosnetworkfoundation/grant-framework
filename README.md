@@ -23,8 +23,6 @@ The EOS Network Foundation (ENF) funds development grants for Public Goods for t
   </tr>
 </table>
 
-## Grant Guidelines
-
 ## Grant Process
 
 ### Grant Teams
