@@ -1,4 +1,4 @@
-# Blue Paper Sample Table - API+
+# Blue Paper Information Table - API+
 
 | **Proposal** | **Type** | **Dependencies** | **Cost** | **Time** |
 | --- | --- | --- | --- | --- |
