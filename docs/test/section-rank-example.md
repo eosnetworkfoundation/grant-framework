@@ -1,4 +1,4 @@
-# Blue Paper Sample Table - API+
+# API+ Blue Paper Sample Ranking Table
 
 Rank **Example** – updated from in/out/options example output
 
