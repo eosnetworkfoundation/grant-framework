@@ -1,4 +1,4 @@
-# Blue Paper Sample Table - API+
+# API+ Blue Paper Sample Options/In/Out Table
 
 In / Out / Option **Example**
 
