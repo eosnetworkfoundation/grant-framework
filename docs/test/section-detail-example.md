@@ -11,5 +11,5 @@
 | 7. Rosetta | Development | Made this up | $165k | 3 months |
 | 8. The Graph | Development | Made this up | A: $110k **B: $191k** C: $268k | 3 months |
 
-A link to the [in/out/option table](in-out-option-example.md)<br/>
-A link to the [forced rank would](section-rank-example.md)
+Link to the [in/out/option table](in-out-option-example.md)<br/>
+Link to the [forced rank would](section-rank-example.md)
