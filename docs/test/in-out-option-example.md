@@ -12,3 +12,6 @@ In / Out / Option **Example**
 | Blockchain Data Depot | B | B | B | B | B | B | B | **B** |
 | Rosetta | Yes | Yes | No | Yes | No | Yes | Yes | **Yes** |
 | The Graph | A | B | B | A | A | A | B | **A** |
+
+Link to [section rank](section-rank-example.md)<br/>
+Link to [section details](section-detail-example.md)
