@@ -15,5 +15,5 @@ Rank **Example** – updated from in/out/options example output
 
 Note: Item #1 and item #8 tied at 4.0. This would cause a discussion to see if the group could quickly come to consensus on order. It is possible that due to timeline of one of them or other dependencies, one is a more natural fit prior to the other.
 
-Link to the [section details](section-detail-example.md)
+Link to the [section details](section-detail-example.md)<br/>
 Link to the [section in/out/options](in-out-option-example.md)
