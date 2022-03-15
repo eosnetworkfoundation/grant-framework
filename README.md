@@ -58,10 +58,11 @@ The Grant Evaluators review applications approved by the Grant Committee for tec
 - [Todd Flemming](https://github.com/tbfleming)
 - [Areg Hayrapetian](https://github.com/arhag)
 - [Matt Witherspoon](https://github.com/spoonincode)
-- Bucky Kittle
+- Bucky Kittenger
 - [Aaron Cox](https://github.com/aaroncox)
 - [Stanislav Sinyagin]()
 - Bart Wyatt?
+- Greg Lee?
 - Deadlock
 
 #### Grant Operations
