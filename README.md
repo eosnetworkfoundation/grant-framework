@@ -69,4 +69,7 @@ The Grant Operations team manages the overall workflow of the ENF Grant process 
 - [Ted Cahall](https://github.com/tedcahalleos)
 - [Jeff Werner](https://github.com/jeffwerner00)
 
+# LICENSE
+[Apache License 2.0](docs/LICENSE) © EOS Network Foundation
+
 
