@@ -67,6 +67,6 @@ The Grant Evaluators review applications approved by the Grant Committee for tec
 #### Grant Operations
 The Grant Operations team manages the overall workflow of the ENF Grant process including: application acceptance and routing, notification of acceptance or rejection, monitoring of milestones and payment disbursals.
 - [Ted Cahall](https://github.com/tedcahalleos)
-- [To be named](https://github.com/tedcahalleos)
+- [Jeff Werner](https://github.com/jeffwerner00)
 
 
