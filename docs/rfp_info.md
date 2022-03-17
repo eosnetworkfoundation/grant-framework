@@ -1,4 +1,4 @@
-# Submit an RFP (Request for Proposal)Response:**
+# Submit an RFP (Request for Proposal) Response
 
 Ideas generally have better chances of being implemented if they're presented in a project outline format that can be picked up straight away by a team, so if you have a good concept of the milestones required to bring your project to life, you can follow the process below and directly submit an RFP:
 
