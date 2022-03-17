@@ -10,7 +10,7 @@ The odds of getting your project approved increase if you follow our [acceptance
 The EOS Network Foundation (ENF) funds development grants for Public Goods for the EOS Mainnet network.  In the future, the ENF also plans to fund grants to “for profit” entities that will enhance the EOS community. Grants proposals are accepted in three levels, each having different amounts and acceptance criteria.  ENF Grants have guidelines, an application process, and a multi-stage approval process.  They also have a milestone based pay-out system.
 <table width="100%">
   <tr><th>&nbsp;</th><th>Individual / Small</th><th>Team / Medium</th><th>Company / Large</th></tr>
-  <tr><td><b>Amount</b></td><td align="center">$10,000</td><td align="center">$50,000</td><td align="center">Over $50,000</td></tr>
+  <tr><td><b>Amount</b></td><td align="center">$10,000</td><td align="center">Up to $50,000</td><td align="center">Over $50,000</td></tr>
   <tr>
     <td valign="top"><b>Requirements</b></td>
     <td valign="top"><ul><li>No prior Pomelo grant required</li><li>Selection by Grant Committee</li><li>2 Grant Evaluator approvals</li></ul></td>
