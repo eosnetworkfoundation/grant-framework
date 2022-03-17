@@ -48,7 +48,7 @@ The application process is completed through Github.  You will need to fork the 
 8. Your Grant Application is now complete.  The ENF Committee or Evaluators will contact your for next steps.
 
 ### 2. Approval Process
-The Grant Approval Process consists of a review by the Grant Committee to check if the application fits the needs of the EOS Network community.  If the Committee approves the application, it is then sent on to the Grant Evaluators for techincal approval.  The process is outlined in the steps below:
+The Grant Approval Process consists of a review by the Grant Committee to check if the application fits the needs of the EOS Network community.  If the Committee approves the application, it is then sent on to the Grant Evaluators for techincal approval. Please remember, your application will have a higher chance of acceptance and move through the process more quickly if you follow our [acceptance recommendations](docs/acceptance-recommendations.md) and meet all of our [minimum requirements](docs/minimum-requirements.md).  The approval process is outlined in the steps below:
 1. The [Grant Committee](#grant-committee) may issue comments and request changes on the pull request.
 2. Clarifications and amendments made in the comments _must be included in the application_. 
    - You may address feedback by directly modifying your application and leaving a comment once you're done. 
