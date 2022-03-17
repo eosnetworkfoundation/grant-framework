@@ -1,7 +1,7 @@
 <img src="img/enf-header.png" />
 
 # EOS Network Foundation Grant Framework
-As part of the EOS Network Foundation's (ENF) charter to grow and support the EOS ecosystem, it has developed a multi-level grant program to help power research, software development, and maintenance of the EOSIO code base.  For more information about the ENF, please visit our [website](https://eosn.foundation/), [Medium blog](https://medium.com/eos-network-foundation), or [YouTube account](https://www.youtube.com/c/EverythingEOS).
+As part of the EOS Network Foundation's (ENF) charter to grow and support the EOS ecosystem, the ENF has developed a multi-level grant program to help power research, software development, and maintenance of the EOSIO code base.  For more information about the ENF, please visit our [website](https://eosn.foundation/), [Medium blog](https://medium.com/eos-network-foundation), or [YouTube account](https://www.youtube.com/c/EverythingEOS).
 
 ## Grant Guidelines
 Individuals, small teams, and companies are all permitted to apply for grants. The purpose of the grants is to drive development of "[Public Good](https://en.wikipedia.org/wiki/Public_good_(economics))" for the EOS Mainnet community.  Grants [vary in size](#grant-levels) based on the size and scope of the initiative.  All forms of projects are open for submission, core chain modifications, tools, libraries, etc.  However, strong technical projects that clearly add to the Public Good are preferred.
