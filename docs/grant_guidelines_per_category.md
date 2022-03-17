@@ -4,11 +4,11 @@ While we ask teams to provide details of their envisioned solution, we are aware
 
 The list below serves only as a guide and is not exhaustive.
 
-## Runtime Modules/Chains
+## Core EISIO Chain / Sub-modules
 
 ### Applies to
 
-- Building/extending a Substrate pallet
+- Building/extending the core EOSIO code base or sub-modules.
 
 ### Requirements
 
@@ -39,42 +39,37 @@ The list below serves only as a guide and is not exhaustive.
 ## UI Development
 
 ### Applies to
-
 - Building a web application with front-end components
 - Developing a mobile app
 
 ### Requirements
-
 - Provide mockups and/or wireframes (e.g. Figma)
 - List frameworks & tools for development & testing (e.g. React Native, Angular)
 
 ## Backend Development
 
 ### Applies to
-
 - Building a service/mobile app/webapp that relies on a back-end component
 
 ### Requirements
-
 - State what language & framework you'll use (e.g. python with Django, Rust with Rocket)
-- Define  your database requirements and which system you'll use
-- Choose how & where will your backend be hosted (cloud provider, IPFS, localhost?)
-- Consider scaling & how you plan to handle it
-- Consider CI/CD
-- If you are (planning on) hosting the backend yourself, consider adding a [security.txt](https://securitytxt.org/) file so people can get in touch with you regarding (potential) security issues
+- Define  your database requirements and which system you will use
+- Choose how & where your backend will be hosted (cloud provider, IPFS, co-location facility)
+- Explain scaling & how you plan to handle it
+- Explain your use of CI/CD, tools used, etc.
+- If you are hosting the backend yourself, consider adding a [security.txt](https://securitytxt.org/) file so people can get in touch with you regarding (potential) security issues
 - Provide a link to your Github repository if you already have the structure in place
-
 
 ## Cryptography
 
 ### Applies to
-
 - New crypto library
 - Extending existing library's functionalities
 
 ### Requirements
-
 - Specify what programming language you'll use
 - Provide any publications/papers you will base your work on
-- Research other crypto libraries providing similar functionalities. State whether/how you plan to use their work. If they don't suit your needs, provide a detailed explanation why and what's missing
+- Research other crypto libraries providing similar functionalities. 
+  - State whether/how you plan to use their work. 
+  - If they don't suit your needs, provide a detailed explanation why and what's missing
 - List any existing crypto libraries that you will use as reference implementation (e.g. in a different language)
