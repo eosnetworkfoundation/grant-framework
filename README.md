@@ -44,7 +44,7 @@ The application process is completed through Github.  You will need to fork the 
 4. Fill out the template with the details of your project. The more information you provide, the faster the review. Please refer to our [Grant guidelines for most popular grant categories](docs/grant_guidelines_per_category.md) and make sure your deliverables present a similar same level of detail. If you're only applying for a smaller grant that only consists of, say, UI work, you don't need to provide as much detail.
 5. When your application is complete, create a Pull Request.  Please note, the Pull Request should only contain _one new file_—the Markdown file you created from the template.
 6. You will see a comment template that contains a checklist. You can leave it as is and tick the checkboxes once the pull request has been created. Please read through these items and check all of them.
-7. Sign off on the [terms and conditions](docs/T&Cs.md) presented by the [CLA assistant](https://github.com/claassistantio) bot as a Contributor License Agreement. You might need to reload the pull request to see its comment. :checkmark:**TED NEEDS TO FIGURE OUT HOW TO MAKE THIS WORK**
+7. Sign off on the [terms and conditions](docs/T&Cs.md) presented by the [CLA assistant](https://github.com/claassistantio) bot as a Contributor License Agreement. You might need to reload the pull request to see its comment. :red_circle::red_circle:**TED NEEDS TO FIGURE OUT HOW TO MAKE THIS WORK**:red_circle::red_circle:
 8. Your Grant Application is now complete.  The ENF Committee or Evaluators will contact your for next steps.
 
 ### 2. Approval Process
