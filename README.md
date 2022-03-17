@@ -1,7 +1,7 @@
 <img src="img/enf-header.png" />
 
 # EOS Network Foundation Grant Framework
-As part of the EOS Network Foundation's (ENF) charter to grow and support the EOS ecosystem, it has developed a multi-level grant program to help power research, software development, and maintenance of the EOSIO code base.  For more information on the ENF, please visit our [website](https://eosn.foundation/), [Medium blog](https://medium.com/eos-network-foundation), or [YouTube account](https://www.youtube.com/c/EverythingEOS).
+As part of the EOS Network Foundation's (ENF) charter to grow and support the EOS ecosystem, it has developed a multi-level grant program to help power research, software development, and maintenance of the EOSIO code base.  For more information about the ENF, please visit our [website](https://eosn.foundation/), [Medium blog](https://medium.com/eos-network-foundation), or [YouTube account](https://www.youtube.com/c/EverythingEOS).
 
 ## Grant Guidelines
 Individuals, small teams, and companies are all permitted to apply for grants. The purpose of the grants is to drive development of "[Public Good](https://en.wikipedia.org/wiki/Public_good_(economics))" for the EOS Mainnet community.  Grants [vary in size](#grant-levels) based on the size and scope of the initiative.  All forms of projects are open for submission, core chain modifications, tools, libraries, etc.  However, strong technical projects that clearly add to the Public Good are preferred.
@@ -35,9 +35,37 @@ Maintenance grants are also initiated by the community to bring back support for
 From time to time, the ENF will propose a work request to the community in the form of an RFP.  All community members, teams and companies are welcome to reply to the RFP.  Responses from multiple teams are expected.  The ENF will then select the best RFP response and award the work to the team that submitted it.
 
 ## Grant Process
-### Application Process
+The Grant Process consists of four major components: the Application Process, the Approval Process, Milestone Reporting, and Payment(s).  Payments will be made in EOS to the wallet specified in the Grant Application.  The processes must be completed in order and there may be feedback loops in some of the processes as described below.
+### 1. Application Process
+The application process is completed through Github.  You will need to fork the repository, change one of the forms, and submit it via a Pull Request as outlined in the steps below:
+1. [Fork](https://github.com/eosnetworkfoundation/grant-framework/fork) this repository
+2. In your fork, create a copy of the Grant Application template [(applications/application-template.md)](applications/application-template.md). If you're using the GitHub web interface, you will need to create a new file and copy the contents of the template inside the new one. **Please make sure you do not modify the template file directly.**
+3. Name the new file after your project: `myproject_name.md`.
+4. Fill out the template with the details of your project. The more information you provide, the faster the review. Please refer to our [Grant guidelines for most popular grant categories](docs/grant_guidelines_per_category.md) and make sure your deliverables present a similar same level of detail. If you're only applying for a smaller grant that only consists of, say, UI work, you don't need to provide as much detail.
+5. When your application is complete, create a Pull Request.  Please note, the Pull Request should only contain _one new file_—the Markdown file you created from the template.
+6. You will see a comment template that contains a checklist. You can leave it as is and tick the checkboxes once the pull request has been created. Please read through these items and check all of them.
+7. Sign off on the [terms and conditions](docs/T&Cs.md) presented by the [CLA assistant](https://github.com/claassistantio) bot as a Contributor License Agreement. You might need to reload the pull request to see its comment. **TED NEEDS TO FIGURE OUT HOW TO MAKE THIS WORK**
+8. Your Grant Application is now complete.  The ENF Committee or Evaluators will contact your for next steps.
 
-### Approval Process
+### 2. Approval Process
+The Grant Approval Process consists of a review by the Grant Committee to check if the application fits the needs of the EOS Network community.  If the Committee approves the application, it is then sent on to the Grant Evaluators for techincal approval.  The process is outlined in the steps below:
+1. The [Grant Committee](#grant-committee) may issue comments and request changes on the pull request.
+2. Clarifications and amendments made in the comments _must be included in the application_. 
+   - You may address feedback by directly modifying your application and leaving a comment once you're done. 
+   - Generally, if you don't reply within 2 weeks, the application will be closed due to inactivity, but you're always free to reopen it as long as it hasn't been rejected.
+3. When all requested changes are addressed and the terms and conditions have been signed, your application will be marked as `ready for review` and shared internally with the rest of the committee.
+4. Once the Grant Committee has agreed the application meets the needs of the EOS Network Community, it will be shared with the [Grant Evaluators](#grant-evaluators) for techical evaluation.  If it is determined that the application does not meet the needs of the EOS Community, it will be rejected with a reason as to why it did not meet those needs.
+5. Similarly to the Grant Committee process, the Grant Evaluators may issue comments and request more information on your pull request.
+6. Clarifications and ammendments to the above comments and request for information _must be included_ in the application.
+7. Once the application has received the required number of Evaluator approvals, it will be accepted and merged.
+8. Applications may be rejected by the Grant Evaluators as being overly ambitious, improper architecture/design or inadequate architecture/design documentation.
+9. Unless specified otherwise, the day on which the application is accepted will be considered the starting date of the project, and will be used to estimate delivery dates.
+
+### 3. Milestone Reporting
+Milestones are to be delivered on the [Grant Milestone Delivery](https://github.com/eosnetworkfoudation/Grant-Milestone-Delivery/) repository following the [process](https://github.com/eosnetworkfoundation/Grant-Milestone-Delivery#mailbox-milestone-delivery-process) described therein.
+
+### 4. Payments
+Payments are made in EOS at the time of milestone sign off up to and including the final deliverable milestone.
 
 ### Grant Teams
 There are three teams that drive the process for ENF Direct Grants: Committee, Evaluators, and Operations
