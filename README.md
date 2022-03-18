@@ -69,10 +69,10 @@ Milestones are to be delivered on the [Grant Milestone](https://github.com/eosne
 ### 4. Payments
 Payments are made in EOS at the time of milestone sign off up to and including the final deliverable milestone.
 
-### Grant Teams
+## Grant Teams
 There are three teams that drive the process for ENF Direct Grants: Committee, Evaluators, and Operations
 
-#### Grant Committee
+### Grant Committee
 The Grant Committee are senior members of the EOS community that know the priorities of the ecosystem and can make required initial funding decisions based upon the guidelines of the grant program.  This committee is more business focused than technically focused but they understand the technical nature of the desired future.
 - [Yves La Rose](https://github.com/YvesLaRose)
 - [Aaron Cox](https://github.com/aaroncox)
@@ -83,7 +83,7 @@ The Grant Committee are senior members of the EOS community that know the priori
 - [Wen Huaqiang](https://github.com/orcoder) (might not be his github but looks possible)
 - Damian Byeon
 
-#### Grant Evaluators
+### Grant Evaluators
 The Grant Evaluators review applications approved by the Grant Committee for technical merit and achievability.   They are more technical in nature and are more concerned with whether the proposal solves the problem optimally, is realizable in the specified time frame, and utilizes proper processes as required for the milestone achievement metrics.
 - [Areg Hayrapetian](https://github.com/arhag)
 - [Matt Witherspoon](https://github.com/spoonincode)
@@ -95,7 +95,7 @@ The Grant Evaluators review applications approved by the Grant Committee for tec
 - Greg Lee?
 - [Denis Carriere](https://github.com/DenisCarriere)
 
-#### Grant Operations
+### Grant Operations
 The Grant Operations team manages the overall workflow of the ENF Grant process including: application acceptance and routing, notification of acceptance or rejection, monitoring of milestones and payment disbursals.
 - [Ted Cahall](https://github.com/tedcahalleos)
 - [Jeff Werner](https://github.com/jeffwerner00)
