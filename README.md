@@ -89,9 +89,9 @@ The Grant Evaluators review applications approved by the Grant Committee for tec
 - [Aaron Cox](https://github.com/aaroncox)
 - [Stanislav Sinyagin](https://github.com/cc32d9)
 - [Todd Flemming](https://github.com/tbfleming)
-- Bart Wyatt?
+- [Bart Wyatt](https://github.com/wanderingbort)
 - Greg Lee?
-- Deadlock
+- [Denis Carriere](https://github.com/DenisCarriere)
 
 #### Grant Operations
 The Grant Operations team manages the overall workflow of the ENF Grant process including: application acceptance and routing, notification of acceptance or rejection, monitoring of milestones and payment disbursals.
