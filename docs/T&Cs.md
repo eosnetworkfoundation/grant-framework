@@ -15,7 +15,7 @@ We reserve the right to change, modify, add or remove portions of these Terms an
 
 ## 1.  Introduction
 
-We are the Web3 Foundation and nurture and steward technologies and applications in the fields of decentralized web software protocols, particularly those which utilize modern cryptographic methods to safeguard decentralization, to the benefit and for the stability of the Web3 ecosystem. We have developed a network protocol which purports to operate as an umbrella network for independent blockchain offerings and shared data or tokens across different blockchains. Parallelizable blockchains (so called "parachains") can be connected within Our network with a so called "relay chain" which provides security to the "parachains" and relays messages between them.
+We are the EOS Network Foundation and nurture and steward technologies and applications in the fields of decentralized web software protocols, particularly those which utilize modern cryptographic methods to safeguard decentralization, to the benefit and for the stability of the EOS ecosystem. 
 
 ## 2.  Defined Terms
 
@@ -23,30 +23,28 @@ The terms defined in this section whenever used in these Terms and Conditions sh
 
 "Affiliate" has the meaning with respect to any person, any other person directly or indirectly controlling, controlled by or under common control with such person;  
 
-"BTC" means the blockchain tokens native to the Bitcoin Network;
+"EOS" means the blockchain tokens native to the EOS Mainnet Network;
 
 "Change of control" means any change in Your ownership or control or of a legal entity directly or indirectly owning or controlling You, whether by merger, consolidation, reorganization, take-over, change in the ownership of the share capital or otherwise;
 
 "Development Work"  means any and all development activities related to the Software and undertaken by You. For the avoidance of doubt, any development activities undertaken before the Effective Date in relation to the Software are deemed to constitute Development Work and to form part of the deliverables to be provided by You and be subject to the terms of these Terms and Conditions;
 
 "Effective Date"  means the date on which the application is accepted by the Grants Committee via the application review process defined below (the date of the merged commit of the application, which can be found under <https://github.com/w3f/Grants-Program/pulls>);
-ENF. to You (i) for the development of the Software in accordance with the Specifications; and (ii) the grant of license rights on the Intellectual Property Rights, according to the terms of these Terms and Conditions. The Parties agree that Grants are unrelated to the actual development costs and the commercial value of the Software;
+ENF to You (i) for the development of the Software in accordance with the Specifications; and (ii) the grant of license rights on the Intellectual Property Rights, according to the terms of these Terms and Conditions. The Parties agree that Grants are unrelated to the actual development costs and the commercial value of the Software;
 
 "Intellectual Property Rights" means any (i) patents, designs, copyright and related rights, database rights, trademarks, trade names (whether registered or unregistered), and the related rights to apply for registration thereof; (ii) applications, extensions and renewals in relation to any of these rights; (iii) know-how and confidential information; and (iv) all other rights of a similar nature and/or having an equivalent effect anywhere in the world;
 
-"Milestones" mean any and all of the milestones specified in the final version of the application under Development Roadmap and  approved by the Grants Committee in accordance with the Procedure as well as placed in the applications folder of the W3F Open Grants Program Repository at <https://github.com/w3f/Grants-Program/tree/master/applications>;
-
-"Polkadot" means a scalable heterogeneous multi-chain framework developed by, or the development of which has been procured by ENF. that has the features described in the white paper ("Polkadot: Vision For A Heterogeneous Multi-Chain Framework -- Draft 1") or as otherwise determined by ENF. in its sole discretion from time to time) and utilizes DOTs as the blockchain token native to its operation and/or functioning; 
+"Milestones" mean any and all of the milestones specified in the final version of the application under Development Roadmap and  approved by the Grants Committee in accordance with the Procedure as well as placed in the applications folder of the ENF Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/master/applications>;
 
 "Procedure" means the procedure in connection with the EOS Network Foundation Open Grants Program, as established in Section 4 below;
 
 "Software" means the deliverables created by You during the development activities performed according to these Terms and Conditions in their final and working version, and that are to be provided to the Foundation in accordance with the Specifications, Milestones and Time Schedule;
 
-"Specifications" mean the reasonably detailed technical and/or other requirements describing the features and functionality of the Software, as specified in the final version of the application approved by the Grants Committee in accordance with the Procedure and placed in the applications folder of the W3F Open Grants Program Repository at <https://github.com/w3f/Grants-Program/tree/master/applications>.
+"Specifications" mean the reasonably detailed technical and/or other requirements describing the features and functionality of the Software, as specified in the final version of the application approved by the Grants Committee in accordance with the Procedure and placed in the applications folder of the ENF Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/master/applications>.
 
 "Terms and Conditions" means this terms and conditions together with any documents referred to in it;
 
-"Time Schedule" means the time schedule specified in the final version of the application approved by the Grants Committee in accordance with the Procedure and placed in the applications folder of the W3F Open Grants Program Repository at <https://github.com/w3f/Grants-Program/tree/master/applications>.
+"Time Schedule" means the time schedule specified in the final version of the application approved by the Grants Committee in accordance with the Procedure and placed in the applications folder of the W3F Open Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/master/applications>.
 
 ## 3.  Eligibility
 
@@ -57,38 +55,38 @@ If You are submitting an application for a Grant, You represent and warrant that
 -   You are of legal age to form a binding contract (at least 18 years old in most jurisdictions);
 -   You have the right, full power and authority to enter into these Terms and Conditions, to exercise your rights and perform your obligations under these Terms and Conditions and in doing so will not violate any other agreement to which You are a Party nor any laws;
 -   these Terms and Conditions constitutes a legal, valid and binding obligation on You which are enforceable against You in accordance with their terms;
--   no consent, authorisation, licence or approval of or notice to any governmental authority nor your shareholders, partners, members, other record or beneficial owners or other any relevant person (as applicable) is required to authorise the execution, delivery, validity, enforceability or admissibility in evidence of the performance by You of your obligations under these Terms and Conditions;
+-   no consent, authorization, licence or approval of or notice to any governmental authority nor your shareholders, partners, members, other record or beneficial owners or other any relevant person (as applicable) is required to authorize the execution, delivery, validity, enforceability or admissibility in evidence of the performance by You of your obligations under these Terms and Conditions;
 -   You are not a citizen of, or resident in or located in, or incorporated or otherwise :
     1.  listed on any of the following lists (each a Sanctions List): the Consolidated United Nations Security Council Sanctions List; the Specially Designated Nationals and Blocked Persons List or the Sectoral Sanctions Identification List maintained by the US Office of Foreign Assets Control (OFAC); the Consolidated List of Persons, Groups and Entities subject to EU Financial Sanctions; the Consolidated List of Financial Sanctions Targets or List of persons subject to restrictive measures in view of Russia's actions destabilising the situation in Ukraine, maintained by the UK Treasury; the Overall List of Sanctioned Individuals, Entities and Organizations maintained by the Swiss State Secretariat for Economic Affairs (SECO); 'Ordinance lists of the Swiss Federal Council'; or any similar list maintained by, or public announcement of sanctions made by, any other Sanctions Authority (as defined below);
     2.  owned or controlled by, or acting on behalf of or for the benefit of, any person on a Sanctions List;
     3.  located in, resident in or incorporated under the laws of (as applicable) Syria, Iran, Cuba, Crimea or North Korea, or any other country or territory which, after the Effective Date, becomes the target of such comprehensive, country-wide or territory-wide Sanctions (as defined below) as currently apply to the aforementioned territories; or
     4.  the target of any sanctions laws, regulations, embargoes or restrictive measures (Sanctions), as amended from time to time, administered, enacted or enforced by: the United Nations, the United States, the European Union or any Member State thereof, the United Kingdom, Switzerland or the respective Governmental Authorities and agencies of any of the foregoing responsible for administering, enacting or enforcing Sanctions, including without limitation, OFAC, the US Department of State, the United Kingdom Treasury or the SECO (Sanctions Authority).
 
--   You will comply with any laws applicable to Your software (built based upon the Polkadot network) and not engage in any illegal activities. In particular, You will not use the Polkadot network to facilitate infringement of any third party intellectual property rights or data privacy rights.
+-   You will comply with any laws applicable to Your software (built based upon the EOS network) and not engage in any illegal activities. In particular, You will not use the EOS network to facilitate infringement of any third party intellectual property rights or data privacy rights.
 
 You shall indemnify and hold harmless ENF from any third party claims (including reasonable attorney's costs) raised against ENF based on an alleged infringement of the above representations and warranties.
 
 ## 4.  Procedure
 
-To apply for the EOS Networks Foundation Open Grants Program, your application shall fulfill the following criteria:
+To apply for the EOS Networks Foundation Grants Program, your application shall fulfill the following criteria:
 
--  it shall be a software-based project, which contributes to the advancement of the Polkadot ecosystem;
--  the total amount of funding requested for the project shall be below USD  30,000 and USD 100,000 for follow-up grants at the time of submission;
+-  it shall be a software-based project, which contributes to the advancement of the EOS ecosystem;
+-  the total amount of funding requested for the project shall be below USD 30,000 and USD 100,000 for follow-up grants at the time of submission;
 -  the Software shall be released under the Apache license version 2.0.;
--  You must accept payment in the blockchain tokens native to the Bitcoin Network ("BTCs") or the Ethereum based stablecoin DAI;
+-  You must accept payment in the blockchain tokens native to the EOS Network ("EOS") ;
 -  You will need to submit the application and deliver the milestones according to the process specified below;
 
-The open grants process consists of five parts, each of them described in more detail below:
+The grant process consists of five parts, each of them described in more detail below:
 
 **(i)  Grant application process:**
 
-To apply for a grant of the EOS Network Foundation Open Grants Program, You shall comply with the procedures established in the README.md file under <https://github.com/w3f/Grants-Program> as well as the process defined inside this document.
+To apply for a grant of the EOS Network Foundation Grants Program, You shall comply with the procedures established in the README.md file under <https://github.com/eosnetworkfoundation/grant-framework> as well as the process defined inside this document.
 
-To apply for a grant of the Web3 Foundation Open Grants Program, the grantee needs to fork (= create a copy on GitHub of) the Open-Grants-Program GitHub repository. In the newly created fork (=copy on GitHub), the grantee has to create a copy of the application-template.md. The copied application-template.md needs to be renamed as "project_name.md". "Project_name" needs to be replaced with the name of the project application. Additionally, the grantee has to fill out all mandatory parts of the application-template.md presented in bold letters. Once the grantees have completed the application, they need to create a new pull request (= in this case, a mechanism to submit the changes of the fork to the original Open-Grants-Program GitHub repository) by clicking on the "create new pull request" button shown inside the fork of the W3F Open-Grants-Program GitHub repository. After this, the grantee needs to sign off the terms and conditions presented via the CLA assistant.
+To apply for a grant of the EOS Network Foundation Grants Program, the grantee needs to fork (= create a copy on GitHub of) the Grants-Framework GitHub repository. In the newly created fork (=copy on GitHub), the grantee has to create a copy of the application-template.md. The copied application-template.md needs to be renamed as "project_name.md". "Project_name" needs to be replaced with the name of the project application. Additionally, the grantee has to fill out all mandatory parts of the application-template.md presented in bold letters. Once the grantees have completed the application, they need to create a new pull request (= in this case, a mechanism to submit the changes of the fork to the original Grants-Framework GitHub repository) by clicking on the "create new pull request" button shown inside the fork of the ENF Grants-Framework GitHub repository. After this, the grantee needs to sign off the terms and conditions presented via the CLA assistant.
 
 **(ii)  Application review process:**
 
-The ENF grants committee, which is specified on the [Open-Grants-Program GitHub repository ](https://github.com/w3f/Grants-Program)(the "Grants Committee"), can issue comments and request changes on the grant application pull request (the submission of the grant application on GitHub).  As soon as 1/3 of the Grants Committee approves the pull request, the terms and conditions are signed off and all requested changes are addressed, the application is officially accepted. The application is now a part of the [W3F Open-Grants-Program GitHub repository](https://github.com/w3f/Grants-Program). The time point of the acceptance by the Grants Committee is hereby stored on GitHub and counts as the official beginning of the grant. The original submission is stored with a unique commit hash (identifier) and can not be altered by any party. The final version approved by the Grants Committee of the Specifications, the Time Schedule and Milestones will be placed  in the applications folder of the W3F Open Grants Program Repository at <https://github.com/w3f/Grants-Program/tree/master/applications> via the merge function of GitHub.
+The ENF grants committee, which is specified on the [Grants-Framework GitHub repository ](https://github.com/eosnetworkfoundation/grants-framework)(the "Grants Committee"), can issue comments and request changes on the grant application pull request (the submission of the grant application on GitHub).  As soon as 1/3 of the Grants Committee approves the pull request, the terms and conditions are signed off and all requested changes are addressed, the application is officially accepted. The application is now a part of the [ENF Grant-Framwork GitHub repository](https://github.com/eosnetworkfoundation/grants-framework). The time point of the acceptance by the Grants Committee is hereby stored on GitHub and counts as the official beginning of the grant. The original submission is stored with a unique commit hash (identifier) and can not be altered by any party. The final version approved by the Grants Committee of the Specifications, the Time Schedule and Milestones will be placed  in the applications folder of the W3F Open Grants Program Repository at <https://github.com/w3f/Grants-Program/tree/master/applications> via the merge function of GitHub.
 
 **(iii)  Milestone delivery process:**
 
@@ -96,7 +94,7 @@ To submit one of the possible multiple milestones specified in the application, 
 
 **(iv)  Milestone review process:**
 
-The Grants Evaluators, who are specified on the [Open-Grants-Program GitHub repository](https://github.com/w3f/Grants-Program), can issue comments and request changes on the milestone delivery pull request. 
+The Grants Evaluators, who are specified on the [Grant-Framewok GitHub repository](https://github.com/w3f/Grants-Program), can issue comments and request changes on the milestone delivery pull request. 
 
 a)  Purpose and object of the milestone review process
 
@@ -123,7 +121,7 @@ As soon as one evaluator approves the pull request, the delivery is officially a
 
 **(v)  Payment process:**
 
-The Operations Team specified in the [Open-Grants-Program GitHub repository](https://github.com/w3f/Grants-Program), gets notified once the above-specified delivery was accepted or after 2 weeks without any feedback after the initial delivery. As soon as any feedback is provided by the evaluators, this feedback first needs to be resolved. After this, the Operations Team makes the payment to the BTC or Ethereum address specified in the initial application.
+The Operations Team specified in the [Grant-Framework GitHub repository](https://github.com/w3f/Grants-Program), gets notified once the above-specified delivery was accepted or after 2 weeks without any feedback after the initial delivery. As soon as any feedback is provided by the evaluators, this feedback first needs to be resolved. After this, the Operations Team makes the payment to the EOS address specified in the initial application.
 
 ## 5.  Scope of these Terms and Conditions
 
@@ -159,7 +157,7 @@ The Parties acknowledge and agree that the requirements set out in the Milestone
 
 ## 7.  Terms of Grant Giving
 
-ENF shall grant You, as compensation for the delivery of the Software and the related deliverables and the grant of license rights on the Intellectual Property Rights to the ENF, a Grant as indicated in the application placed in the applications folder of the W3F Open Grants Program Repository at <https://github.com/w3f/Grants-Program/tree/master/applications>.
+ENF shall grant You, as compensation for the delivery of the Software and the related deliverables and the grant of license rights on the Intellectual Property Rights to the ENF, a Grant as indicated in the application placed in the applications folder of the ENF Grants Program Repository at <https://github.com/w3f/Grants-Program/tree/master/applications>.
 
 The Parties agree that the Grant is a lump-sum payment and that no additional compensation is due for the actual development costs incurred.
 
@@ -219,13 +217,13 @@ Furthermore, termination can happen for any reason at the discretion of the EOS 
 
 We may provide any notice to You under these terms and conditions by posting a notice on our Website, adding a comment to the initial pull request of your application on GitHub or sending an email to the email address associated with Your access account to the network. Notices We provide by posting on the Website will be effective upon posting. You will be deemed to have received any email sent to the email address then associated with Your account when We have sent the email (or the next regular working day thereafter), whether or not You actually receive or read the email. It is Your responsibility to keep Your email address current.
 
-To give Us notice under these terms and conditions, You must contact us by email to [grants@web3.foundation]. We may update this email address for notices to us by posting a notice on Our Website. Notices to us will be effective one business day after they are sent.
+To give Us notice under these terms and conditions, You must contact us by email to [grants@eosn.foundation]. We may update this email address for notices to us by posting a notice on Our Website. Notices to us will be effective one business day after they are sent.
 
 All communications and notices to be made or given pursuant to these terms and conditions must be in English language.
 
 ## 12.  Miscellaneous
 
-The Parties are independent contractors. These Terms and Conditions are an agreement at arms' length between the Parties and do not constitute a partnership, association or joint venture under any applicable law. Consequently, the provisions of these Terms and Conditions shall not, under any circumstances, be interpreted as creating any such relationship between the Parties. Neither Party may bind the other in any manner whatsoever or in favour of anyone whomsoever.
+The Parties are independent contractors. These Terms and Conditions are an agreement at arms' length between the Parties and do not constitute a partnership, association or joint venture under any applicable law. Consequently, the provisions of these Terms and Conditions shall not, under any circumstances, be interpreted as creating any such relationship between the Parties. Neither Party may bind the other in any manner whatsoever or in favor of anyone whomsoever.
 
 The failure of any of the Parties to avail itself or to enforce any of the provisions of these Terms and Conditions or any rights with respect thereto shall in no way be considered to be a waiver of such provisions or rights, or in any way to affect the validity of these Terms and Conditions. No waiver shall be effective unless expressly made in writing and signed by an authorized representative of the waiving Party.
 
@@ -239,35 +237,35 @@ The headings used herein are inserted only as a matter of convenience and for re
 
 ## 13.  Applicable Law and Jurisdiction
 
-These Terms and Conditions shall be governed by and construed in accordance with the substantive laws of Switzerland without any reference to its conflict of law provisions. The provisions of the United Nation Convention on contracts for the International Sale of Goods (CISG) shall not apply.
+These Terms and Conditions shall be governed by and construed in accordance with the substantive laws of Canada without any reference to its conflict of law provisions. The provisions of the United Nation Convention on contracts for the International Sale of Goods (CISG) shall not apply.
 
-Any disputes arising out of or in connection with these terms and conditions and contracts entered into thereunder shall be submitted to the sole and exclusive jurisdiction of the courts of the city of Zug.
+Any disputes arising out of or in connection with these terms and conditions and contracts entered into thereunder shall be submitted to the sole and exclusive jurisdiction of the courts of the city of Ottawa.
 
-## 14.  Polkadot Network
+## 14.  EOS Network
 
-If You are using Polkadot network for the purpose of the software development, research and/or the production of software documentation and technical education material You agree to be bound by specific term as follows:
+If You are using the EOS network for the purpose of the software development, research and/or the production of software documentation and technical education material You agree to be bound by specific term as follows:
 
-You are free to use the software to gain access to and use the Polkadot network and to build your own network(s) and have your network interact with other networks which are also part of the Polkadot network.
+You are free to use the software to gain access to and use the EOS network and to build your own network(s) and have your network interact with other networks which are also part of the EOS network.
 
-HOWEVER, YOU SHALL AT ALL TIMES NOTE THAT NO PARTY (NEITHER WE OR YOU), INCLUDING BUT NOT LIMITED TO ANY PARTY INVOLVED IN, OR HAVING CONTRIBUTED TO THE DEVELOPMENT OF, THE POLKADOT  NETWORK AND ANY OF THE AFFILIATES, DIRECTORS, EMPLOYEES, CONTRACTORS, SERVICE PROVIDERS OR AGENTS OF SUCH PARTIES (THE "PARTIES INVOLVED") OWNS OR CONTROL THE POLKADOT NETWORK OR ANY ACCESSORY, UPGRADE, RELATED SOFTWARE OR ANY OTHER MODIFICATION TO IT (INCLUDING, BUT NOT LIMITED TO, POLKADOT NETWORK USER INTERFACE) AND YOU ARE SOLELY AND IN FULL RESPONSIBLE FOR YOUR USE OF EACH AND ANY OF THEM. THERE IS NO CENTRAL OVERSIGHT OVER THE POLKADOT NETWORK. IT IS BUILT BY THE PARTICIPANTS AND PARTICIPANTS OF THEIR NETWORKS THEMSELVES. FOR THE AVOIDANCE OF DOUBT, ENF ASSUMES NO RESPONSIBILITY OR LIABILITY FOR (1) AVAILABILITY AND OPERABILITY OF THE POLKADOT  NETWORK AND ITS UNDERLYING SOFTWARE, (2) INTEROPERABILITY OF YOUR NETWORK WITH OTHER THIRD PARTY NETWORKS (THIS LARGELY DEPENDS ON EXTERNAL FACTORS BEYOND OF ENF'S REASONABLE CONTROL SUCH AS, IN PARTICULAR THE INFRASTRUCTURE AND OPERABILITY OF THIRD PARTY NETWORKS AND THEIR INTERNET-CONNECTIVITY MEASURES) OR (3) SUITABILITY OF THE POLKADOT NETWORK FOR YOUR OWN BUSINESS PURPOSES. YOU ARE USING THE POLKADOT NETWORK FOR YOUR OWN BUSINESS PURPOSES AT YOUR SOLE AND OWN RISK.
+HOWEVER, YOU SHALL AT ALL TIMES NOTE THAT NO PARTY (NEITHER WE OR YOU), INCLUDING BUT NOT LIMITED TO ANY PARTY INVOLVED IN, OR HAVING CONTRIBUTED TO THE DEVELOPMENT OF, THE EOS  NETWORK AND ANY OF THE AFFILIATES, DIRECTORS, EMPLOYEES, CONTRACTORS, SERVICE PROVIDERS OR AGENTS OF SUCH PARTIES (THE "PARTIES INVOLVED") CONTROL THE EOS NETWORK OR ANY ACCESSORY, UPGRADE, RELATED SOFTWARE OR ANY OTHER MODIFICATION TO IT (INCLUDING, BUT NOT LIMITED TO, EOS NETWORK USER INTERFACE) AND YOU ARE SOLELY AND IN FULL RESPONSIBLE FOR YOUR USE OF EACH AND ANY OF THEM. THERE IS NO CENTRAL OVERSIGHT OVER THE EOS NETWORK. IT IS BUILT BY THE PARTICIPANTS OF THE NETWORKS THEMSELVES. FOR THE AVOIDANCE OF DOUBT, ENF ASSUMES NO RESPONSIBILITY OR LIABILITY FOR (1) AVAILABILITY AND OPERABILITY OF THE EOS NETWORK AND ITS UNDERLYING SOFTWARE, (2) INTEROPERABILITY OF YOUR NETWORK WITH OTHER THIRD PARTY NETWORKS (THIS LARGELY DEPENDS ON EXTERNAL FACTORS BEYOND OF ENF'S REASONABLE CONTROL SUCH AS, IN PARTICULAR THE INFRASTRUCTURE AND OPERABILITY OF THIRD PARTY NETWORKS AND THEIR INTERNET-CONNECTIVITY MEASURES) OR (3) SUITABILITY OF THE EOS NETWORK FOR YOUR OWN BUSINESS PURPOSES. YOU ARE USING THE EOS NETWORK FOR YOUR OWN BUSINESS PURPOSES AT YOUR SOLE AND OWN RISK.
 
 ### Acknowledgement and assumption of risks
 
-You shall at all times acknowledge and agree that certain risks exist in relation to using the Polkadot network. You fully acknowledge and agree that:
+You shall at all times acknowledge and agree that certain risks exist in relation to using the EOS network. You fully acknowledge and agree that:
 
--   No Party, including but not limited to the Parties involved, ​owns or controls the Polkadot network. It is built by the end users themselves.
--   No Party, including but not limited to the Parties involved, has any authority to approve, prevent, restrict or anyhow exercise control over any interaction that occurs through the Polkadot network. You and end users are free to build their own network and network-based applications and provide them to customers under their own terms and conditions, provided that such applications should also run and be offered in a decentralized manner (as e.g. distributed ledger technology or often referred to as "blockchain" or any future adaptations of such technologies) without central oversight.
--   You shall not have any expectations over the performance, suitability for business or interoperability of the Polkadot network for Your own business purposes.
--   Polkadot network source code has not passed a third party security audit and can be potentially unstable and could cause unexpected effects and system failures. You are aware of this risk and must address it within Your own privacy compliance model when establishing technical and organizational measures on data security for Your end customers.
--   By using the Polkadot network You covenant, represent, and warrant that Your use of the  network complies with Your jurisdiction of residence and You are fully able and legally competent to use the Polkadot network.
--   In the event Your use of the Polkadot network does not comply with the applicable law of Your jurisdiction of residence, You shall be fully liable for any consequences incurred thereof and fully acknowledge and agree that ​We ​shall not be held liable for Your use of the Polkadot network
--   There is a risk that advances in cryptography or technical advances (such as the development of quantum computers) could present risks to blockchain-based applications and cryptocurrencies, Ethereum or tokens which could result in the theft or loss of such elements.
+-   No Party, including but not limited to the Parties involved, ​owns or controls the EOS network. It is built by the end users themselves.
+-   No Party, including but not limited to the Parties involved, has any authority to approve, prevent, restrict or anyhow exercise control over any interaction that occurs through the EOS network. You and end users are free to build their own network and network-based applications and provide them to customers under their own terms and conditions, provided that such applications should also run and be offered in a decentralized manner (as e.g. distributed ledger technology or often referred to as "blockchain" or any future adaptations of such technologies) without central oversight.
+-   You shall not have any expectations over the performance, suitability for business or interoperability of the EOS network for Your own business purposes.
+-   EOS network source code has not passed a third party security audit and can be potentially unstable and could cause unexpected effects and system failures. You are aware of this risk and must address it within Your own privacy compliance model when establishing technical and organizational measures on data security for Your end customers.
+-   By using the EOS network You covenant, represent, and warrant that Your use of the  network complies with Your jurisdiction of residence and You are fully able and legally competent to use the EOS network.
+-   In the event Your use of the EOS network does not comply with the applicable law of Your jurisdiction of residence, You shall be fully liable for any consequences incurred thereof and fully acknowledge and agree that ​We ​shall not be held liable for Your use of the EOS network
+-   There is a risk that advances in cryptography or technical advances (such as the development of quantum computers) could present risks to blockchain-based applications and cryptocurrencies or tokens which could result in the theft or loss of such elements.
 -   The  network (as well as any network You build based upon it) is susceptible to mining attacks (including but not limited to double-spend attacks, majority mining power attacks, "selfish-mining" attacks and race condition attacks. Despite the efforts of ENF, the risk of known or novel mining attacks exists.
 -   There are risks associated with using the  network, such as e.g. failure of hardware, software and Internet connections. You acknowledge that ENF shall not be responsible for any communication failures, disruptions, errors, distortions or delays You may experience when using the  network.
 -   network source code is provided on an "AS IS" basis, without warranties and conditions of any kind, either express or implied, including, without limitation, any warranties or conditions of title, merchantability, fitness for a particular purpose, and non-infringement, unless otherwise required by mandatory applicable law.
 -   The entire risk as to the quality and performance of using the  network is borne by You.
 -   You are solely responsible for determining the appropriateness of using or redistributing the  network source code and/or any Derivative Work and assume any risks associated with Your exercise of permission granted under this License.
--   You are solely responsible to regularly check for any modifications and updates to the  network source code published at <https://github.com/paritytech/polkadot/>
+-   You are solely responsible to regularly check for any modifications and updates to the  network source code published at <https://github.com/eosnetworkfoundation/>
 
 ### Intellectual property
 
@@ -281,7 +279,7 @@ To the extent that You will gain access to and collect and process personally id
 
 ### Limitation of liability
 
-In no event and under no legal theory shall Web. 3.0 be liable to You for damages, including any direct, indirect, special, general, incidental or consequential damages of any character arising as a result of this License or out of the use or inability to use the  network (including, but not limited to, loss of data or data being rendered inaccurate or losses sustained by You or third parties or a failure of the network to operate with any other programs, loss of goodwill, work stoppage, business interruption, computer failure or malfunction or any and all other commercial damages or losses), even if a contributor has been advised of the possibility of such damages. ENF does not control, take responsibility for, or assume liability for the data in any way processed and stored by You or any third party using the  network and for any damage or loss incurred thereto. You shall solely be liable for the appropriateness, lawfulness, and accurateness of the data in any way processed by You using the network (and or if using such data outside of the network i.e. "off-chain".
+In no event and under no legal theory shall ENF be liable to You for damages, including any direct, indirect, special, general, incidental or consequential damages of any character arising as a result of this License or out of the use or inability to use the  network (including, but not limited to, loss of data or data being rendered inaccurate or losses sustained by You or third parties or a failure of the network to operate with any other programs, loss of goodwill, work stoppage, business interruption, computer failure or malfunction or any and all other commercial damages or losses), even if a contributor has been advised of the possibility of such damages. ENF does not control, take responsibility for, or assume liability for the data in any way processed and stored by You or any third party using the  network and for any damage or loss incurred thereto. You shall solely be liable for the appropriateness, lawfulness, and accurateness of the data in any way processed by You using the network (and or if using such data outside of the network i.e. "off-chain".
 
 ### Indemnification
 
