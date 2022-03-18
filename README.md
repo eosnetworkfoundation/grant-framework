@@ -26,7 +26,7 @@ The EOS Network Foundation (ENF) funds development grants to “for profit” en
 </table>
 * ENF Ventures will be established at a future date in 2022.
 
-## Grant Types
+## Three Grant Types
 There are three types of grants that the ENF considers.  Some are originated by the community itself, and some are proposed in the form an an RFP by the ENF.
 ### 1. New Proposal
 Most grant applications will take the form of a "New Proposal" from a member of the EOS community.  These projects range from core chain enhancements, SDKs, tools, and applications.  These are initiated by members of the community and run through the standard [Grant Process](#grant-process) below.
