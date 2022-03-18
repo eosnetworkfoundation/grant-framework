@@ -29,7 +29,7 @@ The terms defined in this section whenever used in these Terms and Conditions sh
 
 "Development Work"  means any and all development activities related to the Software and undertaken by You. For the avoidance of doubt, any development activities undertaken before the Effective Date in relation to the Software are deemed to constitute Development Work and to form part of the deliverables to be provided by You and be subject to the terms of these Terms and Conditions;
 
-"Effective Date"  means the date on which the application is accepted by the Grants Committee via the application review process defined below (the date of the merged commit of the application, which can be found under <https://github.com/w3f/Grants-Program/pulls>);
+"Effective Date"  means the date on which the application is accepted by the Grants Committee via the application review process defined below (the date of the merged commit of the application, which can be found under <https://github.com/eosnetworkfoundation/grant-framework/pulls>);
 ENF to You (i) for the development of the Software in accordance with the Specifications; and (ii) the grant of license rights on the Intellectual Property Rights, according to the terms of these Terms and Conditions. The Parties agree that Grants are unrelated to the actual development costs and the commercial value of the Software;
 
 "Intellectual Property Rights" means any (i) patents, designs, copyright and related rights, database rights, trademarks, trade names (whether registered or unregistered), and the related rights to apply for registration thereof; (ii) applications, extensions and renewals in relation to any of these rights; (iii) know-how and confidential information; and (iv) all other rights of a similar nature and/or having an equivalent effect anywhere in the world;
@@ -44,7 +44,7 @@ ENF to You (i) for the development of the Software in accordance with the Specif
 
 "Terms and Conditions" means this terms and conditions together with any documents referred to in it;
 
-"Time Schedule" means the time schedule specified in the final version of the application approved by the Grants Committee in accordance with the Procedure and placed in the applications folder of the W3F Open Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/master/applications>.
+"Time Schedule" means the time schedule specified in the final version of the application approved by the Grants Committee in accordance with the Procedure and placed in the applications folder of the ENF Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/master/applications>.
 
 ## 3.  Eligibility
 
@@ -86,15 +86,15 @@ To apply for a grant of the EOS Network Foundation Grants Program, the grantee n
 
 **(ii)  Application review process:**
 
-The ENF grants committee, which is specified on the [Grants-Framework GitHub repository ](https://github.com/eosnetworkfoundation/grants-framework)(the "Grants Committee"), can issue comments and request changes on the grant application pull request (the submission of the grant application on GitHub).  As soon as 1/3 of the Grants Committee approves the pull request, the terms and conditions are signed off and all requested changes are addressed, the application is officially accepted. The application is now a part of the [ENF Grant-Framwork GitHub repository](https://github.com/eosnetworkfoundation/grants-framework). The time point of the acceptance by the Grants Committee is hereby stored on GitHub and counts as the official beginning of the grant. The original submission is stored with a unique commit hash (identifier) and can not be altered by any party. The final version approved by the Grants Committee of the Specifications, the Time Schedule and Milestones will be placed  in the applications folder of the W3F Open Grants Program Repository at <https://github.com/w3f/Grants-Program/tree/master/applications> via the merge function of GitHub.
+The ENF grants committee, which is specified on the [Grants-Framework GitHub repository ](https://github.com/eosnetworkfoundation/grant-framework)(the "Grants Committee"), can issue comments and request changes on the grant application pull request (the submission of the grant application on GitHub).  As soon as 1/3 of the Grants Committee approves the pull request, the terms and conditions are signed off and all requested changes are addressed, the application is officially accepted. The application is now a part of the [ENF Grant-Framwork GitHub repository](https://github.com/eosnetworkfoundation/grant-framework). The time point of the acceptance by the Grants Committee is hereby stored on GitHub and counts as the official beginning of the grant. The original submission is stored with a unique commit hash (identifier) and can not be altered by any party. The final version approved by the Grants Committee of the Specifications, the Time Schedule and Milestones will be placed  in the applications folder of the ENF Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/master/applications> via the merge function of GitHub.
 
 **(iii)  Milestone delivery process:**
 
-To submit one of the possible multiple milestones specified in the application, You shall fork the [Grant Milestone Delivery GitHub repository](https://github.com/w3f/Grant-Milestone-Delivery) with the same Github account, used to submit the initial application. In the newly created fork, You shall create a copy of the [milestone-delivery-template.md](https://github.com/w3f/Grant-Milestone-Delivery/blob/master/deliveries/milestone-delivery-template.md). Such [milestone-delivery-template.md](https://github.com/w3f/Grant-Milestone-Delivery/blob/master/deliveries/milestone-delivery-template.md) needs to be renamed as "project_name_milestone_number.md". "Project_name" needs to be replaced with the name of the project application and milestone number with the number of the delivered milestone. Additionally, You shall fill out all mandatory parts of the [milestone-delivery-template.md](https://github.com/w3f/Grant-Milestone-Delivery/blob/master/deliveries/milestone-delivery-template.md) as well as the invoice form linked inside the [milestone-delivery-template.md](https://github.com/w3f/Grant-Milestone-Delivery/blob/master/deliveries/milestone-delivery-template.md). Once You have completed the milestone delivery document, You shall create a new pull request by clicking on the "create new pull request" button shown inside their fork of the [Grant Milestone Delivery GitHub repository](https://github.com/w3f/Grant-Milestone-Delivery).
+To submit one of the possible multiple milestones specified in the application, You shall fork the [Grant Milestone Delivery GitHub repository](https://github.com/eosnetworkfoundation/grant-milestones) with the same Github account, used to submit the initial application. In the newly created fork, You shall create a copy of the [milestone-delivery-template.md](https://github.com/eosnetworkfoundation/grant-milestones/blob/master/deliveries/milestone-delivery-template.md). Such [milestone-delivery-template.md](https://github.com/eosnetworkfoundation/grant-milestones/blob/master/deliveries/milestone-delivery-template.md) needs to be renamed as "project_name_milestone_number.md". "Project_name" needs to be replaced with the name of the project application and milestone number with the number of the delivered milestone. Additionally, You shall fill out all mandatory parts of the [milestone-delivery-template.md](https://github.com/eosnetworkfoundation/grant-milestones/blob/master/deliveries/milestone-delivery-template.md) as well as the invoice form linked inside the [milestone-delivery-template.md](https://github.com/eosnetworkfoundation/grant-milestones/blob/master/deliveries/milestone-delivery-template.md). Once You have completed the milestone delivery document, You shall create a new pull request by clicking on the "create new pull request" button shown inside their fork of the [Grant Milestone Delivery GitHub repository](https://github.com/eosnetworkfoundation/grant-milestones).
 
 **(iv)  Milestone review process:**
 
-The Grants Evaluators, who are specified on the [Grant-Framewok GitHub repository](https://github.com/w3f/Grants-Program), can issue comments and request changes on the milestone delivery pull request. 
+The Grants Evaluators, who are specified on the [Grant-Framewok GitHub repository](https://github.com/eosnetworkfoundation/grant-framework), can issue comments and request changes on the milestone delivery pull request. 
 
 a)  Purpose and object of the milestone review process
 
@@ -117,11 +117,11 @@ In the event of default, ENF may either, at its discretion:
 - reduce payment of the Grant because of the reduced value of the Software; or
 - refuse payment of the Grant in full (for the avoidance of doubt, this may require You to refund all milestone and advance payments made under these Terms and Conditions).
 
-As soon as one evaluator approves the pull request, the delivery is officially accepted. The delivery is now a part of the [Grant Milestone Delivery GitHub repository](https://github.com/w3f/Grant-Milestone-Delivery). The time point of the acceptance by the evaluator is hereby stored on GitHub. The original submission is stored with a unique commit hash (identifier) and can not be altered by any party.
+As soon as one evaluator approves the pull request, the delivery is officially accepted. The delivery is now a part of the [Grant Milestone Delivery GitHub repository](https://github.com/eosnetworkfoundation/grant-milestones). The time point of the acceptance by the evaluator is hereby stored on GitHub. The original submission is stored with a unique commit hash (identifier) and can not be altered by any party.
 
 **(v)  Payment process:**
 
-The Operations Team specified in the [Grant-Framework GitHub repository](https://github.com/w3f/Grants-Program), gets notified once the above-specified delivery was accepted or after 2 weeks without any feedback after the initial delivery. As soon as any feedback is provided by the evaluators, this feedback first needs to be resolved. After this, the Operations Team makes the payment to the EOS address specified in the initial application.
+The Operations Team specified in the [Grant-Framework GitHub repository](https://github.com/eosnetworkfoundation/grant-framework), gets notified once the above-specified delivery was accepted or after 2 weeks without any feedback after the initial delivery. As soon as any feedback is provided by the evaluators, this feedback first needs to be resolved. After this, the Operations Team makes the payment to the EOS address specified in the initial application.
 
 ## 5.  Scope of these Terms and Conditions
 
@@ -157,11 +157,11 @@ The Parties acknowledge and agree that the requirements set out in the Milestone
 
 ## 7.  Terms of Grant Giving
 
-ENF shall grant You, as compensation for the delivery of the Software and the related deliverables and the grant of license rights on the Intellectual Property Rights to the ENF, a Grant as indicated in the application placed in the applications folder of the ENF Grants Program Repository at <https://github.com/w3f/Grants-Program/tree/master/applications>.
+ENF shall grant You, as compensation for the delivery of the Software and the related deliverables and the grant of license rights on the Intellectual Property Rights to the ENF, a Grant as indicated in the application placed in the applications folder of the ENF Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/master/applications>.
 
 The Parties agree that the Grant is a lump-sum payment and that no additional compensation is due for the actual development costs incurred.
 
-The Grant is paid as milestone payments for the accomplishment of the Milestones during several phases of the Development Work as indicated in the main readme file on Github (<https://github.com/w3f/Grants-Program>).
+The Grant is paid as milestone payments for the accomplishment of the Milestones during several phases of the Development Work as indicated in the main readme file on Github (<https://github.com/eosnetworkfoundation/grant-framework>).
 
 You shall not be entitled to an increase in compensation, even if you have had more work or greater expenses than anticipated. An increase in compensation is also excluded if extraordinary circumstances which could not have been foreseen prevent the completion of the Software or make it excessively difficult.
 
