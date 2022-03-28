@@ -48,8 +48,6 @@ Unless absolutely necessary, make the documentation public as well, ideally as p
 A codebase that is easy to read is also easy to use. We suggest adopting one style from Day 1 and adhering to it across the entire team.
 This helps to keep the commit history clean and facilitates any reviews of the introduced changes.
 
-For **Substrate**, we strongly recommend formatting your code according to the [official guidelines](https://github.com/paritytech/substrate/blob/master/docs/STYLE_GUIDE.md).
-
 For **Rust**, we encourage formatting any additional support libraries or helpers by following the [Style Guidelines](https://doc.rust-lang.org/1.0.0/style/README.html).
 
 For **any other** deliveries, please commit to a particular style & let us know which official guidelines you adopt.
@@ -82,7 +80,7 @@ We prefer dockerfiles to avoid problems with versions and dependencies.
 
 ## Milestone Deliverables
 
-Please provide a list of milestone deliverables. This list should closely reflect the list of deliverables agreed on in the Pull Request for the public **Grants Program** application or in Annex 1 of the grant contract for the private applications.
+Please provide a list of milestone deliverables. This list should closely reflect the list of deliverables agreed on in the Pull Request for the public **Grants Program** application.
 
 Each item in the list should include a link to the deliverable itself, e.g.:
 
