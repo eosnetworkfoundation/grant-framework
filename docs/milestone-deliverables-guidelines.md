@@ -4,7 +4,7 @@ These are the guidelines to be followed for milestones submitted for evaluation.
 
 ## Submission
 
-Please submit all your milestones via PR to the [Grant Milestones repository](https://github.com/eosnetworkfoundation/Grant-Milestone-Delivery).
+Please submit all your milestones via PR to the [Grant Milestones repository](https://github.com/eosnetworkfoundation/grant-milestones).
 
 ## Invoice
 
