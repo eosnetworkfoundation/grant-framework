@@ -64,7 +64,7 @@ The Grant Approval Process consists of a review by the Grant Committee to check 
 9. Unless specified otherwise, the day on which the application is accepted will be considered the starting date of the project, and will be used to estimate delivery dates.
 
 ### 3. Milestone Reporting
-Milestones are to be delivered on the [Grant Milestone](https://github.com/eosnetworkfoundation/Grant-Milestones/) repository following the [process](https://github.com/eosnetworkfoundation/Grant-Milestones#milestone-delivery-process) described therein.
+Milestones are to be delivered on the [Grant Milestone](https://github.com/eosnetworkfoundation/grant-milestones/) repository following the [process](https://github.com/eosnetworkfoundation/grant-milestones#milestone-delivery-process) described therein.
 
 ### 4. Payments
 Payments are made in EOS at the time of milestone sign off up to and including the final deliverable milestone.
