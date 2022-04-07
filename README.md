@@ -85,7 +85,7 @@ The Grant Committee are senior members of the EOS community that know the priori
 - Fu Pan
 - Peter Watt
 - Van Kai
-- [Wen Huaqiang](https://github.com/orcoder) (might not be his github but looks possible)
+- Wen Huaqiang
 - Damian Byeon
 
 ### Grant Evaluators
