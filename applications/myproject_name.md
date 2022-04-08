@@ -4,8 +4,8 @@
 >
 > See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
 
-- **Project Name:** Name of your project (e.g. DuoSwap Module)
-- **Team Name:** Legal name of your team (e.g. Duo)
+- **Project Name:** The Lost Diamond
+- **Team Name:** Time2Discover AS (legal registered Norwegian company)
 - **Payment Address:** EOS payment address.
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
 
@@ -13,11 +13,13 @@
 
 ## Project Overview
 
-If this application is in response to an RFP, please indicate this on the first line of this section.
-
-If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
+This application is in response to an RFP.
 
 ### Overview
+
+The Lost Diamond - a real-world P2E adventure race on the EOS Mainnet.
+
+The Lost Diamond is a real-world P2E adventure race where the goal is to find The Lost Diamond hidden in one of the checkpoints all around the world.
 
 Please provide the following:
 
