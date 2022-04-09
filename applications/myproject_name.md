@@ -7,13 +7,13 @@
 - **Project Name:** The Lost Diamond
 - **Team Name:** Time2Discover
 - **Payment Address:** time2discovr (EOS Mainnet)
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview
 
-This application is in response to an RFP.
+This application is in response to an RFP. (Open application process)
 
 ### Overview
 
@@ -125,15 +125,15 @@ For each milestone,
 
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
+- **Total Estimated Duration:** One month (for the first milestone)
+- **Full-Time Equivalent (FTE):**  1 FTE
+- **Total Costs:** 10,000 USD (for the first milestone. The whole project will take years and estimated total need for funding is 500,000 USD)
 
 ### Milestone 1 Example — Implement EOSIO Sub-module
 
 - **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 8,000 USD
+- **FTE:**  1
+- **Costs:** 10,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -167,7 +167,7 @@ Please include here
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** EOS Fireside chat
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
