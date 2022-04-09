@@ -1,15 +1,9 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-
 - **Project Name:** The Lost Diamond
 - **Team Name:** Time2Discover
 - **Payment Address:** time2discovr (EOS Mainnet)
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
-
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview
 
@@ -21,22 +15,40 @@ The Lost Diamond is a real-world P2E adventure race where the goal is to find Th
 
 This 90 second intro video will give a good overview: https://youtu.be/3BKr1uY6nZ8
 
-The EOS Mainnet is the only technology platform available that has the requirements needed to make TheLostDiamond race work: instant transactions to anyone in the world with no fees for the users and the option to transfer EOS-tokens to Coinbase/Binance to let the users spend the money earned by using a crypto debit card. 
+The EOS Mainnet is the only technology platform available that has the requirements needed to make TheLostDiamond race work: 
+- Instant transactions to anyone in the world
+- No fees for the users 
+- The option to transfer EOS-tokens to Coinbase/Binance to let the users spend the money earned by using a crypto debit card.
+- The most user friendly tools (e.g. Anchor, Port, Bloks.io) 
 
 Our team has been involved in EOS since 2018 and we want to contribute to the ecosystem's growth and teach non-tech people how blockchain technology can be used in a fun and educational way.
 
 
 ### Project Details
 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
+Our team has an ambitious long term commitment to make TheLostDiamond one of the most popular social platforms for outdoor activities, with millions of monthly active users.
 
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+150 million people are hunting virtual monsters on PokémonGo. By utilizing EOS, we have the opportunity and advantage to replace virtual monsters with real money in a new real-world adventure game that is fun and exciting for everyone. This is a great way to teach non-tech people about the EOS-ecosystem and the possibilities in web3 applications.
+
+For people to adapt a new technology in mass, it needs to improve their lives by an order of magnitude. 
+It’s not an easy task to motivate non-tech people to create an EOS-account, download and learn how to use Anchor sign-in or create a Coinbase account. It’s a steep learning curve.
+
+TheLostDiamond solves this by having a $1,000 dollar lost diamond as incentive for participating. Also, the concept of a treasure hunt is fun and easy to understand for everyone. 
+
+We will take a $7 dollar monthly subscription fee to participate and the smartcontract returns 80-90% back to the Play2Earn model to fund the lost diamonds. A true Web3 application where everyone can create, own and monetize their content.
+
+We are aiming for 1 million users (0.65% market share from PokémonGo) within four years.
+
+TheLostDiamond will be self-sustaining at 5,000 active users per month. 
+
+Until we reach a self-sustaining level, we need to fund the $1,000 dollar lost diamonds from sponsors, grants, investors and/or entry fees from other single-event races. 
+
+The current value of The Lost Diamond is $440 dollars. The Lost Diamond race is online, if you sign in with Anchor - and if you find The Lost Diamond, you and the checkpoint creator will both get $400 dollars - instantly paid out to your EOS-account.
+
+Our first milestone is to prove that we can onboard participants to the MVP and obtain a 22% monthly growth rate over several months. Showing detailed traction is crucial for future funding from e.g. investors, sponsors, ENF and/or Pomelo. 
+
+The first $1,000 dollar diamond will be announced in the beginning of May 2022 and will be self-funded. 
+
 
 ### Ecosystem Fit
 
@@ -46,11 +58,11 @@ The EOS Mainnet has solved one of the biggest problems in the world - how to tra
 
 The EOS-community needs ambitious projects that can show that advantage to a larger audience.  
 
-The EOS Mainnet has 5 millions accounts. Important EOS-projects, e.g. the implementation of the EVM, will probably get a lot of users from the 40 million accounts on Ethereum. Our target audience is the 150 million users hunting virtual monsters on PockémonGo.
+The EOS Mainnet has 5 millions accounts. Important EOS-projects, e.g. the implementation of the EVM, are targeting the 20 million users in the Ethereum ecosystem. Our target audience is the 150 million users hunting virtual monsters on PockémonGo.
 
 EOS has the opportunity and technology to replace virtual monsters with real money. And the EOS ecosystem needs projects that are targeting non-tech users in an order of magnitude from outside the smaller crypto community.
 
-We are not aware of other similar projects in the EOSIO or other related ecosystems. 
+We are not aware of other similar real-world P2E adventure game projects in the EOSIO or other related ecosystems. 
 
 
 ## Team
@@ -65,6 +77,7 @@ We are not aware of other similar projects in the EOSIO or other related ecosyst
 - **Contact Name:** Bjørn Omsland
 - **Contact Email:** bomsland@gmail.com
 - **Website:** thelostdiamond.io
+- **Time2Discover Website:** time2discover.no
 
 ### Legal Structure
 - **Registered Legal Entity:** Time2Discover AS (Norway) https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=925474746
@@ -75,6 +88,8 @@ We are not aware of other similar projects in the EOSIO or other related ecosyst
 We are four creative outdoor enthusiasts from Norway with backgrounds in the travel industry, logistics, project management and programming.
 
 We have hosted several Lost Diamond events in Norway, utilizing the EOS-Mainnet, for more than 1,000 users to test and improve TheLostDiamond race.
+
+Our programmer (Bjørn Omsland) has twenty years experience as a full stack developer and four year experience as a smart contract developer on the EOS-blockchain. 
 
 
 ### Team Code Repos
@@ -129,30 +144,28 @@ For each milestone,
 - **Full-Time Equivalent (FTE):**  1 FTE
 - **Total Costs:** 10,000 USD (for the first milestone. The whole project will take years and estimated total need for funding is 500,000 USD)
 
-### Milestone 1 Example — Implement EOSIO Sub-module
+### Milestone 1 — Prove that TheLostDiamond MVP can obtain a 22% monthly growth rate.
 
 - **Estimated duration:** 1 month
 - **FTE:**  1
 - **Costs:** 10,000 USD
 
-| Number | Deliverable | Specification |
+| Marketing Campaign No. | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | EOSIO Sub-module: X | We will create a Substrate module that will... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | EOSIO Sub-module: Y | We will create a Substrate module that will... |  
-| 3. | EOSIO Sub-module: Z | We will create a Substrate module that will... |  
-| 4. | EOSIO chain | Sub-modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
+| 1 | Diamond No.1 | Self-funded. We will add $1,000 dollar to The Lost Diamond and use $500 in marketing. The first YouTube campaign video will explain TheLostDiamond and how to sign in with Anchor. Then we track how many participants are signing in. |
+| 2 | Diamond No.2 | $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. The second YouTube campaign video will explain how EOS earned in the game can be used with a crypto debit card from Coinbase. Objective: Onboard users. Key result: 22% monthly growth rate. |
+| 3 | Diamond No.3 | $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. The third YouTube campaign video will show people hunting for The Lost Diamond. Objective: Onboard users. Key result: 22% monthly growth rate. |
+| 4 | Diamond No.4 | $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Objective: Onboard users. Key result: 22% monthly growth rate. |
+| 5 | Diamond No.5 | $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Objective: Onboard users. Key result: 22% monthly growth rate.
+| 6 | Diamond No.6 | $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. |  
+| 7 | Diamond No.7 | $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. | 
+| 8 | Growth Report  | Create a growth report and statistics tools to get sponsors/grants/investors for the next ten $1,000 dollar diamonds. | 
 
+### Milestone 2 - Get funding for the next ten $1,000 dollar diamonds
 
-### Milestone 2 Example — Additional features
-
-- **Estimated Duration:** 1 month
+- **Estimated Duration:** TBA in the next grant application
 - **FTE:**  1
-- **Costs:** 4,000 USD
+- **Costs:** x USD
 
 ...
 
