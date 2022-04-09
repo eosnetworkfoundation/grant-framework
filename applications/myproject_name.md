@@ -140,19 +140,20 @@ For each milestone,
 
 ### Overview
 
-- **Total Estimated Duration:** One month (for the first milestone)
+- **Total Estimated Duration:** 2 months (for the first milestone)
 - **Full-Time Equivalent (FTE):**  1 FTE
 - **Total Costs:** 10,000 USD (for the first milestone. The whole project will take years and estimated total need for funding is 500,000 USD)
 
 ### Milestone 1 — Prove that TheLostDiamond MVP can obtain a 22% monthly growth rate.
 
-- **Estimated duration:** 1 month
+- **Estimated duration:** 2 months
 - **FTE:**  1
 - **Costs:** 10,000 USD
 
 | Marketing Campaign No. | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1 | Diamond No.1 | Self-funded. We will add $1,000 dollar to The Lost Diamond and use $500 in marketing. The first YouTube campaign video will explain TheLostDiamond and how to sign in with Anchor. Then we track how many participants are signing in. |
+| 1 | Diamond No.1 | Self-funded. We will add $1,000 dollar to The Lost Diamond and use $500 in marketing. The first YouTube campaign video will explain TheLostDiamond and how to sign in with Anchor. Objective: Onboard users. Key result: 22% monthly growth rate. |
+| 1b | Diamond No.1 | We will use $1,000 dollar to add 100 x $10 dollar in random checkpoints. |
 | 2 | Diamond No.2 | $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. The second YouTube campaign video will explain how EOS earned in the game can be used with a crypto debit card from Coinbase. Objective: Onboard users. Key result: 22% monthly growth rate. |
 | 3 | Diamond No.3 | $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. The third YouTube campaign video will show people hunting for The Lost Diamond. Objective: Onboard users. Key result: 22% monthly growth rate. |
 | 4 | Diamond No.4 | $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Objective: Onboard users. Key result: 22% monthly growth rate. |
