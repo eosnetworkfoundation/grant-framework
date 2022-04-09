@@ -190,5 +190,5 @@ Our business model has two different versions depending on how our project will 
 - An investor versjon, where a 20% dividend of the revenue is paid out to the investor. 
 - A public good version, where all revenue is returned back to the users. 
 
-Our project has been self-funded since we launched the first version of the smartcontract on July 2018. Our heart, dedication and thousands of hours of work has been in the great EOS-community for over four years. It would be awesome to get some financial contribution to help our project succeed and contribute to the ecosystem growth.
+Our project has been self-funded since we launched the first version of the smartcontract on July 2018. 
 
