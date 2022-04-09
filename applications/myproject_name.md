@@ -5,8 +5,8 @@
 > See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
 
 - **Project Name:** The Lost Diamond
-- **Team Name:** Time2Discover AS (legal registered Norwegian company)
-- **Payment Address:** EOS payment address.
+- **Team Name:** Time2Discover
+- **Payment Address:** time2discovr (EOS Mainnet)
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
@@ -17,16 +17,14 @@ This application is in response to an RFP.
 
 ### Overview
 
-The Lost Diamond - a real-world P2E adventure race on the EOS Mainnet.
+The Lost Diamond is a real-world P2E adventure race where the goal is to find The Lost Diamond by conquering checkpoints all around the world.
 
-The Lost Diamond is a real-world P2E adventure race where the goal is to find The Lost Diamond hidden in one of the checkpoints all around the world.
+This 90 second intro video will give a good overview: https://youtu.be/3BKr1uY6nZ8
 
-Please provide the following:
+The EOS Mainnet is the only technology platform available that has the requirements needed to make TheLostDiamond race work: instant transactions to anyone in the world with no fees for the users and the option to transfer EOS-tokens to Coinbase/Binance to let the users spend the money earned by using a crypto debit card. 
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
-- An indication of how your project relates to / integrates into EOSIO.
-- An indication of why your team is interested in creating this project.
+Our team has been involved in EOS since 2018 and we want to contribute to the ecosystem's growth and teach non-tech people how blockchain technology can be used in a fun and educational way.
+
 
 ### Project Details
 
@@ -42,63 +40,70 @@ We expect the teams to already have a solid idea about your project's expected f
 
 ### Ecosystem Fit
 
-Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
+The main goal of TheLostDiamond project is ecosystem growth.
 
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the EOSIO ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+The EOS Mainnet has solved one of the biggest problems in the world - how to transfer money instantly to anyone in the world as easy as sending an email.
+
+The EOS-community needs ambitious projects that can show that advantage to a larger audience.  
+
+The EOS Mainnet has 5 millions accounts. Important EOS-projects, e.g. the implementation of the EVM, will probably get a lot of users from the 40 million accounts on Ethereum. Our target audience is the 150 million users hunting virtual monsters on PockémonGo.
+
+EOS has the opportunity and technology to replace virtual monsters with real money. And the EOS ecosystem needs projects that are targeting non-tech users in an order of magnitude from outside the smaller crypto community.
+
+We are not aware of other similar projects in the EOSIO or other related ecosystems. 
+
 
 ## Team
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- Team leader: Bjørn Omsland
+- Team members: Ann Magrit Monhof, Siv Anne Balslev, Jørn Balslev
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:**
+- **Contact Name:** Bjørn Omsland
+- **Contact Email:** bomsland@gmail.com
+- **Website:** thelostdiamond.io
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
+- **Registered Legal Entity:** Time2Discover AS (Norway) https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=925474746
+- **Registered Address:** Rosenholmveien 25, 1414 Trollåsen, Norway
 
 ### Team Experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
+We are four creative outdoor enthusiasts from Norway with backgrounds in the travel industry, logistics, project management and programming.
 
-If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+We have hosted several Lost Diamond events in Norway, utilizing the EOS-Mainnet, for more than 1,000 users to test and improve TheLostDiamond race.
+
 
 ### Team Code Repos
 
-- https://github.com/<your_organisation>
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
+- https://github.com/bjornomsland
+- https://github.com/bjornomsland/CaptainBlackBillSmartContract
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
-
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+N/A
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/bjornomsland/
+- https://www.linkedin.com/in/ann-magrit-monhof-55785610/
+- https://www.linkedin.com/in/jorn-balslev/
+- https://www.linkedin.com/in/sivbalslev/
 
 ## Development Status
 
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
+We have a working MVP that has been used for testing the application in several single-event races in Norway. https://cptblackbill.com/
 
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+The smartcontract is located on the EOS-Mainnet account cptblackbill. The code is available at https://github.com/bjornomsland/CaptainBlackBillSmartContract
+
+The frontend is developed in NodeJs and hosted on Google Clouds. 
+
+Different single-event races can have different unique domain names. E.g. our biggest single-event race is “Discover Oslo Adventure Race”. We will host our third Discover Oslo Adventure Race on June 11th. https://opplevoslo.app The feedback from our Discover Oslo participants has been exceptionally good. 98% say they will participate in the upcoming Discover Oslo race.
+
+Development, testing and feedback from all the single-event races is the foundation for our main goal - launching The Lost Diamond 24/7 Global Adventure Race. The Lost Diamond 24/7 Global Adventure Race is ready for Test Marketing, where the goal is to find out how many people will participate in a pure crypto-based adventure race and see if we can obtain a 22% monthly growth rate. 
+
 
 ## Development Roadmap
 
