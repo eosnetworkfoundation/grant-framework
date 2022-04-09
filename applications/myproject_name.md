@@ -122,45 +122,33 @@ Development, testing and feedback from all the single-event races is the foundat
 
 ## Development Roadmap
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
+**Marketing Roadmap**
 
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to the EOS ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0d are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
+The market rollout strategy is divided into 24 monthly marketing campaigns. Each with a key result goal of 22% average growth rate.
+Milestone 1 covers the two first 24 monthly marketing campaigns. (Our understanding of the ENF grant framework is that we can only apply for $10,000 in the first request. If possible, we will apply again when Milestone 1 is accomplished within acceptable levels).
 
 ### Overview
 
 - **Total Estimated Duration:** 2 months (for the first milestone)
 - **Full-Time Equivalent (FTE):**  1 FTE
-- **Total Costs:** 10,000 USD (for the first milestone. The whole project will take years and estimated total need for funding is 500,000 USD)
+- **Total Costs:** 10,000 USD (for the first milestone. The whole project will take two years and the estimated total need for funding is $500,000 USD)
 
 ### Milestone 1 — Prove that TheLostDiamond MVP can obtain a 22% monthly growth rate.
 
 - **Estimated duration:** 2 months
 - **FTE:**  1
 - **Costs:** 10,000 USD
+- Milestone 1 is marketing oriented and as such there is no code to test.
 
-| Marketing Campaign No. | Deliverable | Specification |
+| Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1 | Diamond No.1 | Self-funded. We will add $1,000 dollar to The Lost Diamond and use $500 in marketing. The first YouTube campaign video will explain TheLostDiamond and how to sign in with Anchor. Objective: Onboard users. Key result: 22% monthly growth rate. |
-| 1b | Diamond No.1 | We will use $1,000 dollar to add 100 x $10 dollar in random checkpoints. |
-| 2 | Diamond No.2 | $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. The second YouTube campaign video will explain how EOS earned in the game can be used with a crypto debit card from Coinbase. Objective: Onboard users. Key result: 22% monthly growth rate. |
-| 3 | Diamond No.3 | $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. The third YouTube campaign video will show people hunting for The Lost Diamond. Objective: Onboard users. Key result: 22% monthly growth rate. |
-| 4 | Diamond No.4 | $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Objective: Onboard users. Key result: 22% monthly growth rate. |
-| 5 | Diamond No.5 | $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Objective: Onboard users. Key result: 22% monthly growth rate.
-| 6 | Diamond No.6 | $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. |  
-| 7 | Diamond No.7 | $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. | 
-| 8 | Growth Report  | Create a growth report and statistics tools to get sponsors/grants/investors for the next ten $1,000 dollar diamonds. | 
+| 1. | Marketing Campaign No.1 | Diamond No.1 Self-funded. We will add $1,000 dollar to The Lost Diamond and use $500 in marketing. Publish a YouTube-video explaining TheLostDiamond race and how to sign in with Anchor. We will use $1,000 dollar to add 100 x $10 dollar in random checkpoints. Objective: Onboard users. Key result: 22% monthly growth rate. |
+| 2. | Marketing Campaign No.1 | Diamond No.2 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video explaining explaining how EOS earned in the game can be used with a crypto debit card from Coinbase. Objective: Onboard users. Key result: 22% monthly growth rate. |
+| 3. | Marketing Campaign No.1 | Diamond No.3 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. The third YouTube campaign video will show people hunting for The Lost Diamond. Objective: Onboard users. Key result: 22% monthly growth rate. |
+| 4. | Marketing Campaign No.2 | Diamond No.4 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. Objective: Onboard users. Key result: 22% monthly growth rate. |
+| 5. | Marketing Campaign No.2 | Diamond No.5 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. Objective: Onboard users. Key result: 22% monthly growth rate.
+| 6. | Marketing Campaign No.2 | Diamond No.6 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. Objective: Onboard users. Key result: 22% monthly growth rate. |  
+| 7. | Marketing Campaign No.2 | Diamond No.7 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. Objective: Onboard users. Key result: 22% monthly growth rate. |  
 
 ### Milestone 2 - Get funding for the next ten $1,000 dollar diamonds
 
@@ -173,18 +161,34 @@ For each milestone,
 
 ## Future Plans
 
-Please include here
+The market rollout strategy is divided into 24 monthly marketing campaigns. Each with a key result goal of 22% average growth rate.
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+The main capital of Norway is our starting point with a new $1.000 dollar diamond every week, acting as the main motivation for the users to join the game.
 
+With a 22% monthly average growth rate, the goal is to reach 10.000 monthly users within 24 months. And one million monthly users within four years.
+The first $10.000 dollar diamond will be added to the game when we reach 5.000 monthly users.
+
+Building trust and success stories around The Lost Diamond brand, will be the most important success factor for onboarding users to a new technology.  
+
+We will host public diamond-events around big cities, invite social media influencers and use the traditional media to build trust around The Lost Diamond brand over a long period of time.
+
+Weekly tweets and YouTube videos will be published to promote The Lost Diamond and the eos-ecosystem. 
 
 ## Additional Information
 
 **How did you hear about the Grants Program?** EOS Fireside chat
 
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
+After a long period of uncertainty for the eos ecosystem, we are very pleased to see all the positive activity happening in the EOS community. 
 
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+TheLostDiamond project was included in the first Helios incubator light program. Resulting in a much better pitch deck for our project and a Helios Sunrise interview.
+- The Lost Diamond Pitch Deck: https://youtu.be/FZ_wQFm5ImA
+- Helios Sunrise Interview: https://youtu.be/KjZWk-wsgCM
+
+We have also been approved for the Pomelo Season 2. https://pomelo.io/grants/lostdiamond
+
+Our business model has two different versions depending on how our project will be funded: 
+- An investor versjon, where a 20% dividend of the revenue is paid out to the investor. 
+- A public good version, where all revenue is returned back to the users. 
+
+Our project has been self-funded since we launched the first version of the smartcontract on July 2018. Our heart, dedication and thousands of hours of work has been in the great EOS-community for over four years. It would be awesome to get some financial contribution to help our project succeed and contribute to the ecosystem growth.
+
