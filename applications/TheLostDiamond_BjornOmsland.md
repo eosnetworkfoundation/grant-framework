@@ -163,10 +163,10 @@ Milestone 1 covers the two first 24 monthly marketing campaigns. (Our understand
 
 The market rollout strategy is divided into 24 monthly marketing campaigns. Each with a key result goal of 22% average growth rate.
 
-The main capital of Norway is our starting point with a new $1.000 dollar diamond every week, acting as the main motivation for the users to join the game.
+The main capital of Norway is our starting point with a new $1,000 dollar diamond every week, acting as the main motivation for the users to join the game.
 
-With a 22% monthly average growth rate, the goal is to reach 10.000 monthly users within 24 months. And one million monthly users within four years.
-The first $10.000 dollar diamond will be added to the game when we reach 5.000 monthly users.
+With a 22% monthly average growth rate, the goal is to reach 10,000 monthly users within 24 months. And one million monthly users within four years.
+The first $10,000 dollar diamond will be added to the game when we reach 5,000 monthly users.
 
 Building trust and success stories around The Lost Diamond brand, will be the most important success factor for onboarding users to a new technology.  
 
