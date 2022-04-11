@@ -13,19 +13,19 @@ This project is is in response to the API Blue Paper section titled: API Transac
 
 Please provide the following:
 
-- Name: API Transaction Lifecycle
-- Brief Description: The API Transaction Lifecycle project consists of four main enhancements to the EOSIO API code: a) Transaction Retry, b) Transaction Finality API, c) Transaction Resource Cost Estimation, d) Subjective Billing Improvements.
-- Relationship to EOSIO: The API Transaction Lifecycle project contains four main improvements to the EOSIO core APIs. The APIs are a critical component of the EOSIO code that allow applications to interact with the blockchain.
-- Reason for Interest: The OCI team is interested in this project as it has been involved in the EOSIO core work since 2017 and has expertise in this area. These enhancements will increase the usability and functionality of the APIs.
+- **Name:** API Transaction Lifecycle
+- **Brief Description:** The API Transaction Lifecycle project consists of four main enhancements to the EOSIO API code: a) Transaction Retry, b) Transaction Finality API, c) Transaction Resource Cost Estimation, d) Subjective Billing Improvements.
+- **Relationship to EOSIO:** The API Transaction Lifecycle project contains four main improvements to the EOSIO core APIs. The APIs are a critical component of the EOSIO code that allow applications to interact with the blockchain.
+- **Reason for Interest:** The OCI team is interested in this project as it has been involved in the EOSIO core work since 2017 and has expertise in this area. These enhancements will increase the usability and functionality of the APIs.
 
 ### Project Details
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-- A. Transaction Retry. Nodes will monitor transactions as they are sent into the system and ensure they are resubmitted into the system if they are not processed in a configurable timeperiod. This feature will establish a pool of known incoming transactions and monitor their inclusion into the blockchain. Once the system reaches an acceptable level of confidence that a transaction has been included in a block, the transaction can be pruned from the pool. If a transaction is identified as missing from the blockchain based on the given criteria, it will attempt to resubmit the transaction to the network for inclusion in future blocks until the point it expires.
-- B. Transaction Finality Status. Nodes will monitor transactions as they are sent into the system and will provide a new API method to report transaction status.
-- C. Transaction Resource Cost Estimation. Nodes will provide an estimate of resources (central processing unit (CPU), random access memory (RAM), and internet bandwidth (NET)) to perform a transaction when a transaction is sent to send_transaction with read_only flag set true.  The transaction will be applied subjectively to the local chain to calculate subjective resource costs like CPU and NET and also determine the resulting deltas in RAM usage. The response will be returned to the client to inform them of the costs associated with the given transaction data.
-- D. Subjective Billing Improvements. Nodes will provide an added leeway per account to allow a more permissive “subjective billing” rate (rate of utilization) to provide a better user experience while maintaining system integrity.
+- **A. Transaction Retry:** Nodes will monitor transactions as they are sent into the system and ensure they are resubmitted into the system if they are not processed in a configurable timeperiod. This feature will establish a pool of known incoming transactions and monitor their inclusion into the blockchain. Once the system reaches an acceptable level of confidence that a transaction has been included in a block, the transaction can be pruned from the pool. If a transaction is identified as missing from the blockchain based on the given criteria, it will attempt to resubmit the transaction to the network for inclusion in future blocks until the point it expires.
+- **B. Transaction Finality Status:** Nodes will monitor transactions as they are sent into the system and will provide a new API method to report transaction status.
+- **C. Transaction Resource Cost Estimation:** Nodes will provide an estimate of resources (central processing unit (CPU), random access memory (RAM), and internet bandwidth (NET)) to perform a transaction when a transaction is sent to send_transaction with read_only flag set true.  The transaction will be applied subjectively to the local chain to calculate subjective resource costs like CPU and NET and also determine the resulting deltas in RAM usage. The response will be returned to the client to inform them of the costs associated with the given transaction data.
+- **D. Subjective Billing Improvements:** Nodes will provide an added leeway per account to allow a more permissive “subjective billing” rate (rate of utilization) to provide a better user experience while maintaining system integrity.
 
 ### Ecosystem Fit
 
@@ -127,7 +127,7 @@ the system and will provide a new API method to report transaction status. |
 ### Milestone 2 - Release Candidates: c) Transaction Resource Estimation, d) Subjective Billing Improvements
 
 - **Estimated Duration:** 5 weeks
-- **FTE:**  1
+- **FTE:**  3
 - **Costs:** $100,000 USD
 
 | Number | Deliverable | Specification |
@@ -142,7 +142,7 @@ the system and will provide a new API method to report transaction status. |
 ### Milestone 3 - Project Completion
 
 - **Estimated Duration:** 1 week
-- **FTE:**  1
+- **FTE:**  2
 - **Costs:** $80,000 USD
 
 ## Future Plans

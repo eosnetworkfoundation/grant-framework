@@ -21,10 +21,10 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 Please provide the following:
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
-- An indication of how your project relates to / integrates into EOSIO.
-- An indication of why your team is interested in creating this project.
+- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
+- **Brief Description:** A brief description of your project.
+- **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
+- **Reason for Interest:** An indication of why your team is interested in creating this project.
 
 ### Project Details
 
