@@ -120,8 +120,7 @@ If you've already started implementing your project or it is part of a larger re
 | 0c. | Unit Tests | Core functions will be fully covered by unit tests to ensure functionality and robustness. |
 | 0d. | Integration Tests | Integration tests will be developed including new and modified tests |
 | 1. | EOSIO API Transaction Retry | Nodes will monitor transactions as they are sent into the system and ensure they are resubmitted into the system if they are not processed in a configurable timeperiod. This feature will establish a pool of known incoming transactions and monitor their inclusion into the blockchain. Once the system reaches an acceptable level of confidence that a transaction has been included in a block, the transaction can be pruned from the pool. If a transaction is identified as missing from the blockchain based on the given criteria, it will attempt to resubmit the transaction to the network for inclusion in future blocks until the point it expires. |  
-| 2. | EOSIO API Transaction Finality Status | Nodes will monitor transactions as they are sent into
-the system and will provide a new API method to report transaction status. |  
+| 2. | EOSIO API Transaction Finality Status | Nodes will monitor transactions as they are sent into the system and will provide a new API method to report transaction status. |  
 
 
 ### Milestone 2 - Release Candidates: c) Transaction Resource Estimation, d) Subjective Billing Improvements
