@@ -56,13 +56,14 @@ This project is is in response to the API Blue Paper section titled: API Transac
 
 Multiple members of the OCI team have worked on the EOSIO code base.  Kevin Heifner is one of the top contributors in the EOSIO repo and has worked as a contractor for block.one since 2017.  The OCI team has been involved in almost all development aspects of the EOSIO code base.
 
-### Team Code Repos
+### Team Org Repos
 
 - https://github.com/objectcomputing/
 - https://github.com/objectcomputing/OpenDDS
 - https://github.com/micronaut-projects/micronaut-core
 - https://github.com/grails/grails-core
 
+### Team Member Repos
 - https://github.com/brianjohnson5972
 - https://github.com/heifner
 - https://github.com/jgiszczak
