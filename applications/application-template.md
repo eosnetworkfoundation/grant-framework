@@ -112,7 +112,7 @@ For each milestone,
 - provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
 - commit to providing Dockerfiles for the delivery of your project.
 - indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0d are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
+- **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
 
 > :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
@@ -135,9 +135,9 @@ For each milestone,
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
 | 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | EOSIO Sub-module: X | We will create a Substrate module that will... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | EOSIO Sub-module: Y | We will create a Substrate module that will... |  
-| 3. | EOSIO Sub-module: Z | We will create a Substrate module that will... |  
+| 1. | EOSIO Sub-module: X | We will create a EOSIO module that will... (Please list the functionality that will be implemented for the first milestone) |  
+| 2. | EOSIO Sub-module: Y | We will create a EOSIO module that will... |  
+| 3. | EOSIO Sub-module: Z | We will create a EOSIO module that will... |  
 | 4. | EOSIO chain | Sub-modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
 
 
