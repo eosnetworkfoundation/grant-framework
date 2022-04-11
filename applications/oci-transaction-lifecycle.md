@@ -66,6 +66,8 @@ Multiple members of the OCI team have worked on the EOSIO code base.  Kevin Heif
 
 - https://github.com/objectcomputing/
 - https://github.com/objectcomputing/OpenDDS
+- https://github.com/micronaut-projects/micronaut-core
+- https://github.com/grails/grails-core
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
