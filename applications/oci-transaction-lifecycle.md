@@ -11,8 +11,6 @@ This project is is in response to the API Blue Paper section titled: API Transac
 
 ### Overview
 
-Please provide the following:
-
 - **Name:** API Transaction Lifecycle
 - **Brief Description:** The API Transaction Lifecycle project consists of four main enhancements to the EOSIO API code: a) Transaction Retry, b) Transaction Finality API, c) Transaction Resource Cost Estimation, d) Subjective Billing Improvements.
 - **Relationship to EOSIO:** The API Transaction Lifecycle project contains four main improvements to the EOSIO core APIs. The APIs are a critical component of the EOSIO code that allow applications to interact with the blockchain.
@@ -20,16 +18,12 @@ Please provide the following:
 
 ### Project Details
 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
-
 - **A. Transaction Retry:** Nodes will monitor transactions as they are sent into the system and ensure they are resubmitted into the system if they are not processed in a configurable timeperiod. This feature will establish a pool of known incoming transactions and monitor their inclusion into the blockchain. Once the system reaches an acceptable level of confidence that a transaction has been included in a block, the transaction can be pruned from the pool. If a transaction is identified as missing from the blockchain based on the given criteria, it will attempt to resubmit the transaction to the network for inclusion in future blocks until the point it expires.
 - **B. Transaction Finality Status:** Nodes will monitor transactions as they are sent into the system and will provide a new API method to report transaction status.
 - **C. Transaction Resource Cost Estimation:** Nodes will provide an estimate of resources (central processing unit (CPU), random access memory (RAM), and internet bandwidth (NET)) to perform a transaction when a transaction is sent to send_transaction with read_only flag set true.  The transaction will be applied subjectively to the local chain to calculate subjective resource costs like CPU and NET and also determine the resulting deltas in RAM usage. The response will be returned to the client to inform them of the costs associated with the given transaction data.
 - **D. Subjective Billing Improvements:** Nodes will provide an added leeway per account to allow a more permissive “subjective billing” rate (rate of utilization) to provide a better user experience while maintaining system integrity.
 
 ### Ecosystem Fit
-
-Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
 
 - This project fits into the EOSIO Core code.
 - Target Audience: EOSIO application and SDK developers
@@ -68,8 +62,6 @@ Multiple members of the OCI team have worked on the EOSIO code base.  Kevin Heif
 - https://github.com/objectcomputing/OpenDDS
 - https://github.com/micronaut-projects/micronaut-core
 - https://github.com/grails/grails-core
-
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
 - https://github.com/brianjohnson5972
 - https://github.com/heifner
