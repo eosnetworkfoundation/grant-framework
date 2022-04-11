@@ -72,13 +72,15 @@
 
 > If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
 
-### Team Code Repos
+### Team Org Repos
 
 - https://github.com/<your_organisation>
 - https://github.com/<your_organisation>/<project_1>
 - https://github.com/<your_organisation>/<project_2>
 
 > Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+
+### Team Member Repos
 
 - https://github.com/<team_member_1>
 - https://github.com/<team_member_2>
