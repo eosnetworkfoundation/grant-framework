@@ -18,10 +18,10 @@ This project is is in response to the API Blue Paper section titled: API Transac
 
 ### Project Details
 
-- **A. Transaction Retry:** Nodes will monitor transactions as they are sent into the system and ensure they are resubmitted into the system if they are not processed in a configurable timeperiod. This feature will establish a pool of known incoming transactions and monitor their inclusion into the blockchain. Once the system reaches an acceptable level of confidence that a transaction has been included in a block, the transaction can be pruned from the pool. If a transaction is identified as missing from the blockchain based on the given criteria, it will attempt to resubmit the transaction to the network for inclusion in future blocks until the point it expires.
-- **B. Transaction Finality Status:** Nodes will monitor transactions as they are sent into the system and will provide a new API method to report transaction status.
-- **C. Transaction Resource Cost Estimation:** Nodes will provide an estimate of resources (central processing unit (CPU), random access memory (RAM), and internet bandwidth (NET)) to perform a transaction when a transaction is sent to send_transaction with read_only flag set true.  The transaction will be applied subjectively to the local chain to calculate subjective resource costs like CPU and NET and also determine the resulting deltas in RAM usage. The response will be returned to the client to inform them of the costs associated with the given transaction data.
-- **D. Subjective Billing Improvements:** Nodes will provide an added leeway per account to allow a more permissive “subjective billing” rate (rate of utilization) to provide a better user experience while maintaining system integrity.
+- **A. Transaction Retry:** API nodes will monitor their transactions as they are sent into the system and ensure they are resubmitted into the system if they are not processed in a configurable timeperiod. This feature will establish a pool of known incoming transactions and monitor their inclusion into the blockchain. Once the system reaches an acceptable level of confidence that a transaction has been included in a block, the transaction can be pruned from the pool. If a transaction is identified as missing from the blockchain based on the given criteria, it will attempt to resubmit the transaction to the network for inclusion in future blocks until the point it expires.
+- **B. Transaction Finality Status:** API nodes will monitor their transactions as they are sent into the system and will provide a new API method to report transaction status.
+- **C. Transaction Resource Cost Estimation:** Nodes will provide an estimate of resources (central processing unit (CPU), random access memory (RAM), and internet bandwidth (NET)) to perform a transaction when a transaction is sent to new compute_transaction endpoint.  The transaction will be applied subjectively to the local chain to calculate resource costs like CPU and NET and also determine the resulting deltas in RAM usage. The response will be returned to the client to inform them of the costs associated with the given transaction data.
+- **D. Subjective Billing Improvements:** Nodes will provide an added leeway per account to allow a more permissive “subjective billing” rate (rate of utilization) to provide a better user experience while maintaining system integrity. The existing subjective CPU decay window will be made configurable from the existing hard-coded value of 24 hours to allow node opperators to provide a more relaxed subjective CPU penalty to their users. The existing `disable-subjective-account-billing` will be expanded to also apply to the 3-strike rule allowing block producers to prevent abnormal transaction loss for accounts expected to sometimes fail during production.
 
 ### Ecosystem Fit
 
@@ -38,7 +38,7 @@ This project is is in response to the API Blue Paper section titled: API Transac
 - Kevin Heifner
 - Jonathan Giszczak
 - Chris Gundlach
-- Huang-Ming  Huang
+- Huang-Ming Huang
 - Alice C. Dames (PM)
 - John W. Schultz
 
@@ -111,7 +111,7 @@ If you've already started implementing your project or it is part of a larger re
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | MIT |
-| 0b. | Documentation | We will provide documentation of the APIs in Markdown as well as documentation suitable for release notes  |
+| 0b. | Documentation | OCI will provide documentation of the APIs in Markdown as well as documentation suitable for release notes  |
 | 0c. | Unit Tests | Core functions will be fully covered by unit tests to ensure functionality and robustness. |
 | 0d. | Integration Tests | Integration tests will be developed including new and modified tests |
 | 1. | EOSIO API Transaction Retry | Nodes will monitor transactions as they are sent into the system and ensure they are resubmitted into the system if they are not processed in a configurable timeperiod. This feature will establish a pool of known incoming transactions and monitor their inclusion into the blockchain. Once the system reaches an acceptable level of confidence that a transaction has been included in a block, the transaction can be pruned from the pool. If a transaction is identified as missing from the blockchain based on the given criteria, it will attempt to resubmit the transaction to the network for inclusion in future blocks until the point it expires. |  
@@ -127,11 +127,11 @@ If you've already started implementing your project or it is part of a larger re
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | MIT |
-| 0b. | Documentation | We will provide documentation of the APIs in Markdown as well as documentation suitable for release notes  |
+| 0b. | Documentation | OCI will provide documentation of the APIs in Markdown as well as documentation suitable for release notes  |
 | 0c. | Unit Tests | Core functions will be fully covered by unit tests to ensure functionality and robustness. |
 | 0d. | Integration Tests | Integration tests will be developed including new and modified tests |
-| 1. | EOSIO Transaction Resource Cost Estimation | Nodes will provide an estimate of resources (central processing unit (CPU), random access memory (RAM), and internet bandwidth (NET)) to perform a transaction when a transaction is sent to send_transaction with read_only flag set true.  The transaction will be applied subjectively to the local chain to calculate subjective resource costs like CPU and NET and also determine the resulting deltas in RAM usage. The response will be returned to the client to inform them of the costs associated with the given transaction data. |  
-| 2. | EOSIO Subjective Billing Improvements | Nodes will provide an added leeway per account to allow a more permissive “subjective billing” rate (rate of utilization) to provide a better user experience while maintaining system integrity. |  
+| 1. | EOSIO Transaction Resource Cost Estimation | Nodes will provide an estimate of resources (central processing unit (CPU), random access memory (RAM), and internet bandwidth (NET)) to perform a transaction when a transaction is sent to compute_transaction.  The transaction will be applied subjectively to the local chain to calculate resource costs like CPU and NET and also determine the resulting deltas in RAM usage. The response will be returned to the client to inform them of the costs associated with the given transaction data. |  
+| 2. | EOSIO Subjective Billing Improvements | Nodes will provide an added leeway per account to allow a more permissive “subjective billing” rate (rate of utilization) to provide a better user experience while maintaining system integrity. The existing subjective CPU decay window will be made configurable from the existing hard-coded value of 24 hours to allow node opperators to provide a more relaxed subjective CPU penalty to their users. The existing `disable-subjective-account-billing` will be expanded to also apply to the 3-strike rule allowing block producers to prevent abnormal transaction loss for accounts expected to sometimes fail during production. |  
 
 ### Milestone 3 - Project Completion
 
