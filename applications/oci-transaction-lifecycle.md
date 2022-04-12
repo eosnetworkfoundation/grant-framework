@@ -2,7 +2,7 @@
 
 - **Project Name:** API Transaction Lifecycle
 - **Team Name:** OCI, Object Computing, Inc.
-- **Payment Address:**  N/A
+- **EOS Payment Address:**  N/A
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 
 ## Project Overview
