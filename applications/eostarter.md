@@ -5,21 +5,18 @@
 - **EOS Payment Address: eostartereos** 
 - **Level: 3**
 
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
-
 ## Project Overview
 
-> If this application is in response to an RFP, please indicate this on the first line of this section.
-
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
+EOSTARTER is a community-powered Incubator for new projects building on EOS. We are building a Gamified Launchpad Platform where investors can participate in early-stage projects and be part of their success. As part of our business model, we launch Token Presales and NFT Drops for teams and companies that build their products on EOSIO.
 
 ### Overview
 
-> Please provide the following:
+- **Name:** EOSTARTER TokenSale Platform 
 
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
+- **Brief Description:** We are proposing to develop a Token Sale Smart Contract Platform that allows for the crowdsourcing of projects VIA a Token Sale that can be configured with different parameters like Staking Requirements, whitelisting requirements, token vesting, milestone-based funding, and more.
+
+- **Relationship to EOSIO:** At EOSTARTER, we believe that EOSIO is only as valuable as the products and applications built on top of it, and this is our main focus to incentivize the growth of the ecosystem. Is short: “Succesful EOSIO Projects means Succesful EOSIO”
+- 
 - **Reason for Interest:** An indication of why your team is interested in creating this project.
 
 ### Project Details
