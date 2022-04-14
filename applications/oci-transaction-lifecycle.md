@@ -20,12 +20,12 @@ This project is in response to the API Blue Paper section titled: API Transactio
 
 - **A. Transaction Retry:** API nodes will monitor transactions as they enter the system and ensure they are resubmitted into the system if they are not processed in a configurable time period. This feature will establish a pool of known incoming transactions and monitor their inclusion into the blockchain. Once the system reaches an acceptable level of confidence that a transaction has been included in a block, the transaction can be pruned from the pool. If a transaction is identified as missing from the blockchain based on the given criteria, the Transaction Retry feature will attempt to resubmit the transaction to the network for inclusion in future blocks until the point at which the transaction expires.
 - **B. Transaction Finality Status:** API nodes will monitor transactions as they enter the system and provide a new API method to report transaction status.
-- **C. Transaction Resource Cost Estimation:** API nodes will provide an estimate of resources (central processing unit (CPU), random access memory (RAM), and internet bandwidth (NET)) to perform a transaction when a transaction is sent to a new compute_transaction endpoint. The transaction will be applied subjectively to the local chain to calculate resource costs like CPU and NET and determine the resulting deltas in RAM usage. The response will be returned to the client to inform them of the costs associated with the given transaction data.
+- **C. Transaction Resource Cost Estimation:** API nodes will provide an estimate of resources (central processing unit (CPU), random access memory (RAM), and internet bandwidth (NET)) to perform a transaction when a transaction is sent to a new 'compute_transaction' endpoint. The transaction will be applied subjectively to the local chain to calculate resource costs like CPU and NET and determine the resulting deltas in RAM usage. The response will be returned to the client to inform them of the costs associated with the given transaction data.
 - **D. Subjective Billing Improvements:** API nodes will provide an added leeway per account that allows a more permissive “subjective billing” rate (rate of utilization) in order to provide a better user experience while maintaining system integrity. The existing subjective CPU decay window will be made configurable from the existing hard-coded value of 24 hours to allow node operators to provide a more relaxed subjective CPU penalty to users. The existing `disable-subjective-account-billing` function will be expanded to also apply to the 3-strike rule, allowing block producers to prevent abnormal transaction loss for accounts expected to sometimes fail during production.
 
 ### Ecosystem Fit
 
-- This project fits into the EOSIO Core code.
+- This project fits into the EOSIO Core code
 - Target Audience: EOSIO application and SDK developers
 - The project improves the usability of the EOSIO APIs in multiple ways
 - We are not aware of other projects similar to this in the EOSIO ecosystem
@@ -86,14 +86,14 @@ The OCI team has been involved in almost all development aspects of the EOSIO co
 
 - https://github.com/eosnetworkfoundation/mandel/tree/feature/oci_api_phase1
 - [EOS API Blue Paper](https://medium.com/eos-network-foundation/api-blue-paper-e78c0be0d878)
-- conversations related to this project with stakeholders from the EOS Network Foundation (Yves La Rose discussed).
+- Requirements were worked out over multiple meetings with API working group team members and with ENF CEO (Yves La Rose)
 
 ## Development Roadmap
 
 ### Overview
 
 - **Total Estimated Duration:** 3 months
-- **Full-Time Equivalent (FTE):**  3 not including PM
+- **Full-Time Equivalent (FTE):**  3, not including PM
 - **Total Costs:** $380,000 USD
 
 ### Milestone 0 - Initiate Project
@@ -130,7 +130,7 @@ The OCI team has been involved in almost all development aspects of the EOSIO co
 | 0b. | Documentation | OCI will provide documentation of the APIs in Markdown, as well as documentation suitable for release notes.  |
 | 0c. | Unit Tests | Core functions will be fully covered by unit tests to ensure functionality and robustness. |
 | 0d. | Integration Tests | Integration tests will be developed, including new and modified tests. |
-| 1. | EOSIO Transaction Resource Cost Estimation | Nodes will provide an estimate of resources (central processing unit (CPU), random access memory (RAM), and internet bandwidth (NET)) to perform a transaction when a transaction is sent to compute_transaction. The transaction will be applied subjectively to the local chain to calculate resource costs like CPU and NET and determine the resulting deltas in RAM usage. The response will be returned to the client to inform them of the costs associated with the given transaction data. |  
+| 1. | EOSIO Transaction Resource Cost Estimation | Nodes will provide an estimate of resources (central processing unit (CPU), random access memory (RAM), and internet bandwidth (NET)) to perform a transaction when a transaction is sent to 'compute_transaction'. The transaction will be applied subjectively to the local chain to calculate resource costs like CPU and NET and determine the resulting deltas in RAM usage. The response will be returned to the client to inform them of the costs associated with the given transaction data. |  
 | 2. | EOSIO Subjective Billing Improvements | Nodes will provide an added leeway per account that allows a more permissive “subjective billing” rate (rate of utilization) in order to provide a better user experience while maintaining system integrity. The existing subjective CPU decay window will be made configurable from the existing hard-coded value of 24 hours to allow node operators to provide a more relaxed subjective CPU penalty to their users. The existing `disable-subjective-account-billing` function will be expanded to also apply to the 3-strike rule, allowing block producers to prevent abnormal transaction loss for accounts expected to sometimes fail during production. |  
 
 ### Milestone 3 - Project Completion
