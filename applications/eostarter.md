@@ -1,9 +1,9 @@
 # EOS Network Foundation Grant Proposal
 
-- **EOSTARTER**
-- **Eostarter Ltd.** 
+- **Project Name: EOSTARTER**
+- **Team Name: Eostarter Ltd.** 
 - **EOS Payment Address: eostartereos** 
-- **[Level]3**
+- **Level: 3**
 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
