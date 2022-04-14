@@ -20,8 +20,8 @@ This project is in response to the API Blue Paper section titled: API Transactio
 
 - **A. Transaction Retry:** API nodes will monitor transactions as they enter the system and ensure they are resubmitted into the system if they are not processed in a configurable time period. This feature will establish a pool of known incoming transactions and monitor their inclusion into the blockchain. Once the system reaches an acceptable level of confidence that a transaction has been included in a block, the transaction can be pruned from the pool. If a transaction is identified as missing from the blockchain based on the given criteria, the Transaction Retry feature will attempt to resubmit the transaction to the network for inclusion in future blocks until the point at which the transaction expires.
 - **B. Transaction Finality Status:** API nodes will monitor transactions as they enter the system and provide a new API method to report transaction status.
-- **C. Transaction Resource Cost Estimation:** Nodes will provide an estimate of resources (central processing unit (CPU), random access memory (RAM), and internet bandwidth (NET)) to perform a transaction when a transaction is sent to a new compute_transaction endpoint. The transaction will be applied subjectively to the local chain to calculate resource costs like CPU and NET and determine the resulting deltas in RAM usage. The response will be returned to the client to inform them of the costs associated with the given transaction data.
-- **D. Subjective Billing Improvements:** Nodes will provide an added leeway per account that allows a more permissive “subjective billing” rate (rate of utilization) in order to provide a better user experience while maintaining system integrity. The existing subjective CPU decay window will be made configurable from the existing hard-coded value of 24 hours to allow node operators to provide a more relaxed subjective CPU penalty to users. The existing `disable-subjective-account-billing` function will be expanded to also apply to the 3-strike rule, allowing block producers to prevent abnormal transaction loss for accounts expected to sometimes fail during production.
+- **C. Transaction Resource Cost Estimation:** API nodes will provide an estimate of resources (central processing unit (CPU), random access memory (RAM), and internet bandwidth (NET)) to perform a transaction when a transaction is sent to a new compute_transaction endpoint. The transaction will be applied subjectively to the local chain to calculate resource costs like CPU and NET and determine the resulting deltas in RAM usage. The response will be returned to the client to inform them of the costs associated with the given transaction data.
+- **D. Subjective Billing Improvements:** API nodes will provide an added leeway per account that allows a more permissive “subjective billing” rate (rate of utilization) in order to provide a better user experience while maintaining system integrity. The existing subjective CPU decay window will be made configurable from the existing hard-coded value of 24 hours to allow node operators to provide a more relaxed subjective CPU penalty to users. The existing `disable-subjective-account-billing` function will be expanded to also apply to the 3-strike rule, allowing block producers to prevent abnormal transaction loss for accounts expected to sometimes fail during production.
 
 ### Ecosystem Fit
 
@@ -40,12 +40,12 @@ This project is in response to the API Blue Paper section titled: API Transactio
 - Chris Gundlach
 - Huang-Ming Huang
 - Alice C. Dames (PM)
-- John W. Schultz
+- John W. Schultz (DM)
 
 ### Contact
 
-- **Contact Name:** Alice C. Dames
-- **Contact Email:** damesa@objectcomputing.com
+- **Contact Name:** Dan Fedj
+- **Contact Email:** fedjd@objectcomputing.com
 - **Website:** https://objectcomputing.com/
 
 ### Legal Structure
@@ -68,6 +68,7 @@ The OCI team has been involved in almost all development aspects of the EOSIO co
 - https://github.com/heifner
 - https://github.com/jgiszczak
 - https://github.com/cj-oci
+- https://github.com/huangminghuang
 
 ### Team LinkedIn Profiles
 
@@ -83,6 +84,7 @@ The OCI team has been involved in almost all development aspects of the EOSIO co
 
 ## Development Status
 
+- https://github.com/eosnetworkfoundation/mandel/tree/feature/oci_api_phase1
 - [EOS API Blue Paper](https://medium.com/eos-network-foundation/api-blue-paper-e78c0be0d878)
 - conversations related to this project with stakeholders from the EOS Network Foundation (Yves La Rose discussed).
 
@@ -91,7 +93,7 @@ The OCI team has been involved in almost all development aspects of the EOSIO co
 ### Overview
 
 - **Total Estimated Duration:** 3 months
-- **Full-Time Equivalent (FTE):**  three (3) not including PM
+- **Full-Time Equivalent (FTE):**  3 not including PM
 - **Total Costs:** $380,000 USD
 
 ### Milestone 0 - Initiate Project
@@ -102,7 +104,7 @@ The OCI team has been involved in almost all development aspects of the EOSIO co
 
 ### Milestone 1 - Release Candidates: a) Transaction Retry, b) Transaction Finality Status
 
-- **Estimated duration:** 5 weeks
+- **Estimated duration:** 12 weeks
 - **FTE:**  2
 - **Costs:** $150,000 USD
 
@@ -118,8 +120,8 @@ The OCI team has been involved in almost all development aspects of the EOSIO co
 
 ### Milestone 2 - Release Candidates: c) Transaction Resource Estimation, d) Subjective Billing Improvements
 
-- **Estimated Duration:** 5 weeks
-- **FTE:**  3
+- **Estimated Duration:** 8 weeks
+- **FTE:**  2
 - **Costs:** $100,000 USD
 
 | Number | Deliverable | Specification |
