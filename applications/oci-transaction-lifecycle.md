@@ -54,7 +54,7 @@ This project is in response to the API Blue Paper section titled: API Transactio
 
 ### Team Experience
 
-Multiple members of the OCI team have worked on the EOSIO code base. Kevin Heifner is one of the top contributors in the EOSIO repo and has worked as a contractor for block.one since 2017. The OCI team has been involved in almost all development aspects of the EOSIO code base.
+The OCI team has been involved in almost all development aspects of the EOSIO code base since 2017. Multiple members of the OCI team have worked on the EOSIO code base, and Brian Johnson and Kevin Heifner are top contributors to the EOSIO repo. 
 
 ### Team Org Repos
 
