@@ -16,84 +16,148 @@ EOSTARTER is a community-powered Incubator for new projects building on EOS. We 
 - **Brief Description:** We are proposing to develop a Token Sale Smart Contract Platform that allows for the crowdsourcing of projects VIA a Token Sale that can be configured with different parameters like Staking Requirements, whitelisting requirements, token vesting, milestone-based funding, and more.
 
 - **Relationship to EOSIO:** At EOSTARTER, we believe that EOSIO is only as valuable as the products and applications built on top of it, and this is our main focus to incentivize the growth of the ecosystem. Is short: “Succesful EOSIO Projects means Succesful EOSIO”
-- 
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+
+- **Reason for Interest:** Our team's founder has been involved in EOS since Genesis and has been dedicating most of his energy and focus since to growing the ecosystem and bringing in new projects to build on EOS. We believe a new era for builders and entrepreneurs is coming to EOSIO. If we can build a platform that facilitates new projects to launch and build a community while also promoting the use of EOS and other EOSIO Tokens, then we all win!
 
 ### Project Details
 
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
+The core details for the TokenSale Platform have been laid out in this article we posted for our initial Pomelo grant: https://medium.com/eostarter/eostarter-tokensale-platform-scope-of-work-4cb153c33ab6
 
-- Mockups/designs of any UI components
+- Mockups/designs of any UI components: 
+  The final UI components for the TokenSale platform are yet to be designed.
+  
 - Data models / API specifications of the core functionality
+  The Data Model can be observed in our current TokenSale Smart Contract MVP: https://github.com/eostarter/eostarter.sale-smart-contract
+
 - An overview of the technology stack to be used
+  This project features all the latest technologies and practices in the industry.
+- Hapi
+- Hasura
+- React
+- Kubernetes
+- EOSIO
+
 - Documentation of core components, protocols, architecture, etc. to be deployed
+  The core documentation for the platform requirements can be read here: https://github.com/eostarter/token-sale-platform
+  
 - PoC/MVP or other relevant prior work or research on the topic
+  We have a working DEMO of the SmartContract ready to test on Jungle at: https://tokensale.eosio.cr/
+  * Please contact us so that we can verify your Jungle account as either an Investor or a Project Owner (the 2 main users for the platform)
+
 - What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+  - We are not building a Decentralized Exchange, there is no DeFi algoithms involved other than the sale of a projects tokens at a detemrined Price
+  - Our project will NOT develop an NFT Market Place, but rather leverage existing NFT MarketPlaces like AtomicHub for the NFT Drops
 
 ### Ecosystem Fit
 
-> Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
-
 - Where and how does your project fit into the ecosystem?
+  EOSTARTER Fits into the category of Ecosystem Growth.
+  By promoting EOSIo Projects to new potential investors, we not only motivate entrepreneurs to build on EOS, but we also motivate EOS Holders to take their EOS OFF of exchanges and put them to use and support the growing ecosystem.
+  
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the EOSIO ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+  We have 2 major focuses as Target Audiences:
+  1 - Early-stage Crypto Investors 
+  2 - Entrepreneurs and Developers
 
+- What need(s) does your project meet?
+  EOSTARTER provides a solution for projects wanting to get early-stage funding from the community, and it provides a good method for community members and investors to get access to projects very early on.
+
+- Are there any other projects similar to yours in the EOSIO ecosystem?
+  There is another launchpad called T-starter built on Telos: https://tstarter.io/
+  They are mainly Telos-Focused and there hasn't been large raises on the Launchpad. We believe we can improve both on the experience and on the actual token sales.
+  Outside of EOSIO, there are dozens of Launchpads. Lately, every Category in Crypto has a dedicated Launchpad. ALL Major Blockchain Platforms have a go-to Launchpad for the community to get a glimpse of the projects building on that platform. We aim to be the EOS premier Launchpad.
+   
 ## Team
+
+Our team is small but very Strong. It is conmprised of highly experienced engineers, EOS Genesis Holders, and avid community Builders. 
+We are also partnering with Edenia (EOS CostaRica) to increase our Development capacity: https://medium.com/eostarter/eostarter-and-eos-costa-rica-enter-a-strategic-partnership-59b7119ac93c
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- Team Leader: Hernan Arber
+- CTO: Ami Heines
+- Lead Developer: Yehven Hayevyi
+- Community Manager: Veronica Diaz
+
+Advisors:
+- Ryan Bethem @ Chintai
+- Ben Sigman @ Sense Chat
+- Kenny + Sean @ Writer
+- Chris Barnes @ Helios
+- Bohdan + Roman @ CryptoLions
+- Dimo @ InfiniteX (EOS Bulgaria)
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:**
+- **Contact Name:** Hernan Arber
+- **Contact Email:** hernanarber@gmail.com
+- **Website:** https://eostarter.org/
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
+- **Registered Legal Entity:** Eostarter Ltd.
+- **Registered Address:** Craigmuir Chambers, Road Town, Tortola, VG 1110, British Virgin Islands.
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
-
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+- Hernan Arber
+  Founder @ EOS Israel
+  Previously Director of Mobile Engineering @ Voice (Owned by B1)
+  Serial Entrepreneur and Software Team Leader
+  Eden Delegate:
+  https://genesis.eden.eoscommunity.org/members/eoshernaneos
+  
+- Ami Heines:
+  Experienced CTO 
+  EOS in a Box
+  EOSIO contribuitor: https://github.com/amih
+  Eden Delegate:
+  https://genesis.eden.eoscommunity.org/members/amiamiamiami
+  
+- Yehven Hayievi:
+  Professional Software Engineer: https://www.linkedin.com/in/yevhen-haievyi-b37361174/
+  Developed the FrontEnd for EOSTARTER: https://eostarter.org/
+  EOS Community Member and Contrbuitor
+  
+- Veronica Diaz:
+  Experienced Community Manager 
+  Founder of Creamy Vanil + EOS Vision
+  Contribuitor @ EOS Bees, DefiBox, and more EOS Projects
 
 ### Team Org Repos
 
-- https://github.com/<your_organisation>
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
+- https://github.com/eostarter
+- https://github.com/eostarter/token-sale-platform
+- https://github.com/eostarter/eostarter.sale-smart-contract
 
 > Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
 ### Team Member Repos
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- https://github.com/orgs/eostarter/people/hernanarber
+- https://github.com/orgs/eostarter/people/amih
+- https://github.com/orgs/eostarter/people/SoA432
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- Yevhen: https://www.linkedin.com/in/yevhen-haievyi-b37361174/
+- Hernan: https://www.linkedin.com/in/hernanarber/
+- Ami: https://www.linkedin.com/in/ami-heines/
 
 ## Development Status
 
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
+- We have a working DEMO of the SmartContract ready to test on Jungle at: https://tokensale.eosio.cr/
+  * Please contact us so that we can verify your Jungle account as either an Investor or a Project Owner (the 2 main users for the platform)
 
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+- This is only the initial Verison of the Contract, but we can work with it once its audited for the first token sales.
+
+- We launched the largest NFT Sale on EOS by Volume when we launched our Tartier Sale: https://medium.com/eostarter/the-tartiers-nft-drop-was-a-massive-success-what-comes-next-4e83d3a81e63
+
+We are also developing an NFT Collecting Game to increase engagement and Long-term user loyatly: https://medium.com/eostarter/enter-master-tarters-magic-bakery-c4d8677bae1f
 
 ## Development Roadmap
+
+In Terms of the EOSTARTER Project, the Full Roadmap is available here: https://medium.com/eostarter/eostarter-the-road-ahead-446477d84259
+We have been delayed due to budget constraints among other factors, but that outlines the major vision.
 
 This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
 
