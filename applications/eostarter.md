@@ -163,33 +163,26 @@ We are also developing an NFT Collecting Game to increase engagement and Long-te
 In Terms of the EOSTARTER Project, the Full Roadmap is available here: https://medium.com/eostarter/eostarter-the-road-ahead-446477d84259
 We have been delayed due to budget constraints among other factors, but that outlines the major vision.
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to the EOS ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
+It is important that at the moment, we don't have the budget to employ developers Full-time. This grant will allow us to Hire the Required team members on a Full-time Basis
 
 ### Overview
 
 - **Total Estimated Duration:** The Development of the Full platform will require 3 Months of development, which includes 1 month of Testing and deployment. The complete set of features for the platform will require an extra 2-3 months depending on the maintenance work needed on the deployed platform.
 - **Full-Time Equivalent (FTE):**  5
-- **Total Costs:** The Requested amount for the project is $150,000. If the actual cost of the development turns out being less, we will spend the remaining funds in Testing, auditing, and developing the next tranche of features for the project.
+- **Total Costs:** The Requested amount for the completion of the project is $160,000. 
 
 ### Milestone 1 — Basic Token Sale Development @ TestNet (End-To-End Features)
 
-- **Estimated duration:** 2 months + 1 month with Full Testing, Deployment, and Documentation
+- **Estimated duration:** 2/3 months + 1 month with Full Testing, Deployment, and Documentation
 - **FTE:**  5
-- **Costs:** 90,000 USD
+- **Costs:** 105,560 USD 
+
+** Costs per Team Member ***
+280 hrs Project Lead = $22,400 
+126 hrs Blockchain Lead = $10,080
+252 hrs UI/UX Developer = $20,160
+378 hrs Frontend Developer = $22,680
+378 hrs Backend/Smart Contract = $30,240
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -205,9 +198,16 @@ For each milestone,
 
 ### Milestone 2 - TokenSale Platform @ Mainnet (Deployment to Mainnet and initial TokenSale Runs)
 
-- **Estimated Duration:** 1 month + 1 month of test runs and initial token sale launches
+** Costs per Team Member ***
+140 hrs Project Lead = $11,200
+63 hrs Blockchain Lead = $5,040
+126 hrs UI/UX Developer = $10,080
+189 hrs Frontend Developer = $11,340
+189 hrs Backend/Smart Contract = $15,120
+
+- **Estimated Duration:** 1.5/2 months + 1 month of test runs and initial token sale launches
 - **FTE:**  5
-- **Costs:** 60,000 USD
+- **Costs:** 52,780 USD 
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
