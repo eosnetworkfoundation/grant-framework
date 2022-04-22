@@ -122,6 +122,8 @@ Advisors:
   Experienced Community Manager 
   Founder of Creamy Vanil + EOS Vision
   Contribuitor @ EOS Bees, DefiBox, and more EOS Projects
+  
+  We also count with the experience of the Edenia Team that has developed complex system on EOS and are an essential development partner for this project.
 
 ### Team Org Repos
 
@@ -145,10 +147,12 @@ Advisors:
 
 ## Development Status
 
+- We Developed the Basic Smart Contract for the Platform with the help from the Season1 Pomelo funds and now want to perform a Security Audit to that smart contract: https://pomelo.io/grants/eostartertsc
+
 - We have a working DEMO of the SmartContract ready to test on Jungle at: https://tokensale.eosio.cr/
   * Please contact us so that we can verify your Jungle account as either an Investor or a Project Owner (the 2 main users for the platform)
 
-- This is only the initial Verison of the Contract, but we can work with it once its audited for the first token sales.
+- This is only the initial Verison of the Contract, but we can work with it (once its audited) for the first token sales.
 
 - We launched the largest NFT Sale on EOS by Volume when we launched our Tartier Sale: https://medium.com/eostarter/the-tartiers-nft-drop-was-a-massive-success-what-comes-next-4e83d3a81e63
 
@@ -177,52 +181,53 @@ For each milestone,
 
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
+- **Total Estimated Duration:** The Development of the Full platform will require 3 Months of development, which includes 1 month of Testing and deployment. The complete set of features for the platform will require an extra 2-3 months depending on the maintenance work needed on the deployed platform.
+- **Full-Time Equivalent (FTE):**  5
+- **Total Costs:** The Requested amount for the project is $150,000. If the actual cost of the development turns out being less, we will spend the remaining funds in Testing, auditing, and developing the next tranche of features for the project.
 
-### Milestone 1 Example — Implement EOSIO Sub-module
+### Milestone 1 — Basic Token Sale Development @ TestNet (End-To-End Features)
 
-- **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 8,000 USD
+- **Estimated duration:** 2 months + 1 month with Full Testing, Deployment, and Documentation
+- **FTE:**  5
+- **Costs:** 90,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | EOSIO Sub-module: X | We will create a EOSIO module that will... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | EOSIO Sub-module: Y | We will create a EOSIO module that will... |  
-| 3. | EOSIO Sub-module: Z | We will create a EOSIO module that will... |  
-| 4. | EOSIO chain | Sub-modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
+| 0a. | License | Apache 2.0 for the BackEnd + FrontEnd / MIT for the System Smart Contracts |
+| 0b. | Documentation | We will provide both **inline documentation** of the code, and **tutorials** both in written and video format that will explain users how to use the platform and how the system works. |
+| 0c. | Testing Guide | We will build a testing site for the smart contracts and deploye it publicly on the Jungle Testnet |
+| 0e. | Article | We will publish an **article** and tutorial **videos** for both investors and project owners (our 2 main users of the platform)
+| 1. | TOKENSALE Use-Case: General User | We will create the features required for a User to Suscribe, Login, Submit Details, Edit Profile, and Check account details |  
+| 2. | TOKENSALE Use-Case: Investor | We will create the features required for an Investor to suscribe to approved pools and deposit EOS according to their allocaiton |
+| 3. | TOKENSALE Use-Case: Project Owner | We will create the features required for a Project owner to setup a TokenSale and Submit it for approval |
+| 4. | TOKENSALE Use-Case: Admin | We will create the features required for a Platform Admin to Approve Projects, Launch amd End TokenSales and Manage their progress | 
+| 5. | TOKENSALE Platform Deployment: TestNet | We will deploy the platform onto Jungle Testnet and perform thorough tests and fix potential bugs | 
 
+### Milestone 2 - TokenSale Platform @ Mainnet (Deployment to Mainnet and initial TokenSale Runs)
 
-### Milestone 2 Example — Additional features
+- **Estimated Duration:** 1 month + 1 month of test runs and initial token sale launches
+- **FTE:**  5
+- **Costs:** 60,000 USD
 
-- **Estimated Duration:** 1 month
-- **FTE:**  1
-- **Costs:** 4,000 USD
-
-...
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | TOKENSALE Use-Case: General User | Verify Accounts + KYC Process prior to TokenSale Participations |  
+| 2. | TOKENSALE Use-Case: Investor | Manage Sales + Claim Tokens / Verify Account + KYC Process prior to TokenSale Participations |
+| 3. | TOKENSALE Use-Case: Project Owner | Manage Sale Status + Claim received EOS + Report on Milestones |
+| 4. | TOKENSALE Platform Support | Provide required Support mechanisms for Users + Project Owners | 
+| 5. | TOKENSALE Platform Deployment: Mainnet | We will create the features required for a Project owner to setup a TokenSale and Submit it for approval | 
 
 
 ## Future Plans
 
-> Please include here
+We plan to become the premier Launchpad for EOS Projects, this means not only building the platform but constantly improving it, engaging with the community and new projects that wish to launch on EOSTARTER. We want to develop an NFT Project Launchpad and subsequently build a full market-place for project launches and NFTs.
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
-
+It is no secret that succesful launches require a lot of capital injection and liquidity. We intend to continuosly engage investors both inside and specially outside the EOS community to bring in capital and help us launch new projects and potentially existing projects on other platforms that wish to expand onto EOS.
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** During one of the Fireside Chats on the EOS Discord
 
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
+**More about EOSTARTER** please check out our publications to get a better understanging of our track record and progress: https://medium.com/eostarter
 
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+Thank you very much for reviewing this application and I hope we are able to develop what we consider as a key piece of the growth for the EOS Ecosystem.
