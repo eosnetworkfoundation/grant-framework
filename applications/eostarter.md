@@ -177,12 +177,12 @@ It is important that at the moment, we don't have the budget to employ developer
 - **FTE:**  5
 - **Costs:** 105,560 USD 
 
-** Costs per Team Member ***
-280 hrs Project Lead = $22,400 
-126 hrs Blockchain Lead = $10,080
-252 hrs UI/UX Developer = $20,160
-378 hrs Frontend Developer = $22,680
-378 hrs Backend/Smart Contract = $30,240
+**Costs per Team Member**
+- 280 hrs Project Lead = $22,400 
+- 126 hrs Blockchain Lead = $10,080
+- 252 hrs UI/UX Developer = $20,160
+- 378 hrs Frontend Developer = $22,680
+- 378 hrs Backend/Smart Contract = $30,240
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -198,16 +198,16 @@ It is important that at the moment, we don't have the budget to employ developer
 
 ### Milestone 2 - TokenSale Platform @ Mainnet (Deployment to Mainnet and initial TokenSale Runs)
 
-** Costs per Team Member ***
-140 hrs Project Lead = $11,200
-63 hrs Blockchain Lead = $5,040
-126 hrs UI/UX Developer = $10,080
-189 hrs Frontend Developer = $11,340
-189 hrs Backend/Smart Contract = $15,120
-
 - **Estimated Duration:** 1.5/2 months + 1 month of test runs and initial token sale launches
 - **FTE:**  5
 - **Costs:** 52,780 USD 
+
+**Costs per Team Member**
+- 140 hrs Project Lead = $11,200
+- 63 hrs Blockchain Lead = $5,040
+- 126 hrs UI/UX Developer = $10,080
+- 189 hrs Frontend Developer = $11,340
+- 189 hrs Backend/Smart Contract = $15,120
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
