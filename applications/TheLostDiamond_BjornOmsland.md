@@ -45,10 +45,25 @@ Until we reach a self-sustaining level, we need to fund the $1,000 dollar lost d
 
 The current value of The Lost Diamond is $440 dollars. The Lost Diamond race is online, if you sign in with Anchor - and if you find The Lost Diamond, you and the checkpoint creator will both get $400 dollars - instantly paid out to your EOS-account.
 
-Our first milestone is to prove that we can onboard participants to the MVP and obtain a 22% monthly growth rate over several months. Showing detailed traction is crucial for future funding from e.g. investors, sponsors, ENF and/or Pomelo. 
+Our first milestone is to prove that we can onboard participants, that pay a $7 dollar monthly subscription fee, to the MVP and obtain a 22% monthly growth rate over several months. Showing detailed traction is crucial for future funding from e.g. investors, sponsors, ENF and/or Pomelo. 
 
-The first $1,000 dollar diamond will be announced in the beginning of May 2022 and will be self-funded. 
+The first $1,000 dollar diamond will be announced in the beginning of May 2022 and will be self-funded.
 
+What is the definition of a participant: A participant that pay a $7 dollar monthly subscription fee to participate in TheLostDiamond adventure race.
+
+What is the current baseline: 0 participants. We have not started marketing.   
+
+What is the explicit target number of users given the baseline:
+First milestone is to get 100 non-tech users to participate.
+
+Then our goal is a 22% monthly growth:
+- Month  1: 100 users + 22% growth = 122 active users per month
+- Month  2: 122 users + 22% growth = 148 active users per month
+- Month  3: 148 users + 22% growth = 180 active users per month
+- Month  6: 325 users + 22% growth = 396 active users per month
+- Month  12: 1,068 users + 22% growth = 1,303 active users per month
+- Month  24: 11,597 users + 22% growth = 14,148 active users per month
+- Month  36: 126,065 users + 22% growth = 153,799 active users per month
 
 ### Ecosystem Fit
 
@@ -124,8 +139,7 @@ Development, testing and feedback from all the single-event races is the foundat
 
 **Marketing Roadmap**
 
-The market rollout strategy is divided into 24 monthly marketing campaigns. Each with a key result goal of 22% average growth rate.
-Milestone 1 covers the two first 24 monthly marketing campaigns. (Our understanding of the ENF grant framework is that we can only apply for $10,000 in the first request. If possible, we will apply again when Milestone 1 is accomplished within acceptable levels).
+The first milestone (2 months duration) is to get a baseline of 100 non-tech people paying a $7 dollar monthly subscription fee to participate in The Lost Diamond adventure race. 
 
 ### Overview
 
@@ -133,7 +147,7 @@ Milestone 1 covers the two first 24 monthly marketing campaigns. (Our understand
 - **Full-Time Equivalent (FTE):**  1 FTE
 - **Total Costs:** 10,000 USD (for the first milestone. The whole project will take two years and the estimated total need for funding is $500,000 USD)
 
-### Milestone 1 — Prove that TheLostDiamond MVP can obtain a 22% monthly growth rate.
+### Milestone 1 — Prove that TheLostDiamond MVP can get a baseline of 100 participants and obtain a 22% monthly growth rate.
 
 - **Estimated duration:** 2 months
 - **FTE:**  1
@@ -142,13 +156,13 @@ Milestone 1 covers the two first 24 monthly marketing campaigns. (Our understand
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1. | Marketing Campaign No.1 | Diamond No.1 Self-funded. We will add $1,000 dollar to The Lost Diamond and use $500 in marketing. Publish a YouTube-video explaining TheLostDiamond race and how to sign in with Anchor. We will use $1,000 dollar to add 100 x $10 dollar in random checkpoints. Objective: Onboard users. Key result: 22% monthly growth rate. |
-| 2. | Marketing Campaign No.1 | Diamond No.2 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video explaining explaining how EOS earned in the game can be used with a crypto debit card from Coinbase. Objective: Onboard users. Key result: 22% monthly growth rate. |
-| 3. | Marketing Campaign No.1 | Diamond No.3 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. The third YouTube campaign video will show people hunting for The Lost Diamond. Objective: Onboard users. Key result: 22% monthly growth rate. |
-| 4. | Marketing Campaign No.2 | Diamond No.4 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. Objective: Onboard users. Key result: 22% monthly growth rate. |
-| 5. | Marketing Campaign No.2 | Diamond No.5 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. Objective: Onboard users. Key result: 22% monthly growth rate.
-| 6. | Marketing Campaign No.2 | Diamond No.6 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. Objective: Onboard users. Key result: 22% monthly growth rate. |  
-| 7. | Marketing Campaign No.2 | Diamond No.7 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. Objective: Onboard users. Key result: 22% monthly growth rate. |  
+| 1. | Marketing Campaign No.1 | Diamond No.1 Self-funded. We will add $1,000 dollar to The Lost Diamond and use $500 in marketing. Publish a YouTube-video explaining TheLostDiamond race and how to sign in with Anchor. We will use $1,000 dollar to add 100 x $10 dollar in random checkpoints. Objective: Get monthly active participants. Key result: 10 users pay $7 monthly subscription fee. |
+| 2. | Marketing Campaign No.1 | Diamond No.2 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video explaining explaining how EOS earned in the game can be used with a crypto debit card from Coinbase. Get monthly active participants. Key result: 10 users pay $7 monthly subscription fee. |
+| 3. | Marketing Campaign No.1 | Diamond No.3 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. The third YouTube campaign video will show people hunting for The Lost Diamond. Objective: Get monthly active participants. Key result: 20 users pay $7 monthly subscription fee. |
+| 4. | Marketing Campaign No.2 | Diamond No.4 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. Objective: Get monthly active participants. Key result: 20 users pay $7 monthly subscription fee. |
+| 5. | Marketing Campaign No.2 | Diamond No.5 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. Objective: Get monthly active participants. Key result: 20 users pay $7 monthly subscription fee.
+| 6. | Marketing Campaign No.2 | Diamond No.6 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. Objective: Get monthly active participants. Key result: 20 users pay $7 monthly subscription fee. |  
+| 7. | Marketing Campaign No.2 | Diamond No.7 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. Objective: Get monthly active participants. Key result: We have a baseline of 100 users paying a $7 monthly subscription fee. |  
 
 ### Milestone 2 - Get funding for the next ten $1,000 dollar diamonds
 
