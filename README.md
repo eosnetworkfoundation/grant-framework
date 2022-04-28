@@ -92,7 +92,7 @@ The Grant Committee are senior members of the EOS community that know the priori
 The Grant Evaluators review applications approved by the Grant Committee for technical merit and achievability.   They are more technical in nature and are more concerned with whether the proposal solves the problem optimally, is realizable in the specified time frame, and utilizes proper processes as required for the milestone achievement metrics.
 - [Areg Hayrapetian](https://github.com/arhag)
 - [Matt Witherspoon](https://github.com/spoonincode)
-- [Bucky Kittenger](https://github.com/larryk85)
+- [Bucky Kittinger](https://github.com/larryk85)
 - [Bart Wyatt](https://github.com/wanderingbort)
 - [Denis Carriere](https://github.com/DenisCarriere)
 
