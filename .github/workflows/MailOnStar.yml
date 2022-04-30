@@ -23,7 +23,7 @@ jobs:
           username: enfmailbot@eosn.foundation
           password: ${{ secrets.ENFMAILBOT_PASSWORD }}
           subject: You got a star ✨
-          body: ${{ github.actor }} just starred your mail-on-star repo!!! ${{ github.repository }}
+          body: ${{ github.actor }} just starred your ${{ github.repository }} repo!!! 
           # to: ${{ secrets.GMAIL_ADDRESS }}
           # from: ${{ secrets.GMAIL_ADDRESS }}
           to: ted@eosn.foundation
