@@ -28,3 +28,5 @@ jobs:
           # from: ${{ secrets.GMAIL_ADDRESS }}
           to: ted@eosn.foundation
           from: grants@eosn.foundation
+          reply_to: grants@eosn.foundation
+          
