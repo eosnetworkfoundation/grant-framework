@@ -1,0 +1,30 @@
+name: Mail on Star
+
+on:
+  watch:
+    types: [ started ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# https://github.com/dawidd6/action-send-mail/releases/tag/v3.6.1
+jobs:
+  # This workflow contains a single job called "email"
+  email:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: ✨ Send email, you star
+        uses: dawidd6/action-send-mail@v3.6.1
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: enfmailbot@eosn.foundation
+          password: ${{ secrets.ENFMAILBOT_PASSWORD }}
+          subject: You got a star ✨
+          body: ${{ github.actor }} just starred your mail-on-star repo!!! ${{ github.repository }}
+          # to: ${{ secrets.GMAIL_ADDRESS }}
+          # from: ${{ secrets.GMAIL_ADDRESS }}
+          to: ted@eosn.foundation
+          from: enfmailbot@eosn.foundation
