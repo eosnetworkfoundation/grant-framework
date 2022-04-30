@@ -59,11 +59,40 @@ First milestone is to get 100 non-tech users to participate.
 Then our goal is a 22% monthly growth:
 - Month  1: 100 users + 22% growth = 122 active users per month
 - Month  2: 122 users + 22% growth = 148 active users per month
-- Month  3: 148 users + 22% growth = 180 active users per month
-- Month  6: 325 users + 22% growth = 396 active users per month
-- Month  12: 1,068 users + 22% growth = 1,303 active users per month
-- Month  24: 11,597 users + 22% growth = 14,148 active users per month
-- Month  36: 126,065 users + 22% growth = 153,799 active users per month
+- Month  3: 148 users + 22% growth = 181 active users per month
+- Month  4: 181 users + 22% growth = 221 active users per month
+- Month  5: 221 users + 22% growth = 270 active users per month
+- Month  6: 270 users + 22% growth = 329 active users per month
+- Month  7: 329 users + 22% growth = 402 active users per month
+- Month  8: 402 users + 22% growth = 490 active users per month
+- Month  9: 490 users + 22% growth = 598 active users per month
+- Month 10: 598 users + 22% growth = 730 active users per month
+- Month 11: 730 users + 22% growth = 891 active users per month
+- **Month 12: 891 users + 22% growth = 1,087 active users per month**
+- Month 13: 1,087 users + 22% growth = 1,326 active users per month
+- Month 14: 1,326 users + 22% growth = 1,618 active users per month
+- Month 15: 1,618 users + 22% growth = 1,974 active users per month
+- Month 16: 1,974 users + 22% growth = 2,408 active users per month
+- Month 17: 2,408 users + 22% growth = 2,938 active users per month
+- Month 18: 2,938 users + 22% growth = 3,584 active users per month
+- Month 19: 3,584 users + 22% growth = 4,373 active users per month
+- Month 20: 4,373 users + 22% growth = 5,335 active users per month
+- Month 21: 5,335 users + 22% growth = 6,509 active users per month
+- Month 22: 6,509 users + 22% growth = 7,941 active users per month
+- Month 23: 7,941 users + 22% growth = 9,688 active users per month
+- **Month 24: 9,688 users + 22% growth = 11,820 active users per month**
+- Month 25: 11,820 users + 22% growth = 14,421 active users per month
+- Month 26: 14,421 users + 22% growth = 17,593 active users per month
+- Month 27: 17,593 users + 22% growth = 21,464 active users per month
+- Month 28: 21,464 users + 22% growth = 26,186 active users per month
+- Month 29: 26,186 users + 22% growth = 31,947 active users per month
+- Month 30: 31,947 users + 22% growth = 38,975 active users per month
+- Month 31: 38,975 users + 22% growth = 47,550 active users per month
+- Month 32: 47,550 users + 22% growth = 58,011 active users per month
+- Month 33: 58,011 users + 22% growth = 70,774 active users per month
+- Month 34: 70,774 users + 22% growth = 86,344 active users per month
+- Month 35: 86,344 users + 22% growth = 105,340 active users per month
+- **Month 36: 105,340 users + 22% growth = 128,515 active users per month**
 
 ### Ecosystem Fit
 
@@ -197,6 +226,7 @@ After a long period of uncertainty for the eos ecosystem, we are very pleased to
 TheLostDiamond project was included in the first Helios incubator light program. Resulting in a much better pitch deck for our project and a Helios Sunrise interview.
 - The Lost Diamond Pitch Deck: https://youtu.be/FZ_wQFm5ImA
 - Helios Sunrise Interview: https://youtu.be/KjZWk-wsgCM
+- Helios Pitch Deck with appendixes: https://t2d.no/documents/TheLostDiamond-PitchDeck-March2022.pdf
 
 We have also been approved for the Pomelo Season 2. https://pomelo.io/grants/lostdiamond
 
