@@ -29,7 +29,7 @@ jobs:
         
       # Parse the application template for the email account
       - name: assign the env from the email name
-        run: APP_EMAIL=`/bin/grep "**Contact Email:**" applications/oci-transaction-lifecycle.md | cut -d" " -f4`
+        run: export APP_EMAIL=`/bin/grep "**Contact Email:**" applications/oci-transaction-lifecycle.md | cut -d" " -f4`
       
       # NOw echo the saved ENV name
       - name: Echo the email name
