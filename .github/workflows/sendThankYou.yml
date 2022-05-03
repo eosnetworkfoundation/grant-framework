@@ -27,6 +27,14 @@ jobs:
       - name: Parse the application template
         run: /bin/grep "**Contact Email:**" applications/oci-transaction-lifecycle.md | cut -d" " -f4
         
+      # Parse the application template for the email account
+      - name: assign the env from the email name
+        run: APP_EMAIL=`/bin/grep "**Contact Email:**" applications/oci-transaction-lifecycle.md | cut -d" " -f4`
+      
+      # NOw echo the saved ENV name
+      - name: Echo the email name
+        run: echo the email name is ${APP_MAIL} from the application
+        
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
