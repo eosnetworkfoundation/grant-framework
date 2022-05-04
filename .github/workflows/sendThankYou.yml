@@ -32,9 +32,9 @@ jobs:
         
       # Parse the application template for the email account
       - name: assign the env from the email name
-        run: export APP_EMAIL=`/bin/grep "**Contact Email:**" applications/oci-transaction-lifecycle.md | cut -d" " -f4`
-        
-      - run: echo "::set-env name=APP_EMAIL::$APP_EMAIL"
+        run: |
+          export APP_EMAIL=`/bin/grep "**Contact Email:**" applications/oci-transaction-lifecycle.md | cut -d" " -f4`
+          echo "::set-env name=APP_EMAIL::$APP_EMAIL"
       
       # Now echo the saved ENV name
       - name: Echo the email name
