@@ -17,7 +17,6 @@ on:
   workflow_dispatch:
   
 env:
-  APP_EMAIL: This-is-a-test
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
   
 jobs:
