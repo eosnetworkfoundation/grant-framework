@@ -1,34 +1,41 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-
-- **Project Name:** Name of your project (e.g. DuoSwap Module)
-- **Team Name:** Legal name of your team (e.g. Duo)
-- **EOS Payment Address:** EOS payment address.
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
-
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
+- **Project Name:** EOSIO Learning Dapp & Mobile/Web UI/UX Platform
+- **Team Name:** Subdeeply
+- **EOS Payment Address:** subdeeplyeos
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 
 ## Project Overview
-
-> If this application is in response to an RFP, please indicate this on the first line of this section.
-
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
+This application is a follow up support to the intial proposal on [Pomelo](https://pomelo.io/grants/subdeeplyla).
+The purpose of this document is to provide additional details about Subdeeply's current position and a view of our develompment plan. It assumes the audience has an initial understanding of our project and is intended for public use. Our motivation for this funding is to accelerate the growth behind our tuning project and help make it even better for consumers/users by providing information and educational resources for users to learn more about the operation, development, uses and benefits of the EOSIO ecosystem.
 
 ### Overview
 
-> Please provide the following:
-
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+- **Name:** EOSIO Learning Dapp & Mobile/Web UI/UX Platform
+- **Brief Description:** Whiteboard for the creative process. Creation of educational content in Subdeeply offering information and educational resources, with a Mobile/Web platform based on EOSIO for users to learn, receive information and resources in multi-format and single purpose.
+- **Relationship to EOSIO:** The Mobile/Web application allows any individual or user to learn and manage the resources on EOSIO strings by integrating EOS technology.
+- **Reason for Interest:** Subdeeply is a slate for the creative process. While this vision is broad, we believe that our enduring position in creating educational content and information allows us to build toward category ownership. If all visual data exists in Subdeeply, then how we create, collect, collaborate and present this information can also happen in Subdeeply over time. Our goal is for the project to support 100% of the creative process. We will focus on breadth over depth, offering information and educational resources, as well as a platform for users who are willing to learn and receive information through a series of multi-format, single-purpose resources.
 
 ### Project Details
+#### Analysis
 
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
+Our project is developed on the basis of four important pillars that allow us to measure our development and growth: platform, growth, engagement and operations. These sections are interrelated, and we approach each of them with a philosophy of testing and inertia.
+
+1. **Platformt:** How are project/product features prioritized?
+    
+    *Guidance from a project roadmap and a window into the strategic plan that will shape the next 3, 6, and 1 year at Subdeeply.*
+    
+2. **Growth:** How are users discovering and adopting the product?
+    
+    *Analysis around our users acquisition and onboarding funnel.*
+    
+3. **Engagement:** How engaged are users today?
+    
+    *Metrics that provide a snapshot of user growth in our newsletter.*
+    
+4. **Operations:** How would additional capital be used?
+    
+    *Summary of current expenses and operating model for the next 3 months, as well as the latest thinking on upcoming increases.*
 
 - Mockups/designs of any UI components
 - Data models / API specifications of the core functionality
