@@ -245,40 +245,79 @@ We have not seen, (nor do we know of) a platform dedicated to educational conten
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | EOSIO Sub-module: X | We will create a EOSIO module that will... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | EOSIO Sub-module: Y | We will create a EOSIO module that will... |  
-| 3. | EOSIO Sub-module: Z | We will create a EOSIO module that will... |  
-| 4. | EOSIO chain | Sub-modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
+| 0a. | License | Apache 2.0 / MIT
+| 0b. | Documentation | Creation of complete documentation for the core code and guides on how to use the features. |
+| 0c. | Testing | Core functions will be automated tested to ensure the code and execute the functions correctly to correct errors and keep the code stable. |
+| 0d. | Docker | Documentation of Docker files uses for automated code testing in building applications. |
+| 0e. | Article | We will publish an **article** that explains the use cases of documentation
+| 1. | Web platform development | Development of the platform with automated functions for users. Will be deployed on the official site as development is completed with periodic updates. |  
+| 2. | Core Code  | The core code will be reviewed periodically to avoid bugs in the integration of external APIs for the use of EOS/WAX/TELOS and EOSI-based chains |  
+| 3. | Platform Use-Case | We will develop user-focused features for an intuitive and modern interface that does not present problems or bugs in account creation, etc. |  
+| 4. | Platform Functionalities | Nodejs and Vuejs modules for smart contract support and functional integration with blockchains  |  
 
 
-### Milestone 2 Example — Additional features
+### Milestone 2 Subdeeply Core & Web Platform Testing
 
 - **Estimated Duration:** 1 month
-- **FTE:**  1
-- **Costs:** 4,000 USD
+- **FTE:**  2
+- **Costs:** $8,000 USD
 
-...
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | MIT
+| 0b. | Documentation | Documentation on bugs and errors corrected during the development of the platform. |
+| 0c. | Testing | Core functions will be automated tested to ensure the code and execute the functions correctly to correct errors and keep the code stable. |
+| 0s. | Article | We will publish an **article** that explains the documentation |
+| 1. | Web platform development | Development of the platform with automated functions for users. Will be deployed on the official site as development is completed with periodic updates. |  
+| 2. | Core Code  | The core code will be reviewed and tested until the main release of the platform |  
+| 3. | Platform Deployment: launch | WWe will launch the platform after testing and ensuring that the functionality is optimal to avoid bad user experiences. |
+
+### Milestone 3 Subdeeply Mobile Platform
+
+- **Estimated duration:** 3 months
+- **FTE:**  3
+- **Costs:** $23,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | Apache 2.0
+| 0b. | Documentation | Creation of complete documentation for the core code abut the app and features |
+| 0c. | Testing | The application will be tested manually to ensure the code and run the application without bugs or vulnerabilities. |
+| 0d. | Article | We will publish an **article** announcing the launch of the mobile application for **iOS** and **android** users. |
+| 1. | App platform development | Development of the app with the web automated features for users. The application will be updated periodically to maximize development and functionality. |  
+| 2. | Core Code  | The core code will be reviewed periodically to avoid bugs in the integration of external APIs for the use of EOS/WAX/TELOS and EOSI-based chains |  
+| 3. | App Use-Case | We will develop user-focused features for an intuitive and modern and friendly interface |  
+| 4. | App Functionalities | The application will be developed with Angular software that allows integration of iOS and Android APIs. | 
+
+### Milestone 3 Subdeeply Web/mobile Operations and Lauch
+
+- **Estimated duration:** 1 months
+- **FTE:**  3
+- **Costs:** $4,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | MIT
+| 0b. | Documentation | Documentation for the UI/UX Components used and developed |
+| 0c. | Unit Tests | Compilation and test of all the libraries used for the development of the web platform and mobile applications. |
+| 1. | UX/UI components | Libraries/Software and Framewrokds of desing used for the development |
+| 2. | Base UI | Adaptation of the user bases for the interfacet |
+| 3. | Support | Multi-language support, mainly English, Chinese and Korean. More languages may be implemented in future updates. |
 
 
 ## Future Plans
 
-> Please include here
+In the next 3 months we will consolidate our position as the modern creative cloud. Subdeeply will become a place of information. Each user will enjoy very different experiences depending on their needs and ways of consuming content.
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+Our goal over the next 12 months is to focus on content creation optimization. We will launch a free service and continue to be opportunistic with existing accounts that want to scale into the project. In early 2022 we will start creating content about EOSIO-based blockchains in drafts before the initial launch and intend to launch a dedicated content and educational resource approach for any user. We are persevering for the long term and will be ahead of the next 6 months with features that will allow us to cannibalize a funnel of potential users.
+
+Developing a fully targeted information collaboration service requires patience and a constant emphasis on micro-improvements. This year, these aspects of the user journey will be refined before we invest anything behind our acquisition funnel.
 
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** In the Fireside Chats on the EOS Discord Server, and official ENF media coverage.
 
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
+As a multi-format educational platform and information collaboration service, Subdeeply has invested in a more technically complex infrastructure of services such as AWS, Adobe Suite, Zendesk, Microsoft Azure and others. That said, this is also a high gross margin service that has low churn and limited manual support. The underlying infrastructure requires ongoing management, but the scope of user-side experiences that can be tailored to this infrastructure is infinite. Subdeeply claims to own the entire creative process; and while this is a significant challenge, it aligns with current and emerging trends of consolidation in tools.
 
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+The purpose of this document is to provide additional details about Subdeeply's current position and a view of our growth and development plan. It assumes the audience has an initial understanding of our project and is intended for public use. Our motivation for this fundraiser is to accelerate the growth behind our tuning project and help make it even better for consumers/users by providing information and educational resources for users to learn more about the operation, development, uses and benefits of EOSIO-based blockchains.
