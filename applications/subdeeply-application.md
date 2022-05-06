@@ -239,7 +239,7 @@ We have not seen, (nor do we know of) a platform dedicated to educational conten
 
 ### Milestone 1 Subdeeply Core & Web Platform
 
-- **Estimated duration:** 2 months
+- **Estimated duration:** 3 months
 - **FTE:**  3
 - **Costs:** $15,000 USD
 
@@ -291,7 +291,7 @@ We have not seen, (nor do we know of) a platform dedicated to educational conten
 
 ### Milestone 3 Subdeeply Web/mobile Operations and Lauch
 
-- **Estimated duration:** 1 months
+- **Estimated duration:** 2 months
 - **FTE:**  3
 - **Costs:** $4,000 USD
 
