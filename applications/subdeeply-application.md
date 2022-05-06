@@ -208,6 +208,7 @@ We have not seen, (nor do we know of) a platform dedicated to educational conten
 - https://github.com/Bielwenass
 - https://github.com/payjoe93
 - https://github.com/DhruvJain1122
+- https://github.com/owocki
 
 ### Team LinkedIn Profiles (if available)
 
@@ -247,11 +248,11 @@ We have not seen, (nor do we know of) a platform dedicated to educational conten
 | -----: | ----------- | ------------- |
 | 0a. | License | Apache 2.0 / MIT
 | 0b. | Documentation | Creation of complete documentation for the core code and guides on how to use the features. |
-| 0c. | Testing | Core functions will be automated tested to ensure the code and execute the functions correctly to correct errors and keep the code stable. |
+| 0c. | Testing | Core functions will be automated tested to ensure the code and execute the functions correctly to fix bugs and errors and keep the code stable. |
 | 0d. | Docker | Documentation of Docker files uses for automated code testing in building applications. |
 | 0e. | Article | We will publish an **article** that explains the use cases of documentation
 | 1. | Web platform development | Development of the platform with automated functions for users. Will be deployed on the official site as development is completed with periodic updates. |  
-| 2. | Core Code  | The core code will be reviewed periodically to avoid bugs in the integration of external APIs for the use of EOS/WAX/TELOS and EOSI-based chains |  
+| 2. | Core Code  | The core code will be reviewed periodically to avoid bugs in the integration of external APIs for the use of EOS/WAX/TELOS and EOSIO-based chains |  
 | 3. | Platform Use-Case | We will develop user-focused features for an intuitive and modern interface that does not present problems or bugs in account creation, etc. |  
 | 4. | Platform Functionalities | Nodejs and Vuejs modules for smart contract support and functional integration with blockchains  |  
 
@@ -265,12 +266,12 @@ We have not seen, (nor do we know of) a platform dedicated to educational conten
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | MIT
-| 0b. | Documentation | Documentation on bugs and errors corrected during the development of the platform. |
+| 0b. | Documentation | Documentation on bugs and errors fixes during the development of the platform. |
 | 0c. | Testing | Core functions will be automated tested to ensure the code and execute the functions correctly to correct errors and keep the code stable. |
 | 0s. | Article | We will publish an **article** that explains the documentation |
 | 1. | Web platform development | Development of the platform with automated functions for users. Will be deployed on the official site as development is completed with periodic updates. |  
 | 2. | Core Code  | The core code will be reviewed and tested until the main release of the platform |  
-| 3. | Platform Deployment: launch | WWe will launch the platform after testing and ensuring that the functionality is optimal to avoid bad user experiences. |
+| 3. | Platform Deployment: launch | We will launch the platform after testing and ensuring that the functionality is optimal to avoid bad user experiences. |
 
 ### Milestone 3 Subdeeply Mobile Platform
 
@@ -285,8 +286,8 @@ We have not seen, (nor do we know of) a platform dedicated to educational conten
 | 0c. | Testing | The application will be tested manually to ensure the code and run the application without bugs or vulnerabilities. |
 | 0d. | Article | We will publish an **article** announcing the launch of the mobile application for **iOS** and **android** users. |
 | 1. | App platform development | Development of the app with the web automated features for users. The application will be updated periodically to maximize development and functionality. |  
-| 2. | Core Code  | The core code will be reviewed periodically to avoid bugs in the integration of external APIs for the use of EOS/WAX/TELOS and EOSI-based chains |  
-| 3. | App Use-Case | We will develop user-focused features for an intuitive and modern and friendly interface |  
+| 2. | Core Code  | The core code will be reviewed periodically to avoid bugs in the integration of external APIs for the use of EOS/WAX/TELOS and EOSIO-based chains |  
+| 3. | App Use-Case | We will develop user-focused features for an intuitive, modern and friendly interface |  
 | 4. | App Functionalities | The application will be developed with Angular software that allows integration of iOS and Android APIs. | 
 
 ### Milestone 3 Subdeeply Web/mobile Operations and Lauch
@@ -301,7 +302,7 @@ We have not seen, (nor do we know of) a platform dedicated to educational conten
 | 0b. | Documentation | Documentation for the UI/UX Components used and developed |
 | 0c. | Unit Tests | Compilation and test of all the libraries used for the development of the web platform and mobile applications. |
 | 1. | UX/UI components | Libraries/Software and Framewrokds of desing used for the development |
-| 2. | Base UI | Adaptation of the user bases for the interfacet |
+| 2. | Base UI | Adaptation of the user bases feedback for the interfacet |
 | 3. | Support | Multi-language support, mainly English, Chinese and Korean. More languages may be implemented in future updates. |
 
 
@@ -319,5 +320,3 @@ Developing a fully targeted information collaboration service requires patience 
 **How did you hear about the Grants Program?** In the Fireside Chats on the EOS Discord Server, and official ENF media coverage.
 
 As a multi-format educational platform and information collaboration service, Subdeeply has invested in a more technically complex infrastructure of services such as AWS, Adobe Suite, Zendesk, Microsoft Azure and others. That said, this is also a high gross margin service that has low churn and limited manual support. The underlying infrastructure requires ongoing management, but the scope of user-side experiences that can be tailored to this infrastructure is infinite. Subdeeply claims to own the entire creative process; and while this is a significant challenge, it aligns with current and emerging trends of consolidation in tools.
-
-The purpose of this document is to provide additional details about Subdeeply's current position and a view of our growth and development plan. It assumes the audience has an initial understanding of our project and is intended for public use. Our motivation for this fundraiser is to accelerate the growth behind our tuning project and help make it even better for consumers/users by providing information and educational resources for users to learn more about the operation, development, uses and benefits of EOSIO-based blockchains.
