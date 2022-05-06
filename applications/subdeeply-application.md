@@ -3,7 +3,7 @@
 - **Project Name:** EOSIO Learning Dapp & Mobile/Web UI/UX Platform
 - **Team Name:** Subdeeply
 - **EOS Payment Address:** subdeeplyeos
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
 
 ## Project Overview
 This application is a follow up support to the intial proposal on [Pomelo](https://pomelo.io/grants/subdeeplyla).
@@ -37,105 +37,211 @@ Our project is developed on the basis of four important pillars that allow us to
     
     *Summary of current expenses and operating model for the next 3 months, as well as the latest thinking on upcoming increases.*
 
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+#### UI/UX desing
 
+- Mockups/designs of any UI components.
+
+The mobile application is already under development, the application features include:
+
+    - Account (Sign-up, Login, Recover password)
+    - Profile features (edit name, profile picture, change email, others)
+    - Google SDK libraries
+    - Facebook SDK libraries
+    - Apple SDK libraries
+    - EOSIO API (Under Development)
+    - More features.
+
+<img alt="platform-mobile-app-UI" src="https://user-images.githubusercontent.com/94427218/167054783-59f418cf-5e63-4db7-80cd-dee7b859acd3.png">
+
+#### UI/UX desing features preview
+
+<img alt="mobile-app-features-UI" src="https://user-images.githubusercontent.com/94427218/167060831-2440689d-63b7-49a3-997b-37f31d5a8c0e.png">
+
+#### Web features preview
+
+<img alt="ultimate-guide-to-eos-blockchain" src="https://user-images.githubusercontent.com/94427218/167068411-e710e951-c943-4c3b-95ce-075a93813910.png">
+
+- Data models / API specifications of the core functionality 
+ 
+Subdeeply integrates external APIs for the operation, development and core of the platform. As well as code libraries.
+
+[Meta for Developers](https://developers.facebook.com/docs/)
+
+[Google for Developers](https://developers.google.com/docs/api)
+
+[Apple Developer](https://developer.apple.com/documentation/docc/api-reference-syntax)
+
+[EOSIO Chain API v2.1](https://developers.eos.io/welcome/latest/reference/index)
+
+
+- An overview of the technology stack to be used
+
+We integrate the use of best-of-breed tools for development, creative tools, operations monitoring, data collection and management, digital asset management and cloud storage by mapping software best practices and experience.
+
+[ReactJS](https://es.reactjs.org/docs/getting-started.html)
+
+[VueJS](https://vuejs.org/)
+
+[Svelte](https://svelte.dev/)
+
+[Microsoft Azure](https://azure.microsoft.com/)
+
+[Office 365](https://www.microsoft.com/en-us/microsoft-365/microsoft-office?rtc=1)
+
+[LiveRamp](https://liveramp.com/)
+
+[Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)
+
+[Figma](https://www.figma.com/)
+
+[Buffer](https://buffer.com/)
+
+[Google Domains](https://domains.google/)
+
+[Docker](https://www.docker.com/)
+
+[AWS](https://aws.amazon.com/)
+
+[Notion](https://www.notion.so/)
+
+[Zendesk](https://www.zendesk.com/)
+
+- Documentation of core components, protocols, architecture, etc. to be deployed
+
+#### Additional comments
+
+For now our documentation is in local folders and code, local tests are run on our development machine [Docker](https://www.docker.com/) for Web and [AWS servers](https://aws.amazon.com/) for Android/iOS, we run host side tests. We tend to be small and fast, isolating the object to test from the rest of the application. This allows us to reduce operating costs given our low development budget.
+
+http://localhost:4449/#/
+
+<img width="45%" alt="test-scopes" src="https://user-images.githubusercontent.com/94427218/167065142-cb9d1aa6-8cc7-4fe2-9f59-0ae98c213fd2.png">
+
+We expect giving time to update and upload all our documentation is around 3-4 weeks.
+
+- PoC/MVP or other relevant prior work or research on the topic
+
+Currently, 100% of our users expect to receive informational resources about blockchain, but they do not compare us to these informational products. Our technical category is content marketing ("CM"), an industry where 70% of customers are first-time consumers. Our goal is to quickly acquire leading product growth ahead of any blockchain-based CM from EOSIO.
+
+The following chart highlights our statistics of our user growth in our newsletter. Data through [Substack](http://substack.com)
+
+<img alt="subdeeply-newsletter-subscribers" src="https://user-images.githubusercontent.com/94427218/167067197-75d792a4-c824-452b-a6da-cea3091a123d.png">
+
+1. **Acquire:** New users are directed to our social accounts, content marketing ("Drops"), a public dashboard, or a public asset and view the service in use. They move to our website to learn more and start the onboarding flow.
+2. **Revenue:** Today, we see expansion happening alongside an existing workflow: content requests. Users using the service have request forms to request specific content. Instead of addressing tickets, we group users. We believe that these new users are "visual communicators" and we are studying their behavior to create new entries to the free service.
+3. **Development:** We need to lean into these use cases further with product improvements that would drive a larger percentage of the audience to our site.
+
+- What your project is _not_ or will _not_ provide or implement
+
+       - We characterize our project as an educational data collaboration service built for visual workflows.
+       - We are not creating a service that users or individuals have to pay a fee to access.
+       - We are not a training center, but rather we are creating educational content and resources for users to learn 
+         about the operation, development, usecases, benefits or features of multiple EOSIO-based chains.
+
+#### 
 ### Ecosystem Fit
 
-> Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
-
 - Where and how does your project fit into the ecosystem?
+
+Through the entire community and potential or new users, offering information and educational resources in multi-format audio, video and reading content to which any user will have free access.
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+
+To any individual or member, to understand our audience we will track various engagement metrics to help us understand the usage and growth of our users.
+
+We will use **retention** to understand the impact of our content on new users and to keep them coming back. We will break it down further to understand what user actions correlate with increased retention.
+
+We will use **stickiness** to understand how often our users use the platform. The stickier we are, the more ingrained we are in our users' workflows and the more likely we are to retain and expand our workspaces.
+
+Finally, we will use **weekly active users** to measure the volume of users we engage and are registered.
+
 - What need(s) does your project meet?
+
+As a multi-format educational resource platform and collaborative information service. We respond to the direct needs of our users, responding to inquiries and comments on what type of educational content or information they want to access.
+
 - Are there any other projects similar to yours in the EOSIO ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+
+Not at this time the modern creative cloud will prioritize collaboration in the workspace for users around the world. Subdeeply estimates that there are over 500k potential users for Subdeeply's y el ecosistema exponential growth, we offers the firts collaborative educational platform to create content and information of educational resources in multi-format of audio, video. and reading about EOSIO-based blockchains.
+
+- Are there similar projects in related ecosystems?
+
+We have not seen, (nor do we know of) a platform dedicated to educational content for users of such chains, on Ethereum there is a program for cryptocurrencies called "Bankless"; dedicated to sharing crypto & DeFi information.
 
 ## Team
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- Team Leader: Cristhian Rincon (Thian)
+- U.N. Owen (Bielwenass), Payjoe93, Eric Petersen, DhruvJain
+### Team Advisors:
+
+- Kevin Owocki
+- Austin Griffith
+- kyle Weiss
+- Kristie Huang
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:**
+- **Contact Name:** Thian
+- **Contact Email:** thian@subdeeply.com
+- **Website:** https://subdeeply.com
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
+- **Registered Legal Entity:** Subdeeply LLC
+- **Registered Address:** 548 Market Street PMB 72296, San Francisco, CA 94104
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
-
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+- Cristhian Rincon: 4+ years experience in content creation, staff productivity, promotional strategies and contract development and Front-end development. Has worked for companies such as Anchor by Spotify, was a member of the EOSTARTER team. And is part of multiple EOS Projects. Graduated in Management, Marketing and Digital Business at the Universidad del Rosario, Bogotá, Colombia.
+- Bielwenass: Front-end and back-end developer with experience in development of smart contracts in solidity, management of frameworks and liberias such as VujeJS and development of projects such as autogenerated art, fractals, and 3d spaces.
+- Payjoe93: Graphic Designer, Motion Graphic, Illustrator. Advanced experience in 2d and 3d design tools.
+- Eric Petersen: He is an award-winning artist and illustrator with work in Communication Arts, Society of Illustrators, and 3×3. His work appears in Juxtapoz & Hi-Fructose.
+- DhruvJain: Front-end developer, experience in smart contrator development in Vue, Solidity and javascript.
 
 ### Team Org Repos
 
-- https://github.com/<your_organisation>
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+- https://github.com/subdeeply
+- https://github.com/subdeeply/website
+- We expect to update and upload our repositories, development and documentation from the local to hosting in the next 3-4 weeks. See [aditional comments](#additional-comments) for more details.ts
 
 ### Team Member Repos
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- https://github.com/thiangm
+- https://github.com/Bielwenass
+- https://github.com/payjoe93
+- https://github.com/DhruvJain1122
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/thianandre/
+- https://www.linkedin.com/in/ericpetersen/
+- https://www.linkedin.com/in/owocki/
 
 ## Development Status
 
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
+- Integrate, develop and launch the official [website](https://subdeeply.com)
 
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+        - The website will be gradually modified, updated and edited by migrating the platform from local files to hosting and integrating user functions. 
+- Creation of educational content, guides on how to use and operation of EOS Blockchains. Resources launched through newsletter with 750+ subscribed users to date.
+
+![ultimate guide to eos](https://user-images.githubusercontent.com/94427218/167078858-288963e4-276f-496d-ab15-3303f8411d40.png)
+![How to start using eos network](https://user-images.githubusercontent.com/94427218/167078964-43d5b6b3-1187-4d07-ad1e-f0f859ec15a7.png)
+
+- Mobile application and user interface development [Figma File Mockup](https://subdeeply.comhttps://www.figma.com/file/3ECnQsptS5BIhl4pzhGJ9m/Subdeeply-Onboarding-app-UI-Design?node-id=106%3A259)
+
+- Integration of team members for the development of the web and mobile application.
 
 ## Development Roadmap
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to the EOS ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
-
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
+- **Total Estimated Duration:** 9 months
+- **Full-Time Equivalent (FTE):** Five (5)
+- **Total Costs:** $50,000 USD
 
-### Milestone 1 Example — Implement EOSIO Sub-module
+### Milestone 1 Subdeeply Core & Web Platform
 
-- **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 8,000 USD
+- **Estimated duration:** 2 months
+- **FTE:**  3
+- **Costs:** $15,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
