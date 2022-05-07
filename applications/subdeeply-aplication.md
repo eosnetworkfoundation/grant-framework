@@ -23,7 +23,7 @@ Our project is developed on the basis of four important pillars that allow us to
 
 1. **Platformt:** How are project/product features prioritized?
     
-    *Guidance from a project roadmap and a window into the strategic plan that will shape the next 3, 6, and 1 year at Subdeeply.*
+    *Guidance from a project roadmap and a window into the strategic plan that will shape the next 3, 6 months and 1 year at Subdeeply.*
     
 2. **Growth:** How are users discovering and adopting the product?
     
