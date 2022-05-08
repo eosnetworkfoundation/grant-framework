@@ -9,7 +9,7 @@
 
 This application is to support an existing proposal put forward on [Pomelo](https://pomelo.io/grants/sclibraries) to reach its funding and therefore product/feature objectives..
 
-As highlighted in the [CORE+ Blue Paper](https://medium.com/eos-network-foundation/core-blue-paper-80c26db532b6), smart contract unit-testing and code validation is an essential part of the modern software development process and it is seriously lacking in the EOS and EOSIO development world. There are two main tools that are limited in functionality that have been developed by the community for this purpose but sadly they have been abandoned and are no longer fit for purpose due to a lack of funding and their uncompetitiveness in the wider market.
+As highlighted in the [CORE+ Blue Paper](https://medium.com/eos-network-foundation/core-blue-paper-80c26db532b6), smart contract testing is an essential part of the modern software development process and it is seriously lacking in the EOS and EOSIO development world. There are two main tools that are limited in functionality that have been developed by the community for this purpose but sadly they have been abandoned and are no longer fit for purpose due to a lack of funding and their uncompetitiveness in the wider market.
 
 **Existing tools**
 
@@ -44,16 +44,16 @@ As highlighted in the [CORE+ Blue Paper](https://medium.com/eos-network-foundati
 
 ### Overview
 
-- **Name:** Javascript based EOSIO Smart Contract Testing and Validation Libraries
-- **Brief Description:** Develop three Javascript based EOSIO smart contract testing libraries - unit-testing, code coverage and security and code style validation
-- **Relationship to EOSIO:** Testing and validation libraries are a critical tool for developers to develop robust and secure smart contracts for EOSIO based applications such as Defi
+- **Name:** Javascript based EOSIO Smart Contract Testing Library
+- **Brief Description:** Develop a Javascript based EOSIO smart contract testing library
+- **Relationship to EOSIO:** Testing libraries are a critical tool for developers to develop robust and secure smart contracts for EOSIO based applications
 - **Reason for Interest:** The team behind GenerEOS have built many smart contract based applications on EOS and EOSIO based chains as well as on Ethereum and saw a clear gap in the testing and validation space on EOS and EOSIO in comparison to Ethereum
 
 
 ### Project Details
 
-**Unit-test** 
-The unit-test library will be built with Javascript leveraging eosio-core built by Greymass giving you the ability to dockerize a light EOSIO node that can run on any system. This allows the ability for the user to host it on their system easily and automated with the ability to test for multiple EOSIO based chains i.e EOS, WAX, TELOS, PROTON, FIO and UX. It also allows for each project to simply set up CI/CD and seed table data without modifying the contracts. All code will be open sourced under MIT so it is free for the community to use, creating no barrier to entry for developers. 
+**Smart Contract Testing Library** 
+The smart contract testing library will be built with Javascript leveraging eosio-core built by Greymass giving you the ability to dockerize a light EOSIO node that can run on any system. This allows the ability for the user to host it on their system easily and automated with the ability to test for multiple EOSIO based chains i.e EOS, WAX, TELOS, PROTON, FIO and UX. It also allows for each project to simply set up CI/CD and seed table data without modifying the contracts. All code will be open sourced under MIT so it is free for the community to use, creating no barrier to entry for developers. 
  
 **Features**
 * Open-source MIT license
@@ -63,93 +63,11 @@ The unit-test library will be built with Javascript leveraging eosio-core built 
 * Dockerize a light EOSIO node that can be run on the users system automatically
 * Ability to test multiple EOSIO(EOS/WAX/TELOS) networks with links to public snapshots.
 * Simplified method to setup CI/CD
- 
-**Code coverage**
-
-Code coverage, first devised in the 1960s, encapsulates the idea that tests should ‘touch’ all of the code under test. If the tests execute all of your code, and the results from the tests are as expected, it is less likely your code contains unforeseen bugs. Sadly, there is no available code coverage library in EOS and EOSIO. After studying existing code coverage libraries in Ethereum such as [solidity-coverage](https://github.com/sc-forks/solidity-coverage) we think it might be possible to bridge this over to the EOS and EOSIO world for native developers to leverage. This library will be built with javascript.
- 
- 
-Here is a list of rewrite rules we will consider to apply for our code coverage library. These are subject to change when development of the project commences. 
- 
-**rewrite rules**
-
-```If```
-
-```loop```
-
-```return```
-
-```statements```
-
-```conditional```
-
-```function```
-
-```expressions```
- 
-**Security and code style validation**
-
-Security is critical when it comes to smart contracts especially with the rise in Defi applications. The Ethereum community has seen a number of linter tools such as [solcheck](https://github.com/federicobond/solcheck) and [ethlint](https://github.com/duaraghav8/Ethlint) that are used for checking security rules and verifying compliance with style guides. This is a huge benefit for developers in the Ethereum community. Sadly, there are no available linter tools in the EOS and EOSIO space to assist developers. Our goal is to provide a linter library that consists of three functions: Security Rules, Best Practice Rules & Style Guide Rules.
-
- The following rules will be considered to be included; and are subject to change during development. This library will be built with javascript.
- 
-**Security Rules: rule-id**
-
-```missing-authorization-check```
-
-```missing-assertion```
-
-```check-forged```
-
-```token-transfer```
-
-```fake-notification```
-
-```receipt-bad-randomness```
-
-```re-entrancy-attack```
-
-```unchecked-action-arguments```
- 
- 
-**Best Practice Rules: rule-id**
-
-```code-complexity```
-
-```function-max-lines```
-
-```max-line-length```
-
-```no-empty-blocks```
-
-```no-unused-vars```
-
-```reason-string```
-
- 
-**Style Guide Rules: rule-id**
-
-```quotes```
-
-```const-name```
-
-```contract-name```
-
-```func-name```
-
-```func-param-name```
-
-```private-vars```
-
-```table-name```
-
-```var-name```
-
 
 
 ### Ecosystem Fit
 
-These three libraries are aimed at developers and entrepreneurs to give them the tools needed to create secure and robust smart contracts for their tools or products to be built on EOS and EOSIO. As illustrated in the overview, and in the CORE+ Blue Paper, there is a clear gap missing with these tools in the EOS and EOSIO development world which places EOS at a disadvantage compared to other chains.  
+This library is aimed at developers and entrepreneurs to give them the tools needed to create secure and robust smart contracts for their tools or products to be built on EOS and EOSIO. As illustrated in the overview, and in the CORE+ Blue Paper, there is a clear gap missing with these tools in the EOS and EOSIO development world which places EOS at a disadvantage compared to other chains.  
 
 ## Team
 
@@ -199,18 +117,19 @@ GenerEOS are top 21 genesis block producers on the EOS mainnet and have been bui
 
 ## Development Status
 
-This project has not begun development yet and is in the architecting and research phase. Please reference our [Pomelo Pitch](https://pomelo.io/grants/sclibraries) for more details around reasoning and justification. We will be building off of similar projects in the Ethereum world as explained in previous sections. One concern that we currently have is around the C / C++ parser instrumentation library, in our Pomelo pitch, we assumed we could make a workaround similar to what was achieved with previous Ethereum libraries - however - it might be a more difficult task than was anticipated and therefore could cause a roadblock for milestone 2 & 3.
+This project has not begun development yet and is in the architecting and research phase. Please reference our [Pomelo Pitch](https://pomelo.io/grants/sclibraries) for more details around reasoning and justification. We will be building off of similar projects in the Ethereum world as explained in previous sections. 
 
 ## Development Roadmap
 
 
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project is 3 months effort and total delivery time of 6 months which includes testing and documentation. This is based on the assumption of building a workaround for the C / C++ parser instrumentation library - refer to deliverable 1 milestone 2.
-- **Full-Time Equivalent (FTE):**  4.3
-- **Total Costs:** $135000 USD, payment can be made in EOS. Note, that the total amount raised in the Pomelo proposal will be deducted from the final milestone payment - currently ~$20,000 USD.
+- **Total Estimated Duration:** Duration of the whole project is 1 month effort and total delivery time of 2 months which includes testing and documentation. 
 
-### Milestone 1 — Unit-test library
+- **Full-Time Equivalent (FTE):**  4
+- **Total Costs:** $40500 USD, payment can be made in EOS. Note, that the total amount raised in the Pomelo proposal will be deducted from the final milestone payment - currently ~$7,000 USD.
+
+### Milestone 1 — Smart Contract Testing library
 
 - **Estimated duration:** 1 month effort and 2 months total delivery duration including testing and documentation
 - **FTE:**  4
@@ -228,49 +147,10 @@ This project has not begun development yet and is in the architecting and resear
 | 3. | Provide some advanced functionalities | Nodejs modules and docker shell scripts to manipulate blockchain state and time for special testing purposes e.g. booting the chain with an arbitrary time; Init/reset smart contract table data with minimal modification of smart contract; Functionalities to test accounts/permission|  
 
 
-### Milestone 2 — Code Coverage library
-
-- **Dependencies:** workaround for an C / C++ parser instrumentation library (see deliverable 1)
-- **Estimated duration:** 1 month effort and 2 months total delivery duration including testing and documentation
-- **FTE:**  5
-- **Costs:** $49500 USD
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | MIT |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial and operating instructions that explains how to have transparent coverage of nodejs unit tests, instrumentation/ reporting of files in batch mode for browser tests and server side code coverage for nodejs |
-| 0c. | Testing Guide | NA - the testing guide will be included in the documentation as the library is testing in nature. |
-| 0d. | Docker | NA - docker detailed in deliverable 3 |
-| 0e. | Article | N/A - included on the milestone 3 deliverable.
-| 1. |Research/analysis and documentation about all parser/rewrite rules of eosio smart contracts | C / C++ parser nodejs module for eosio smart contract. This functionality is critical to the success of milestones 2 and 3. This proposal is based on the assumption we can make a fast workaround that is robust enough for the functionality. However, it is likely that this will not be the case and a fully functioning C / C++ parser or instrumentation library will need to be developed which would be a roadblock for milestones 2 and 3. |  
-| 2. | Precompile: Read contract source code and rewrite the source so the code execution path can be tracked| Some mechanisms to analysis/parse the source code; A javascript module to apply rewrite rules to the smart contract|  
-| 3. | Compile contract and run unit-tests using instrumented artifacts | Dockerize eosio compiler; Compile modified source code|  
-| 4. | Generate coverage reports | NodeJS module to generate code coverage report via command line| 
-
-
-### Milestone 3 — Security and code style validation library
-
-- **Dependencies:** workaround for an C / C++ parser instrumentation library (see milestone 2, deliverable 1)
-- **Estimated duration:** 1 month effort and 2 months total delivery duration including testing and documentation
-- **FTE:**  4
-- **Costs:** $40500 USD
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | MIT |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial and operating instructions that explains installation, usage and configuration, writing a core rule, developing a shareable config and developing a plugin. |
-| 0c. | Testing Guide | NA - the testing guide will be included in the documentation as the library is testing in nature. |
-| 0d. | Docker | NA - docker provided in milestone 1 & 2. |
-| 0e. | Article | We will publish an article that explains the work completed on all three libraries through grant funding with the content geared towards our target audience of developers and entrepreneurs in the EOS and EOSIO ecosystem.
-| 1. |Base plugin to allow to define new plugin rule and report script | Base plugin pattern to add new plugin rule; Nodejs Script to generate rule report|  
-| 2. | Style Guide Rules| Add new rule plugins for following:```quotes```; ```const-name```; ```contract-name```; ```func-name```; ```func-param-name```; ```private-vars```; ```table-name```; ```var-name``` |  
-| 3. | Security Rules | Add new rule plugins for following: ```missing-authorization-check```; ```missing-assertion```; ```check-forged```;```token-transfer```; ```fake-notification```; ```receipt-bad-randomness```; ```re-entrancy-attack```; ```unchecked-action-arguments```| 
-| 4. | Best Practice Rules | Add new rule plugins for following:```code-complexity```;```function-max-lines```;```max-line-length```;```no-empty-blocks```;```no-unused-vars```;```reason-string```| 
-
-
 ## Future Plans
 
-* We intend to continually look at the market and add competitive features to all three libraries working with developers to better understand the features needed for their projects. Note; this depends on subsequent funding for this level of support.  
+* We intend to continually look at the market and add competitive features to the smart contract testing library working with developers to better understand the features needed for their projects. Note; this depends on subsequent funding for this level of support. Additionally, we are currently investigating Clang to build a code coverage and code validation library which was a part of our initial proposal but has dropped out due to the complexity. It is our hope that we can find a solution and add these libraries back in and build them later in the year.
+
 * We plan on maintaining the open source code base to ensure that it is up to date with the latest various third-party libraries, frameworks, and software that it uses. Note; this depends on subsequent funding for this level of support. 
 
 
@@ -280,4 +160,3 @@ This project has not begun development yet and is in the architecting and resear
 
 We have worked alongside the ENF since inception and have been a part of the EOS and EOSIO community since genesis and have identified this as a critical piece of missing tooling that creates friction for developers.
 
-![image](https://user-images.githubusercontent.com/25791287/163632619-77f53152-e0f5-4fe9-8e18-eff4c1da94ca.png)
