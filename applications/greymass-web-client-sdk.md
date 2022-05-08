@@ -27,8 +27,8 @@ This product suite will be made up of a number of individual layers designed to 
 - **A. EOSIO Starter Kit:** Developers will be able to use an EOSIO Starter Kit to quickly create web applications that integrate with the EOSIO blockchain. These starter kits will offer easy access to both the Client Library and Core Library, as well as a number of optional add-ons that are recommended for most developers to get started.
 - **B. EOSIO Client Library:** The Client Library is the primary component that most developers will use to integrate EOSIO into their applications. It will handle the responsibilities of data access, wallet integration, user session management, transaction processing, and serve as a base user interfaces for common needs. The focus is on a modular approach capable of meeting the needs of any EOSIO-based blockchain and its operations.
 - **C. EOSIO Client Library Plugins:** The Client Library supports the usage of plugins to allow additional functionality and UI element design. Plugins will exist for different areas the library is responsible for including wallet communication protocols, transaction mutation based on predefined conditions, monitoring of transactions before and after submission, as well as validation logic. 
-- **D. EOSIO Core Library Extensions:** Extensions to the core library are also at the disposal of application developers in order to meet the needs of specific applications and/or blockchains. These extensions offer additional data abstraction for non-core types, support for non-standard APIs, call pattern modifications for APIs, and in-code definitions of contract code. These extensions can be custom designed for specific applications when these advanced needs arise. 
-- **E. EOSIO Core Library:** At the heart of all of these other components is the Core Library, which is responsible for primitive data types, standard API access, transaction serialization, and other cryptographic operations. These core components will be used throughout all of the other client libraries and surfaced to the developer as they are used. This core library can be used in other standalone projects to create alternative client libraries that offer similar functionality.
+- **D. EOSIO Core Library:** At the heart of all of these other components is the Core Library, which is responsible for primitive data types, standard API access, transaction serialization, and other cryptographic operations. These core components will be used throughout all of the other client libraries and surfaced to the developer as they are used. This core library can be used in other standalone projects to create alternative client libraries that offer similar functionality.
+- **E. EOSIO Core Library Extensions:** Extensions to the core library are also at the disposal of application developers in order to meet the needs of specific applications and/or blockchains. These extensions offer additional data abstraction for non-core types, support for non-standard APIs, call pattern modifications for APIs, and in-code definitions of contract code. These extensions can be custom designed for specific applications when these advanced needs arise. 
 - **F. Brand/Website/Identity:** Branding exploration will be performed to create an recognizable identity for developers in the EOSIO space. This will include messaging and assets that will be used throughout the promotional and educational materials required for the adoption of the technology. A website complete with marketing materials for developers, documentation, and guides will leverage this brand to help new developers get started creating applications on EOSIO.
 - **G. Specifications and Standards:** During the creation of this new software, the identification of processes and techniques that require standardization will be identified and defined. These standards will be provided in the documentation for use external of the SDKs themselves to create cohesive design patterns throughout the ecosystem.
 
@@ -48,13 +48,21 @@ The project improves the ability for developers to create applications, services
 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
 
-Yes, for web clients both eosjs and ual are libraries created by Block.one.
+Yes, for web clients both eosjs and ual are libraries created by Block.one which perform a similar function. This suite of tools will serve as a modern replacement.
 
 - If so, how is your project different?
 
-The original libraries (eosjs/ual) available to developers today are limited in their design and do not allow modern EOSIO development techniques to be utilized properly. Examples of the struggles when using the existing SDKs include the ability to easily integrate wallets, multi-user session management, providing resources for the user, implementing transaction fee models, proper error handling and correction, their non-modular code design, inexistent process hooks, lack of extensibility, lack of fault tolerance, and finally the lack of ongoing development and future maintenance.
+The original libraries (eosjs/ual) available to developers today are limited in their design and do not allow modern EOSIO development techniques to be utilized properly. Examples of the struggles when using the existing SDKs include:
 
-The new SDKs this project defines starts from the ground up to rectify these problems and create a stable foundation for continued development over the coming years.
+- The integration of wallets and external applications
+- Multi account and blockchain session management
+- Automated management of network resources 
+- Implementing of alternative transaction processing models (tx fees)
+- Proper transaction error handling and guided correction 
+- Extensibility of core functionality
+- Handling API communication and errors
+
+The new SDKs this project defines starts from the ground up to rectify these problems and create a stable foundation for continued development into the future.
 
 ## Team
 
@@ -97,7 +105,7 @@ The Greymass team is responsible for the creation of the following products:
 - The EOSIO Web Wallet, Unicove
 - The EOSIO Resource Provider, Fuel
 - The EOSIO Account Creation Service, Sextant
-- The EOSIO API Layer, Lighthouse
+- The EOSIO Account API, Lighthouse
 - The EOSIO History API, Roborovski 
 
 ### Team Org Repos
@@ -147,13 +155,33 @@ n/a
 
 ## Development Status
 
-Development has not yet begun. However, the Greymass team for nearly 4 years has been researching and building the core EOSIO components required for a comprehensive framework of web client SDKs. Many of the components for this new project can lean heavily on this work as the ecosystem moves to create a new suite of official products that can ease adoption by EOSIO developers. 
+Development has not yet begun. However, the Greymass team for nearly 4 years has been researching and building the core EOSIO components required for a comprehensive framework of web client SDKs. Many of the components for this new project can lean heavily on this work as the ecosystem moves to create a new suite of official products that can ease adoption by EOSIO developers.
 
-**Wallet+ Blue Paper**
+All of the following components played a role in the lead up to the path forward with this proposal.
+
+**Research - Wallet+ Blue Paper**
 
 Significant research went into the direction of potential new SDKs during the creation of the [Wallet+ Blue Paper](https://medium.com/eos-network-foundation/wallet-blue-paper-a040a1865977) in late 2021 into early 2022. The first proposal within this paper focuses on the need for a solution like this and many other proposals would see benefit from the creation of new SDKs. 
 
-**Web - Core Library**
+**Standard - EOSIO Signing Request (ESR)**
+
+One of the core components Greymass started with the development of Anchor was the ESR protocol. This was to standardize data types while communicating EOSIO information between various applications. This standard represents a way to effectively encapsulate transaction data and metadata for transmission.
+
+This protocol was developed into EEP-7 and published in early 2019, while undergoing 3 iterations:
+
+- https://github.com/eosio-eps/EEPs/blob/master/EEPS/eep-7.md
+
+**Web SDK - EOSIO Signing Request (ESR)**
+
+Greymass also developed the SDKs required to interact with this standard for web clients (JS) and mobile applications (Swift/Java):
+
+- https://github.com/greymass/eosio-signing-request
+- https://github.com/greymass/eosio-signing-request-java
+- https://github.com/greymass/swift-eosio
+
+The ESR protocol will be at the core of the new client libraries as the primary method to pass transaction data between the various components in the suite.
+
+**Web SDK - Core Library**
 
 During the creation of the EOSIO Signing Request libraries, the Greymass team encountered significant hurdles and impossible situations while trying to develop the codebase with eosjs. Due to this, the team started work on a fundamentally different set of SDKs with modularity and flexibility in mind to serve as a replacement.
 
@@ -163,7 +191,7 @@ These efforts led to the creation of the `@greymass/eosio` SDK to allow for more
 
 This existing code with minimal modification can serve as the Core Library for the new suite of web SDKs. Further work will need to be done to create additional data types and functionality. Documentation and educational materials on this technology will need to be created. We propose to build this entire new suite of products based upon this library and treating it the official low level web client SDK.
 
-**Web - Core Library Extensions**
+**Web SDK - Core Library Extensions**
 
 Functionality that is not required for all use cases but is still considered a "core component" is to be an optional extension of the core library. Greymass has created a number of extension-like packages available for use, including: 
 
@@ -173,9 +201,9 @@ Functionality that is not required for all use cases but is still considered a "
 
 These packages can be optionally included for use within applications on an as-needed basis. 
 
-**Web - Client Libraries**
+**Web SDK - Client Libraries**
 
-Prior research has gone into both [protocol development](https://github.com/greymass/anchor-link/blob/master/protocol.md) as well as the creation of numerous SDKs:
+Prior research has gone into both [protocol development](https://github.com/greymass/anchor-link/blob/master/protocol.md) as Anchor was built, as well as the creation of numerous SDKs:
 
 - https://github.com/greymass/anchor-link
 - https://github.com/greymass/anchor-link-browser-transport
@@ -187,22 +215,6 @@ Prior research has gone into both [protocol development](https://github.com/grey
 
 The UI and UX focused elements of these libraries can be extracted and improved upon to serve as the basis of a new web client SDK. Greymass will deprecate and replace it's existing anchor-link series of libraries and implement this functionality as plugins for the new client library. Additional plugins will also be created to support non-Anchor related protocols
 
-**EOSIO Signing Request (ESR)**
-
-One of the core components Greymass started with the development of Anchor was the ESR protocol. This was to standardize data types while communicating EOSIO information between various applications. This standard represents a way to effectively encapsulate transaction data and metadata for transmission.
-
-This protocol was developed into EEP-7 and published in early 2019, while undergoing 3 iterations:
-
-- https://github.com/eosio-eps/EEPs/blob/master/EEPS/eep-7.md
-
-Greymass then also developed the SDKs required to interact with this standard for web clients (JS) and mobile applications (Swift/Java):
-
-- https://github.com/greymass/eosio-signing-request
-- https://github.com/greymass/eosio-signing-request-java
-- https://github.com/greymass/swift-eosio
-
-The ESR protocol will be at the core of the new client libraries as the primary method to pass transaction data between the various components in the suite.
-
 ## Development Roadmap
 
 ### Overview
@@ -211,11 +223,13 @@ The ESR protocol will be at the core of the new client libraries as the primary 
 - **Full-Time Equivalent (FTE):**  Six (6)
 - **Total Costs:** $1,085,000 USD
 
-### Milestone X - Core SDKs
+**Note**: Some of the milestones can possibly overlap and be done in parallel.
 
-Estimated duration: 1 month
-FTE: 2
-Costs: 8,000 USD
+### Milestone 1 - Core Library
+
+Estimated duration: 2 months
+FTE: 3
+Costs: $125,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -227,17 +241,13 @@ Costs: 8,000 USD
 | 3. | EOSIO Primitives | Inclusion of EOSIO primitives built on top of the crypto primitives that EOSIO requires to operate. |  
 | 4. | API Client | A customizable API Client interface to allow communication with the blockchain API servers. |  
 
-### Milestone X - Core SDK Extensions
+### Milestone 2 - Core Library Extensions
 
 Estimated duration: 1 month
 FTE: 2
-Costs: 8,000 USD
+Costs: $92,500 USD
 
-Each extension will be it's own self-contained package, having it's own templated documentation and published for developers to optionally include in their application for use.
-
-Listed below are examples of various extensions we have identified as providing benefit.
-
-**Note**: The extension candidates listed below are entered alphabetically and not ordered by priority. They are just candidates for potential extensions and the priority on which to build first will need to be discussed.
+Each extension will be it's own self-contained package, having templated documentation and published for developers to optionally include in their project. This milestone is the creation of the **standards** and **templates**, alongside the development at least one plugin to serve as the reference implementation.
 
 ##### Templates
 
@@ -245,6 +255,8 @@ Listed below are examples of various extensions we have identified as providing 
 | -----: | ----------- | ------------- |
 | 1. | API Client Extension Template | Base template for the creation of new API interface extensions. |
 | 2. | Type Extension Template | Base template for the creation of new data type extensions. |
+
+**Note**: The extension candidates listed below are entered alphabetically and not ordered by priority. They are just candidates for potential extensions and the priority on which to built as the initial prototype will need to be discussed by the project sponsors.
 
 ##### API Client Extensions
 
@@ -277,11 +289,11 @@ Listed below are examples of various extensions we have identified as providing 
 | 10. | Token | Typed data definitions for the eosio.token contract. |  
 | 11. | Transaction Fee | Typed data definitions for the integration of transaction fees. | 
 
-### Milestone X - Web Client SDK
+### Milestone 3 - Web Client SDK
 
-Estimated duration: 1 month
-FTE: 2
-Costs: 8,000 USD
+Estimated duration: 3 months
+FTE: 5
+Costs: $365,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -295,25 +307,34 @@ Costs: 8,000 USD
 | 5. | Transact | Customizable transaction pipeline for preparing, signing, broadcasting, and post-processing of transactions. |  
 | 6. | UI Components | Reusable interface components (prompt OK, Yes/No, status message, etc). |  
 
-### Milestone X - Web Client Plugins
+### Milestone 4 - Web Client Plugins
 
-Estimated duration: 1 month
-FTE: 2
-Costs: 8,000 USD
+Estimated duration: 2 months
+FTE: 3
+Costs: $150,000 USD
 
-Each plugin will be it's own self-contained package, having templated documentation and published for developers to optionally include in their project.
+Each plugin will be it's own self-contained package, having templated documentation and published for developers to optionally include in their project. This milestone is the creation of the **standards** and **templates**, alongside the development at least one plugin to serve as the reference implementation.
 
-Listed below are examples of various plugins we have identified as providing benefit.
+##### Standards
 
-**Note**: The extension candidates listed below are entered alphabetically and not ordered by priority. They are just candidates for potential extensions and the priority on which to build first will need to be discussed.
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | Middleware | Definition of how transaction middleware is defined and the pipeline the data flows through. |
+| 1. | Transport | Definition of communication between applications and signers. |
+| 1. | Interactions | Definition of how interactive events can be surfaced from plugins through the user interface. |
 
 ##### Templates
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
+| 1. | Middleware Template | Base template for the creation of transaction middleware. |
+| 1. | Interactions Template | Base template for the creation of user interaction libraries. |
+| 1. | Transport Template | Base template for the creation of new communication transports. |
 | 1. | Account Creation Template | Base template for the creation of account creation plugins. |
 | 1. | Resource Provider Template | Base template for the creation of resource provider plugins. |
 | 1. | Wallet Plugin Template | Base template for the creation of new wallet interface plugins. |
+
+**Note**: The plugin candidates listed below are entered alphabetically and not ordered by priority. They are just candidates for potential plugins and the priority on which to built as the initial prototype will need to be discussed by the project sponsors.
 
 ##### Plugins
 
@@ -323,52 +344,33 @@ Listed below are examples of various plugins we have identified as providing ben
 | 1. | Greymass Account Creation | Account Creation Plugin | 
 | 1. | EOSIO Signing Request (Anchor) | Wallet Plugin | 
 | 1. | Scatter Protocol | Wallet Plugin | 
+| 1. | WAX Cloud Wallet | Wallet Plugin | 
 
-### Milestone X - EOSIO Starter Kit
-
-Estimated duration: 1 month
-FTE: 2
-Costs: 8,000 USD
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 1. | Basic Starter Kit | A beginner SDK that includes the most commonly used components for all EOSIO networks. | 
-| 1. | Basic Starter Kit - Documentation | A guide on how to utilize the starter kit in an application. | 
-
-### Milestone X - Website
+### Milestone 5 - EOSIO Starter Kit
 
 Estimated duration: 1 month
 FTE: 2
-Costs: 8,000 USD
+Costs: $50,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1. | Greymass Fuel | Resource Provider Plugin | 
-| 1. | Greymass Fuel | Resource Provider Plugin | 
-| 1. | Greymass Fuel | Resource Provider Plugin | 
-| 1. | Greymass Fuel | Resource Provider Plugin | 
+| 1. | Basic Starter Kit | A beginner kit that includes the most commonly used components for all EOSIO networks. | 
+| 1. | Basic Starter Kit - Documentation | A guide on how to utilize the starter kit in an existing application. | 
+| 1. | Basic Starter Kit - Integration Examples | One or more example codebases that integrate the starter kit with common web frameworks. | 
 
+### Milestone 6 - Brand / Website / Documentation
 
-#### docs
+Estimated duration: 4 months
+FTE: 5
+Costs: $305,000 USD
 
-[TODO - brainstorming still]
-
-- core
-    - native types, how to use, what functions they offer
-    - api client core usage
-- core extensions
-    - create an extension for custom data types
-    - distribution for use in other apps
-- web client sdk
-- web client plugins
-- starter kit
-    - functional app demos
-    - integrating into your desired framework
-    - boilerplates (react, vue, angular, svelte, etc)
-
-#### brand
-
-[TODO]
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | Brand | The branding for the product suite, including name, visual identity, domains and socials. | 
+| 1. | Website | Primary developer focused marketing website to facilitate the onboarding of new developers into the ecosystem. Product landing pages describing features for each part of the product suite to help guide developers towards relevant educational materials. | 
+| 1. | Plugin / Extension Library | A searchable index of all the various packages that can be utilized with the product suite. | 
+| 1. | Documentation | Complete documentation of all products within the suite linked throughout the marketing portion of the website. API references, code/usage samples, and basic guides. | 
+| 1. | Developer Support | Various funnels to push developers into community channels to get support while developing with the product suite. | 
 
 ## Future Plans
 
@@ -381,6 +383,8 @@ Greymass intends to "[dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog
 
 The long term plans for Greymass include building a number of products and services that leverage EOSIO technologies in the future once the development environment is easy to use for both developers and users.
 
+It should be anticipated that future funding will be required to facilitate the creation of additional Web Client Plugins and Core Library Extensions.
+
 ## Additional Information
 
 **How did you hear about the Grants Program?** Directly from the ENF.
@@ -390,101 +394,3 @@ The Greymass team has been slowly working to achieve a series of modern SDKs for
 The work done to date on all of this software has been financed through block producer rewards, donations, and personal financing from members of the team. 
 
 Greymass applied for grants directly from Block.one in 2019/2020 for this work, which was not accepted.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[TODO - remove notes below]
-
-
-- Event system
-    - Drives optional user interface layer
-- User Interface Abstraction
-    - Plugin architecture
-        - Predefined user interface bundled into starter kits
-    - Localization/i18n
-    - Candidates/Features:
-        - Sign in
-        - Sign out
-        - Sign transaction
-        - Transaction status
-        - Prompts (Yes/No, OK, etc)
-        - Message (Success, error, warn, etc)
-- Abstract API access
-    - Data Retrieval
-        - Easily load account, table, or other types of data
-- Sessions
-    - Embedded `transact` to create transaction based on the configuration of this session
-    - Ability to communicate with the signer attached to the session
-    - Associated account information and helpers to easily access more data
-- Transactions
-    - Instantiate `transactor` with pipeline configuration
-        - Starter Kit can default to using common plugins (Fuel?)
-        - Defaults to none
-    - The `transact` method takes action/transaction data input and...
-        - passes through `presign` pipeline
-        - passes through `sign` pipeline
-        - validates
-        - broadcasts
-        - passes through `postsign` pipeline
-    - Event handlers and messaging
-        - transaction lifecycle 
-            - success
-                - transaction validation monitoring (checks tx exists)
-            - failure
-                - fallback methods (retry strategies, prompting, etc)
-    - Plugin architecture to allow custom logic
-        - Input/Output of each plugin: ESR string
-        - Plugin Functionality:
-            - Performing API calls
-            - Conditionally modifying action data
-            - Validating transaction data
-        - Uses:
-            - Estimating 
-            - Providing Resources
-            - Validating Data
-        - Candidates/Examples: 
-            - Add Action (Generic)
-            - Cosign (Resource Providers)
-            - Estimate (Resource Providers)
-            - Validate (Generic)
-            - Multisig (Generic) - both on-chain and off-chain
-
-- Type non-core primitives
-    - Define commonly used data types
-    - Bundle into Core Library extensions
-    - Include most commonly used into Starter Kit
-    - Candidates:
-        - Account (eosio)
-        - Fee (eosio.token)
-        - NameBid (eosio)
-        - NFT (AA, Simple, etc)
-        - PowerUp (eosio)
-        - RAM (eosio)
-        - REX (eosio)
-        - Stake (eosio)
-        - Token (eosio.token)
-- Create non-core APIClient extensions
-    - Candidates: 
-        - atomicassets
-        - dfuse
-        - hyperion
-        - resource provider spec (Fuel)
-        - v1 history spec
-
-- Rebuild/Extend APIClient
-    - Create `Struct.fetch()` patterns for quick API access
-    - Plugin architecture for common/optional non-native API services
-    - ability to instantiate APIClient with additional configured plugins
-    - support for load balancing and failover (potentially through plugins?)
