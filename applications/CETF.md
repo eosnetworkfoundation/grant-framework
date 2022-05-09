@@ -15,8 +15,8 @@ This application is in response to an RFP. (Open application process)
 - **Brief Description:** There are thousands of crypto assets on the market, it is very difficult to know which assets to invest in. Most people do not know and don’t want to know anything about whitepapers, tokenomics, or on-chain analytics. Yet, they would like to invest in crypto. One of the solutions are ETFs/indices, we are building decentralized asset management protocol that enables to create and manage such ETFs. In other words, our protocol enables to put many tokens into one token.
 - **Relationship to EOSIO:** Our market research has shown that each chain has their own asset management protocol, our aim is provide a solution for EOSIO.
 - **Reason for Interest:** We've have deep interest in finance and we've been building on EOSIO for more than two years. Fundamental interest is to maximize number of individuals who have financial freedom.
-- **Pitch deck:** (Link)
-- **Helios interview:** (Link)
+- **Pitch deck:** https://drive.google.com/file/d/1FldnAjAXED5Knl_Ud76PRCk8wx5UIjAW/view?usp=sharing
+- **Helios interview:** https://youtu.be/JFsF0z1yz1Y
 
 
 
