@@ -42,6 +42,16 @@ jobs:
       - name: Echo_file
         run: echo This is the file ${{ needs.get_filename.outputs.filename }}
         
+      # Parse the application template for the email account
+      - name: assign the env from the email name
+        run: |
+          export APP_EMAIL=`/bin/grep "**Contact Email:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4`
+          echo "::set-env name=APP_EMAIL::$APP_EMAIL"
+      
+      # Now echo the saved ENV name
+      - name: Echo the email name
+        run: echo "the email name is ${APP_EMAIL} from the application - single step"
+      
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
