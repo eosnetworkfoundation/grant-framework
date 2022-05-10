@@ -1,9 +1,9 @@
 # EOS Network Foundation Grant Proposal
 
-- **Project Name: bountyblok Distribution Tool - Extended Features**
-- **Team Name: bountyblok**
-- **EOS Payment Address: bountyblokio**
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels): 2**
+- **Project Name:** bountyblok Distribution Tool - Extended Features
+- **Team Name:** bountyblok
+- **EOS Payment Address:** bountyblokio
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
 
 ## Project Overview
 
