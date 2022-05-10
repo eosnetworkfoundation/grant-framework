@@ -12,7 +12,7 @@ This application is in response to an RFP. (Open application process)
 ### Overview
 
 - **Name:** CETF - Crypto Exchange Traded Funds
-- **Brief Description:** There are thousands of crypto assets on the market, it is very difficult to know which assets to invest in. Most people do not know and don’t want to know anything about whitepapers, tokenomics, or on-chain analytics. Yet, they would like to invest in crypto. One of the solutions are ETFs/indices, we are building decentralized asset management protocol that enables to create and manage such ETFs. In other words, our protocol enables to put many tokens into one token.
+- **Brief Description:** There are thousands of crypto assets on the market, it requires a lot of research to know which assets to invest in. Most people do not know and don’t want to know anything about whitepapers, tokenomics, or on-chain analytics. Yet, they would like to invest in crypto, the asset class that will outperform every other class in the next decades. One of the solutions are ETFs/indices, we are building decentralized asset management protocol that enables to create and manage such ETFs. In other words, our protocol enables to put many tokens into one token. Thhrough simplistic UX the token is available to be purchased by investors without prior exposure to crypto.
 - **Relationship to EOSIO:** Our market research has shown that each chain has their own asset management protocol, our aim is provide a solution for EOSIO.
 - **Reason for Interest:** We've have deep interest in finance and we've been building on EOSIO for more than two years. Fundamental interest is to maximize number of individuals who have financial freedom.
 - **Pitch deck:** https://drive.google.com/file/d/1FldnAjAXED5Knl_Ud76PRCk8wx5UIjAW/view?usp=sharing
@@ -22,7 +22,7 @@ This application is in response to an RFP. (Open application process)
 
 ### Project Details
 
-We created first ETF on EOSIO called EOSETF, it consists of 13 EOS mainnet tokens. We deployed the fund to the mainnet in 2021 Q3. UI can accessed via https://eosetf.io/, contracts deployed to https://bloks.io/account/cet.f. Currently there are more than 150 investors holding EOSETF, TVL has peaked over 35k USD. The price of the EOSETF has been pegged to the price of the underlying tokens it consists of, since some users have created arbitrage bots to capture price discrepancies. At current stage (Phase 1) EOSETF is a proof of concept/MVP. We saw enough traction to start building the Phase 2.
+We created first ETF on EOSIO called EOSETF, it consists of 13 EOS mainnet tokens. We deployed the fund to the mainnet in 2021 Q3. UI can accessed via https://eosetf.io/, contracts deployed to https://bloks.io/account/cet.f. Currently there are more than 150 investors holding EOSETF, TVL has peaked over 35k USD. The price of the EOSETF has been pegged to the price of the underlying tokens it consists of, since some users have created arbitrage bots to capture price discrepancies, and others just perfrom the arbitrage manually. At current stage (Phase 1) EOSETF is a proof of concept/MVP. We saw enough traction to start building the Phase 2.
 
 Phase 2 is being tested here: https://testing.eosetf.io/.
 
@@ -30,7 +30,7 @@ New features in Phase 2:
 
 1. Automatic rebalancing
 
-In current Phase 1 it is manual and laborious process to rebalance the fund. The new rebalancing function enables easily to include and exclude tokens from the fund. EOSETF will have fund managers that through https://polling.eosetf.io/ (currently connected to the testing fund, which you can try to rebalance. Pick tokens you'd like to include or exclude, click VOTE and then REBALANCE). There is no limit as to how many fund managers can participate in the rebalancing. The votes of fund managers are summed together to produce the final allocation. We've on-boarded three individuals from EOS community who have the skill and are interested in managing the EOSETF. Based on the votes of fund managers the REBAlANCING function automatically exectues the trades via https://defibox.io/.
+In current Phase 1 it is manual and laborious process to rebalance the fund. The new rebalancing function enables easily to include and exclude tokens from the fund. EOSETF (and the future funds) will have fund managers that through https://polling.eosetf.io/ (currently connected to the testing fund, which you can try to rebalance. Pick tokens you'd like to include or exclude, click VOTE and then REBALANCE). There is no limit as to how many fund managers can participate in the rebalancing. The votes of fund managers are summed together to produce the final allocation. We've on-boarded three individuals from EOS community who have the skill and are interested in managing the EOSETF. Based on the votes of fund managers the REBAlANCING function automatically exectues the trades via https://defibox.io/.
 
 2. CETF staking
 
@@ -48,9 +48,9 @@ Phase 3 though is where the real magic happens. Once the Phase 2 is polished and
 
 Our philosophy for building is simplicity, our target group are individuals without prior exposure to crypto.
 
-ETFs could be the vehicle through which EOSIO chains can become massive in terms of liquidity. Through ETFs built on CETF, investors could get exposure to assets of different chains, assuming there are proper bridges. In other words our ETFs are the only crypto related assets they should hold to get exposure to the whole industry.
+ETFs could be the vehicle through which EOSIO chains can receive more liquidity. Through ETFs built on CETF, investors could get exposure to assets of different chains, assuming there are proper bridges. Our ETFs might be the only crypto related assets they should hold in order to get exposure to the whole industry.
 
-Eventually in Phase 3 it would be possible to create a single token that encompasses all the financial asset classes. One token containing fully diversified portfolio, exposure that sophisticated investor could only dream of, yet available to anyone. Creation of all encompassing asset is one the holygrails of finance. Such asset could be created on CETF protocol.
+Eventually in Phase 3 it would be possible to create a single token that encompasses all the financial asset classes. One token containing fully diversified portfolio, exposure that sophisticated investor could only dream of, yet available to anyone. Creation of all encompassing asset is one the holygrails of finance. Such asset could eventually be created on CETF protocol.
 
 
 
@@ -59,7 +59,7 @@ Eventually in Phase 3 it would be possible to create a single token that encompa
 - Where and how does your project fit into the ecosystem?
   Fits on every chain running on EOSIO.
 
-- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+- Who is your target audience?
   Phase 2
 
 1. Existing investors in the ecosystem.
@@ -74,7 +74,7 @@ Phase 3
   No.
 
 - If not, are there similar projects in related ecosystems?
-  Yes, each chain has their own asset management protocol.
+  Yes, each chain has their own asset management protocol. All of them listed in the attached Pitch Deck.
 
 ## Team
 
@@ -97,7 +97,7 @@ Phase 3
 
 We both been deep into theoretical finance, primarily during our time in Stockholm School of Economics.
 
-I (Vladislav) have previously worked in PwC tech/legal department. When Peter Keay 3 years ago released his first developer course, I quit PwC to focus fully on learning development on EOSIO. Since then, I kept learning and buidling. Lennar has been on this journey with me but on a part-time basis as in parallel he has been working at Lustre.AI.
+I (Vladislav) have previously worked in PwC tech/legal department. When Peter Keay 3 years ago released his first developer course, I quit PwC to focus fully on learning development on EOSIO. Since then, I kept learning and buidling. Lennar has been on this journey with me but on a part-time basis as in parallel he has been working with Lustre.AI.
 
 CETF is our second project on EOSIO. More than two years ago we released the first version of Consortium (https://app.consortium.vote/). Consortium is an on-chain polling dApp, that enables communities to use their tokens to vote in polls. On EOS mainnet, around 10 000 votes have been cast by more than 1500 accounts. More recent feature of Consortium has been a claiming tool (https://app.consortium.vote/claim). Created specifically for Eden members, tool enables to claim various tokens of EOS mainnet. More than 40% of all Eden members have claimed tokens via the tool.
 
@@ -105,9 +105,9 @@ Next iteration of Consortium is deployed to WAX (https://wax.consortium.vote/). 
 
 We have used tech from LiquidApps, dFuse, we went quite deep with Anchor (triying to build an app with react-native).
 
-Recently we completed the Helios's incubator (here's an interview: https://www.youtube.com/watch?v=JFsF0z1yz1Y)
+Recently we completed the Helios's incubator.
 
-In Pomelo seoason 1 and 2 we've got more than 6o contributions.
+In Pomelo seoason 1 and 2 CETF got more than 6o contributions.
 
 In the first Eden election Lennar was elected as a delegate, primarily pitching CETF.
 
@@ -144,7 +144,7 @@ Grant would cover following parts of our project:
 2. deployment of Phase 2 to EOS / TELOS / WAX. 
 3. on-boarding custodians and fund managers.
 
-Ideally, we'd like to include smart conctract audit as part of the request but it is additional 10k-15k USD (Sentnl's price tag). 
+Ideally, we'd like to request some funds for smart conctract audit as well but it is additional 10k-15k USD (Sentnl's price tag). 
 
 - **Total Estimated Duration:** 3 - 3.5 months
 - **Full-Time Equivalent (FTE):** 1 FTE
@@ -175,7 +175,7 @@ Ideally, we'd like to include smart conctract audit as part of the request but i
 | 0a. | License | MIT |
 | 0b. | Documentation | Front-end and smart contract repos will contain documentation on how to set up a fund.  |
 | 0c. | Unit Tests | Core functions (rebalancing, creation and redemption of the fund) will be covered by unit tests to ensure functionality and robustness. |
-| 1. | Configuration to reflect the current tokens in the fund.|
+| 1. | Configuration to reflect the current tokens in the fund. Msig to update contracts. Msigs to deploy the configurations.|
 | 2. | Conducting first fund rebalancing by current custodians. |
 | 3. | Giving the rights to rebalance to the fund managers. |
 
@@ -192,7 +192,7 @@ Ideally, we'd like to include smart conctract audit as part of the request but i
 | 0b. | Documentation | Front-end and smart contract repos will contain documentation on how to set up a fund.  |
 | 0c. | Unit Tests | Core functions (rebalancing, creation and redemption of the fund) will be covered by unit tests to ensure functionality and robustness. |
 | 1. | Integration of Alcor Exchange contracts into CETF contracts for the fund rebalancing function. And other configuration of the fund.|
-| 2. | Setting up domains / WAX accounts. |
+| 2. | Setting up domains / Configuring WAX accounts / Deployment of contracts |
 | 3. | Setting up Discord / Telegram. |
 | 4. | On-boarding custodians for the fund's msig. |
 | 5. | On-boarding fund managers. |
@@ -211,7 +211,7 @@ Ideally, we'd like to include smart conctract audit as part of the request but i
 | 0b. | Documentation | Front-end and smart contract repos will contain documentation on how to set up a fund.  |
 | 0c. | Unit Tests | Core functions (rebalancing, creation and redemption of the fund) will be covered by unit tests to ensure functionality and robustness. |
 | 1. | Integration of T-Swaps contracts into CETF contracts for the fund rebalancing function. And other configuration of the fund.|
-| 2. | Setting up domains / Telos accounts. |
+| 2. | Setting up domains / Configuring Telos accounts / Deployment of contracts |
 | 3. | Setting up Discord / Telegram. |
 | 4. | On-boarding custodians for the fund's msig. |
 | 5. | On-boarding fund managers. |
@@ -221,8 +221,10 @@ Ideally, we'd like to include smart conctract audit as part of the request but i
 
 - Firstly the idea would be to grow the three funds on EOS / WAX / TELOS. Solidify and perfect our method of asset management. According to our calculations that take into account the market capitalizations of other chains that have asset management protocols (and metrics of their DEX-es), we have estimated that at current time there is potential to hold from 700k - 2.1m USD in ETFs on EOSIO (details in our pitch deck).
 
-- Secondly once our AUM is impressive enough. Raise proper seed round, potentially through Helios. Use the funds to develop the Phase 3, described in the Project's Details. In essence, Phase 3 enables anyone through simple UI create and manage an ETFs, making them available for investors.
+- Secondly once our AUM is impressive enough. Raise proper seed round, potentially through Helios. Use the funds to develop the Phase 3, described in the Project's Details. In essence, Phase 3 enables anyone easily to create and manage ETFs, making them accessible for investors.
 
+
+See meh.
 - Through out our existance promotion will be in proportion to AUM of our funds and their liquidity on DEXes. Our goal is to on-board non-crypto people. We will make them interested in holding BTC, ETH and other assets in funds created via our protocol because of two reasons. 1. The superb UX, maxing out the simplicity and smoothness. 2. Our main value proposition, that the funds are managed by experienced investors. 
 
 
