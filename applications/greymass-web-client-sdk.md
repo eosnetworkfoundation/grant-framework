@@ -29,7 +29,7 @@ This product suite will be made up of a number of individual layers designed to 
 -   **C. EOSIO Client Library Plugins:** The Client Library supports the usage of plugins to allow additional functionality and UI element design. Plugins will exist for different areas the library is responsible for including wallet communication protocols, transaction mutation based on predefined conditions, monitoring of transactions before and after submission, as well as validation logic.
 -   **D. EOSIO Core Library:** At the heart of all of these other components is the Core Library, which is responsible for primitive data types, standard API access, transaction serialization, and other cryptographic operations. These core components will be used throughout all of the other client libraries and surfaced to the developer as they are used. This core library can be used in other standalone projects to create alternative client libraries that offer similar functionality.
 -   **E. EOSIO Core Library Extensions:** Extensions to the core library are also at the disposal of application developers in order to meet the needs of specific applications and/or blockchains. These extensions offer additional data abstraction for non-core types, support for non-standard APIs, call pattern modifications for APIs, and in-code definitions of contract code. These extensions can be custom designed for specific applications when these advanced needs arise.
--   **F. Brand/Website/Identity:** Branding exploration will be performed to create an recognizable identity for developers in the EOSIO space. This will include messaging and assets that will be used throughout the promotional and educational materials required for the adoption of the technology. A website complete with marketing materials for developers, documentation, and guides will leverage this brand to help new developers get started creating applications on EOSIO.
+-   **F. Brand/Website/Identity:** Branding exploration will be performed to create a recognizable identity for developers in the EOSIO space. This will include messaging and assets that will be used throughout the promotional and educational materials required for the adoption of the technology. A website complete with marketing materials for developers, documentation, and guides will leverage this brand to help new developers get started creating applications on EOSIO.
 -   **G. Specifications and Standards:** During the creation of this new software, the identification of processes and techniques that require standardization will be identified and defined. These standards will be provided in the documentation for use external of the SDKs themselves to create cohesive design patterns throughout the ecosystem.
 
 ### Ecosystem Fit
@@ -257,7 +257,7 @@ Each extension will be it's own self-contained package, having templated documen
 |     1. | API Client Extension Template | Base template for the creation of new API interface extensions. |
 |     2. | Type Extension Template       | Base template for the creation of new data type extensions.     |
 
-**Note**: The extension candidates listed below are entered alphabetically and not ordered by priority. They are just candidates for potential extensions and the priority on which to built as the initial prototype will need to be discussed by the project sponsors.
+**Note**: The extension candidates listed below are entered alphabetically and not ordered by priority. They are just candidates for potential extensions and the priority on which to build as the initial prototype will need to be discussed by the project sponsors.
 
 ##### API Client Extensions
 
@@ -314,7 +314,7 @@ Each extension will be it's own self-contained package, having templated documen
 -   FTE: 3
 -   Costs: $150,000 USD
 
-Each plugin will be it's own self-contained package, having templated documentation and published for developers to optionally include in their project. This milestone is the creation of the **standards** and **templates**, alongside the development at least one plugin to serve as the reference implementation.
+Each plugin will be it's own self-contained package, having templated documentation and published for developers to optionally include in their project. This milestone is the creation of the **standards** and **templates**, alongside the development of at least one plugin to serve as the reference implementation.
 
 ##### Standards
 
@@ -375,7 +375,7 @@ Each plugin will be it's own self-contained package, having templated documentat
 
 ## Future Plans
 
-Greymass intends to "[dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)" these new SDKs in to all current and future projects as a means to ensure the product remains stable and useful. This includes:
+Greymass intends to "[dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)" these new SDKs into all current and future projects as a means to ensure the product remains stable and useful. This includes:
 
 -   Leveraging SDKs within Unicove, our open-source web wallet interface for EOSIO.
 -   Ensuring Anchor compatibility as a transaction signer.
