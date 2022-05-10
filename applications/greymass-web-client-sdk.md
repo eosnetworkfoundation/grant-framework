@@ -228,9 +228,9 @@ The UI and UX focused elements of these libraries can be extracted and improved 
 
 ### Milestone 1 - Core Library
 
-Estimated duration: 2 months
-FTE: 3
-Costs: $125,000 USD
+-   Estimated duration: 2 months
+-   FTE: 3
+-   Costs: $125,000 USD
 
 | Number | Deliverable       | Specification                                                                                        |
 | -----: | ----------------- | ---------------------------------------------------------------------------------------------------- |
@@ -244,9 +244,9 @@ Costs: $125,000 USD
 
 ### Milestone 2 - Core Library Extensions
 
-Estimated duration: 1 month
-FTE: 2
-Costs: $92,500 USD
+-   Estimated duration: 1 month
+-   FTE: 2
+-   Costs: $92,500 USD
 
 Each extension will be it's own self-contained package, having templated documentation and published for developers to optionally include in their project. This milestone is the creation of the **standards** and **templates**, alongside the development at least one plugin to serve as the reference implementation.
 
@@ -292,9 +292,9 @@ Each extension will be it's own self-contained package, having templated documen
 
 ### Milestone 3 - Web Client SDK
 
-Estimated duration: 3 months
-FTE: 5
-Costs: $365,000 USD
+-   Estimated duration: 3 months
+-   FTE: 5
+-   Costs: $365,000 USD
 
 | Number | Deliverable   | Specification                                                                                                |
 | -----: | ------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -310,9 +310,9 @@ Costs: $365,000 USD
 
 ### Milestone 4 - Web Client Plugins
 
-Estimated duration: 2 months
-FTE: 3
-Costs: $150,000 USD
+-   Estimated duration: 2 months
+-   FTE: 3
+-   Costs: $150,000 USD
 
 Each plugin will be it's own self-contained package, having templated documentation and published for developers to optionally include in their project. This milestone is the creation of the **standards** and **templates**, alongside the development at least one plugin to serve as the reference implementation.
 
@@ -349,9 +349,9 @@ Each plugin will be it's own self-contained package, having templated documentat
 
 ### Milestone 5 - EOSIO Starter Kit
 
-Estimated duration: 1 month
-FTE: 2
-Costs: $50,000 USD
+-   Estimated duration: 1 month
+-   FTE: 2
+-   Costs: $50,000 USD
 
 | Number | Deliverable                              | Specification                                                                            |
 | -----: | ---------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -361,9 +361,9 @@ Costs: $50,000 USD
 
 ### Milestone 6 - Brand / Website / Documentation
 
-Estimated duration: 4 months
-FTE: 5
-Costs: $305,000 USD
+-   Estimated duration: 4 months
+-   FTE: 5
+-   Costs: $305,000 USD
 
 | Number | Deliverable                | Specification                                                                                                                                                                                                                                                |
 | -----: | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
