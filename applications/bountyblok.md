@@ -9,7 +9,7 @@
 
 This application is to support an existing proposal put forward on [Pomelo](https://pomelo.io/grants/bountyblok) to reach its funding.
 
-bountyblok is built for NFT Artists, brands and various projects who want to engage their followers with a set of tasks while earning rewards. Also built for developers who want to add gaming mechanics inside their projects. 
+bountyblok is built for NFT Artists, games, brands and various projects who want to engage their followers with a set of tasks while earning rewards. Also built for developers who want to add gaming mechanics inside their projects. 
 
 ### Overview
 
