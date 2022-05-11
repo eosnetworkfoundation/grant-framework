@@ -30,7 +30,7 @@ New features in Phase 2:
 
 1. Automatic rebalancing
 
-In current Phase 1 it is manual and laborious process to rebalance the fund. The new rebalancing function enables easily to include and exclude tokens from the fund. EOSETF (and the future funds) will have fund managers that through https://polling.eosetf.io/ (currently connected to the testing fund, which you can try to rebalance. Pick tokens you'd like to include or exclude, click VOTE and then REBALANCE). There is no limit as to how many fund managers can participate in the rebalancing. The votes of fund managers are summed together to produce the final allocation. We've on-boarded three individuals from EOS community who have the skill and are interested in managing the EOSETF. Based on the votes of fund managers the REBAlANCING function automatically exectues the trades via https://defibox.io/.
+In current Phase 1 it is manual and laborious process to rebalance the fund. The new rebalancing function enables easily to include and exclude tokens from the fund. EOSETF (and the future funds) will have fund managers that through https://polling.eosetf.io/ (currently connected to the testing fund, which you can try to rebalance. Pick tokens you'd like to include or exclude, click VOTE and then REBALANCE). There is no limit as to how many fund managers can participate in the rebalancing. The votes of fund managers are summed together to produce the final allocation. We've on-boarded three individuals from EOS community who have the skill and are interested in managing the EOSETF. Based on the votes of fund managers the REBALANCING function automatically exectues the trades via https://defibox.io/.
 
 2. CETF staking
 
@@ -71,9 +71,9 @@ Eventually in Phase 3 it would be possible to create a single token that encompa
 
  2. Investors without prior exposure to crypto.
 
-</hr>
 
-    Phase 3
+
+  Phase 3
 
  1. Fund managers.
  
