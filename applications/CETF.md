@@ -66,13 +66,13 @@ Eventually in Phase 3 it would be possible to create a single token that encompa
 - Who is your target audience?
 
   Phase 2
-1. Existing investors in the ecosystem.
-2. Investors without prior exposure to crypto.
+1.Existing investors in the ecosystem.
+2.Investors without prior exposure to crypto.
 
     Phase 3
-1. Fund managers.
-2. Investors without prior exposure to crypto.
-3. Existing investors in crypto.
+1.Fund managers.
+2.Investors without prior exposure to crypto.
+3.Existing investors in crypto.
 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
 
