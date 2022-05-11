@@ -12,7 +12,7 @@ This application is in response to an RFP. (Open application process)
 ### Overview
 
 - **Name:** CETF - Crypto Exchange Traded Funds
-- **Brief Description:** There are thousands of crypto assets on the market, it requires a lot of research to know which assets to invest in. Most people do not know and don’t want to know anything about whitepapers, tokenomics, or on-chain analytics. Yet, they would like to invest in crypto. One of the solutions are ETFs/indices, we are building decentralized asset management protocol that enables to create and manage such ETFs. In other words, our protocol enables to put many tokens into one token. Thhrough simplistic UX the token is available to be purchased by investors without prior exposure to crypto.
+- **Brief Description:** There are thousands of crypto assets on the market, it requires a lot of research to know which assets to invest in. Most people do not know and don’t want to know anything about whitepapers, tokenomics, or on-chain analytics. Yet, they would like to invest in crypto. One of the solutions are ETFs/indices, we are building decentralized asset management protocol that enables to create and manage such ETFs. In other words, our protocol enables to put many tokens into one token. Through simplistic UX the token is available to be purchased by investors without prior exposure to crypto.
 - **Relationship to EOSIO:** Our market research has shown that each chain has their own asset management protocol, our aim is provide a solution for EOSIO.
 - **Reason for Interest:** We've have deep interest in finance and we've been building on EOSIO for more than two years. Fundamental interest is to maximize number of individuals who have financial freedom.
 - **Pitch deck:** https://drive.google.com/file/d/1FldnAjAXED5Knl_Ud76PRCk8wx5UIjAW/view?usp=sharing
@@ -57,24 +57,26 @@ Eventually in Phase 3 it would be possible to create a single token that encompa
 ### Ecosystem Fit
 
 - Where and how does your project fit into the ecosystem?
-  Fits on every chain running on EOSIO.
+
+  Fits on every chain that runs on EOSIO and has a DEX.
 
 - Who is your target audience?
-  Phase 2
 
+  Phase 2
 1. Existing investors in the ecosystem.
 2. Investors without prior exposure to crypto.
 
 Phase 3
-
 1. Fund managers.
 2. Investors without prior exposure to crypto.
 3. Existing investors in crypto.
 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
+
   No.
 
 - If not, are there similar projects in related ecosystems?
+
   Yes, each major chain has their own asset management protocol. All of them listed in the attached Pitch Deck.
 
 ## Team
@@ -82,7 +84,9 @@ Phase 3
 ### Team members
 
 - Names of team members
+
   Vladislav Hramtsov
+
   Lennar Lehestik
 
 ### Contact
