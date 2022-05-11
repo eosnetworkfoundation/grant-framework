@@ -12,7 +12,7 @@ This application is in response to an RFP. (Open application process)
 ### Overview
 
 - **Name:** CETF - Crypto Exchange Traded Funds
-- **Brief Description:** There are thousands of crypto assets on the market, it requires a lot of research to know which assets to invest in. Most people do not know and don’t want to know anything about whitepapers, tokenomics, or on-chain analytics. Yet, they would like to invest in crypto, the asset class that will outperform every other class in the next decades. One of the solutions are ETFs/indices, we are building decentralized asset management protocol that enables to create and manage such ETFs. In other words, our protocol enables to put many tokens into one token. Thhrough simplistic UX the token is available to be purchased by investors without prior exposure to crypto.
+- **Brief Description:** There are thousands of crypto assets on the market, it requires a lot of research to know which assets to invest in. Most people do not know and don’t want to know anything about whitepapers, tokenomics, or on-chain analytics. Yet, they would like to invest in crypto. One of the solutions are ETFs/indices, we are building decentralized asset management protocol that enables to create and manage such ETFs. In other words, our protocol enables to put many tokens into one token. Thhrough simplistic UX the token is available to be purchased by investors without prior exposure to crypto.
 - **Relationship to EOSIO:** Our market research has shown that each chain has their own asset management protocol, our aim is provide a solution for EOSIO.
 - **Reason for Interest:** We've have deep interest in finance and we've been building on EOSIO for more than two years. Fundamental interest is to maximize number of individuals who have financial freedom.
 - **Pitch deck:** https://drive.google.com/file/d/1FldnAjAXED5Knl_Ud76PRCk8wx5UIjAW/view?usp=sharing
@@ -69,12 +69,13 @@ Phase 3
 
 1. Fund managers.
 2. Investors without prior exposure to crypto.
+3. Existing investors in crypto.
 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
   No.
 
 - If not, are there similar projects in related ecosystems?
-  Yes, each chain has their own asset management protocol. All of them listed in the attached Pitch Deck.
+  Yes, each major chain has their own asset management protocol. All of them listed in the attached Pitch Deck.
 
 ## Team
 
@@ -144,9 +145,9 @@ Grant would cover following parts of our project:
 2. deployment of Phase 2 to EOS / TELOS / WAX. 
 3. on-boarding custodians and fund managers.
 
-Ideally, we'd like to request some funds for smart conctract audit as well but it is additional 10k-15k USD (Sentnl's price tag). 
+Ideally, we'd like to request some funds for audit of our contracts but that is an additional 10k-15k USD (Sentnl's price tag). 
 
-- **Total Estimated Duration:** 3 - 3.5 months
+- **Total Estimated Duration:** 3 months
 - **Full-Time Equivalent (FTE):** 1 FTE
 - **Total Costs:** Requested amount for the project is 10 000 USD. 
 
@@ -161,12 +162,12 @@ Ideally, we'd like to request some funds for smart conctract audit as well but i
 | 0a. | License | MIT |
 | 0b. | Documentation | Front-end and smart contract repos will contain documentation on how to set up a fund.  |
 | 0c. | Unit Tests | Core functions (rebalancing, creation and redemption of the fund) will be covered by unit tests to ensure functionality and robustness. |
-| 1. | UI | 19 fixes in the to do list. | 
-| 2. | Smart contracts | 2.1 Consultation with a developer (implementing fixes in case they are objective). 2.2 Configuration for deployment.
+| 1. | UI | 19 fixes/additions in the to do list. | 
+| 2. | Smart contracts | 2.1 Consultation with a developer (implementing fixes in case they are objective). 2.2 Configuration of the contracts for deployment.
 
 ### Milestone 2 — Phase 2 deployment to EOS mainnet
 
-- **Estimated Duration:** 2-3 weeks
+- **Estimated Duration:** 2 weeks
 - **FTE:** 1
 - **Costs:** 2,000 USD
 
@@ -175,14 +176,14 @@ Ideally, we'd like to request some funds for smart conctract audit as well but i
 | 0a. | License | MIT |
 | 0b. | Documentation | Front-end and smart contract repos will contain documentation on how to set up a fund.  |
 | 0c. | Unit Tests | Core functions (rebalancing, creation and redemption of the fund) will be covered by unit tests to ensure functionality and robustness. |
-| 1. | Configuration to reflect the current tokens in the fund. Msig to update contracts. Msigs to deploy the configurations.|
+| 1. | Msig to deploy contracts. Configuration to reflect the current tokens in the fund. Msig to update contracts. Msigs to deploy the configurations.|
 | 2. | Conducting first fund rebalancing by current custodians. |
 | 3. | Giving the rights to rebalance to the fund managers. |
 
 
 ### Milestone 3 — Phase 2 deployment to WAX mainnet
 
-- **Estimated Duration:** 2-3 weeks
+- **Estimated Duration:** 3 weeks
 - **FTE:** 1
 - **Costs:** 2,500 USD
 
@@ -191,7 +192,7 @@ Ideally, we'd like to request some funds for smart conctract audit as well but i
 | 0a. | License | MIT |
 | 0b. | Documentation | Front-end and smart contract repos will contain documentation on how to set up a fund.  |
 | 0c. | Unit Tests | Core functions (rebalancing, creation and redemption of the fund) will be covered by unit tests to ensure functionality and robustness. |
-| 1. | Integration of Alcor Exchange contracts into CETF contracts for the fund rebalancing function. And other configuration of the fund.|
+| 1. | Integration of Alcor Exchange into CETF contracts for the fund rebalancing function. Other configurations of the fund.|
 | 2. | Setting up domains / Configuring WAX accounts / Deployment of contracts |
 | 3. | Setting up Discord / Telegram. |
 | 4. | On-boarding custodians for the fund's msig. |
@@ -201,7 +202,7 @@ Ideally, we'd like to request some funds for smart conctract audit as well but i
 
 ### Milestone 4 — Phase 2 deployment to Telos mainnet
 
-- **Estimated Duration:** 2-3 weeks
+- **Estimated Duration:** 3 weeks
 - **FTE:** 1
 - **Costs:** 2,500 USD
 
@@ -210,7 +211,7 @@ Ideally, we'd like to request some funds for smart conctract audit as well but i
 | 0a. | License | MIT |
 | 0b. | Documentation | Front-end and smart contract repos will contain documentation on how to set up a fund.  |
 | 0c. | Unit Tests | Core functions (rebalancing, creation and redemption of the fund) will be covered by unit tests to ensure functionality and robustness. |
-| 1. | Integration of T-Swaps contracts into CETF contracts for the fund rebalancing function. And other configuration of the fund.|
+| 1. | Integration of T-Swaps into CETF contracts for the fund rebalancing function. Other configurations of the fund.|
 | 2. | Setting up domains / Configuring Telos accounts / Deployment of contracts |
 | 3. | Setting up Discord / Telegram. |
 | 4. | On-boarding custodians for the fund's msig. |
@@ -219,17 +220,13 @@ Ideally, we'd like to request some funds for smart conctract audit as well but i
 
 ## Future Plans
 
-- Firstly the idea would be to grow the three funds on EOS / WAX / TELOS. Solidify and perfect our method of asset management. According to our calculations that take into account the market capitalizations of other chains that have asset management protocols (and metrics of their DEX-es), we have estimated that at current time there is potential to hold from 700k - 2.1m USD in ETFs on EOSIO (details in our pitch deck).
+- Firstly, the idea would be to grow the three funds on EOS / WAX / TELOS. Solidify and perfect our method of asset management. According to our calculations that takes into account the market capitalizations of other chains that have asset management protocols (and metrics of their DEX-es), we have estimated that at current time there is potential to hold from 700k - 2.1m USD in ETFs on EOSIO (details in our pitch deck).
 
-- Secondly once our AUM is impressive enough. Raise proper seed round, potentially through Helios. Use the funds to develop the Phase 3, described in the Project's Details. In essence, Phase 3 enables anyone easily to create and manage ETFs, making them accessible for investors.
-
-
-See meh.
-- Through out our existance promotion will be in proportion to AUM of our funds and their liquidity on DEXes. Our goal is to on-board non-crypto people. We will make them interested in holding BTC, ETH and other assets in funds created via our protocol because of two reasons. 1. The superb UX, maxing out the simplicity and smoothness. 2. Our main value proposition, that the funds are managed by experienced investors. 
+- Secondly, once we've grown a bit our AUM, idea is to raise proper seed round, potentially through Helios. Use the funds to develop the Phase 3, described in the Project's Details. In essence, Phase 3 enables anyone to easily create and manage ETFs and make them accessible for investors.
 
 
 ## Additional Information
 
 **How did you hear about the Grants Program?** Zack's tweet.
 
-- We are in communication with Helios and Telos Foundation to raise funds. 
+- We are also in communication with Helios and Telos Foundation to raise some funds. 
