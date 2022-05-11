@@ -65,7 +65,7 @@ Eventually in Phase 3 it would be possible to create a single token that encompa
 
 - Who is your target audience?
 
-  Phase 2
+-  Phase 2
 
  1. Existing investors in the ecosystem.
 
@@ -73,7 +73,7 @@ Eventually in Phase 3 it would be possible to create a single token that encompa
 
 
 
-    Phase 3
+- Phase 3
 
  1. Fund managers.
  
