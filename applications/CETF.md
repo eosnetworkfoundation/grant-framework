@@ -42,7 +42,7 @@ Extremely important component of a funtioning ETF is its liquidity. As such we'v
 
 
   <br />
-
+  <br />
 Smart contracts of the above mentioned functions are 95% complete and currently in debugging phase. UI of the Phase 2 is 50% complete.
 
 Your support would help us to finish the Phase 2 and deploy it to EOS, WAX and TELOS. Each chain requires configuration since the rebalancing function needs to be configured with a DEX. Our plan is to on-board fund managers and custodians for the fund on WAX and Telos. The fund on EOS is already under msig between 5 Eden members (Vladislav Hramtsov, Lennar Lehestik, Chaney Moore, Dan Singjoy, Bastiaan Moossdorff).
@@ -65,20 +65,21 @@ Eventually in Phase 3 it would be possible to create a single token that encompa
 
 - Who is your target audience?
 
-  Phase 2:
+  Phase 2
 
- Existing investors in the ecosystem.
+ 1. Existing investors in the ecosystem.
 
- Investors without prior exposure to crypto.
+ 2. Investors without prior exposure to crypto.
 
+</hr>
 
-    Phase 3:
+    Phase 3
 
- Fund managers.
+ 1. Fund managers.
  
- Investors without prior exposure to crypto.
+ 2. Investors without prior exposure to crypto.
  
- Existing investors in crypto.
+ 3. Existing investors in crypto.
 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
 
