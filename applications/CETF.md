@@ -41,7 +41,7 @@ In Phase 1 we issued our native token CETF to all the creators of EOSETF (no tok
 Extremely important component of a funtioning ETF is its liquidity. As such we've created CETF mining function to incentivize liquidity providers for EOSETF/EOS pair on Defibox (https://defibox.io/pool-market-details/1232). Each week, stakers of LP tokens will be able to claim CETF tokens.
 
 
-
+  <br />
 
 Smart contracts of the above mentioned functions are 95% complete and currently in debugging phase. UI of the Phase 2 is 50% complete.
 
@@ -69,7 +69,7 @@ Eventually in Phase 3 it would be possible to create a single token that encompa
 1. Existing investors in the ecosystem.
 2. Investors without prior exposure to crypto.
 
-  Phase 34
+    Phase 3
 1. Fund managers.
 2. Investors without prior exposure to crypto.
 3. Existing investors in crypto.
