@@ -93,7 +93,7 @@ Eventually in Phase 3 it would be possible to create a single token that encompa
 
 ### Team members
 
-- Names of team members
+- Names of team members:
 
   Vladislav Hramtsov
 
