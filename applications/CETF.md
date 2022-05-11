@@ -69,7 +69,6 @@ Eventually in Phase 3 it would be possible to create a single token that encompa
 1. Existing investors in the ecosystem.
 2. Investors without prior exposure to crypto.
 
-
   Phase 3
 1. Fund managers.
 2. Investors without prior exposure to crypto.
