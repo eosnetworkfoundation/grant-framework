@@ -59,11 +59,11 @@ Eventually in Phase 3 it would be possible to create a single token that encompa
 
 ### Ecosystem Fit
 
-- Where and how does your project fit into the ecosystem?
+<b> - Where and how does your project fit into the ecosystem? </b>
 
   Fits on every chain that runs on EOSIO and has a DEX.
 
-- Who is your target audience?
+<b>- Who is your target audience?</b>
 
  -  Phase 2
 
@@ -81,11 +81,11 @@ Eventually in Phase 3 it would be possible to create a single token that encompa
  
  3. Existing investors in crypto.
 
-- Are there any other projects similar to yours in the EOSIO ecosystem?
+<b>- Are there any other projects similar to yours in the EOSIO ecosystem?</b>
 
   No.
 
-- If not, are there similar projects in related ecosystems?
+<b>- If not, are there similar projects in related ecosystems?</b>
 
   Yes, each major chain has their own asset management protocol. All of them listed in the attached Pitch Deck.
 
