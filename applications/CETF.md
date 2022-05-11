@@ -87,7 +87,7 @@ Eventually in Phase 3 it would be possible to create a single token that encompa
 
 <b>- If not, are there similar projects in related ecosystems?</b>
 
-  Yes, each major chain has their own asset management protocol. All of them listed in the attached Pitch Deck.
+  Yes, each major chain has their own asset management protocol. All of them listed in the attached pitch deck.
 
 ## Team
 
