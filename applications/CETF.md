@@ -1,8 +1,6 @@
 # EOS Network Foundation Grant Proposal
 
-<h1> <img src="https://serving.photos.photobox.com/80569519fc9a78ab8e2a713de35656f41e0cda82a74640a81c611f8ebe55fe267d3f5415.jpg" width="55" height="55"> CETF - Decentralized Exchange Traded Funds </h1>
-
-- **Project Name:** CETF - Crypto Exchange Traded Funds
+- **Project Name:** CETF - Crypto Exchange Traded Funds <img src="https://serving.photos.photobox.com/80569519fc9a78ab8e2a713de35656f41e0cda82a74640a81c611f8ebe55fe267d3f5415.jpg" width="30" height="30"> 
 - **Team Name:** CETF
 - **EOS Payment Address:** cet.f
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
