@@ -84,7 +84,6 @@ jobs:
           secure: true
           username: enfmailbot@eosn.foundation
           password: ${{ secrets.ENFMAILBOT_PASSWORD }}
-
           subject: Thank you for your ENF Grant Framework Application ✨
           #body: Hi ${{needs.parse_app.outputs.contact_name}}, We recieved your ENF Grant application for ${{needs.parse_app.outputs.project_name}} by the ${{needs.parse_app.outputs.team_name}} team, submitted from the ${{ github.actor }} Github account. 
           body: This is a BS test email
