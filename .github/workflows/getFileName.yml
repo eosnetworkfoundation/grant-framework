@@ -53,7 +53,7 @@ jobs:
           echo "::set-output name=email_addr::$APP_EMAIL"
       
   send_email:
-    needs: get_filename, parse_app
+    needs: [get_filename, parse_app]
     runs-on: ubuntu-latest
     steps:
 
