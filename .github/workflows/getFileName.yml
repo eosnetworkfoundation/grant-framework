@@ -84,11 +84,11 @@ jobs:
           secure: true
           username: enfmailbot@eosn.foundation
           password: ${{ secrets.ENFMAILBOT_PASSWORD }}
+
           subject: Thank you for your ENF Grant Framework Application ✨
-          body: Hi ${{needs.parse_app.outputs.contact_name}}, We recieved your ENF Grant application for ${{needs.parse_app.outputs.project_name}} by the ${{needs.parse_app.outputs.team_name}} team, submitted from the ${{ github.actor }} Github account. 
-          # to: ${{ secrets.GMAIL_ADDRESS }}
-          # from: ${{ secrets.GMAIL_ADDRESS }}
-          to: ${{needs.parse_app.outputs.app_email}}
-          bcc: grants@eosn.foundation
+          #body: Hi ${{needs.parse_app.outputs.contact_name}}, We recieved your ENF Grant application for ${{needs.parse_app.outputs.project_name}} by the ${{needs.parse_app.outputs.team_name}} team, submitted from the ${{ github.actor }} Github account. 
+          body: This is a BS test email
+          #to: ${{needs.parse_app.outputs.app_email}}
+          to: ted@eosn.foundation
           from: grants@eosn.foundation
           reply_to: grants@eosn.foundation
