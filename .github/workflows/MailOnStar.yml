@@ -26,7 +26,7 @@ jobs:
           body: ${{ github.actor }} just starred your ${{ github.repository }} repo!!! 
           # to: ${{ secrets.GMAIL_ADDRESS }}
           # from: ${{ secrets.GMAIL_ADDRESS }}
-          to: ted@eosn.foundation
+          to: ted.cahall@gmail.com
           from: grants@eosn.foundation
           reply_to: grants@eosn.foundation
           
