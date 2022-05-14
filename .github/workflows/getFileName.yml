@@ -9,14 +9,12 @@ name: getFileName
 # Controls when the workflow will run
 on:
   pull_request:
-  push:
 
   # Allows you to run this workflow manually from the Actions tab
-  # Delete this when working - this is how we will test for now... DELETE
-  workflow_dispatch:
+  #workflow_dispatch:
   
-env:
-  ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+          #env:
+        # ACTIONS_ALLOW_UNSECURE_COMMANDS: true
   
 jobs:
   get_filename:
@@ -36,6 +34,9 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       app_email: ${{ steps.grep_email.outputs.email_addr }}
+      contact_name: ${{ steps.grep_email.outputs.contact_name }}
+      project_name: ${{ steps.grep_email.outputs.project_name }}
+      team_name: ${{ steps.grep_email.outputs.team_name }}
     steps:
       - name: Checkout
         id: checkout
@@ -49,12 +50,18 @@ jobs:
         id: grep_email
         run: |
           export APP_EMAIL=`/bin/grep "**Contact Email:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4`
-          echo "::set-env name=APP_EMAIL::$APP_EMAIL"
+          #echo "::set-env name=APP_EMAIL::$APP_EMAIL"
           echo "::set-output name=email_addr::$APP_EMAIL"
+          export CNAME=`/bin/grep "**Contact Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=contact_name::$CNAME"
+          export PNAME=`/bin/grep "**Project Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=project_name::$PNAME"
+          export TNAME=`/bin/grep "**Team Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=team_name::$TNAME"
 
       # Now echo the saved ENV name
-      - name: Echo the env email name inside the same job
-        run: echo "the env email name is ${APP_EMAIL} from the application - single step"
+      # - name: Echo the env email name inside the same job
+      # run: echo "the env email name is ${APP_EMAIL} from the application - single step"
       
   send_email:
     needs: [get_filename, parse_app]
@@ -62,13 +69,10 @@ jobs:
     steps:
 
       # Now echo the saved output variable
-      - name: Echo the output email name across jobs
-        run: echo "the output email name is ${{needs.parse_app.outputs.app_email}} from the application"
-      
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Echo the output names across jobs
         run: |
-          echo files in the repo
-          pwd
-          ls -la
-       
+          echo "the output email name is ${{needs.parse_app.outputs.app_email}} from the application"
+          echo "the output contact name is ${{needs.parse_app.outputscontact_name}} from the application"
+          echo "the output project name is ${{needs.parse_app.outputs.project_name}} from the application"
+          echo "the output team name is ${{needs.parse_app.outputs.team_name}} from the application"
+      
