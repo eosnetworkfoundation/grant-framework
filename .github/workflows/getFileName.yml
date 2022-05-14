@@ -1,16 +1,15 @@
 # This workflow will parse the grant application, get needed data, and then send an email to the grant submitter
 #
+# getFilename.yml
+#
 # For now I am just testing that I can retrieve the file name on the pull request
 
 name: getFileName
 
 # Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches: [ main ]
   pull_request:
-    branches: [ main ]
+  push:
 
   # Allows you to run this workflow manually from the Actions tab
   # Delete this when working - this is how we will test for now... DELETE
@@ -35,8 +34,11 @@ jobs:
     needs: get_filename
     if: needs.get_filename.outputs.filename
     runs-on: ubuntu-latest
+    outputs:
+      app_email: ${{ steps.grep_email.outputs.email_addr }}
     steps:
       - name: Checkout
+        id: checkout
         uses: actions/checkout@v3
 
       - name: Echo_file
@@ -44,13 +46,24 @@ jobs:
         
       # Parse the application template for the email account
       - name: assign the env from the email name
+        id: grep_email
         run: |
           export APP_EMAIL=`/bin/grep "**Contact Email:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4`
           echo "::set-env name=APP_EMAIL::$APP_EMAIL"
+          echo "::set-output name=email_addr::$APP_EMAIL"
       
+  send_email:
+    needs: get_filename, parse_app
+    runs-on: ubuntu-latest
+    steps:
+
       # Now echo the saved ENV name
-      - name: Echo the email name
-        run: echo "the email name is ${APP_EMAIL} from the application - single step"
+      - name: Echo the env email name
+        run: echo "the env email name is ${APP_EMAIL} from the application - single step"
+
+      # Now echo the saved output variable
+      - name: Echo the output email name
+        run: echo "the output email name is ${{needs.parse_app.outputs.app_email}} from the application"
       
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
