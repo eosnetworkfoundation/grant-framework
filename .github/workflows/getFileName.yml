@@ -51,23 +51,24 @@ jobs:
           export APP_EMAIL=`/bin/grep "**Contact Email:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4`
           echo "::set-env name=APP_EMAIL::$APP_EMAIL"
           echo "::set-output name=email_addr::$APP_EMAIL"
+
+      # Now echo the saved ENV name
+      - name: Echo the env email name inside the same job
+        run: echo "the env email name is ${APP_EMAIL} from the application - single step"
       
   send_email:
     needs: [get_filename, parse_app]
     runs-on: ubuntu-latest
     steps:
 
-      # Now echo the saved ENV name
-      - name: Echo the env email name
-        run: echo "the env email name is ${APP_EMAIL} from the application - single step"
-
       # Now echo the saved output variable
-      - name: Echo the output email name
+      - name: Echo the output email name across jobs
         run: echo "the output email name is ${{needs.parse_app.outputs.app_email}} from the application"
       
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
           echo files in the repo
+          pwd
           ls -la
        
