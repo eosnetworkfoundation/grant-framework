@@ -67,29 +67,19 @@ jobs:
     needs: [get_filename, parse_app]
     runs-on: ubuntu-latest
     steps:
-
-      # Now echo the saved output variable
-      - name: Echo the output names across jobs
-        run: |
-          echo "the output email name is ${{needs.parse_app.outputs.app_email}} from the application"
-          echo "the output contact name is ${{needs.parse_app.outputs.contact_name}} from the application"
-          echo "the output project name is ${{needs.parse_app.outputs.project_name}} from the application"
-          echo "the output team name is ${{needs.parse_app.outputs.team_name}} from the application"
-          echo "the password is: ${{ secrets.ENFMAILBOT_PASSWORD }}"
-
-      - name: send out the actual email
+      - name: send email
         uses: dawidd6/action-send-mail@v3.6.1
         with:
           server_address: smtp.gmail.com
           server_port: 465
-
           secure: true
           username: enfmailbot@eosn.foundation
           password: ${{ secrets.ENFMAILBOT_PASSWORD }}
-
           subject: Thank you for your ENF Grant Framework Application
           body: Hi ${{needs.parse_app.outputs.contact_name}}, \
             We recieved your ENF Grant application for ${{needs.parse_app.outputs.project_name}} by the ${{needs.parse_app.outputs.team_name}} team, submitted from the ${{ github.actor }} Github account. 
           to: ${{needs.parse_app.outputs.app_email}}
           from: grants@eosn.foundation
           reply_to: grants@eosn.foundation
+
+
