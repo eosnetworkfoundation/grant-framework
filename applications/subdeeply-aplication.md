@@ -4,6 +4,13 @@
 - **Team Name:** Subdeeply
 - **EOS Payment Address:** subdeeplyeos
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
+- **Pomelo Grant(s):** [Subdeeply Pomelo Grant](https://pomelo.io/grants/subdeeplyla)
+
+### Contact
+
+- **Contact Name:** Thian
+- **Contact Email:** thian@subdeeply.com - contact@subdeeply.com
+- **Website:** https://subdeeply.com
 
 ## Project Overview
 This application is a follow up support to the intial proposal on [Pomelo](https://pomelo.io/grants/subdeeplyla).
@@ -178,12 +185,6 @@ We have not seen, (nor do we know of) a platform dedicated to educational conten
 - kyle Weiss
 - Kristie Huang
 
-### Contact
-
-- **Contact Name:** Thian
-- **Contact Email:** thian@subdeeply.com
-- **Website:** https://subdeeply.com
-
 ### Legal Structure
 - **Registered Legal Entity:** Subdeeply LLC
 - **Registered Address:** 548 Market Street PMB 72296, San Francisco, CA 94104
@@ -226,7 +227,7 @@ We have not seen, (nor do we know of) a platform dedicated to educational conten
 ![ultimate guide to eos](https://user-images.githubusercontent.com/94427218/167078858-288963e4-276f-496d-ab15-3303f8411d40.png)
 ![How to start using eos network](https://user-images.githubusercontent.com/94427218/167078964-43d5b6b3-1187-4d07-ad1e-f0f859ec15a7.png)
 
-- Mobile application and user interface development [Figma File Mockup](https://subdeeply.comhttps://www.figma.com/file/3ECnQsptS5BIhl4pzhGJ9m/Subdeeply-Onboarding-app-UI-Design?node-id=106%3A259)
+- Mobile application and user interface development [Figma File Mockup](https://www.figma.com/file/3ECnQsptS5BIhl4pzhGJ9m/Subdeeply-Onboarding-app-UI-Design?node-id=106%3A259)
 
 - Integration of team members for the development of the web and mobile application.
 
