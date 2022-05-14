@@ -41,6 +41,8 @@ jobs:
       - name: Checkout
         id: checkout
         uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Echo_file
         run: echo This is the file ${{ needs.get_filename.outputs.filename }}
