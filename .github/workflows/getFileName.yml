@@ -63,7 +63,7 @@ jobs:
       # - name: Echo the env email name inside the same job
       # run: echo "the env email name is ${APP_EMAIL} from the application - single step"
       
-  send_email:
+  email:
     needs: [get_filename, parse_app]
     runs-on: ubuntu-latest
     steps:
