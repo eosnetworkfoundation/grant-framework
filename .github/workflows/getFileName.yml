@@ -1,0 +1,85 @@
+# This workflow will parse the grant application, get needed data, and then send an email to the grant submitter
+#
+# getFilename.yml
+#
+# For now I am just testing that I can retrieve the file name on the pull request
+
+name: getFileName
+
+# Controls when the workflow will run
+on:
+  pull_request_target:
+
+  # Allows you to run this workflow manually from the Actions tab
+  #workflow_dispatch:
+  
+          #env:
+        # ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+  
+jobs:
+  get_filename:
+    runs-on: ubuntu-latest
+    outputs:
+      filename: ${{ steps.files.outputs.added }}
+    steps:
+      - name: Get application file name
+        id: 'files'
+        uses: Ana06/get-changed-files@v2.0.0
+        with:
+          filter: 'applications/*.md'
+
+  parse_app:
+    needs: get_filename
+    if: needs.get_filename.outputs.filename
+    runs-on: ubuntu-latest
+    outputs:
+      app_email: ${{ steps.grep_email.outputs.email_addr }}
+      contact_name: ${{ steps.grep_email.outputs.contact_name }}
+      project_name: ${{ steps.grep_email.outputs.project_name }}
+      team_name: ${{ steps.grep_email.outputs.team_name }}
+    steps:
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v3
+
+      - name: Echo_file
+        run: echo This is the file ${{ needs.get_filename.outputs.filename }}
+        
+      # Parse the application template for the email account
+      - name: assign the env from the email name
+        id: grep_email
+        run: |
+          export APP_EMAIL=`/bin/grep "**Contact Email:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4`
+          #echo "::set-env name=APP_EMAIL::$APP_EMAIL"
+          echo "::set-output name=email_addr::$APP_EMAIL"
+          export CNAME=`/bin/grep "**Contact Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=contact_name::$CNAME"
+          export PNAME=`/bin/grep "**Project Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=project_name::$PNAME"
+          export TNAME=`/bin/grep "**Team Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=team_name::$TNAME"
+
+      # Now echo the saved ENV name
+      # - name: Echo the env email name inside the same job
+      # run: echo "the env email name is ${APP_EMAIL} from the application - single step"
+      
+  email:
+    needs: [get_filename, parse_app]
+    runs-on: ubuntu-latest
+    steps:
+      - name: send email
+        uses: dawidd6/action-send-mail@v3.6.1
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: enfmailbot@eosn.foundation
+          password: ${{ secrets.ENFMAILBOT_PASSWORD }}
+          subject: Thank you for your ENF Grant Framework Application
+          body: Hi ${{needs.parse_app.outputs.contact_name}}, \
+            We recieved your ENF Grant application for ${{needs.parse_app.outputs.project_name}} by the ${{needs.parse_app.outputs.team_name}} team, submitted from the ${{ github.actor }} Github account. 
+          to: ${{needs.parse_app.outputs.app_email}}
+          from: grants@eosn.foundation
+          reply_to: grants@eosn.foundation
+
+

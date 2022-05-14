@@ -1,13 +1,20 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
+> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) should be removed.
 >
 > See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
 
-- **Project Name:** Name of your project (e.g. DuoSwap Module)
-- **Team Name:** Legal name of your team (e.g. Duo)
-- **EOS Payment Address:** EOS payment address.
+- **Project Name:** Name of your project (e.g. Anchor Wallet)
+- **Team Name:** Legal name of your team (e.g. Greymass)
+- **EOS Payment Address:** EOS payment address
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
+- **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
+
+## Contact
+
+- **Contact Name:** Full name of the contact person in your team
+- **Contact Email:** myemail@mycompany.com
+- **Website:** https://yourwebsite.com
 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -53,22 +60,18 @@
 
 ### Team members
 
-- Name of team leader
-- Names of team members
-
-### Contact
-
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:**
+- **Team Leader:** Name of team leader
+- Name of team member 1
+- Name of team member 2
+- Name of team member 3, etc.
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
+- **Registered Legal Entity:** Name of your registered legal entity. (e.g. Greymass, Inc.)
+- **Registered Address:** Address of your registered legal entity. Please keep it in a single line. (e.g. 123 Main Street, London LK1 234, UK)
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
+> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
 
 > If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
 
