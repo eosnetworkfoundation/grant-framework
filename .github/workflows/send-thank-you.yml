@@ -1,12 +1,8 @@
 # This workflow will parse the grant application, get needed data, and then send an email to the grant submitter
 #
-# getFilename.yml
+# send-thank-you.yml
 #
 # https://securitylab.github.com/research/github-actions-preventing-pwn-requests/
-#
-# There is all kinds of badness here.  
-# 1) See above referece about using pull_request_target and then forcing the checkout with the ref:
-# 2) Notmally secrets (like the gmail password) are not available in a PR from a forked repo
 #
 
 name: getFileName
@@ -103,5 +99,6 @@ jobs:
           to: ${{needs.parse_app.outputs.app_email}}
           from: grants@eosn.foundation
           reply_to: grants@eosn.foundation
+          bcc: grants@eosn.foundation
 
 
