@@ -2,6 +2,7 @@
 #
 # send-thank-you.yml
 #
+# https://stackoverflow.com/questions/69499645/how-to-securely-allow-github-actions-to-check-pr-and-post-results-in-comment
 # https://securitylab.github.com/research/github-actions-preventing-pwn-requests/
 #
 
