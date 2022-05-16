@@ -114,7 +114,7 @@ jobs:
             <br/><br/>
             Thank you for your patience and understanding.
             <br/><br/>
-            Best,
+            Best,<br/>
             ENF Grant Framework Team
           to: ${{needs.parse_app.outputs.app_email}}
           from: grants@eosn.foundation
