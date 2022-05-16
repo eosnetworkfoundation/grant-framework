@@ -97,6 +97,11 @@ jobs:
 
             Best,
             ENF Grant Framework Team
+          html_body: |
+            Hi ${{needs.parse_app.outputs.contact_name}}, <br/>
+            We recieved your <b> ${{needs.parse_app.outputs.project_name}} </b>application
+            by the ${{needs.parse_app.outputs.team_name}} team,
+            submitted from the ${{ github.actor }} Github account.
           to: ${{needs.parse_app.outputs.app_email}}
           from: grants@eosn.foundation
           reply_to: grants@eosn.foundation
