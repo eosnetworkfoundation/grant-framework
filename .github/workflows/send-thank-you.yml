@@ -85,7 +85,7 @@ jobs:
 
             Thank you for your application to the ENF Grant Framework.
 
-            We recieved your the ${{needs.parse_app.outputs.project_name}} application by the ${{needs.parse_app.outputs.team_name}} team, submitted from the ${{ github.actor }} Github account. 
+            We recieved your <b> ${{needs.parse_app.outputs.project_name}} </b>application by the ${{needs.parse_app.outputs.team_name}} team, submitted from the ${{ github.actor }} Github account. 
 
             We are working through our internal processes which includes translating the application followed by a series of meetings.  Thus it may take several weeks to get back to you.
 
