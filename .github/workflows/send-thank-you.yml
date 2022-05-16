@@ -98,20 +98,22 @@ jobs:
             Best,
             ENF Grant Framework Team
           html_body: |
-            Hi ${{needs.parse_app.outputs.contact_name}}, <br/>
-            Thank you for your application to the ENF Grant Framework.<br/>
+            Hi ${{needs.parse_app.outputs.contact_name}}, 
+            <br/><br/>
+            Thank you for your application to the ENF Grant Framework.
+            <br/><br/>
             We recieved your <b> ${{needs.parse_app.outputs.project_name}} </b>application
             by the<b> ${{needs.parse_app.outputs.team_name}} </b>team,
-            submitted from the<b> ${{ github.actor }} </b>Github account. <br/>
-            <br/>
+            submitted from the<b> ${{ github.actor }} </b>Github account. 
+            <br/><br/>
             We are working through our internal processes which includes translating the application followed by a series of meetings.  Thus it may take several weeks to get back to you.
-            <br/>
+            <br/><br/>
             You may notice comments and feedback on your application in Github as it is being reviewed.  Please respond to those comments and reviews as addressing each point will be required before the Application is given final approval.
-            <br/>
+            <br/><br/>
             The process is still very new and we hope to improve the speed of processing moving forward.
-            <br/>
+            <br/><br/>
             Thank you for your patience and understanding.
-            <br/>
+            <br/><br/>
             Best,
             ENF Grant Framework Team
           to: ${{needs.parse_app.outputs.app_email}}
