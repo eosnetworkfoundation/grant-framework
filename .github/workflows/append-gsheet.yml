@@ -11,10 +11,7 @@ jobs:
         with:
           spreadsheetId: ${{ secrets.SPREADSHEET_ID }}  
           commands: |
-            [
-              { "command": "addSpreadsheet", "args": { "spreadsheetTitle": "FhorseSheet" }},
-              { "command": "addWorksheet", "args": { "worksheetTitle": "TestWorksheet1" }}
-            ]
+            [ { "command": "addSpreadsheet", "args": { "spreadsheetTitle": "FhorseSheet" }} ]
         env:
           GSHEET_CLIENT_EMAIL: ${{ secrets.ENF_GSHEET_ACCT }}
           GSHEET_PRIVATE_KEY: ${{ secrets.ENFMAILBOT_PASSWORD }}
