@@ -3,12 +3,7 @@ on:
   workflow_dispatch:
   
 jobs:
-
-  append_row:
-  runs-on: ubuntu-latest
-  steps:
-  
-    - name: Add a row to a Google Sheet
+  append-row:
       uses: jroehl/gsheet.action@v1.2.0
       with:
           #spreadsheetId: ${{ secrets.SPREADSHEET_ID }}
