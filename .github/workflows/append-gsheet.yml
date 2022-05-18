@@ -10,7 +10,7 @@ jobs:
       - id: 'update_worksheet'
         uses: jroehl/gsheet.action@v1.2.0
         with:
-          spreadsheetId: https://docs.google.com/spreadsheets/d/1XCI7IKwQSEvp2w_3zeB2D05X2evx_UGPG4hKaUT_zk0
+          spreadsheetId: "https://docs.google.com/spreadsheets/d/1XCI7IKwQSEvp2w_3zeB2D05X2evx_UGPG4hKaUT_zk0"
           commands: |
             [
               {
