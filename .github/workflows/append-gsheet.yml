@@ -3,8 +3,7 @@ on:
   workflow_dispatch:
   
 jobs:
-  
-  append-row:
+  appendrow:
     runs-on: ubuntu-latest
     steps:
       - id: 'update_worksheet'
