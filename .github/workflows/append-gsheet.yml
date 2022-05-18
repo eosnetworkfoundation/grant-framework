@@ -13,7 +13,7 @@ jobs:
           commands: |
             [
               { "command": "addWorksheet", "args": { "worksheetTitle": "TestWorksheet1" }},
-              { "command": "addWorksheet", "args": { "worksheetTitle": "TestWorksheet2" }},
+              { "command": "addWorksheet", "args": { "worksheetTitle": "TestWorksheet2" }}
             ]
     env:
       GSHEET_CLIENT_EMAIL: enfmailbot@eosn.foundation
