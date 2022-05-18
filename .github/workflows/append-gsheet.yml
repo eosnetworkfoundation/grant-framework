@@ -9,13 +9,13 @@ jobs:
       - id: 'update_worksheet'
         uses: jroehl/gsheet.action@v1.2.0
         with:
-          spreadsheetId: '1XCI7IKwQSEvp2w_3zeB2D05X2evx_UGPG4hKaUT_zk0'
+          spreadsheetId: ${{ secrets.SPREADSHEET_ID }}  
           commands: |
             [
               { "command": "addSpreadsheet", "args": { "spreadsheetTitle": "FhorseSheet" } }
             ]
     env:
-      GSHEET_CLIENT_EMAIL: enfmailbot@eosn.foundation
+      GSHEET_CLIENT_EMAIL: ${{ secrets.ENF_GSHEET_ACCT }}
       GSHEET_PRIVATE_KEY: ${{ secrets.ENFMAILBOT_PASSWORD }}
         
 # { "command": "addWorksheet", "args": { "worksheetTitle": "TestWorksheet1", "spreadsheetId": "1XCI7IKwQSEvp2w_3zeB2D05X2evx_UGPG4hKaUT_zk0" }}
