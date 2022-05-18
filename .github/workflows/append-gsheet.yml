@@ -12,8 +12,8 @@ jobs:
           spreadsheetId: '1XCI7IKwQSEvp2w_3zeB2D05X2evx_UGPG4hKaUT_zk0'
           commands: |
             [
-              { "command": "addWorksheet", "args": { "worksheetTitle": "TestWorksheet1" }},
-              { "command": "addWorksheet", "args": { "worksheetTitle": "TestWorksheet2" }}
+              { "command": "addWorksheet", "args": { "worksheetTitle": "1XCI7IKwQSEvp2w_3zeB2D05X2evx_UGPG4hKaUT_zk0?:TestWorksheet1" }},
+              { "command": "addWorksheet", "args": { "worksheetTitle": "1XCI7IKwQSEvp2w_3zeB2D05X2evx_UGPG4hKaUT_zk0?:TestWorksheet2" }}
             ]
     env:
       GSHEET_CLIENT_EMAIL: enfmailbot@eosn.foundation
