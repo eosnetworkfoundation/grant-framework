@@ -18,5 +18,9 @@ jobs:
         env:
           GSHEET_CLIENT_EMAIL: ${{ secrets.ENF_GSHEET_ACCT }}
           GSHEET_PRIVATE_KEY: ${{ secrets.ENFMAILBOT_PASSWORD }}
+      - name: dump results
+        env:
+          RESULTS: ${{ steps.update_worksheet.outputs.results }}
+        run: echo "$RESULTS"
         
 # { "command": "addWorksheet", "args": { "worksheetTitle": "TestWorksheet1", "spreadsheetId": "1XCI7IKwQSEvp2w_3zeB2D05X2evx_UGPG4hKaUT_zk0" }}
