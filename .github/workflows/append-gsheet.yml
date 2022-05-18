@@ -12,7 +12,7 @@ jobs:
           spreadsheetId: '1XCI7IKwQSEvp2w_3zeB2D05X2evx_UGPG4hKaUT_zk0'
           commands: |
             [
-              { "command": "addSpreadsheet", "args": { "spreadsheetId": "1XCI7IKwQSEvp2w_3zeB2D05X2evx_UGPG4hKaUT_zk0" } }
+              { "command": "addSpreadsheet", "args": { "spreadsheetTitle": "FhorseSheet" } }
             ]
     env:
       GSHEET_CLIENT_EMAIL: enfmailbot@eosn.foundation
