@@ -12,25 +12,9 @@ jobs:
           spreadsheetId: ${{ secrets.SPREADSHEET_ID }}
           commands: |
             [
-              {
-                "command": "appendData",
-                "args":
-                {
-                  "data": [[
-                    "project name",
-                    "team name",
-                    "contact name",
-                    "contact email",
-                    "Github account",
-                    "EOS account"
-                  ]],
-                  "worksheetTitle": "Grants",
-                  "minCol": 1,
-                  "valueInputOption": "USER_ENTERED"
-              }
-            }
-          ]
-  env:
-    GSHEET_CLIENT_EMAIL: enfmailbot@eosn.foundation
-    GSHEET_PRIVATE_KEY: ${{ secrets.ENFMAILBOT_PASSWORD }}
+              { "command": "addWorksheet", "args": { "worksheetTitle": "TestWorksheet" }}
+            ]
+    env:
+      GSHEET_CLIENT_EMAIL: enfmailbot@eosn.foundation
+      GSHEET_PRIVATE_KEY: ${{ secrets.ENFMAILBOT_PASSWORD }}
           
