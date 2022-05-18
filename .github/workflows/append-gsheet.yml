@@ -1,0 +1,35 @@
+name: Append Gsheet
+on:
+  workflow_dispatch:
+  
+jobs:
+  append_row:
+  runs-on: ubuntu-latest
+  steps:
+  
+    - name Add a row to a Google Sheet
+      uses: jroehl/gsheet.action@v1.2.0
+        with:
+          #spreadsheetId: ${{ secrets.SPREADSHEET_ID }}
+          spreadsheetId: https://docs.google.com/spreadsheets/d/1XCI7IKwQSEvp2w_3zeB2D05X2evx_UGPG4hKaUT_zk0
+          commands: |
+            [
+              {
+                "data": [[
+                  "project name",
+                  "team name",
+                  "contact name",
+                  "contact email",
+                  "Github account",
+                  "EOS account"
+                  ]],
+                  "worksheetTitle": "Grants",
+                  "minCol": 1,
+                  "valueInputOption": "USER_ENTERED"
+                }
+              }
+            ]
+        env:
+          GSHEET_CLIENT_EMAIL: enfmailbot@eosn.foundation
+          GSHEET_PRIVATE_KEY: ${{ secrets.ENFMAILBOT_PASSWORD }}
+          
