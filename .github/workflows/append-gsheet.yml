@@ -7,11 +7,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - id: 'update_worksheet'
-        uses: jroehl/gsheet.action@release
+        uses: jroehl/gsheet.action@v1.2.0
         with:
           spreadsheetId: ${{ secrets.SPREADSHEET_ID }}  
           commands: |
-            [ { "command": "addSpreadsheet", "args": { "spreadsheetTitle": "FhorseSheet" }} ]
+            [
+              { "command": "addWorksheet", "args": { "worksheetTitle": "FHorse" }}
+            ]
         env:
           GSHEET_CLIENT_EMAIL: ${{ secrets.ENF_GSHEET_ACCT }}
           GSHEET_PRIVATE_KEY: ${{ secrets.ENFMAILBOT_PASSWORD }}
