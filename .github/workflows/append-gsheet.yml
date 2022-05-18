@@ -7,7 +7,7 @@ jobs:
   runs-on: ubuntu-latest
   steps:
   
-    - name Add a row to a Google Sheet
+    - name: Add a row to a Google Sheet
       uses: jroehl/gsheet.action@v1.2.0
         with:
           #spreadsheetId: ${{ secrets.SPREADSHEET_ID }}
