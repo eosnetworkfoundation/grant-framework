@@ -15,9 +15,9 @@ jobs:
               { "command": "addWorksheet", "args": { "worksheetTitle": "FHorse" }}
             ]
         env:
-          GSHEET_CLIENT_EMAIL: enf-grant-bot@absolute-codex-350620.iam.gserviceaccount.com
-          #GSHEET_CLIENT_EMAIL: 	enfmailbot@eosn.foundation
-          GSHEET_PRIVATE_KEY: ${{ secrets.GSHEET_API_KEY }}
+          #GSHEET_CLIENT_EMAIL: enf-grant-bot@absolute-codex-350620.iam.gserviceaccount.com
+          GSHEET_CLIENT_EMAIL: 	enfmailbot@eosn.foundation
+          GSHEET_PRIVATE_KEY: ${{ secrets.ENFMAILBOT_PASSWORD }}
       - name: dump results
         env:
           RESULTS: ${{ steps.update_worksheet.outputs.results }}
