@@ -9,15 +9,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: step 1
-      id: test
+      id: send-the-email
       run: echo "It worked!"
 
   alwaysrun:
     if: ${{ always() }}
     runs-on: ubuntu-latest
     steps:
-    - name: step 1
-      id: test
+    - name: step 2
+      id: in-case-no-labels-matched
       run: echo "It worked too!"
   
    
