@@ -5,7 +5,9 @@ on:
   
 jobs:
   appendrow:
-  if: github.event.label.name == 'Grant Received'
+    if: github.event.label.name == 'Grant Received'
     runs-on: ubuntu-latest
     steps:
-      runs: echo "It worked!"
+    - name: step 1
+      id: test
+      run: echo "It worked!"
