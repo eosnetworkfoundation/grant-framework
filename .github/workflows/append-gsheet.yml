@@ -16,7 +16,6 @@ jobs:
             ]
         env:
           GSHEET_CLIENT_EMAIL: enf-grant-service-account@sonorous-haven-350712.iam.gserviceaccount.com
-          #GSHEET_CLIENT_EMAIL: 	ted@eosn.foundation
           GSHEET_PRIVATE_KEY: ${{ secrets.GHSEET_API_KEY }}
       - name: dump results
         env:
