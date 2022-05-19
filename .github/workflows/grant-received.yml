@@ -11,3 +11,13 @@ jobs:
     - name: step 1
       id: test
       run: echo "It worked!"
+
+  alwaysrun:
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    steps:
+    - name: step 1
+      id: test
+      run: echo "It worked too!"
+  
+   
