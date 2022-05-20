@@ -10,7 +10,7 @@ jobs:
     steps:
     - name: step 1
       id: send-the-email
-      run: echo "It worked!"
+      run: echo "Grant Received label was added to the PR"
 
   alwaysrun:
     if: ${{ always() }}
@@ -18,6 +18,6 @@ jobs:
     steps:
     - name: step 2
       id: in-case-no-labels-matched
-      run: echo "It worked too!"
+      run: echo "Always step was run to avoid error notice"
   
    
