@@ -59,10 +59,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: step 1
-      id: add-to-spreadsheet
+      id: echo-data
       run: |
         echo "Grant Translated label was added to application file ${{ needs.get_filename.outputs.filename }}"
         echo ${{needs.parse_app.outputs.contact_name}} ${{needs.parse_app.outputs.project_name}} ${{needs.parse_app.outputs.team_name}}
+    - name: step 2
+      id: add-to-spreadsheet
+      uses: jroehl/gsheet.action@v1.2.0
+        with:
+          spreadsheetId: 1FsNUKcfAJAorZGHpEzbRKLVYWbpZ_93Ts-R-JTpRK_A
+          commands: |
+            [
+              { "command": "appendData", "args": { "data": [[${{needs.parse_app.outputs.contact_name}}, "C3", "C4"]], "minCol": 1 }}
+            ]
+        env:
+          GSHEET_CLIENT_EMAIL: enf-grant-service-account@sonorous-haven-350712.iam.gserviceaccount.com
+          GSHEET_PRIVATE_KEY: ${{ secrets.GHSEET_API_KEY }}
 
   alwaysrun:
     needs: checklabel
