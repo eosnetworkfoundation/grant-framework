@@ -65,7 +65,7 @@ jobs:
           spreadsheetId: 1FsNUKcfAJAorZGHpEzbRKLVYWbpZ_93Ts-R-JTpRK_A
           commands: |
             [
-              { "command": "appendData", "args": { "data": [[ "TEST", "C3", "C4"]], "minCol": 1 }}
+              { "command": "appendData", "args": { "data": [[ "TEST", "C3", "C4"]], "worksheetTitle": "DummyTest", "minCol": 1 }}
             ]
         env:
           GSHEET_CLIENT_EMAIL: enf-grant-service-account@sonorous-haven-350712.iam.gserviceaccount.com
@@ -85,4 +85,4 @@ jobs:
       run: echo "Always step was run to avoid error notice"
 
   
-   
+   "worksheetTitle": "DummyTest", 
