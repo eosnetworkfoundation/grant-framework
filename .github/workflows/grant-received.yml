@@ -22,7 +22,7 @@ jobs:
     steps:
     - name: step 1
       id: send-the-email
-      run: echo "Grant Received label was added to application file ${needs.get_filename.outputs.filename}"
+      run: echo "Grant Received label was added to application file ${{ needs.get_filename.outputs.filename }}"
 
   alwaysrun:
     if: ${{ always() }}
