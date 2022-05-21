@@ -4,19 +4,31 @@ on:
     types: labeled
   
 jobs:
-  appendrow:
+  get_filename:
+    runs-on: ubuntu-latest
+    outputs:
+      filename: ${{ steps.files.outputs.added }}
+    steps:
+      - name: Get grant application file name
+        id: 'files'
+        uses: Ana06/get-changed-files@v2.0.0
+        with:
+          filter: 'applications/*.md'
+          
+  checklabel:
+    needs: get_filename
     if: github.event.label.name == 'Grant Received'
     runs-on: ubuntu-latest
     steps:
     - name: step 1
       id: send-the-email
-      run: echo "Grant Received label was added to the PR"
+      run: echo "Grant Received label was added to application file ${needs.get_filename.outputs.filename}"
 
   alwaysrun:
     if: ${{ always() }}
     runs-on: ubuntu-latest
     steps:
-    - name: step 2
+    - name: alwaysrunthis
       id: in-case-no-labels-matched
       run: echo "Always step was run to avoid error notice"
   
