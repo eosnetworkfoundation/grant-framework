@@ -58,8 +58,7 @@ jobs:
     if: github.event.label.name == 'Grant Translated'
     runs-on: ubuntu-latest
     steps:
-    - name: step 2
-      id: 'update_worksheet'
+    - id: 'update_worksheet'
       uses: jroehl/gsheet.action@v1.2.0
       with:
         spreadsheetId: 1FsNUKcfAJAorZGHpEzbRKLVYWbpZ_93Ts-R-JTpRK_A
@@ -70,6 +69,10 @@ jobs:
       env:
         GSHEET_CLIENT_EMAIL: enf-grant-service-account@sonorous-haven-350712.iam.gserviceaccount.com
         GSHEET_PRIVATE_KEY: ${{ secrets.GHSEET_API_KEY }}
+      - name: dump results
+        env:
+          RESULTS: ${{ steps.update_worksheet.outputs.results }}
+        run: echo "$RESULTS"
 
   alwaysrun:
     needs: checklabel
