@@ -73,31 +73,5 @@ jobs:
       id: in-case-no-labels-matched
       run: echo "Always step was run to avoid error notice"
 
-
-
-
-
-
-
-
-    needs: get_filename
-    if: github.event.label.name == 'Grant Translated'
-    runs-on: ubuntu-latest
-    steps:
-    - name: Parse the Grant for the info
-      id: parse-grant
-
-    - name: step 2
-      id: add-to-spreadsheet
-      run: echo "Grant Translated label was added to application file ${{ needs.get_filename.outputs.filename }}"
-
-  alwaysrun:
-    needs: checklabel
-    if: ${{ always() }}
-    runs-on: ubuntu-latest
-    steps:
-    - name: alwaysrunthis
-      id: in-case-no-labels-matched
-      run: echo "Always step was run to avoid error notice"
   
    
