@@ -25,6 +25,7 @@ jobs:
       run: echo "Grant Received label was added to application file ${{ needs.get_filename.outputs.filename }}"
 
   alwaysrun:
+    needs: checklabel
     if: ${{ always() }}
     runs-on: ubuntu-latest
     steps:
