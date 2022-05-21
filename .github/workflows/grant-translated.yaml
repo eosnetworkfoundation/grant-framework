@@ -58,7 +58,8 @@ jobs:
     if: github.event.label.name == 'Grant Translated'
     runs-on: ubuntu-latest
     steps:
-      - id: 'update_worksheet'
+      - name: update worksheet
+        id: 'update_worksheet'
         uses: jroehl/gsheet.action@v1.2.0
         with:
           spreadsheetId: 1FsNUKcfAJAorZGHpEzbRKLVYWbpZ_93Ts-R-JTpRK_A
