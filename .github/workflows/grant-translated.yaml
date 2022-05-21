@@ -62,7 +62,7 @@ jobs:
       id: add-to-spreadsheet
       run: |
         echo "Grant Translated label was added to application file ${{ needs.get_filename.outputs.filename }}"
-        echo ${APP_EMAIL} ${CNAME} ${PNAME} ${TNAME}
+        echo ${{needs.parse_app.outputs.contact_name}} ${{needs.parse_app.outputs.project_name}} ${{needs.parse_app.outputs.team_name}}
 
   alwaysrun:
     needs: checklabel
