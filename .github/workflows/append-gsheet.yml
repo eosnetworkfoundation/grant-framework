@@ -12,9 +12,9 @@ jobs:
           spreadsheetId: 1FsNUKcfAJAorZGHpEzbRKLVYWbpZ_93Ts-R-JTpRK_A 
           commands: |
             [
-              { "command": "addWorksheet", "args": { "worksheetTitle": "FHorseTest" }},
+              { "command": "addWorksheet", "args": { "worksheetTitle": "FHorseTest2" }},
               { "command": "appendData", "args": { "data": [["B1", "B2", "B3"]], "minCol": 1 }},
-              { "command": "appendData", "args": { "data": [["C2", "C3", "C4"]], "minCol": 2 }}
+              { "command": "appendData", "args": { "data": [["C2", "C3", "C4"]], "minCol": 1 }}
             ]
         env:
           GSHEET_CLIENT_EMAIL: enf-grant-service-account@sonorous-haven-350712.iam.gserviceaccount.com
