@@ -1,0 +1,103 @@
+# When the PR is labeled 'Grant Translated' do the following:
+# Add it to the Grant Committee Voting Google Sheet
+#
+# Ted Cahall May 21, 2022
+
+name: Grant Translated
+on:
+  pull_request:
+    types: labeled
+  
+jobs:
+  get_filename:
+    runs-on: ubuntu-latest
+    outputs:
+      filename: ${{ steps.files.outputs.added }}
+    steps:
+      - name: Get grant application file name
+        id: 'files'
+        uses: Ana06/get-changed-files@v2.0.0
+        with:
+          filter: 'applications/*.md'
+          
+  parse_app:
+    needs: get_filename
+    if: needs.get_filename.outputs.filename
+    runs-on: ubuntu-latest
+    outputs:
+      app_email: ${{ steps.grep_email.outputs.email_addr }}
+      contact_name: ${{ steps.grep_email.outputs.contact_name }}
+      project_name: ${{ steps.grep_email.outputs.project_name }}
+      team_name: ${{ steps.grep_email.outputs.team_name }}
+    steps:
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Echo_file
+        run: echo This is the file ${{ needs.get_filename.outputs.filename }}
+
+      # Parse the application template for the email account
+      - name: assign the env from the email name
+        id: grep_email
+        run: |
+          export APP_EMAIL=`/bin/grep "**Contact Email:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4`
+          #echo "::set-env name=APP_EMAIL::$APP_EMAIL"
+          echo "::set-output name=email_addr::$APP_EMAIL"
+          export CNAME=`/bin/grep "**Contact Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=contact_name::$CNAME"
+          export PNAME=`/bin/grep "**Project Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=project_name::$PNAME"
+          export TNAME=`/bin/grep "**Team Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=team_name::$TNAME"
+
+  checklabel:
+    needs: [get_filename, parse_app]
+    if: github.event.label.name == 'Grant Translated'
+    runs-on: ubuntu-latest
+    steps:
+    - name: step 1
+      id: add-to-spreadsheet
+      run: |
+        echo "Grant Translated label was added to application file ${{ needs.get_filename.outputs.filename }}"
+        echo ${APP_EMAIL} ${CNAME} ${PNAME} ${TNAME}
+
+  alwaysrun:
+    needs: checklabel
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    steps:
+    - name: alwaysrunthis
+      id: in-case-no-labels-matched
+      run: echo "Always step was run to avoid error notice"
+
+
+
+
+
+
+
+
+    needs: get_filename
+    if: github.event.label.name == 'Grant Translated'
+    runs-on: ubuntu-latest
+    steps:
+    - name: Parse the Grant for the info
+      id: parse-grant
+
+    - name: step 2
+      id: add-to-spreadsheet
+      run: echo "Grant Translated label was added to application file ${{ needs.get_filename.outputs.filename }}"
+
+  alwaysrun:
+    needs: checklabel
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    steps:
+    - name: alwaysrunthis
+      id: in-case-no-labels-matched
+      run: echo "Always step was run to avoid error notice"
+  
+   
