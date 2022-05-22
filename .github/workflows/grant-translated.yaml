@@ -65,7 +65,7 @@ jobs:
           spreadsheetId: 1FsNUKcfAJAorZGHpEzbRKLVYWbpZ_93Ts-R-JTpRK_A
           commands: |
             [
-              { "command": "appendData", "args": { "data": [["${{ github.repository_owner }}", "${{needs.parse_app.outputs.app_email}}", "${{needs.parse_app.outputs.project_name}}"]], "worksheetTitle": "DummyTest", "minCol": 2 }}
+              { "command": "appendData", "args": { "data": [["${{ github.event.pull_request.head.repo.owner.login }}", "${{needs.parse_app.outputs.app_email}}", "${{needs.parse_app.outputs.project_name}}"]], "worksheetTitle": "DummyTest", "minCol": 2 }}
             ]
         env:
           GSHEET_CLIENT_EMAIL: enf-grant-service-account@sonorous-haven-350712.iam.gserviceaccount.com
