@@ -62,7 +62,8 @@ jobs:
       - id: 'update_worksheet'
         uses: jroehl/gsheet.action@v1.2.0
         with:
-          spreadsheetId: 1FsNUKcfAJAorZGHpEzbRKLVYWbpZ_93Ts-R-JTpRK_A
+          #spreadsheetId: 1FsNUKcfAJAorZGHpEzbRKLVYWbpZ_93Ts-R-JTpRK_A #This is the DummyTest sheet
+          spreadsheetId: 1RdSK5Y_URnTSzg__fRHV51jwO90x4AUMy0ym0ytWwKA
           commands: |
             [
               { "command": "appendData", "args": { "data": [["${{ github.event.pull_request.head.repo.owner.login }}", "${{needs.parse_app.outputs.app_email}}", "${{needs.parse_app.outputs.project_name}}"]], "worksheetTitle": "DummyTest", "minCol": 2 }}
