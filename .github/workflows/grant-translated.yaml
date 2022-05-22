@@ -52,7 +52,7 @@ jobs:
           echo "::set-output name=project_name::$PNAME"
           export TNAME=`/bin/grep "**Team Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
           echo "::set-output name=team_name::$TNAME"
-          echo ${{ github.ref }} ${{ github.head_ref }} ${{ github.base_ref }}
+          echo ${{ github.actor }} ${{ github.event_name }} ${{ github.workflow }}
 
   checklabel:
     needs: [get_filename, parse_app]
