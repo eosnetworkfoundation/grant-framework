@@ -1,174 +1,117 @@
 # EOS Network Foundation Grant Proposal
-
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) should be removed.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-
-- **Project Name:** Name of your project (e.g. Anchor Wallet)
-- **Team Name:** Legal name of your team (e.g. Greymass)
-- **EOS Payment Address:** EOS payment address
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
-- **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
+- **Project Name:** TrustSwap
+- **Team Name:** TrustSwap
+- **EOS Payment Address:** trustswap111
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
+- **Pomelo Grant(s):** N/A
 
 ## Contact
-
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** myemail@mycompany.com
-- **Website:** https://yourwebsite.com
-
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
+- **Contact Name:** Esteban Saá B.
+- **Contact Email:** steban@gmail.com
+- **Website:** https://www.trustswap.finance
 
 ## Project Overview
-
-> If this application is in response to an RFP, please indicate this on the first line of this section.
-
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
+TrustSwap is a decentralized crypto exchange built on top of the Trust EVM Blockchain; it connects an easy to use Web3 interface with solidity written smart contracts forked from the Uniswap project. This grant will fund the development of a new frontend, as well as the deployment of the correspondent smart contracts on the Trust EVM blockchain. 
 
 ### Overview
-
-> Please provide the following:
-
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+- **Name:** TrustSwap
+- **Brief Description:** TrustSwap is an open source decentralized exchange designed to work on top of the Trust EVM Blockchain. It delivers fast, secure and easy to use EVM20 tokens trading. 
+- **Relationship to EOSIO:** TrustSwap is built on top of Trust, an EVM compatible blockchain of EOS.
+- **Reason for Interest:** We are looking to create the most scalable and easy to use swap service. Trust EVM provides a solid foundation to build on. 
 
 ### Project Details
-
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
-
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+- https://www.trustswap.finance/ is the frontend to our decentralized exchange. It currently makes use of the Trust EVM testnet.
+- https://farm.trustswap.finance/ is our farm contract, it accepts LP deposits from our decentralized exchange and distributes testnet tokens. 
+- https://docs.trustswap.finance/ is our documentation site, it includes general information about our platform.
+- https://www.npmjs.com/package/@trustevm/sdk , we have published an SDK to npmjs.com, this will make it easy for other developers to connect to our smart contract. There are multiple use cases for this, for instance market makers and arbitrageurs can use our SDK to connect their tools to our platform. 
+- TrustSwap will not divert far from the original source code we initially forked from, instead we will adapt it to Trust EVM. We start with the open source version of the Uniswap V2, and will upgrade to V3 once the license allows it. 
+- As part of our initial work we have deployed two extremely important smart contracts that will provide a backbone to the upcoming deployments from other teams. These are the WrappedEVM contract, and the Multicall2 contract. These contracts are fundamental building blocks of any EVM ecosystem. We plan to coordinate work with the main devs of the project, so that the deployment of these contracts can be done securely for mainnet.
+- Our project is early in its development process, this allows us to align our decision making with the best interests of the EOS community.
+- We compiled a few ideas for the designs here: https://www.figma.com/file/IPrFq5RrP0V3cSMO1IwJrv/Swap-branding-and-logo . We are still early in the process of creating a brand. Most of our work so far has been devoted to deploying, testing and adapting to the inner workings of Trust EVM. 
+- Our code comes from the Uniswap project, the following links contains broad documentation on the project: https://docs.uniswap.org/protocol/V2/reference/API/overview
+- We will be reusing many of the components of the code where our project is forked from. This includes frameworks as REACT for the frontend: https://reactjs.org/. For the back end we are using the MERN stack to build a static site. MERN includes tools such as: https://github.com/nodejs/node. The resulting code is static HTML that we host at Google Firebase, it includes several functions such as CDN, so we can maintain good quality of service, and defend from DDOS attacks. Further the hosting platform allows us to implement CI/CD pipelines and optimize our deployment methodologies. 
+- While we are very early in our development process we have deployed several smart contracts and their respective interfaces. 
 
 ### Ecosystem Fit
-
-> Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
-
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the EOSIO ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+ 
+- We believe in a future where value flows freely across decentralized networks. This means that Trust EVM needs a way to receive, swap and send away value to other networks, coins, tokens and NFTs.
+- Our target audience is a world of crypto users looking to safely trade their crypto currencies, with a focus on those not expert with decentralized  platforms. We specially aim to make things easy. 
+- The project solves the need of users to trade among multiple crypto currencies; also the need to obtain tokens of new projects and swap for stable currencies. 
+-  There are multiple crypto decentralized exchanges on our ecosystem, yet we are the first one available on the upcoming Trust EVM blockchain. There are currently no other decentralized exchanges built for Trust EVM.
 
 ## Team
 
 ### Team members
 
-- **Team Leader:** Name of team leader
-- Name of team member 1
-- Name of team member 2
-- Name of team member 3, etc.
+- **Team Leader:** Esteban Saá Barona
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity. (e.g. Greymass, Inc.)
-- **Registered Address:** Address of your registered legal entity. Please keep it in a single line. (e.g. 123 Main Street, London LK1 234, UK)
+- **Registered Legal Entity:** We are in the initial process of registration
+- **Registered Address:** N/A
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
-
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+We have been working for over 25 years with highly scalable network platforms with a focus on Linux servers and network security. Our skills include developing highly scalable LAMP platforms. Discovered Bitcoin in 2012 and inspired by satoshidice, created satoshicode, a word finding game that was popular on the early bitcoin days, only to be killed when fees made it impossible to play. We were early supporters and users of mastercoin/omni, this interest also was killed by BTC high fees. The high fees of Bitcoin switched our attention to building on Ethereum, where we participated anonymously for development of security testing tools. During the market bull runs switched focus into trading and investing; we gained a lot of experience but ultimately discovered that the passion that motivates us is writing code and creating products.  We see a future where the world runs around decentralized technologies and cryptography.  We were critical  on the early days of Ethereum for its plans of switching to  PoS, https://twitter.com/estebs/status/614086876165705728 , eventually we understood its merits, and saw many of our concerns solved by dPoS. 
 
 ### Team Org Repos
 
-- https://github.com/<your_organisation>
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+- This is our main code repository: https://github.com/evm20
 
 ### Team Member Repos
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- https://github.com/steban1
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- Esteban Saá B. LinkedIn: https://www.linkedin.com/in/esteban-s-988b6457/
+- Telegram Group: https://t.me/jointrustswap
+- Twitter: https://twitter.com/joinTrustSwap
 
 ## Development Status
 
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+We have a fully functional decentralized exchange working on the Trust EVM testnet, we have also deployed a functioning staking farm. Both are being actively tested by the EOS community. Further we have deployed multisig bridge contracts, an EVM20 faucet, several EVM20 tokens, wrapped EVM20 contract, and Multicall contract. We are the first team deploying contracts and actively testing the Trust EVM. 
 
 ## Development Roadmap
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to the EOS ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
-
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
+- **Total Estimated Duration:** The frontend design and mainnet deployment of smart contract will take 2 months of work, plus one month of testing and debugging. We plan to be ready for the first day of Trust EVM mainnet with a production ready and fully functional decentralized exchange.
 
-### Milestone 1 Example — Implement EOSIO Sub-module
+### Milestone 1  — Deploy contracts to the Trust EVM testnet
 
-- **Estimated duration:** 1 month
+- **Estimated duration:** 1 months
 - **FTE:**  2
-- **Costs:** 8,000 USD
+- **Costs:** 5,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
+| 0a. | License |  MIT  |
+| 0b. | Repository | We will provide a repository with instructions on how to deploy the frontend. |
+| 0c. | Swap  | We will deploy a testnet version of TrustSwap. |
+| 0d. | Farm | We will deploy a testnet version of the farming contract. |
+
+
+### Milestone 2  — Implement redesigned Swap frontend and mainnet contract deployment
+
+- **Estimated duration:** 2 months
+- **FTE:**  2
+- **Costs:** 5,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License |  MIT  |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how to configure Trust EVM and use TrustSwap |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | EOSIO Sub-module: X | We will create a EOSIO module that will... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | EOSIO Sub-module: Y | We will create a EOSIO module that will... |  
-| 3. | EOSIO Sub-module: Z | We will create a EOSIO module that will... |  
-| 4. | EOSIO chain | Sub-modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
-
-
-### Milestone 2 Example — Additional features
-
-- **Estimated Duration:** 1 month
-- **FTE:**  1
-- **Costs:** 4,000 USD
-
-...
-
+| 1. | Swap  | We will deploy a mainnet version of the swap contract. |
+| 2. | Farm | We will deploy a mainnet version of the farming contract.|
+| 3. | Contracts | We will verify that the bytecode of the repository code matches the deployed bytecode. |
+| 4. | Frontend | We will deploy a updated frontend design. |
 
 ## Future Plans
 
-> Please include here
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
-
+- We will be updating our core contracts to Version 3 of Uniswap as soon as the license allows us. There are other several contracts we are working on, they include bridging services and lending. We will be maintaining the core DEFI contracts, wEVM and Multicall.
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
-
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+**How did you hear about the Grants Program?** personal recommendation
+It was mentioned in our telegram channel by a member of our community. We were early to respond to the EOS community building an EVM,  we understand the smart contract we are deploying are important to the success of the Trust EVM.
