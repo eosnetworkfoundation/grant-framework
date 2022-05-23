@@ -1,4 +1,4 @@
-name: Grant Received
+name: Label Dispatcher
 on:
   pull_request:
     types: labeled
@@ -17,12 +17,17 @@ jobs:
           
   checklabel:
     needs: get_filename
-    if: github.event.label.name == 'Grant Received'
     runs-on: ubuntu-latest
     steps:
-    - name: step 1
+    - name: Grant Received
       id: send-the-email
+      if: github.event.label.name == 'Grant Received'
       run: echo "Grant Received label was added to application file ${{ needs.get_filename.outputs.filename }}"
+    
+    - name: Grant Translated
+      if: github.event.label.name == 'Grant Translated'
+      id: add-to-spreadsheet
+      run: echo "Grant Translated label was added to application file ${{ needs.get_filename.outputs.filename }}"
 
   alwaysrun:
     needs: checklabel
