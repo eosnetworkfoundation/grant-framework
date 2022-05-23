@@ -21,6 +21,7 @@ jobs:
           
   checklabel:
     needs: get_filename
+    if: needs.get_filename.outputs.filename
     runs-on: ubuntu-latest
     steps:
     - name: Grant Received
