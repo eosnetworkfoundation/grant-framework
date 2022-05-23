@@ -52,6 +52,6 @@ jobs:
     steps:
     - name: alwaysrunthis
       id: in-case-no-labels-matched
-      run: echo "Always step was run to avoid error notice"
+      run: echo "Not a label we are interested in ${{ github.event.label.name }}"
   
    
