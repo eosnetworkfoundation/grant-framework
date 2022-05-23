@@ -20,14 +20,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Grant Received
-      id: send-the-email
+      id: grant-received
       if: github.event.label.name == 'Grant Received'
       run: echo "Grant Received label was added to application file ${{ needs.get_filename.outputs.filename }}"
     
     - name: Grant Translated
+      id: grant-translated
       if: github.event.label.name == 'Grant Translated'
-      id: add-to-spreadsheet
       run: echo "Grant Translated label was added to application file ${{ needs.get_filename.outputs.filename }}"
+      
+    - name: Grant Committee Approved
+      id: grant-committee-approved
+      if: github.event.label.name == 'Grant Committee Approved'
+      run: echo "Grant Committee Approved label was added to application file ${{ needs.get_filename.outputs.filename }}"
+      
+    - name: Grant Fully Approved
+      id: grant-fully-approved
+      if: github.event.label.name == 'Grant Fully Approved'
+      run: echo "Grant Fully Approved label was added to application file ${{ needs.get_filename.outputs.filename }}"
+      
+    - name: Grant Rejected
+      id: grant-rejected
+      if: github.event.label.name == 'Grant Rejected'
+      run: echo "Grant Rejected label was added to application file ${{ needs.get_filename.outputs.filename }}"
+      
 
   alwaysrun:
     needs: checklabel
