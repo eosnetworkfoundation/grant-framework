@@ -12,7 +12,7 @@
 
 ## Contact
 
-- **Contact Name:** Jose Esteban Saá Barona
+- **Contact Name:** Esteban Saá Barona
 - **Contact Email:** steban@gmail.com
 - **Website:** https://trustswap-testnet.web.app/
 
@@ -33,24 +33,31 @@ TrustSwap is a decentralized crypto exchange build on top of the TrustEVM Blockc
 
 ### Project Details
 
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
-
 - Mockups/designs of any UI components
+- https://www.figma.com/file/IPrFq5RrP0V3cSMO1IwJrv/Swap-branding-and-logo
 - Data models / API specifications of the core functionality
+- https://docs.uniswap.org/protocol/V2/reference/API/overview
 - An overview of the technology stack to be used
+- https://reactjs.org/
+- NodeJS , 
+- ....
 - Documentation of core components, protocols, architecture, etc. to be deployed
+- ... documentation link
 - PoC/MVP or other relevant prior work or research on the topic
+- https://trustswap-testnet.web.app/
 - What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+  - TrustSwap will not write new contract code, instead follow the path marked by the open source Uniswap project. We start with the open source version of the Uniswap V2, and will upgrade to V3 once the license allow is.
 
 ### Ecosystem Fit
 
-> Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
-
-- Where and how does your project fit into the ecosystem?
+- Where and how does your project fit into the ecosystem? 
+The future is EVM...
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+A world of crupto users looking to trade their crypto currencies.
 - What need(s) does your project meet?
+The need of users to switch among multiple crypto currencies.
 - Are there any other projects similar to yours in the EOSIO ecosystem?
+There are multiple crypto decentralized exchanged on the ecosystem, we are the first one available on the upcoming TrustEVM side chain.
   - If so, how is your project different?
   - If not, are there similar projects in related ecosystems?
 
@@ -91,7 +98,9 @@ TrustSwap is a decentralized crypto exchange build on top of the TrustEVM Blockc
 - academic publications relevant to the problem,
 - links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
 - references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
+- https://t.me/jointrustswap
 - previous interface iterations, such as mock-ups and wireframes.
+- https://www.figma.com/file/IPrFq5RrP0V3cSMO1IwJrv/Swap-branding-and-logo
 
 ## Development Roadmap
 
@@ -156,9 +165,14 @@ For each milestone,
 ## Additional Information
 
 **How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+It was mentioned in our telegram channel by a member of our community.
 
 > Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
 - Work you have already done.
+- We have a completelly working proof of concept, all main functionalies have been proven
+- no by the community.
 - If there are any other teams who have already contributed (financially) to the project.
+no
 - Previous grants you may have applied for.
+n/a
