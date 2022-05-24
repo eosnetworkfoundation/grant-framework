@@ -6,7 +6,7 @@
 
 - **Project Name:** TrustSwap
 - **Team Name:**TrustSwap
-- **EOS Payment Address:** EOS payment address
+- **EOS Payment Address:** trustswap111
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 - **Pomelo Grant(s):** N/A
 
