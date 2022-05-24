@@ -37,7 +37,7 @@ TrustSwap is a decentralized crypto exchange build on top of the TrustEVM Blockc
 - ... documentation link
 - PoC/MVP or other relevant prior work or research on the topic
 - https://trustswap-testnet.web.app/
-- What your project is _not_ or will _not_ provide or implement
+- https://trustswap-farm.web.app/
   - TrustSwap will not write new contract code, instead follow the path marked by the open source Uniswap project. We start with the open source version of the Uniswap V2, and will upgrade to V3 once the license allow is.
 
 ### Ecosystem Fit
@@ -132,23 +132,10 @@ For each milestone,
 
 ## Future Plans
 
-> Please include here
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+- As we are a fork of Univswap, we are currently limited to Version 2 of the protocol. Version 3 includes several important improvements, and we plan to update to it as soon as the license allows us. 
 
 
 ## Additional Information
 
 **How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
 It was mentioned in our telegram channel by a member of our community.
-
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- We have a completelly working proof of concept, all main functionalies have been proven
-- no by the community.
-- If there are any other teams who have already contributed (financially) to the project.
-no
-- Previous grants you may have applied for.
-n/a
