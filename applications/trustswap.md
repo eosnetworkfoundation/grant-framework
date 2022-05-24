@@ -63,7 +63,7 @@ There are multiple crypto decentralized exchanged on the ecosystem, we are the f
 
 ### Team Experience
 
-We have been working for over 25 years with highly scalable network platforms, including Linux servers. Have a lot experience developmeing with LAMP framework. Discovered Bitcoin on 2012, switched interests into trading and investing.
+We have been working for over 25 years with highly scalable network platforms, including Linux servers. We have Linux and Security certifacations.  Have a lot experience developmeing with LAMP framework. Started teaching Linux at College, with a first class being what were initially my teachers for other scholl classes. Discovered Bitcoin on 2012, inspired on satoshidice, created satoshicode, a word discovery game that was popular for a while, only to be killed when fees made it inpossible to play. Was an early user of mastercoin/omni, this interest also was killed by BTC high fees. The high fees switiched my attention to building on Ethereum, where Ipartcipaided anonymously for devevelopment. During the bull runs, Switched interests into trading and investing, I learned a lot of experience but ultimatelly dkiscovered hthat may pation was on writing code and creating products.  I see afuture where the worl runs around decentralized technolgies and cryptopgraphy.  
 
 ### Team Org Repos
 
