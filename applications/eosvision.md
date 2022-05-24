@@ -133,7 +133,7 @@ He has developed some Venezuelan websites. As well as instructing people in Vene
 ### Team Org Repos
 
 + https://github.com/eosvision1
-+New: In Venezuela we don't use much GitHub.
++New: In Venezuela we don't use much GitHub, Although we are learning for ourselves.
 
 > Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
@@ -186,7 +186,7 @@ For each milestone,
 | 0b. | Documentation | We will provide informative videos as well as study guides to develop knowledge about EOS and its ecosystem.
 | 0c. | Testing Guide | Our platform will be of use to everyone, and we will support any project that needs our help.
 | 0d. | Docker | .|
-| 0e. | Article | Article on the use of allocated grant funds, via EOS COMMUNITY FORUM and Bywire News.
+| 0e. | Article | Article on the use of allocated grant funds, via EOS COMMUNITY FORUM and Bywire News.https://bywire.news/articles/eos-vision-monthly-report-april
 | 1. | Creation of daily newsletters.| https://twitter.com/eos_vision
 | 2. | Creation of Videos and Podcast about EOS.|https://www.youtube.com/channel/UCy9djYzd6UKIRSM2qudViUw
 | 3. | Development of study guides.
