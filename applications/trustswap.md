@@ -91,6 +91,8 @@ I was very critical of Ethereum for its plans of being PoS, https://twitter.com/
 - https://t.me/jointrustswap
 - previous interface iterations, such as mock-ups and wireframes.
 - https://www.figma.com/file/IPrFq5RrP0V3cSMO1IwJrv/Swap-branding-and-logo
+- Twitter profile: https://twitter.com/joinTrustSwap
+- Telegram group: https://t.me/jointrustswap
 
 ## Development Roadmap
 
