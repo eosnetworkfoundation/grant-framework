@@ -1,6 +1,6 @@
-# EOS Network Foundation Grant Proposal
+# EOS Network Foundation Grant Proposal 1/2
 
-- **Project Name:** EOS Cryptography Proposal
+- **Project Name:** EOS Cryptography Proposal 1/2
 - **Team Name:** ZeroPass
 - **Payment Address:** zeropassxxxx
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
@@ -11,11 +11,6 @@
 
 ### Overview
 We are proposing to add different signature verification algorithms for EOS. There are different ways to achieve this, but back and forth with different core developers lands us on trying to implement them as SDK library for smart contracts, with probably OC compilation flag needed for more complex ECC math.
-Please provide the following:
-
-**Why those specific signature verification algorithms?** 
-These algorithms are among others included in eMRTD standard, which means they can be used in biometric passports and increasingly more in local ID documents (biometric). The specific algorithms are needed to onboard the massive Public Key Infrastructure (PKI) provided by countries to an EOS blockchain. ECC Brainpool standard curves is Grmany pushed crypto, for certificates of all sorts. The P-384 elliptic curve is recommended by NIST, and RSASSA-PSS is fixing and replacing all RSA RSA-PKCS#1 v1.5 certificates in newer deployments.  Our solution Port is at the moment designed to run off-chain on a central server, having these cryptographic primitives and algorithms will allow us to move the solution to fully on-chain.
-
 
 
 ### Project Details
@@ -86,22 +81,22 @@ We painstakingly built, optimized, tested and deployed on the testnet to make it
 - https://github.com/ZeroPass/eosio.ck
 
 
-We also built and deployed port itself (server solution) that acts as our beta version for what we are trying to move on chain. In addition, we already experimented and built Port PoC smart contract for passport attestation on-chain (RSA PKCS 1.5 PKI only). 
+Our team built and deployed Port itself (server solution) that acts as our beta version for what we are trying to move on chain. In addition, we already experimented and built Port PoC smart contract for passport attestation on-chain (RSA PKCS 1.5 PKI only). 
 - https://github.com/ZeroPass/eosio-port
 
 We can also attach research from our documentation (which is not completly up to date). It is presented in the [In-depth section](https://github.com/ZeroPass/Port-documentation-and-tools#in-depth).
 
 ## Development Roadmap
 
-- **Total Estimated Duration:** 5,5-7 months
-- **Full-Time Equivalent (FTE):**  16,5-21 FTE months
-- **Total Costs:** $120.000
+- **Total Estimated Duration:** 4-5 months
+- **Full-Time Equivalent (FTE):**  12-15 FTE months
+- **Total Costs:** $85.000
 
 ### Milestone 1 - Opensource RSA
 
 - **Estimated duration:** 0 month
 - **FTE:** 0
-- **Costs:** 20.000 USD
+- **Costs:** 30.000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -111,7 +106,7 @@ We can also attach research from our documentation (which is not completly up to
 | 0d. | Running it | We deployed on the [Jungle 3 and CryptoKylin testnets](https://github.com/ZeroPass/eosio.ck/blob/master/README.md#testnet=). |
 | 1. | EOSIO SDK library | Open-sourcing RSA PKCS v1.5 signature verification algorithm and the Keccak hash algorithms: SHA3-256, SHA3-512, SHAKE-128 and SHAKE-256 found in the [EOSIO Cryptography Kits](https://github.com/ZeroPass/eosio.ck) |
 
-We built, optimized, tested and deployed on the testnet to make it the fastest wasm RSA implementation in eosio. For example, it can verify RSA 4096 bit keys consistently under 10ms (3ms on average, much faster for the more standard  RSA 2048 bit).
+Our team built, optimized, tested and deployed on the testnet to make it the fastest wasm RSA implementation in eosio. For example, it can verify RSA 4096 bit keys consistently under 10ms (3ms on average, much faster for the more standard  RSA 2048 bit).
 
 We want to charge 20k$ to open source it (MIT license). That will also allow us to commit to work on the next items, even when delivery itself isn’t guaranteed because of unknown unknowns and EOSVM  limits that might turn multiple taken approaches into a no-go.  
 
@@ -119,7 +114,7 @@ We want to charge 20k$ to open source it (MIT license). That will also allow us 
 
 - **Estimated duration:** 1 month
 - **FTE:** 3 FTE months
-- **Costs:** 20,000 USD
+- **Costs:** 11,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -133,9 +128,9 @@ All updated cryptosystems are switching to RSASSA-PSS.
 
 ### Milestone 3 - EC math primitives
 
-- **Estimated duration:** 2.5-3.5 month
-- **FTE:** 7.5-10.5 FTE months
-- **Costs:** 20,000 USD
+- **Estimated duration:** 4-6 month
+- **FTE:** 9-12 FTE months
+- **Costs:** 44,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -143,48 +138,31 @@ All updated cryptosystems are switching to RSASSA-PSS.
 | 0b. | Documentation | Documentation and step by step guide will be updated in [README.md](https://github.com/ZeroPass/eosio.ck/blob/master/README.md).  | 
 | 0c. | Testing Guide | [In the guide](https://github.com/ZeroPass/eosio.ck/blob/master/README.md#algorithm-testing=), we will describe how to run those tests. |
 | 0d. | Running it | We will deploy on the [Jungle 3 and CryptoKylin testnets](https://github.com/ZeroPass/eosio.ck/blob/master/README.md#testnet=), or provide Docker if OC flag (Optimized Compilation) will be required for it to run. |
-| 1. | EOSIO SDK library | General-purpose math primitives (i.e. addition, multiplication, inverse etc…)  for elliptic curve arithmetics over an arbitrary finite field. |
+| 1a. | EOSIO SDK library | General-purpose math primitives (i.e. addition, multiplication, inverse etc…)  for elliptic curve arithmetics over an arbitrary finite field. Build inside EOSVM and using no OC flag | 
+| 1b. | EOSIO SDK library | General-purpose math primitives (i.e. addition, multiplication, inverse etc…)  for elliptic curve arithmetics over an arbitrary finite field. Build inside EOSVM and using OC flag (optional*)|
+| 1c. | EOSIO SDK + node patch | General-purpose math primitives (i.e. addition, multiplication, inverse etc…)  for elliptic curve arithmetics over an arbitrary finite field. Build as an intrinsic (optional*)|
+| 2a. | EOSIO SDK library | Example implementation for **Secp256r1**. Build inside EOSVM and using no OC flag |
+| 2b. | EOSIO SDK library | Example implementation for **Secp256r1**. Build inside EOSVM and using OC flag (optional*) |
+| 2c. | EOSIO SDK library | Example implementation for **Secp256r1**. Build using an intrinsic (optional*) |
+| 3a. | Benchmark | Benchmarking 2a to determine its viability for running it on the public EOSIO networks|
+| 3b. | Benchmark | Benchmarking 2b to determine its viability for running it on the public EOSIO networks (optional*)|
+| 3c. | Benchmark | Benchmarking 2c to determine its viability for running it on the public EOSIO networks (optional*)|
 
-This will allow defining higher-level cryptography EC algorithms (e.g. ECDSA verification algo) on custom elliptic curves in smart contract. **The primitives will be built on top of the existing secure and audited EC cryptography library.**
+This will allow defining higher-level cryptography EC algorithms (e.g. ECDSA verification algo) on custom elliptic curves in smart contract. **The primitives will be built on top of the existing secure and audited EC cryptography library.**    
+  
+**Important\*;** 
+- If deliverable 1a will be preformant enough, we won't deliver deliver 1b and 1c, only deliverable 1a.
+- If deliverable 1b will be preformant enough, we won't deliver deliver 1c, only deliverable 1a and 1b.
+- If only deliverable 1c will be preformant enough, we well deliver all 3.  
 
-### Milestone 4 - ECDSA
-
-- **Estimated duration:** 1-3 months
-- **FTE:** 3-9 FTE months
-- **Costs:** 40,000 USD (10,000 USD per signature algorithm)
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | MIT |
-| 0b. | Documentation | Documentation and step by step guide will be updated in [README.md](https://github.com/ZeroPass/eosio.ck/blob/master/README.md).  | 
-| 0c. | Testing Guide | [In the guide](https://github.com/ZeroPass/eosio.ck/blob/master/README.md#algorithm-testing=), we will describe how to run those tests. |
-| 0d. | Running it | We will deploy on the [Jungle 3 and CryptoKylin testnets](https://github.com/ZeroPass/eosio.ck/blob/master/README.md#testnet=), or provide Docker if OC flag (Optimized Compilation) will be required for it to run. |
-| 1. | EOSIO SDK library | To implement different ECDSA signature verification algorithms for other ECC curves, we will write example implementation for **P-384** which will include adding **sha-384** |
-| 2. | EOSIO SDK library | Example implementation for **BrainpoolP256r1** |
-| 3. | EOSIO SDK library | Example implementation for **BrainpoolP384r1** |
-| 4. | EOSIO SDK library | Example implementation for **BrainpoolP512r1** |
-
-### Milestone 5 - A cryptographic system contract
-
-- **Estimated duration:** 1 month
-- **FTE:** 3 FTE months
-- **Costs:** 20,000 USD
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | MIT |
-| 0b. | Documentation | Documentation and step by step guide will be provioded in contract repository readme | 
-| 0c. | Testing Guide | We will write instructions how to run tests in the guide posted in contract repository readme |
-| 0d. | Running it | We will deploy on the Jungle 3 and CryptoKylin testnets, or provide Docker image if running eos node in OC mode (Optimized Compilation) will be required. |
-| 0e. |	Article | 	We will publish an article that explains why adding these signature algortims makes EOS much more ready to onboard goverment supported projects. We would also present why doing the same on other blockchain platforms without hard fork is close to impossible curtesy of EOSVM speed and Optimized Compilation.|
-| 1. | EOSIO Smart Contract | A cryptographic smart contract meant to be deployed by BPs, and used by many dapp developers |
-
-Milestones 1,2,3 and 4 will be part of the crypto SDK library which anyone can use in their smart contracts. We expect that running node in OC mode will be required for some cases (we'll try to omit it), this would make it necessary for the BPs to deploy it using eosio privileged permissions. We can't expect every developer to have access to BP's contract deployment and as such, it should be deployed in a form of system contract. The contract contains all described cryptographic primitives and verification actions, and allows other contracts to pass their data for verification to it. This way only one contract needs to be maintained by the BPs, and the whole proposal can become a crypto primitive for other dapps to utilize. 
+Same logic applies to coresponding Example implementation for **Secp256r1** and their benchmarking
 
 
 ## Future Plans
+**Expected Part 2 of the proposal**  
+Based on reviewers feedback we split the proposal into two parts, the content might vary based on resoults achived in the Milestone 4. For now expect proposal for 5 additional EC curves + a possible "system contract" implementation. Most risks moved into the first part of the proposal, which is repriced to reflect that. The target price is the same, with addition of two more eliptic curves ending up costing $10k more ($5k per eliptic curve).
 
-**Pending additional research;**
+**Pending additional research;**  
 We might be able to also implement ECC curve alt_bn128 curve which is widely available on other major blockchain platforms like EVM and Polkadot. We will feel more comfortable promising delivery after at least ECC general implementation is done.
 
 We are planning to rebuild [Port](https://port.link/) on-chain, and this proposal provides the crypto primitives needed to begin the process.
