@@ -113,6 +113,7 @@ Venezuela Cojedes, San Carlos. C-165
 -Ambassador of EOS SUPPORT in Spanish.
 And moderator of different channels and social networks (EOS COMMUNITY DISCORD, EOS FACEBOOK, EOS REDDIT, and EDEN ON EOS.)
 Names of team members:
+
 +COO: Leonardo Diaz: 
 -Trained Venezuelan journalist and photographer.
 -Former member of EOS MICROLOAN.
@@ -138,8 +139,8 @@ He has developed some Venezuelan websites. As well as instructing people in Vene
 
 ### Team Member Repos
 
-+https://github.com/eosvision1
-- https://github.com/<team_member_2>
+-https://github.com/eosvision1
+-(https://github.com/Creamyvanill)
 
 ## Development Status
 
@@ -186,8 +187,8 @@ For each milestone,
 | 0c. | Testing Guide | Our platform will be of use to everyone, and we will support any project that needs our help.
 | 0d. | Docker | .|
 | 0e. | Article | Article on the use of allocated grant funds, via EOS COMMUNITY FORUM and Bywire News.
-| 1. | Creation of daily newsletters.
-| 2. | Creation of Videos and Podcast about EOS.
+| 1. | Creation of daily newsletters.| https://twitter.com/eos_vision
+| 2. | Creation of Videos and Podcast about EOS.|https://www.youtube.com/channel/UCy9djYzd6UKIRSM2qudViUw
 | 3. | Development of study guides.
 
 
