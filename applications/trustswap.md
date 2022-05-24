@@ -1,7 +1,7 @@
 # EOS Network Foundation Grant Proposal
 
 - **Project Name:** TrustSwap
-- **Team Name:**TrustSwap
+- **Team Name:** TrustSwap
 - **EOS Payment Address:** trustswap111
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 - **Pomelo Grant(s):** N/A
@@ -14,12 +14,12 @@
 
 ## Project Overview
 
-TrustSwap is a decentralized crypto exchange build on top of the TrustEVM Blockchain.
+TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Blockchain.
 
 ### Overview
 
 - **Name:** TrustSwap
-- **Brief Description:** TrustSwap is a fork of the Uniswap open source project, it is built to work on top of TrustEVM Blokchain and deliver fast, secure and easy to use token trading. 
+- **Brief Description:** TrustSwap is a fork of the Uniswap open source project, it is built to work on top of TrustEVM Blokchain and delivers fast, secure and easy to use token trading. 
 - **Relationship to EOSIO:** TrustSwap is built on top of TrustEVM, an EVM compatible side chain of EOSIO.
 - **Reason for Interest:** We are looking to create the most scalable, and easy to use swap platform.
 
@@ -45,13 +45,11 @@ TrustSwap is a decentralized crypto exchange build on top of the TrustEVM Blockc
 - Where and how does your project fit into the ecosystem? 
 The future is EVM...
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-A world of crupto users looking to trade their crypto currencies.
+A world of crypto users looking to trade their crypto currencies.
 - What need(s) does your project meet?
-The need of users to switch among multiple crypto currencies.
+The need of users to switch among multiple crypto currencie, obtain tokens of new projects, swaps for stable currencies. 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
-There are multiple crypto decentralized exchanged on the ecosystem, we are the first one available on the upcoming TrustEVM side chain.
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+There are multiple crypto decentralized exchanged on the ecosystem, we are the first one available on the upcoming Trust EVM EOS side chain. There are currently no other decetralized exchanges built for Trust EVM.
 
 ## Team
 
@@ -65,7 +63,7 @@ There are multiple crypto decentralized exchanged on the ecosystem, we are the f
 
 ### Team Experience
 
-I have been working for over 25 years with computers, most of them dedicated to Linux servers. Have xperience, started Butcoin on, worked ...
+We have been working for over 25 years with highly scalable network platforms, including Linux servers. Have a lot experience developmeing with LAMP framework. Discovered Bitcoin on 2012, switched interests into trading and investing.
 
 ### Team Org Repos
 
@@ -77,7 +75,7 @@ I have been working for over 25 years with computers, most of them dedicated to 
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/estebansaa
+- https://www.linkedin.com/in/esteban-s-988b6457/
 
 ## Development Status
 
