@@ -65,8 +65,7 @@ There are multiple crypto decentralized exchanged on the ecosystem, we are the f
 
 ### Team members
 
-- **Team Leader:** Name of team leader
-- Esteban Saá Barona
+- **Team Leader:** Esteban Saá Barona
 
 ### Legal Structure
 - **Registered Legal Entity:** We are in the initial process of registration
@@ -79,8 +78,6 @@ There are multiple crypto decentralized exchanged on the ecosystem, we are the f
 ### Team Org Repos
 
 - https://github.com/evm20
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
 ### Team Member Repos
 
