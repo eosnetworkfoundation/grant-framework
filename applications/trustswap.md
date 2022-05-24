@@ -1,9 +1,5 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) should be removed.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-
 - **Project Name:** TrustSwap
 - **Team Name:**TrustSwap
 - **EOS Payment Address:** trustswap111
@@ -16,15 +12,11 @@
 - **Contact Email:** steban@gmail.com
 - **Website:** https://trustswap-testnet.web.app/
 
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
-
 ## Project Overview
 
 TrustSwap is a decentralized crypto exchange build on top of the TrustEVM Blockchain.
 
 ### Overview
-
-> Please provide the following:
 
 - **Name:** TrustSwap
 - **Brief Description:** TrustSwap is a fork of the Uniswap open source project, it is built to work on top of TrustEVM Blokchain and deliver fast, secure and easy to use token trading. 
@@ -73,7 +65,7 @@ There are multiple crypto decentralized exchanged on the ecosystem, we are the f
 
 ### Team Experience
 
-> I have been working for over 25 years with computers, most of them dedicated to Linux servers. Have xperience, started Butcoin on, worked ...
+I have been working for over 25 years with computers, most of them dedicated to Linux servers. Have xperience, started Butcoin on, worked ...
 
 ### Team Org Repos
 
