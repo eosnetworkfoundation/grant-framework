@@ -124,4 +124,4 @@ For each milestone,
 ## Additional Information
 
 **How did you hear about the Grants Program?** personal recommendation
-It was mentioned in our telegram channel by a member of our community. We were early to respond to the EOS community building an EVM, and we understand the tools we are building are critical to the sucess of the platform.
+It was mentioned in our telegram channel by a member of our community. We were early to respond to the EOS community building an EVM,  we understand the tools we are building are important to the sucess of the platform.
