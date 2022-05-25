@@ -19,9 +19,9 @@ TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Block
 ### Overview
 
 - **Name:** TrustSwap
-- **Brief Description:** TrustSwap is a fork of the Uniswap open source project, it is built to work on top of TrustEVM Blokchain and delivers fast, secure and easy to use token trading. 
-- **Relationship to EOSIO:** TrustSwap is built on top of TrustEVM, an EVM compatible side chain of EOSIO.
-- **Reason for Interest:** We are looking to create the most scalable, and easy to use swap platform.
+- **Brief Description:** TrustSwap is a decentralized exchange built to work on top of TrustEVM Blokchain. It delivers fast, secure and easy to use token trading. 
+- **Relationship to EOSIO:** TrustSwap is built on top of Trust EVM, an EVM compatible side chain of EOSIO.
+- **Reason for Interest:** We are looking to create the most scalable, and easy to use swap platform. Trust EVM provides a solid framework to build on.
 
 ### Project Details
 
@@ -31,13 +31,14 @@ TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Block
 - https://docs.uniswap.org/protocol/V2/reference/API/overview
 - An overview of the technology stack to be used
 - https://reactjs.org/
-- NodeJS , 
-- ....
+- https://github.com/nodejs/node
+- 
 - Documentation of core components, protocols, architecture, etc. to be deployed
-- ... documentation link
+- ... https:
 - PoC/MVP or other relevant prior work or research on the topic
 - https://trustswap-testnet.web.app/
 - https://trustswap-farm.web.app/
+- https://docs.trustswap-farm.web.app/
   - TrustSwap will not write new contract code, instead follow the path marked by the open source Uniswap project. We start with the open source version of the Uniswap V2, and will upgrade to V3 once the license allow is.
 
 ### Ecosystem Fit
@@ -63,7 +64,7 @@ There are multiple crypto decentralized exchanged on the ecosystem, we are the f
 
 ### Team Experience
 
-We have been working for over 25 years with highly scalable network platforms, including Linux servers. We have Linux and Security certifacations.  Have a lot experience developmeing with LAMP framework. Started teaching Linux at College, with a first class being what were initially my teachers for other scholl classes. Discovered Bitcoin on 2012, inspired on satoshidice, created satoshicode, a word discovery game that was popular for a while, only to be killed when fees made it inpossible to play. Was an early user of mastercoin/omni, this interest also was killed by BTC high fees. The high fees switiched my attention to building on Ethereum, where Ipartcipaided anonymously for devevelopment. During the bull runs, Switched interests into trading and investing, I learned a lot of experience but ultimatelly dkiscovered hthat may pation was on writing code and creating products.  I see afuture where the worl runs around decentralized technolgies and cryptopgraphy.  
+We have been working for over 25 years with highly scalable network platforms with a focus on Linux servers. Have a lot experience developmeing with LAMP framework. Started teaching Linux at College, with a first class being what were initially my teachers for other scholl classes. Discovered Bitcoin on 2012, inspired on satoshidice, created satoshicode, a word discovery game that was popular for a while, only to be killed when fees made it inpossible to play. Was an early user of mastercoin/omni, this interest also was killed by BTC high fees. The high fees switiched my attention to building on Ethereum, where Ipartcipaided anonymously for devevelopment. During the bull runs, Switched interests into trading and investing, I learned a lot of experience but ultimatelly dkiscovered hthat may pation was on writing code and creating products.  I see afuture where the worl runs around decentralized technolgies and cryptopgraphy.  
 
 I was very critical of Ethereum for its plans of being PoS, https://twitter.com/estebs/status/614086876165705728 , eventually I understood its merits, and saw many of my concerns solved by dPoS. 
 
@@ -82,23 +83,12 @@ I was very critical of Ethereum for its plans of being PoS, https://twitter.com/
 
 ## Development Status
 
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
 - https://t.me/jointrustswap
-- previous interface iterations, such as mock-ups and wireframes.
 - https://www.figma.com/file/IPrFq5RrP0V3cSMO1IwJrv/Swap-branding-and-logo
-- Twitter profile: https://twitter.com/joinTrustSwap
-- Telegram group: https://t.me/jointrustswap
+- https://twitter.com/joinTrustSwap
+- https://t.me/jointrustswap
 
 ## Development Roadmap
-
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to the EOS ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
 
 For each milestone,
 
@@ -133,10 +123,10 @@ For each milestone,
 
 ## Future Plans
 
-- As we are a fork of Univswap, we are currently limited to Version 2 of the protocol. Version 3 includes several important improvements, and we plan to update to it as soon as the license allows us. 
+- We will be updating our core contracts to Version 3 of Uniswap as soon as the license allows us.
 
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
-It was mentioned in our telegram channel by a member of our community.
+**How did you hear about the Grants Program?** personal recommendation
+It was mentioned in our telegram channel by a member of our community. We were early to respond to the EOS community building an EVM, and we understand the tools we are building are critical to the sucess of the platform.
