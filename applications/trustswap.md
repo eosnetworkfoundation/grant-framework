@@ -14,7 +14,7 @@
 
 ## Project Overview
 
-TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Blockchain.
+TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Blockchain, it bring an easy to use, yet poweful interface. 
 
 ### Overview
 
@@ -25,20 +25,21 @@ TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Block
 
 ### Project Details
 
-- We compiled a few ideas for the design here,  https://www.figma.com/file/IPrFq5RrP0V3cSMO1IwJrv/Swap-branding-and-logo . We are still early on the process of creating a brand. Most of our pro so far has been devoted to testing and adapting to the inerworking of TrustEVM. 
+- Our project is early on the development process, this allows us to allign our decision making with the best interests of the IOS community.
+- We compiled a few ideas for the design here,  https://www.figma.com/file/IPrFq5RrP0V3cSMO1IwJrv/Swap-branding-and-logo . We are still early on the process of creating a brand. Most of our progtess so far has been devoted to deploying, testing and adapting to the inerworking of TrustEVM. 
 - Our code comes from the Uniswap project, the following links contains broad documentation on the project- https://docs.uniswap.org/protocol/V2/reference/API/overview
 - We will be reusing many of the components of the code where our project is forked from. This includes frameworks as react for the frontend: https://reactjs.org/. For the back ebd we are using https://github.com/nodejs/node
 - While we are very early on our development process we have deployed several smart contracts and and their respective interfaces. 
 - https://trustswap-testnet.web.app/ Is the frontend to a decentralized exchange. It curently makes use of the TrustEVM testnet-
 - https://trustswap-farm.web.app/ is a farm contract, it accepts LP deposits from our decentralized exchange and payrs out our testnet roken TRT. 
 - https://docs.trustswap-farm.web.app/ is our documenation site, it includes general information of our platform. 
-  - TrustSwap will not write new contract code, instead follow the path marked by the open source Uniswap project. We start with the open source version of the Uniswap V2, and will upgrade to V3 once the license allow is.
+  - TrustSwap will not divert far from our orignal code source, instead adapt to TrustEVM the open source Uniswap project. We start with the open source version of the Uniswap V2, and will upgrade to V3 once the license allow is.
 
 ### Ecosystem Fit
 
 - Where and how does your project fit into the ecosystem? 
-We believe in a future where value flows freely accross decentralized networks. This means that TrustEVM needs a way to receive, swap and send away value in the form of tokens, coins and NFTs.
-- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+We believe in a future where value flows freely accross decentralized networks. This means that TrustEVM needs a way to receive, swap and send away value to other networks, coins, tokens and NFTs.
+- Who is your target audience?
 A world of crypto users looking to safely trade their crypto currencies, with a focus on those not expert with decentralized technology platforms. We specially ait to make things easy. 
 - What need(s) does your project meet?
 The need of users to switch among multiple crypto currencie, the need to obtain tokens of new projects and swaps for stable currencies. 
@@ -57,9 +58,7 @@ There are multiple crypto decentralized exchanged on out ecosystem, yet we are t
 
 ### Team Experience
 
-We have been working for over 25 years with highly scalable network platforms with a focus on Linux servers and network security. Have a lot experience developmeing LAMP platforms. Started teaching Linux at College leve. Discovered Bitcoin on 2012, inspired on satoshidice, created satoshicode, a word discovery game that was popular for a while, only to be killed when fees made it inpossible to play. Was an earlysupporter and user  of mastercoin/omni, this interest also was killed by BTC high fees. The high fees switiched my attention to building on Ethereum, where Ipartcipaided anonymously for devevelopment. During the bull runs switched focus into trading and investing, I learned a lot of experience but ultimatelly discovered that the pation that motivate is writing code and creating products.  I see a future where the world runs around decentralized technolgies and cryptopgraphy.  
-
-I was very critical of Ethereum for its plans of being PoS, https://twitter.com/estebs/status/614086876165705728 , eventually I understood its merits, and saw many of my concerns solved by dPoS. 
+We have been working for over 25 years with highly scalable network platforms with a focus on Linux servers and network security. Have a lot experience developmeing LAMP platforms. Started teaching Linux at College leve. Discovered Bitcoin on 2012, inspired on satoshidice, created satoshicode, a word discovery game that was popular for a while, only to be killed when fees made it inpossible to play. Was an earlysupporter and user  of mastercoin/omni, this interest also was killed by BTC high fees. The high fees switiched my attention to building on Ethereum, where Ipartcipaided anonymously for devevelopment. During the bull runs switched focus into trading and investing, I learned a lot of experience but ultimatelly discovered that the pation that motivate is writing code and creating products.  I see a future where the world runs around decentralized technolgies and cryptopgraphy.  I was critical  on the early days of Ethereum for its plans of being PoS, https://twitter.com/estebs/status/614086876165705728 , eventually I understood its merits, and saw many of my concerns solved by dPoS. 
 
 ### Team Org Repos
 
