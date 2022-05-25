@@ -35,6 +35,7 @@ TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Block
 - https://docs.trustswap-farm.web.app/ is our documenation site, it includes general information of our platform. We are using Gitbook for it, will be connected once our domain name is decided. 
 - https://www.npmjs.com/settings/trustevm/packages , we have published an SDK to NPMKS.com, this will make it easy for other developers to connect to our smart contract. There are multiple use cases for this, for instance market makers and arbitragers can use our SDK to make their bots work. 
   - TrustSwap will not divert far from our orignal code source, instead adapt to TrustEVM the open source Uniswap project. We start with the open source version of the Uniswap V2, and will upgrade to V3 once the license allow is. 
+ - As part of our initial work we have deployed two extremely important smart contracts that will provide a backbone to the upcoming contract from other teams. These are the WrappedEVM contract, and the Multicall2 contract. These contracts are fundamental building blocks of any EVM ecosystem. We plan to coordinate work with the main devs of the project, so that the deployment of these contracts can be done securely for mainnet. 
 
 ### Ecosystem Fit
 
