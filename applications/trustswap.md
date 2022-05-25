@@ -76,10 +76,9 @@ We have been working for over 25 years with highly scalable network platforms wi
 
 ## Development Status
 
-- https://t.me/jointrustswap
-- https://www.figma.com/file/IPrFq5RrP0V3cSMO1IwJrv/Swap-branding-and-logo
-- https://twitter.com/joinTrustSwap
-- https://t.me/jointrustswap
+- Telegram Group: https://t.me/jointrustswap
+- Figma sketches: https://www.figma.com/file/IPrFq5RrP0V3cSMO1IwJrv/Swap-branding-and-logo
+- Twitter: https://twitter.com/joinTrustSwap
 
 ## Development Roadmap
 
@@ -104,7 +103,7 @@ We have been working for over 25 years with highly scalable network platforms wi
 
 ## Future Plans
 
-- We will be updating our core contracts to Version 3 of Uniswap as soon as the license allows us. There are other several contracts we are working on, they include bridging services and lending. 
+- We will be updating our core contracts to Version 3 of Uniswap as soon as the license allows us. There are other several contracts we are working on, they include bridging services and lending. We will be maintaining core defi contract, wEVM and Multicall.
 
 
 ## Additional Information
