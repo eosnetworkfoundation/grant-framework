@@ -85,7 +85,7 @@ We have been working for over 25 years with highly scalable network platforms wi
 
 ### Overview
 
-- **Total Estimated Duration:** The front end deployments and maiinet deployments of smart contract will take 2 months of work, plus one month of testing and debuging. 
+- **Total Estimated Duration:** The frontend deployment and mainnet deployment of smart contract will take 2 months of work, plus one month of testing and debugging. 
 
 ### Milestone 1  — Implement redesigned Swap frontend
 
