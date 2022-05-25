@@ -1,0 +1,12 @@
+name: Call a reusable workflow
+
+on:
+  workflow_dispatch:
+
+jobs:
+  call-workflow-passing-data:
+    uses: ./.github/workflows/reusable-gsheet.yml
+    with:
+      project_name: test_project
+    secrets:
+      gsheet_private_key: ${{ secrets.GHSEET_API_KEY }}
