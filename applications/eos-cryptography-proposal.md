@@ -108,7 +108,7 @@ We can also attach research from our documentation (which is not completly up to
 
 Our team built, optimized, tested and deployed on the testnet to make it the fastest wasm RSA implementation in eosio. For example, it can verify RSA 4096 bit keys consistently under 10ms (3ms on average, much faster for the more standard  RSA 2048 bit).
 
-We want to charge 20k$ to open source it (MIT license). That will also allow us to commit to work on the next items, even when delivery itself isn’t guaranteed because of unknown unknowns and EOSVM  limits that might turn multiple taken approaches into a no-go.  
+We want to charge 30k$ to open source it (MIT license). That will also allow us to commit to work on the next items, even when delivery itself isn’t guaranteed because of unknown unknowns and EOSVM  limits that might turn multiple taken approaches into a no-go.  
 
 ### Milestone 2 - RSASSA-PSS
 
