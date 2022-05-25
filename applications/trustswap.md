@@ -19,26 +19,21 @@ TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Block
 ### Overview
 
 - **Name:** TrustSwap
-- **Brief Description:** TrustSwap is a decentralized exchange built to work on top of TrustEVM Blokchain. It delivers fast, secure and easy to use token trading. 
-- **Relationship to EOSIO:** TrustSwap is built on top of Trust EVM, an EVM compatible side chain of EOSIO.
-- **Reason for Interest:** We are looking to create the most scalable, and easy to use swap platform. Trust EVM provides a solid framework to build on.
+- **Brief Description:** TrustSwap is an open source decentralized exchange structured to work on top of TrustEVM Blockchain. It delivers a fast, secure and easy to use EVM20 token trading. 
+- **Relationship to EOSIO:** TrustSwap is built on top of Trust, an EVM compatible side chain of EOSIO.
+- **Reason for Interest:** We are looking to create the most scalable, and easy to use swap service. Trust EVM provides a solid platform to build on.
 
 ### Project Details
 
-- Mockups/designs of any UI components
-- https://www.figma.com/file/IPrFq5RrP0V3cSMO1IwJrv/Swap-branding-and-logo
-- Data models / API specifications of the core functionality
-- https://docs.uniswap.org/protocol/V2/reference/API/overview
-- An overview of the technology stack to be used
-- https://reactjs.org/
-- https://github.com/nodejs/node
-- 
+- We compiled a few ideas for the design here,  https://www.figma.com/file/IPrFq5RrP0V3cSMO1IwJrv/Swap-branding-and-logo . We are still early on the process of creating a brand-
+- Most of our code comes from the Uniswap project, the following links contains broad documentation on the project- https://docs.uniswap.org/protocol/V2/reference/API/overview
+- We will be reusing many of the components of the code where our project is forked from. This includes frameworks as react for the frontend: https://reactjs.org/. For the back ebd we are using https://github.com/nodejs/node
 - Documentation of core components, protocols, architecture, etc. to be deployed
 - ... https:
-- PoC/MVP or other relevant prior work or research on the topic
-- https://trustswap-testnet.web.app/
-- https://trustswap-farm.web.app/
-- https://docs.trustswap-farm.web.app/
+- While we are very early on our development process we have deployed several smart contracts and frontends to them. 
+- https://trustswap-testnet.web.app/ Is the frontend to a decentralized exchange. It curently makes use of the TrustEVM testnet-
+- https://trustswap-farm.web.app/ is a farm contract, it accepts LP deposits from our decentralized exchange and payrs out our testnet roken TRT. 
+- https://docs.trustswap-farm.web.app/ is our documenation site, it includes general information of our platform. 
   - TrustSwap will not write new contract code, instead follow the path marked by the open source Uniswap project. We start with the open source version of the Uniswap V2, and will upgrade to V3 once the license allow is.
 
 ### Ecosystem Fit
