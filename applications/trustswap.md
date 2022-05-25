@@ -14,7 +14,7 @@
 
 ## Project Overview
 
-TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Blockchain, it bring an easy to use, yet poweful interface. 
+TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Blockchain; it bring an easy to use, yet poweful interface. 
 
 ### Overview
 
@@ -33,6 +33,7 @@ TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Block
 - https://trustswap-testnet.web.app/ Is the frontend to a decentralized exchange. It curently makes use of the TrustEVM testnet-
 - https://trustswap-farm.web.app/ is a farm contract, it accepts LP deposits from our decentralized exchange and payrs out our testnet roken TRT. 
 - https://docs.trustswap-farm.web.app/ is our documenation site, it includes general information of our platform. 
+- https://www.npmjs.com/settings/trustevm/packages , we have published an SDK to npmjs, this will make it easy for other developers to connect to our smart contract. There are multiple use cases, for instance market makers and arbitragers can use our SDK to make their bots work. 
   - TrustSwap will not divert far from our orignal code source, instead adapt to TrustEVM the open source Uniswap project. We start with the open source version of the Uniswap V2, and will upgrade to V3 once the license allow is.
 
 ### Ecosystem Fit
