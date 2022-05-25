@@ -94,11 +94,11 @@ We have been working for over 25 years with highly scalable network platforms wi
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
+| 0a. | License |  MIT  |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how to configure TrustEVM and use TrustSwap |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
+| 0d. | Deployment | We will provide a repository with instructions on how to deploy the frontend. |
+| 0e. | Article | We will publish an **article** that explains how the different components of the platform are connected to make the platform work |
 
 
 ## Future Plans
