@@ -14,7 +14,7 @@
 
 ## Project Overview
 
-TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Blockchain; it bring an easy to use, yet poweful interface. 
+TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Blockchain; it bring an easy to use, yet poweful Web3 interface. 
 
 ### Overview
 
