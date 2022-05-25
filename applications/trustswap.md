@@ -28,13 +28,13 @@ TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Block
 - Our project is early on its development process, this allows us to allign our decision making with the best interests of the IOS community.
 - We compiled a few ideas for the designs here: https://www.figma.com/file/IPrFq5RrP0V3cSMO1IwJrv/Swap-branding-and-logo . We are still early on the process of creating a brand. Most of our work so far has been devoted to deploying, testing and adapting to the inerworking of TrustEVM. 
 - Our code comes from the Uniswap project, the following links contains broad documentation on the project: https://docs.uniswap.org/protocol/V2/reference/API/overview
-- We will be reusing many of the components of the code where our project is forked from. This includes frameworks as REACT for the frontend: https://reactjs.org/. For the back end we are using the MERN stack to build a static site. MERN includes tools such as: https://github.com/nodejs/node. The resulting code is static HTML code that we host at Google Firebase, it includes several functions such as CDN, so we can substain veyr hgih loads maintaing good quality of service, and defend from DDOS attacks. Further the hosting platform allows us to implement CD/Ci pilelines and optmize our deployment methodolosies. 
-- While we are very early on our development process we have deployed several smart contracts and and their respective interfaces. 
-- https://trustswap-testnet.web.app/ Is the frontend to a decentralized exchange. It curently makes use of the TrustEVM testnet-
-- https://trustswap-farm.web.app/ is a farm contract, it accepts LP deposits from our decentralized exchange and payrs out our testnet token. 
-- https://docs.trustswap-farm.web.app/ is our documenation site, it includes general information of our platform. 
-- https://www.npmjs.com/settings/trustevm/packages , we have published an SDK to npmjs, this will make it easy for other developers to connect to our smart contract. There are multiple use cases, for instance market makers and arbitragers can use our SDK to make their bots work. 
-  - TrustSwap will not divert far from our orignal code source, instead adapt to TrustEVM the open source Uniswap project. We start with the open source version of the Uniswap V2, and will upgrade to V3 once the license allow is.
+- We will be reusing many of the components of the code where our project is forked from. This includes frameworks as REACT for the frontend: https://reactjs.org/. For the back end we are using the MERN stack to build a static site. MERN includes tools such as: https://github.com/nodejs/node. The resulting code is static HTML code that we host at Google Firebase, it includes several functions such as CDN, so we can substain veyr hgih loads maintaing good quality of service, and defend from DDOS attacks. Further the hosting platform allows us to implement CD/CD pilelines and optumize our deployment methodologies. 
+- While we are very early on our development process we have deployed several smart contracts and their respective interfaces. 
+- https://trustswap-testnet.web.app/ is the frontend to a decentralized exchange. It curently makes use of the TrustEVM testnet-
+- https://trustswap-farm.web.app/ is a farm contract, it accepts LP deposits from our decentralized exchange and pays out testnet token. 
+- https://docs.trustswap-farm.web.app/ is our documenation site, it includes general information of our platform. We are using Gitbook for it, will be connected once our domain name is decided. 
+- https://www.npmjs.com/settings/trustevm/packages , we have published an SDK to NPMKS.com, this will make it easy for other developers to connect to our smart contract. There are multiple use cases for this, for instance market makers and arbitragers can use our SDK to make their bots work. 
+  - TrustSwap will not divert far from our orignal code source, instead adapt to TrustEVM the open source Uniswap project. We start with the open source version of the Uniswap V2, and will upgrade to V3 once the license allow is. 
 
 ### Ecosystem Fit
 
@@ -59,7 +59,7 @@ There are multiple crypto decentralized exchanged on out ecosystem, yet we are t
 
 ### Team Experience
 
-We have been working for over 25 years with highly scalable network platforms with a focus on Linux servers and network security. Have a lot experience developmeing LAMP platforms. Discovered Bitcoin on 2012, inspired on satoshidice, created satoshicode, a word discovery game that was popular for a while, only to be killed when fees made it inpossible to play. Was an earlysupporter and user of mastercoin/omni, this interest also was killed by BTC high fees. The high fees switiched out attention to building on Ethereum, where we partcipaided anonymously for devevelopment of security code. During the bull runs switched focus into trading and investing; we learned a lot of experience but ultimatelly discovered that the pation that motivate us is writing code and creating products.  We see a future where the world runs around decentralized technolgies and cryptopgraphy.  I was critical  on the early days of Ethereum for its plans of being PoS, https://twitter.com/estebs/status/614086876165705728 , eventually we understood its merits, and saw many of my concerns solved by dPoS. 
+We have been working for over 25 years with highly scalable network platforms with a focus on Linux servers and network security. Posses a lot experience developmeing LAMP platforms. Discovered Bitcoin on 2012 and inspired on satoshidice, created satoshicode, a word finding game that was popular for a while, only to be killed when fees made it inpossible to play. We were early supporters and users of mastercoin/omni, this interest also was killed by BTC high fees. The high fees of Bitcoin switiched out attention to building on Ethereum, where we partcipaided anonymously for devevelopment of security testing code. During the bull runs switched focus into trading and investing; we gained a lot of experience but ultimatelly discovered that the passion  that motivate us is writing code and creating products.  We see a future where the world runs around decentralized technolgies and cryptopgraphy.  We were critical  on the early days of Ethereum for its plans of being PoS, https://twitter.com/estebs/status/614086876165705728 , eventually we understood its merits, and saw many of my concerns solved by dPoS. 
 
 ### Team Org Repos
 
@@ -82,23 +82,13 @@ We have been working for over 25 years with highly scalable network platforms wi
 
 ## Development Roadmap
 
-For each milestone,
-
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
 ### Overview
 
-- **Total Estimated Duration:** The new fronend deployments will take 2 months of work, an one month of testing and debuging. 
+- **Total Estimated Duration:** The front end deployments and maiinet deployments of smart contract will take 2 months of work, plus one month of testing and debuging. 
 
 ### Milestone 1  — Implement redesigned Swap frontend
 
-- **Estimated duration:** 1 month
+- **Estimated duration:** 3 months
 - **FTE:**  2
 - **Costs:** 10,000 USD
 
@@ -113,7 +103,7 @@ For each milestone,
 
 ## Future Plans
 
-- We will be updating our core contracts to Version 3 of Uniswap as soon as the license allows us. There are other several contracts we are working on, they include briding services and lending. 
+- We will be updating our core contracts to Version 3 of Uniswap as soon as the license allows us. There are other several contracts we are working on, they include bridging services and lending. 
 
 
 ## Additional Information
