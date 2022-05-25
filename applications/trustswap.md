@@ -97,11 +97,9 @@ For each milestone,
 
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
+- **Total Estimated Duration:** The new fronend deployments will take 2 months of work, an one month of testing and debuging. 
 
-### Milestone 1 Example — Implement EOSIO Sub-module
+### Milestone 1  — Implement redesigned Swap frontend
 
 - **Estimated duration:** 1 month
 - **FTE:**  2
@@ -118,7 +116,7 @@ For each milestone,
 
 ## Future Plans
 
-- We will be updating our core contracts to Version 3 of Uniswap as soon as the license allows us.
+- We will be updating our core contracts to Version 3 of Uniswap as soon as the license allows us. There are other several contracts we are working on, they include briding services and lending. 
 
 
 ## Additional Information
