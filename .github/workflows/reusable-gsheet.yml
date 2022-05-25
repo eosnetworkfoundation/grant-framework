@@ -19,7 +19,7 @@ jobs:
           spreadsheetId: 1FsNUKcfAJAorZGHpEzbRKLVYWbpZ_93Ts-R-JTpRK_A 
           commands: |
             [
-              { "command": "appendData", "args": { "data": [["${{ project_name }}", "B2", "B3"]], "worksheetTitle": "Grants", "minCol": 1 }},
+              { "command": "appendData", "args": { "data": [["${{ inputs.project_name }}", "B2", "B3"]], "worksheetTitle": "Grants", "minCol": 1 }},
               { "command": "appendData", "args": { "data": [["C2", "C3", "C4"]], "worksheetTitle": "Grants", "minCol": 1 }}
             ]
         env:
