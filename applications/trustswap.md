@@ -84,7 +84,7 @@ We have been working for over 25 years with highly scalable network platforms wi
 
 ### Overview
 
-- **Total Estimated Duration:** The frontend deployment and mainnet deployment of smart contract will take 2 months of work, plus one month of testing and debugging. 
+- **Total Estimated Duration:** The frontend design and mainnet deployment of smart contract will take 2 months of work, plus one month of testing and debugging. We plan to be ready for the first day of TrustEVM mainnet with a production ready and fully functional decentralized exchange.
 
 ### Milestone 1  — Implement redesigned Swap frontend
 
