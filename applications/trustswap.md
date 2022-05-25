@@ -103,7 +103,7 @@ We have been working for over 25 years with highly scalable network platforms wi
 
 ## Future Plans
 
-- We will be updating our core contracts to Version 3 of Uniswap as soon as the license allows us. There are other several contracts we are working on, they include bridging services and lending. We will be maintaining core defi contract, wEVM and Multicall.
+- We will be updating our core contracts to Version 3 of Uniswap as soon as the license allows us. There are other several contracts we are working on, they include bridging services and lending. We will be maintaining the core DEFI contracts, wEVM and Multicall.
 
 
 ## Additional Information
