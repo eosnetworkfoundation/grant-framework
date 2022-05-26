@@ -9,21 +9,20 @@
 - **EOS Payment Address:** EOS payment address
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
 - **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
+- **Project is Open-Source:** Yes/No
+- **Project was part of Token sale:** Yes/No
+- **Repository where Project resides:** https://github.com/<your_organisation>/<project_repo>
+> Please only answer Yes or No to the Open-Spource or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin wtih `>` from your application.
 
 ## Contact
 
 - **Contact Name:** Full name of the contact person in your team
 - **Contact Email:** myemail@mycompany.com
 - **Website:** https://yourwebsite.com
-- **Project is Open-Source:** Yes/No
-- **Project was part of Token sale:** Yes/No
-> Please only answer Yes or No to the Open-Spource or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin wtih `>` from your application.
 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview
-
-> If this application is in response to an RFP, please indicate this on the first line of this section.
 
 > If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
 
@@ -41,7 +40,8 @@
 > We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 - Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
+- Data models of the core functionality
+- API specifications of the core functionality
 - An overview of the technology stack to be used
 - Documentation of core components, protocols, architecture, etc. to be deployed
 - PoC/MVP or other relevant prior work or research on the topic
