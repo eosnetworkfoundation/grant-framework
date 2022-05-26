@@ -27,4 +27,4 @@ jobs:
       - id: echo4
         run: echo "app_email ${{ needs.call-parser.outputs.app_email }}"
       - id: echo5
-        run: echo "totalcost ${{ needs.call-parser.outputs.total_cost }}"
+        run: echo "total cost ${{ needs.call-parser.outputs.total_cost }}"
