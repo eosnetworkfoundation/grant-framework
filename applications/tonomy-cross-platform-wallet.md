@@ -1,26 +1,19 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) should be removed.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-
-- **Project Name:** Name of your project (e.g. Anchor Wallet)
-- **Team Name:** Legal name of your team (e.g. Greymass)
-- **EOS Payment Address:** EOS payment address
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
-- **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
-- **Project is Open-Source:** Yes/No
-- **Project was part of Token sale:** Yes/No
-- **Repository where Project resides:** https://github.com/<your_organisation>/<project_repo>
-> Please only answer Yes or No to the Open-Spource or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin wtih `>` from your application.
+- **Project Name:** EOSIO cross-platform wallet part 1 - social recovery TODO
+- **Team Name:** Tonomy Foundation
+- **EOS Payment Address:** EOS payment address TODO
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
+- **Pomelo Grant(s):** N/A
+- **Project is Open-Source:** Yes
+- **Project was part of Token sale:** Yes
+- **Repository where Project resides:** https://github.com/Tonomy-Foundation/tonomy-id
 
 ## Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** myemail@mycompany.com
-- **Website:** https://yourwebsite.com
-
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
+- **Contact Name:** Jack Tanner
+- **Contact Email:** contact@tonomy.foundation
+- **Website:** https://tonomy.foundation
 
 ## Project Overview
 
@@ -30,7 +23,7 @@
 
 > Please provide the following:
 
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
+- **Name:** EOSIO cross-platform wallet with advanced features such as recovery and SSI
 - **Brief Description:** A brief description of your project.
 - **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
 - **Reason for Interest:** An indication of why your team is interested in creating this project.
@@ -63,14 +56,16 @@
 
 ### Team members
 
-- **Team Leader:** Name of team leader
-- Name of team member 1
-- Name of team member 2
-- Name of team member 3, etc.
+- **Team Leader:** Jack Tanner
+- Chris Veroef
+- Mikhail Rusanov
+- Carrie Ann Smith
+- Jordan Fisher
+- Mia Jacobson
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity. (e.g. Greymass, Inc.)
-- **Registered Address:** Address of your registered legal entity. Please keep it in a single line. (e.g. 123 Main Street, London LK1 234, UK)
+- **Registered Legal Entity:** Tonomy Stichting
+- **Registered Address:** Thorbecke Laan, Baarn, Utrecht 3741TR, Netherlands
 
 ### Team Experience
 
@@ -80,21 +75,30 @@
 
 ### Team Org Repos
 
-- https://github.com/<your_organisation>
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
+- https://github.com/Tonomy-Foundation
+- https://github.com/Tonomy-Foundation/civic-participation
 
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+TODO add Chris and Carrie?
 
 ### Team Member Repos
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- https://github.com/theblockstalk
+- https://github.com/theblockstalk/eosio-contracts
+- https://github.com/theblockstalk/awesome-eosio (added several tools in some [PRs](https://github.com/DanailMinchev/awesome-eosio/pull/70))
+- https://github.com/theblockstalk/eosworkshop1
+- https://github.com/theblockstalk/eosio-sovereign-contract-poc
+- https://github.com/theblockstalk/funnels
+- https://github.com/kamitor
+- https://github.com/carrie2240
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/jack-tanner/
+- https://www.linkedin.com/in/christiaanverhoef/
+- https://www.linkedin.com/in/rusanovmp/
+- https://www.linkedin.com/in/carrie-ann-smith-95240899/
+- https://www.linkedin.com/in/jordanelizabethfisher/
+- https://www.linkedin.com/in/mia-jacobson-012218139/
 
 ## Development Status
 
