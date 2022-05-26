@@ -1,4 +1,4 @@
-name: Call a reusable workflow
+name: Test Call reusable Committee Appoval email
 
 on:
   workflow_dispatch:
