@@ -35,7 +35,7 @@ jobs:
       - name: assign the env from the email name
         id: grep_appl
         run: |
-          export APP_EMAIL=`/bin/grep "**Contact Email:**" ${{ needs.inputs.filename }} | cut -d" " -f4`
+          export APP_EMAIL=`/bin/grep "**Contact Email:**" applications/oci-transaction-lifecycle.md | cut -d" " -f4`
           #echo "::set-env name=APP_EMAIL::$APP_EMAIL"
           echo "::set-output name=email_addr::$APP_EMAIL"
           export CNAME=`/bin/grep "**Contact Name:**" ${{ needs.inputs.filename }} | cut -d" " -f4-8`
