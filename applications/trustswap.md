@@ -8,7 +8,7 @@
 
 ## Contact
 
-- **Contact Name:** Esteban Saá Barona
+- **Contact Name:** Esteban Saá B.
 - **Contact Email:** steban@gmail.com
 - **Website:** https://trustswap-testnet.web.app/
 
@@ -60,7 +60,7 @@ We have been working for over 25 years with highly scalable network platforms wi
 
 ### Team Org Repos
 
-- https://github.com/evm20
+- This is our main code repository: https://github.com/evm20
 
 ### Team Member Repos
 
@@ -68,7 +68,7 @@ We have been working for over 25 years with highly scalable network platforms wi
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/in/esteban-s-988b6457/
+- Esteban Saá B. Linledin: https://www.linkedin.com/in/esteban-s-988b6457/
 
 - Telegram Group: https://t.me/jointrustswap
 - Figma sketches: https://www.figma.com/file/IPrFq5RrP0V3cSMO1IwJrv/Swap-branding-and-logo
