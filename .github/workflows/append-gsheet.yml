@@ -1,3 +1,6 @@
+# Test workflow to write a few rows to a Google Sheet.  Triggered from Github UI.
+# Ted Cahall 19May2022
+
 name: Append Gsheet
 on:
   workflow_dispatch:
