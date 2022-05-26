@@ -17,7 +17,7 @@
 - **Website:** https://yourwebsite.com
 - **Project is Open-Source:** Yes/No
 - **Project was part of Token sale:** Yes/No
-> Please only answer Yes or No to the Open-Spource or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin wtih ">" from your application.
+> Please only answer Yes or No to the Open-Spource or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin wtih `>` from your application.
 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
