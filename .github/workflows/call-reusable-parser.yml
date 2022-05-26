@@ -1,4 +1,4 @@
-name: Call a reusable application parse
+name: Call a reusable parser
 
 on:
   workflow_dispatch:
