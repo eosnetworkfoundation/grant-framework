@@ -1,3 +1,6 @@
+# Parse the ENF Grant Framework Application and return the important parts
+# Ted Cahall 25May2022
+#
 name: Reusable Application Parser
 on:
   workflow_call:
@@ -14,6 +17,8 @@ on:
         value: ${{ jobs.parse.outputs.project_name }}
       team_name:
         value: ${{ jobs.parse.outputs.team_name }}
+      total_cost:
+        value: ${{ jobs.parse.outputs.total_cost }}
   
 jobs:
   parse:
@@ -24,6 +29,7 @@ jobs:
       contact_name: ${{ steps.grep_appl.outputs.contact_name }}
       project_name: ${{ steps.grep_appl.outputs.project_name }}
       team_name: ${{ steps.grep_appl.outputs.team_name }}
+      total_cost: ${{ steps.grep_appl.outputs.total_cost }}
     steps:
       - name: Checkout
         id: checkout
@@ -43,3 +49,5 @@ jobs:
           echo "::set-output name=project_name::$PNAME"
           export TNAME=`/bin/grep "**Team Name:**" ${{ inputs.filename }} | cut -d" " -f4-8`
           echo "::set-output name=team_name::$TNAME"
+          export TCOSTE=`/bin/grep "**Total Cost:**" ${{ inputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=team_name::$TCOST"
