@@ -1,0 +1,46 @@
+name: Reusable Application Parser
+on:
+  workflow_call:
+    inputs:
+      filename:
+        required: true
+        type: string
+    outputs:
+      app_email:
+        value: ${{ jobs.parse.outputs.app_email }}
+      contact_name:
+        value: ${{ jobs.parse.outputs.contact_name }}
+      project_name:
+        value: ${{ jobs.parse.outputs.project_name }}
+      team_name:
+        value: ${{ jobs.parse.outputs.team_name }}
+  
+jobs:
+  parse:
+    if: inputs.filename
+    runs-on: ubuntu-latest
+    outputs:
+      app_email: ${{ steps.grep_email.outputs.email_addr }}
+      contact_name: ${{ steps.grep_email.outputs.contact_name }}
+      project_name: ${{ steps.grep_email.outputs.project_name }}
+      team_name: ${{ steps.grep_email.outputs.team_name }}
+    steps:
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      # Parse the application template for the email account
+      - name: assign the env from the email name
+        id: grep_appl
+        run: |
+          export APP_EMAIL=`/bin/grep "**Contact Email:**" ${{ needs.inputs.filename }} | cut -d" " -f4`
+          #echo "::set-env name=APP_EMAIL::$APP_EMAIL"
+          echo "::set-output name=email_addr::$APP_EMAIL"
+          export CNAME=`/bin/grep "**Contact Name:**" ${{ needs.inputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=contact_name::$CNAME"
+          export PNAME=`/bin/grep "**Project Name:**" ${{ needs.inputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=project_name::$PNAME"
+          export TNAME=`/bin/grep "**Team Name:**" ${{ needs.inputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=team_name::$TNAME"
