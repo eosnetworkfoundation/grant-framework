@@ -13,4 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     needs: call-parser
     steps:
-      - run: echo "project name ${{ needs.call-parser.outputs.project_name }} app_email ${{ needs.call-parser.outputs.app_email }}"
+      - id: echo1
+        run: echo "project name ${{ needs.call-parser.outputs.project_name }} "
+      - id: echo2
+        run: echo "contact name ${{ needs.call-parser.outputs.contact_name }}"
+      - id: echo3
+        run: echo "team name ${{ needs.call-parser.outputs.team_name }}"
+      - id: echo4
+        run: echo "app_email ${{ needs.call-parser.outputs.app_email }}"
