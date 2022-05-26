@@ -1,8 +1,10 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) should be removed.
+> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Please do not remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) should be removed.
 >
 > See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
+> 
+> Please note that this application will be automatically parsed.  Please only put the data required in the fields following the bolded labels.
 
 - **Project Name:** Name of your project (e.g. Anchor Wallet)
 - **Team Name:** Legal name of your team (e.g. Greymass)
@@ -126,9 +128,17 @@ For each milestone,
 
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
+> Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
+- **Total Estimated Duration:** 2 months 
+- **Full-Time Equivalent (FTE):** 2 FTE
+- **Total Costs:** $12,000 USD
+> Please note that this application is automatically parsed.<br/>
+> For the above fields, please only put the anser on that line.  If you want to add more information, please put it below these instructions.<br/>
+> Please remember to delete all lines that start with `>` as they are just instructions and not needed in the application submission.<br/>
+> Notes on above fields:
+> - Total Estimated Duration: Duration of the whole project (example: 2 months or 7 weeks)
+> - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
+> - Total Costs: This should be the requested amount in USD for the whole project (example $12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
 
 ### Milestone 1 Example — Implement EOSIO Sub-module
 
