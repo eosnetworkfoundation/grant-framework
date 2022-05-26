@@ -50,4 +50,4 @@ jobs:
           export TNAME=`/bin/grep "**Team Name:**" ${{ inputs.filename }} | cut -d" " -f4-8`
           echo "::set-output name=team_name::$TNAME"
           export TCOSTE=`/bin/grep "**Total Cost:**" ${{ inputs.filename }} | cut -d" " -f4-8`
-          echo "::set-output name=team_name::$TCOST"
+          echo "::set-output name=total_cost::$TCOST"
