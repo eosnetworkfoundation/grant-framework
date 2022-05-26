@@ -7,7 +7,7 @@ jobs:
   call-parser:
     uses: ./.github/workflows/reusable-parser.yml
     with:
-      filename: "actions/oci-transaction-lifecycle.md"
+      filename: "applications/oci-transaction-lifecycle.md"
     
   echo-the-returned-fields:
     runs-on: ubuntu-latest
