@@ -25,7 +25,7 @@ TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Block
 
 ### Project Details
 
-- Our project is early on its development process, this allows us to allign our decision making with the best interests of the IOS community.
+- Our project is early on its development process, this allows us to align our decision making with the best interests of the IOS community.
 - We compiled a few ideas for the designs here: https://www.figma.com/file/IPrFq5RrP0V3cSMO1IwJrv/Swap-branding-and-logo . We are still early on the process of creating a brand. Most of our work so far has been devoted to deploying, testing and adapting to the inerworking of TrustEVM. 
 - Our code comes from the Uniswap project, the following links contains broad documentation on the project: https://docs.uniswap.org/protocol/V2/reference/API/overview
 - We will be reusing many of the components of the code where our project is forked from. This includes frameworks as REACT for the frontend: https://reactjs.org/. For the back end we are using the MERN stack to build a static site. MERN includes tools such as: https://github.com/nodejs/node. The resulting code is static HTML that we host at Google Firebase, it includes several functions such as CDN, so we can substain highloads maintaing good quality of service, and defend from DDOS attacks. Further the hosting platform allows us to implement CD/CD pilelines and optimize our deployment methodologies. 
