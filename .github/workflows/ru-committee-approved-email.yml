@@ -1,0 +1,75 @@
+# Callable workflow that emails the grantee to say their application was approved by the committee
+# and now will go to the evaluators.  Gives them instructions on next steps.
+#
+# Ted Cahall 26May2022
+
+name: Committee Approved Email to Grantee
+on:
+  workflow_call:
+    inputs:
+      app_email:
+        required: true
+        type: string
+      contact_name:
+        required: true
+        type: string
+      project_name:
+        required: true
+        type: string
+      team_name:
+        required: true
+        type: string
+      total_cost:
+        required: true
+        type: string
+      repo_account:
+        required: true
+        type: string
+    secrets:
+      gmail_password:
+        required: true
+  
+jobs:
+  email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: send email
+        uses: dawidd6/action-send-mail@v3.6.1
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: enfmailbot@eosn.foundation
+          password: ${{ secrets.gmail_password }}
+          subject: Thank you for your ENF Grant Framework Application
+          body: | 
+            Hi ${{inputs.contact_name}}, 
+            Congratulations to you and the ${{inputs.team_name}} team.  Your ENF Grant Framework application for ${{inputs.project_name}} 
+            submited from the ${{ inputs.repo_account }} Github account was approved by the ENF Grant Committee.
+            Please note, this is the first step in the approval process.
+            In the next step, the ENF Grant Evaluators will begin to review the technical aspects of your grant.
+            Please look for comments on your PR and make sure you address each of them.
+            Once the correct number of Grant Evaluators approve your application, we will notify you and you may begin work on the milestones.
+            Best,
+            ENF Operations Team
+            
+          html_body: |
+            Hi ${{inputs.contact_name}}, 
+            <br/><br/>
+            Congratulations to you and the ${{inputs.team_name}} team.  Your ENF Grant Framework application for <b>${{inputs.project_name}}</b> 
+            submited from the ${{ inputs.repo_account }} Github account was approved by the ENF Grant Committee.
+            <br/><br/>
+            Please note, this is the first step in the approval process.
+            <br/><br/>
+            In the next step, the ENF Grant Evaluators will begin to review the technical aspects of your grant.<br/>
+            Please look for comments on your PR and make sure you address each of them.
+            <br/><br/>
+            Once the correct number of Grant Evaluators approve your application, we will notify you and you may begin work on the milestones.
+            <br/><br/>
+            Best,<br/>
+            ENF Operations Team
+          to: ${{inputs.app_email}}
+          from: grants@eosn.foundation
+          reply_to: grants@eosn.foundation
+          bcc: grants@eosn.foundation
+
