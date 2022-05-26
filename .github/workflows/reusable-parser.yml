@@ -20,10 +20,10 @@ jobs:
     if: inputs.filename
     runs-on: ubuntu-latest
     outputs:
-      app_email: ${{ steps.grep_email.outputs.email_addr }}
-      contact_name: ${{ steps.grep_email.outputs.contact_name }}
-      project_name: ${{ steps.grep_email.outputs.project_name }}
-      team_name: ${{ steps.grep_email.outputs.team_name }}
+      app_email: ${{ steps.grep_appl.outputs.email_addr }}
+      contact_name: ${{ steps.grep_appl.outputs.contact_name }}
+      project_name: ${{ steps.grep_appl.outputs.project_name }}
+      team_name: ${{ steps.grep_appl.outputs.team_name }}
     steps:
       - name: Checkout
         id: checkout
@@ -41,7 +41,7 @@ jobs:
           echo "::set-output name=email_addr::$APP_EMAIL"
           export CNAME=`/bin/grep "**Contact Name:**" ${{ needs.inputs.filename }} | cut -d" " -f4-8`
           echo "::set-output name=contact_name::$CNAME"
-          export PNAME=`/bin/grep "**Project Name:**" ${{ needs.inputs.filename }} | cut -d" " -f4-8`
+          export PNAME=`/bin/grep "**Project Name:**" applications/oci-transaction-lifecycle.md | cut -d" " -f4-8`
           echo "::set-output name=project_name::$PNAME"
           export TNAME=`/bin/grep "**Team Name:**" ${{ needs.inputs.filename }} | cut -d" " -f4-8`
           echo "::set-output name=team_name::$TNAME"
