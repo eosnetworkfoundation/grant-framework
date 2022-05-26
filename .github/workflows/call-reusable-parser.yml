@@ -3,7 +3,7 @@
 #
 # uses a sample file from the directory
 #
-name: Call a reusable parser
+name: Test reusable parser
 
 on:
   workflow_dispatch:
