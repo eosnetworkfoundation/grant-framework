@@ -49,5 +49,5 @@ jobs:
           echo "::set-output name=project_name::$PNAME"
           export TNAME=`/bin/grep "**Team Name:**" ${{ inputs.filename }} | cut -d" " -f4-8`
           echo "::set-output name=team_name::$TNAME"
-          export TCOSTE=`/bin/grep "**Total Costs:**" ${{ inputs.filename }} | cut -d" " -f4-8`
+          export TCOST=`/bin/grep "**Total Costs:**" ${{ inputs.filename }} | cut -d" " -f4-8`
           echo "::set-output name=total_cost::$TCOST"
