@@ -69,7 +69,7 @@ jobs:
           spreadsheetId: 1RdSK5Y_URnTSzg__fRHV51jwO90x4AUMy0ym0ytWwKA
           commands: |
             [
-              { "command": "appendData", "args": { "data": [["${{ github.event.pull_request.head.repo.owner.login }}", "${{needs.parse_app.outputs.app_email}}", "${{needs.parse_app.outputs.project_name}}", "${{needs.parse_app.outputs.total_cost}}",]], "worksheetTitle": "Grants", "minCol": 2 }}
+              { "command": "appendData", "args": { "data": [["${{ github.event.pull_request.head.repo.owner.login }}", "${{needs.parse_app.outputs.app_email}}", "${{needs.parse_app.outputs.project_name}}", "${{needs.parse_app.outputs.total_cost}}"]], "worksheetTitle": "Grants", "minCol": 2 }}
             ]
         env:
           GSHEET_CLIENT_EMAIL: enf-grant-service-account@sonorous-haven-350712.iam.gserviceaccount.com
