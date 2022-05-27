@@ -14,7 +14,7 @@
 
 ## Project Overview
 
-TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Blockchain; it bring an easy to use, yet poweful Web3 interface. The code is forked from Uniswap V2. This grant will fund the development of a new frontend, as well as the deployment of the correspondent smart contracts on the TrustEVM blockchain. 
+TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Blockchain; it bring an easy to use yet poweful Web3 interface. The code is forked from Uniswap V2. This grant will fund the development of a new frontend, as well as the deployment of the correspondent smart contracts on the TrustEVM blockchain. 
 
 ### Overview
 
@@ -30,12 +30,12 @@ TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Block
 - Our code comes from the Uniswap project, the following links contains broad documentation on the project: https://docs.uniswap.org/protocol/V2/reference/API/overview
 - We will be reusing many of the components of the code where our project is forked from. This includes frameworks as REACT for the frontend: https://reactjs.org/. For the back end we are using the MERN stack to build a static site. MERN includes tools such as: https://github.com/nodejs/node. The resulting code is static HTML that we host at Google Firebase, it includes several functions such as CDN, so we can substain highloads maintaing good quality of service, and defend from DDOS attacks. Further the hosting platform allows us to implement CD/CD pilelines and optimize our deployment methodologies. 
 - While we are very early on our development process we have deployed several smart contracts and their respective interfaces. 
-- https://trustswap-testnet.web.app/ is the frontend to our decentralized exchange. It curently makes use of the TrustEVM testnet-
+- https://trustswap-testnet.web.app/ is the frontend to our decentralized exchange. It curently makes use of the TrustEVM testnet.
 - https://trustswap-farm.web.app/ is our farm contract, it accepts LP deposits from our decentralized exchange and pays out testnet token. 
-- https://docs.trustswap-farm.web.app/ is our documenation site, it includes general information of our platform. We are using Gitbook for it, will be connected once our domain name is decided. 
+- https://docs.trustswap-farm.web.app/ is our documentation site, it includes general information of our platform. We are using Gitbook for it, will be connected once our domain name is decided. 
 - https://www.npmjs.com/settings/trustevm/packages , we have published an SDK to npmjs.com, this will make it easy for other developers to connect to our smart contract. There are multiple use cases for this, for instance market makers and arbitragers can use our SDK to make their systems work. 
   - TrustSwap will not divert far from the orignal source code we initially forked from, instead we will adapit it to TrustEVM. We start with the open source version of the Uniswap V2, and will upgrade to V3 once the license allow is. 
- - As part of our initial work we have deployed two extremely important smart contracts that will provide a backbone to the upcoming contract deployments from other teams. These are the WrappedEVM contract, and the Multicall2 contract. These contracts are fundamental building blocks of any EVM ecosystem. We plan to coordinate work with the main devs of the project, so that the deployment of these contracts can be done securely for mainnet. 
+ - As part of our initial work we have deployed two extremely important smart contracts that will provide a backbone to the upcoming deployments from other teams. These are the WrappedEVM contract, and the Multicall2 contract. These contracts are fundamental building blocks of any EVM ecosystem. We plan to coordinate work with the main devs of the project, so that the deployment of these contracts can be done securely for mainnet. 
 
 ### Ecosystem Fit
  
@@ -56,7 +56,7 @@ TrustSwap is a decentralized crypto exchange build on top of the Trust EVM Block
 
 ### Team Experience
 
-We have been working for over 25 years with highly scalable network platforms with a focus on Linux servers and network security. Our skills include developing highly scalable LAMP platforms. Discovered Bitcoin on 2012 and inspired on satoshidice, created satoshicode, a word finding game that was popular for a while, only to be killed when fees made it inpossible to play. We were early supporters and users of mastercoin/omni, this interest also was killed by BTC high fees. The high fees of Bitcoin switched our attention to building on Ethereum, where we partcipaided anonymously for devevelopment of security testing tools. During the market bull runs switched focus into trading and investing; we gained a lot of experience but ultimatelly discovered that the passion  that motivate us is writing code and creating products.  We see a future where the world runs around decentralized technolgies and cryptopgraphy.  We were critical  on the early days of Ethereum for its plans of being PoS, https://twitter.com/estebs/status/614086876165705728 , eventually we understood its merits, and saw many of our concerns solved by dPoS. 
+We have been working for over 25 years with highly scalable network platforms with a focus on Linux servers and network security. Our skills include developing highly scalable LAMP platforms. Discovered Bitcoin on 2012 and inspired on satoshidice, created satoshicode, a word finding game that was popular for a while, only to be killed when fees made it inpossible to play. We were early supporters and users of mastercoin/omni, this interest also was killed by BTC high fees. The high fees of Bitcoin switched our attention to building on Ethereum, where we partcipaided anonymously for devevelopment of security testing tools. During the market bull runs switched focus into trading and investing; we gained a lot of experience but ultimatelly discovered that the passion  that motivate us is writing code and creating products.  We see a future where the world runs around decentralized technolgies and cryptopgraphy.  We were critical  on the early days of Ethereum for its plans of switching to  PoS, https://twitter.com/estebs/status/614086876165705728 , eventually we understood its merits, and saw many of our concerns solved by dPoS. 
 
 ### Team Org Repos
 
@@ -75,7 +75,7 @@ We have been working for over 25 years with highly scalable network platforms wi
 
 ## Development Status
 
-We have a fully functional decentralized exchange working on the TrustEVM testnet, we have also deployed a functioning staking farm. Both are being actively tested by the EOS community. Further we have deployed multisign bridge contracts, an evm20 faucet, several evm20 tokens, wrapped EVM20 contract, and Multicall contract. We are the first team deploying contracts and actively testing the TrustEVM. 
+We have a fully functional decentralized exchange working on the TrustEVM testnet, we have also deployed a functioning staking farm. Both are being actively tested by the EOS community. Further we have deployed multisig bridge contracts, an evm20 faucet, several evm20 tokens, wrapped EVM20 contract, and Multicall contract. We are the first team deploying contracts and actively testing the TrustEVM. 
 
 ## Development Roadmap
 
