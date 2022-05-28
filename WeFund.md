@@ -502,7 +502,6 @@ Gorw or community , find new projects, build our brand inside EOS community
 
 Total= 86,000 USD
 
-The milestone working in parallel, so all can start from the day one, Milestone 1 can be split if 3 the other in 4
 
 ...
 
