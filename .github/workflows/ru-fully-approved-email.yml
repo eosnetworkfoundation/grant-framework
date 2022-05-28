@@ -62,7 +62,7 @@ jobs:
             submited from the ${{ inputs.repo_account }} Github account has been fully approved!
             <br/><br/>
             Please work through your milestones and submit them via the milestones repository
-            https://github.com/eosnetworkfoundation/grant-milestones
+            <a href="https://github.com/eosnetworkfoundation/grant-milestones">https://github.com/eosnetworkfoundation/grant-milestones</a>
             <br/><br/>
             Once your milestones have been approved, you may submit the invoice as described in the milestones description.
             <br/><br/>
