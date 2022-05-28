@@ -32,10 +32,6 @@ jobs:
         with:
           filter: 'applications/*.md'
 
-  echo_filename:
-    needs: get_filename
-    runs-on: ubuntu-latest
-      run: echo ${{ needs.get_filename.outputs.filename }}
   call_parser:
     needs: get_filename
     if: needs.get_filename.outputs.filename
