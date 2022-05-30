@@ -8,7 +8,7 @@
 
 - **Project Name:** WeFund
 - **Team Name:** Andrea Bello & Ika Nur Affifah
-- **EOS Payment Address:** EOS payment address
+- **EOS Payment Address:** EOS7uPVEZK6gqs5jVzyJKX6YeRteYr7JzPqjLG6XZkB1ng6jUvcvT
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
 - **Pomelo Grant(s):** www.wefund.app
 - **Project is Open-Source:** Yes
@@ -82,12 +82,6 @@ October 1, 2022
 6) Your project/company is based in:
 
 Dubai, United Arab Emirates
-
-
-10) What progress have you made so far?
-
-
-WeFund has already completed the MVP and is now implementing multi-chain features, payment with fiat that is converted to stablecoin, and integrating an email wallet for Web2 users. WeFund is registered in Dubai, however, leveraging blockchain and stablecoins, we are able to host projects worldwide. We initially raised $270,000 USD to develop our MVP, however, we lost a lot of traction with the Terra crash and now looking to develop on a new chain.
 
 
 
@@ -508,7 +502,6 @@ Gorw or community , find new projects, build our brand inside EOS community
 
 Total= 86,000 USD
 
-The milestone working in parallel, so all can start from the day one, Milestone 1 can be split if 3 the other in 4
 
 ...
 
