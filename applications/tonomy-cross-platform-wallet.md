@@ -2,11 +2,11 @@
 
 - **Project Name:** EOSIO cross-platform wallet part 1 - social recovery TODO
 - **Team Name:** Tonomy Foundation
-- **EOS Payment Address:** EOS payment address TODO
+- **EOS Payment Address:** tonomyaccou1
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 - **Pomelo Grant(s):** N/A
 - **Project is Open-Source:** Yes
-- **Project was part of Token sale:** Yes
+- **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/Tonomy-Foundation/tonomy-id
 
 ## Contact
@@ -21,23 +21,36 @@
 
 ### Overview
 
-> Please provide the following:
-
 - **Name:** EOSIO cross-platform wallet with advanced features such as recovery and SSI
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+- **Brief Description:** We are building a cross-platform mobile blockchain and SSI wallet for EOSIO public chains like EOS, Telos and WAX. This can be used to s send tokens, sign dApp transactions, passwordless sign into web2 and web3 apps and share credentials. We plan to build several non-custodial recovery mechanisms: social recovery, security questions and hardware recovery. This recovery will allow users to recover both keys as well as sovereign data. Our experience in sovereign identity and design gives us the confidence needed to say we can do this.
+
+We see this project as an extension of the Wallet+ blue paper. We want to support the work of these SDK's by integrating early releases and giving feedback and potentially contributing to the development. We had already considered several of the features proposed in this blue paper: application registry, hardware wallets, account recovery, asset proxy/hosting service. While the initial proposal of Wallet+ is to support web applications, using react native we should be able to adopt the JavaScript/typescript packages for our application as well. This will also give the added benefit of providing a mobile testing ground for the Wallet+ deliverables.
+
+The mobile Wallet will be fully open source and provide a reference For other developers. This will be the first open-source self-sovereign identity mobile client and the first identity solution using the EOSIO DID method.
+
+Due to the limited funding from only being at level 1, this grant proposal only seeks funding to support the development of its first recovery mechanism. Other work is not covered in this proposal. We will be self-funding as well as receiving external European Horizon 2027 and other funding for the release of the first beta edition of the wallet. In future ENF and Pomelo proposals we aim to extend the features of this application and after a proper production launch offered it as a software as a service model for public and private chains.
+
+- **Relationship to EOSIO:** Our application is built on top of the EOSIO blockchain framework. It will be compatible with any pure-EOSIO blockchain.
+- **Reason for Interest:** We want to support the public EOS, Telos and WAX ecosystems. In the future, we plan to take this software and provide it in a software as a service model to industry and enterprise use cases.
 
 ### Project Details
 
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
-
 - Mockups/designs of any UI components
+Figma prototype available upon request. Please email jack@tonomy.foundation
+
 - Data models of the core functionality
+
 - API specifications of the core functionality
+
 - An overview of the technology stack to be used
+-- Mobile client: React Native
+-- Blockchain: EOSIO
+
 - Documentation of core components, protocols, architecture, etc. to be deployed
+
 - PoC/MVP or other relevant prior work or research on the topic
+[https://europechain.io/identity/myd-missing-piece-puzzle-ssi/](https://europechain.io/identity/myd-missing-piece-puzzle-ssi/)
+
 - What your project is _not_ or will _not_ provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
