@@ -22,11 +22,13 @@
 ### Overview
 
 - **Name:** EOSIO cross-platform wallet with advanced features such as recovery and SSI
-- **Brief Description:** We are building a cross-platform mobile blockchain and SSI wallet for EOSIO public chains like EOS, Telos and WAX. This can be used to s send tokens, sign dApp transactions, passwordless sign into web2 and web3 apps and share credentials. We plan to build several non-custodial recovery mechanisms: social recovery, security questions and hardware recovery. This recovery will allow users to recover both keys as well as sovereign data. Our experience in sovereign identity and design gives us the confidence needed to say we can do this.
+- **Brief Description:**
+
+We are building a cross-platform mobile blockchain and SSI wallet for EOSIO public chains like EOS, Telos and WAX. This can be used to s send tokens, sign dApp transactions, passwordless sign into web2 and web3 apps and share credentials. We plan to build several non-custodial recovery mechanisms: social recovery, security questions and hardware recovery. This recovery will allow users to recover both keys as well as sovereign data. Our experience in sovereign identity and design gives us the confidence needed to say we can do this.
 
 We see this project as an extension of the Wallet+ blue paper. We want to support the work of these SDK's by integrating early releases and giving feedback and potentially contributing to the development. We had already considered several of the features proposed in this blue paper: application registry, hardware wallets, account recovery, asset proxy/hosting service. While the initial proposal of Wallet+ is to support web applications, using react native we should be able to adopt the JavaScript/typescript packages for our application as well. This will also give the added benefit of providing a mobile testing ground for the Wallet+ deliverables.
 
-The mobile Wallet will be fully open source and provide a reference For other developers. This will be the first open-source self-sovereign identity mobile client and the first identity solution using the EOSIO DID method.
+The mobile Wallet will be fully open source (MIT or Apache 2.0 license) and provide a reference For other developers. This will be the first open-source self-sovereign identity mobile client and the first identity solution using the EOSIO DID method.
 
 Due to the limited funding from only being at level 1, this grant proposal only seeks funding to support the development of its first recovery mechanism. Other work is not covered in this proposal. We will be self-funding as well as receiving external European Horizon 2027 and other funding for the release of the first beta edition of the wallet. In future ENF and Pomelo proposals we aim to extend the features of this application and after a proper production launch offered it as a software as a service model for public and private chains.
 
@@ -36,14 +38,19 @@ Due to the limited funding from only being at level 1, this grant proposal only 
 ### Project Details
 
 - Mockups/designs of any UI components
-Figma prototype available upon request. Please email jack@tonomy.foundation
+Figma prototype access available upon request. Please email jack@tonomy.foundation
+See video here:
+TODO
 
 - Data models of the core functionality
 
 - API specifications of the core functionality
 
 - An overview of the technology stack to be used
+
 -- Mobile client: React Native
+-- Key storage: [react-native-keychain](https://www.npmjs.com/package/react-native-keychain) (which uses key enclaves on the mobile device if available)
+-- Transport layer: QR codes and DIDComm using EOSIO signing request (ESR) and verifiable credentials
 -- Blockchain: EOSIO
 
 - Documentation of core components, protocols, architecture, etc. to be deployed
@@ -85,6 +92,11 @@ Figma prototype available upon request. Please email jack@tonomy.foundation
 > Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
 
 > If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+
+Myd, EOSIO DID, EOSIO identity working group, gimly, Verifiable Conditions, W3C CCG, DIF
+EOSIO training
+ethereum
+other from other teammates?
 
 ### Team Org Repos
 
