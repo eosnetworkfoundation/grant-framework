@@ -7,7 +7,7 @@
 - Grant Fully Approved
 - Grant Rejected
 
-## Upon Receipt of a PUll Request
+## Upon Receipt of a Pull Request
 When a pull_request is received in the grant-framework directory, the grant is parsed and a thank you email is sent to the applicant.
 
 ## Grant Issues
