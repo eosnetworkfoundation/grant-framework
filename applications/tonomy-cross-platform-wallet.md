@@ -1,6 +1,6 @@
 # EOS Network Foundation Grant Proposal
 
-- **Project Name:** EOSIO cross-platform wallet part 1 - social recovery TODO
+- **Project Name:** EOSIO cross-platform wallet with advanced features such as recovery and SSI
 - **Team Name:** Tonomy Foundation
 - **EOS Payment Address:** tonomyaccou1
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
@@ -56,7 +56,12 @@ TODO
 - Documentation of core components, protocols, architecture, etc. to be deployed
 
 - PoC/MVP or other relevant prior work or research on the topic
+
 [https://europechain.io/identity/myd-missing-piece-puzzle-ssi/](https://europechain.io/identity/myd-missing-piece-puzzle-ssi/)
+EOSIO DID
+Verifiable Conditions
+EOSIO Privacy report
+EOSIO workshops
 
 - What your project is _not_ or will _not_ provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
