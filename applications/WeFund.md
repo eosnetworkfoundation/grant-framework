@@ -1,21 +1,16 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Please do not remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) should be removed.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-> 
-> Please note that this application will be automatically parsed.  Please only put the data required in the fields following the bolded labels.
 
 - **Project Name:** WeFund
 - **Team Name:** Andrea Bello & Ika Nur Affifah
-- **EOS Payment Address:** EOS7uPVEZK6gqs5jVzyJKX6YeRteYr7JzPqjLG6XZkB1ng6jUvcvT
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
+- **EOS Payment Address:** wefundoffici
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Pomelo Grant(s):** www.wefund.app
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
 - **Repository where Project resides:**
  https://github.com/WeFundOfficial/wfdalpha
-> Please only answer Yes or No to the Open-Spource or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin wtih `>` from your application.
+
 
 ## Contact
 
@@ -23,15 +18,13 @@
 - **Contact Email:** info@wefund.app
 - **Website:** www.wefund.app
 
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
+
 
 ## Project Overview
 
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
 
 ### Overview
 
-> Please provide the following:
 
 - **Name:** WeFund
 - **Brief Description:** Community crowdfunding and incubation launchpad with a focus on real-world projects implementing blockchain in their existing model.
@@ -44,56 +37,35 @@ Real world impact projects, projects with utility and benefit (mediacal, envirom
 
 ### Project Details
 
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 the MVP is online on www.wefund.app
 
 
-                
-
 1) What is the name of your project?
-
 
 WeFund
 
-
 2) What is the tagline for your project?
-
 
 Community crowdfunding and incubation launchpad with a focus on real-world projects implementing blockchain in their existing model.
 
-
 3) What product(s) or service(s) are you planning to launch, grow, or build with the support of SCF?
-
 
 The projects on WeFund’s platform do all fundraising with stablecoins. In addition to this, all projects will have a dedicated smart contract that deposits stablecoin funds into the Nexo savings protocol to generate yield. WeFund does not touch any of the funds raised. Each project will also follow a milestone fund release system managed by smart contract. The project will determine a set of milestones (with the WeFund team) that when completed will be voted on by the project investors. If the milestone is approved, the next set of funds will be automatically released to the project team to complete the next milestone. If the milestone is not approved, all remaining funds will be returned to the backers. This makes the crowdfunding process 100% transparent, holds project creators accountable, and minimizes risk for investors. By using stablecoins, WeFund will be able to host projects built on other blockchains including Binance, Ethereum, Solana, and more. 
 
-
-4) Attach images for the products/services section.
-Attach file(s) 
-
-
-5) Awesome! Now we’d like to collect some stats about your company or project. Your project/company has been in operation since:
-
-October 1, 2022
-
-
-
-6) Your project/company is based in:
+4) Your project/company is based in:
 
 Dubai, United Arab Emirates
 
 
-
-11) Where do you want to be in 6 months?*
-
+5) Where do you want to be in 6 months?*
 
 
 In 6 months, we aim to have a fully functioning launchpad with a strong infrastructure and network for sustainable incubation. In 3 months, we aim to have 4 projects fundraising per months and 6-8 projects per month in 6 months time. In addition to this, we will continue to a strong effort to continue our community and user growth.
 
 
 
-12) What will you do to accomplish this goal?*
+6) What will you do to accomplish this goal?*
   
 
 Initially, WeFund was primarily focused on leveraging the Terra chain, however, with the failure of Terra, WeFund is rebuilding to be multichain platform to leverage various stablecoins and easily transition Web2 users to Web3
@@ -107,7 +79,7 @@ Our goal is to focus on real-world projects that are looking to implement blockc
 
 
 
-14) Project body
+7) Project body
 
 
 There are many cases in which projects backed by investors have malicious intent from the start and do not operate in good faith, therefore, failing investors. The China Academy of Information and Communications Technology (CAICT) claims that only 8% of the over 80,000 blockchain projects ever launched are still active today. Furthermore, blockchain projects only average a lifespan of roughly 1.22 years. Additionally, a Wall Street Journal review of 1,450 documents for digital coin offerings unveiled 271 indicators of fraudulent tactics — including “plagiarized investor documents, promises of guaranteed returns, and missing or fake executive teams.”  To increase transparency, minimize risk, and hold projects accountable for the fundsraised, WeFund has a unique community vetting and unique milestone system. This means the WeFund community will, at each milestone of a project’s development, vote as to whether the relevant milestone has been achieved, with the outcome of such vote determining the release of funds required for the project to achieve its next milestone. For example, if a project is looking to raise $50,000, the project creators will need to identify a series of milestones and their respective expected costs (WeFund can work with the project creators on this). For this example, we can assume this project will need $10,000 for platform development, $20,000 for marketing, and so on... Every project will have a dedicated smart contract that automatically deposits funds raised into Nexo, a stablecoin savings protocol. The first $10,000 will be released to the project creator to complete its first milestone within a predetermined period. When the milestone is complete, the investors of the project will vote whether or not this meets their expectations. If the milestone is approved, the next set of funds, in this example $20,000, will be automatically released to the project creators. If the milestone is not approved, the remaining funds will be returned to the investors. With this system and the use of smart contracts, WeFund does not touch any of the funds raised and the entire fundraising process is transparent.
@@ -158,7 +130,7 @@ WeFund has established several notable partnerships that are vitale to WeFund’
 
 
 
-14) Summarize your project (max ... characters)
+8) Summarize your project (max ... characters)
 
 
 WeFund is a community crowdfunding incubator for blockchain and real-world projects
@@ -166,57 +138,11 @@ built on various blockchains. WeFund has the capability to incubate and crowdfun
 
 
 
-17) Introduce your team
-
-
-Andrea Bello
-Co-Founder & CEO
-He is the person behind the development of the Fan$quad smart
-contract that was deployed on Col-4 during the Hackathon organized
-by Terraformlab. He has a wealth of experience in coding, with a
-deep understanding of C, C++, Javascript, VBA, Java, Python, Rust
-languages (to name a few). In 2018 he moved his focus into Solidity,
-PHP, & HTML 5, to follow his vision of creating advanced web3.0 applications integrated
-with the blockchain. His role is to ensure the delivery of the smart contracts, web app,
-and technical infrastructure. A serial entrepreneur, he built a Natural Mosquito Solution
-based in Bali, a hotel & restaurant (Ristorante-Bar Lanca) in Switzerland, and a smart-
-home startup designed to reduce electricity consumption.
-https://www.linkedin.com/in/bello-andrea-380572b4/
-
-Ika Afifah 
-Co-Founder & CMO
-A dynamic individual who worked at Tencent as an Operation Specialist, in the partnership division. Before Tencent, she was Senior Partnership Manager at Bigo, a Senior Account Executive position at one of the digital marketing agencies under Jet Group, and Manager at Waves, helping founders raise $1.2M in pre-seed funding. She is one of the founding partners and driving forces behind the concept of WeFund.
-https://www.linkedin.com/in/ika-nur-afifah/
-
-Achuth Chandran
-CFO
-Experienced financial professional and consultant. HEC Paris alumnus. ACCA Affiliate. With experience at KPMG, Sancta Capital and Trilogy Enterprises, Achuth has vast experience in the different avenues of corporate and investment finance. He currently leads Octave Advisory, a blockchain consulting firm based out of Dubai with the goal to help promote and expand the technology.
-https://www.linkedin.com/in/achuth-k-chandran-b17880102/
-
-Austin Taylor 
-CCO
-Comes from a background in investment and corporate finance. After completing his education he worked as a Business Analyst for Harman International in Seattle, Washington USA building AI applications to identify high-risk sale transactions. After this, he transitioned to Investment Management for Pegasus Tech Ventures located in Jakarta, Indonesia managing investment deals in the Southeast Asia region.
-https://www.linkedin.com/in/austintaylor19/
-
-
-
-18) Add below the url to the main website of the company/project. 
-
-www.WeFund.app
-
-
-19) Do you have a link to your code (e.g. on Github)?
-Yes/No
-
-If yes: please provide the URL:
-
-https://github.com/WeFundOfficial
 
 
 
 
-
-
+9)
 Smart contract Workflow
 
 Instantiate
@@ -310,15 +236,6 @@ Store the user wallet address and card type
 
 
 
-
-
-
-
-
-
-
-
-
 Close Whitelist
 
 -input parameters
@@ -330,7 +247,6 @@ Calculate the Card Holder ticket and the Community Holder ticket
 Making the whitelist with wallet address and allocation, based on ticket price
 ( Storing the registered Card holder wallet and Community Wallet, allocation)
 Turn the project status to ::Fundraising
-
 
 
 
@@ -406,15 +322,10 @@ Withdraw from the Anchor market and measure the UST amount to be withdrawn.
 Calculate the percent and the UST amount to be returned back.
 Return back the USt to the backer wallet.
 
-Card Holders
-
-
-
 
 
 ### Ecosystem Fit
 
-> Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
 Incubation and projects launch (also after service to full deliver the roadmap)
@@ -476,44 +387,56 @@ www.wefund.app
 
 ## Development Roadmap
 
+**Total Estimated Duration:** 4 months
+**Full-Time Equivalent (FTE):** 4 FTE
+**Total Costs:** 86,000 USD
 
 
-### Milestone 1  — Convert the existing smart contrac to EOS
+| Milestone 1 | Smart Contract | Convert the existing smart contract to EOS |
+| -----: | ----------- | ------------- |
+| 0a. | Converting the existing smart contract on EOS network and language C++ |
+| 0b. | Testing Guide | Testing functionality | Testing security in house
+| 0c. | Update smart contract documentation | Provide a smart contract test report
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 0e. | Article | We will publish an **article**/workshop that explains how the smart contract working, how to use, the security report and all the goal we have make with the grant usage
+| 1. | EOSIO Sub-module: X | We will create a EOSIO module that will permit to create and submmit a project  
+| 2. | EOSIO Sub-module: Y | We will create a EOSIO module that will permit to back a project 
+| 3. | EOSIO Sub-module: Z | We will create a EOSIO module that will generate the milestone system with voting power by the backers for approvale and release the next milestone or to close the project if is necessary and send back the money not used
+| 4. | EOSIO chain | Sub-modules X, Y & Z of our custom chain will interact in such a way to be decentralise and transparance all the process to create a project, back a project and see all the milestone system , project deliver and vote by the investor on the project
 
-- **Estimated duration:** 3 month
-- **FTE:**  3
-- **Costs:** 30,000 USD
-
-Convert and adapt our existing smart contract to EOS network
-See SMART CONTRACT OVERVIEW to understand what we need to convert 
-### Milestone 2  — Incubation Team
-
-- **Estimated Duration:** 4 month
-- **FTE:**  4
-- **Costs:** 32,000 USD
-Have the team able to continue and increase the incubation process
-
-### Milestone 3  — Marketing and Community grow
-
-- **Estimated Duration:** 4 month
-- **FTE:**  4
-- **Costs:** 24,000 USD
-Gorw or community , find new projects, build our brand inside EOS community
-
-Total= 86,000 USD
+| Milestone 2 | Incubation | Team migration and integration |
+| -----: | ----------- | ------------- |
+| 0a. | Integrate our incubation process in EOS ecosystem and working with EOS fundation for incubate the projects is most required for make grow the ecosystem and help them to be ready to the fundrasing with the community |
+| 0b. | Integrate our incubation process in TrustEVM team and for incubate the projects most interesting and with potential for the new EVM will be implemented on september to make sure the ecosystem have the right projects and success with the new launch|
+| 0c. | Documentation for incubation criteria and minimum standard required
+| 0d. | Documentation and full report to the incubation process and all the step achive|
+| 0e. | Article | We will publish an **article**/workshop that explains the way we use the grants and the success we get with the grant. 
+| 1. | EOSIO Ecosystem: X | We will create a Team for the EOSIO ecosystem incubation process
+| 2. | EOSIO TrustEVM: Y | We will create a Team for the TrustEVM incubation process
+| 3. | EOSIO Documents and check point: Z | We will create a document for entry criteria + full report of the incubation process and point done
+| 4. | EOSIO chain | Sub-modules X, Y & Z create a full and specific incubation plan to make sure EOS ecosystem grow and have the projects most is needed for this process and we offering the full support to make this projects growing in the right way. All this process is documented and pubblic to check.
 
 
-...
+| Milestone 3 | Marketing | Marketing and community develop |
+| -----: | ----------- | ------------- |
+| 0a. | Brand WeFund inside EOS community, create article and interraction with the community to grow in organic way |
+| 0b. | Marketing WeFund and EOS in the most trusted media for gorw the trust and credibility of booth of us, strategic annuncent, incubation and success launch of Projects|
+| 0c. | Promote the incubation system for attract more and new projects for outside or from the community
+| 0d. | Article | We will publish an **article**/workshop that explains where and how much we spend for arrive to the target, in which way we use the grants and what is the goal achive with thet
+| 1. | EOSIO Branding: X | We will rebrand WeFund in EOSIO ecosystem
+| 2. | EOSIO Incubation promotion Y | We will promote the Incubation program for attract new project outside and inside the ecosystem
+| 3. | EOSIO Articles: Z | We will write article about partnership, incubation and achivement 
+| 4. | EOSIO chain | Sub-modules X, Y & Z have the right visibility inside and outside the ecosystem to facilitate the incubation program and get the top level project on board
+
 
 
 ## Future Plans
 
-> Please include here
 
 - how you intend to use, enhance, promote and support your project in the short term, and
 - the team's long-term plans and intentions in relation to it.
-THe long-terms plan is WeFund became the leader in Incubation and Fundraising inside the EOS community and fundation
-Be able to work with the EOS fundation to take and build the new technology are necesary for make grow and scale EOS ecosystem
+THe long-terms plan is WeFund became the leader in Incubation and Fundraising inside the EOS community and foundation and TrustEVM
+Be able to work with the EOS fundation and TrustEVM to take and build the new technology are necesary for make grow and scale EOS ecosystem
 
 ## Additional Information
 
