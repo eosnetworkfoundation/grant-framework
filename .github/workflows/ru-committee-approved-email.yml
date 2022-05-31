@@ -41,7 +41,7 @@ jobs:
           secure: true
           username: enfmailbot@eosn.foundation
           password: ${{ secrets.gmail_password }}
-          subject: Your ENF Grant Applucation has moved to the next step
+          subject: Your ENF Grant Application has moved to the next step
           body: | 
             Hi ${{inputs.contact_name}}, 
             Congratulations to you and the ${{inputs.team_name}} team.  Your ENF Grant Framework application for ${{inputs.project_name}} 
