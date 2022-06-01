@@ -45,10 +45,14 @@ The product consists of two applications focused on each user segment and/or the
 
 The B2B channel will be developed in a second stage following the prior engagement of indivuduals. 
 
-- PoC/MVP or other relevant prior work or research on the topic:
+- **PoC/MVP or other relevant prior work or research on the topic:**
+- 
 The MVP is already completed. If not published yet by the time of the review of this application, you can request access to p.herrera@eo2.earth. Access to the MVP code will remain restricted and be shown upon request.
-- What EO2 is not or will not provide or implement:
+
+- **What EO2 is not or will not provide or implement:**
+
   EO2 will provide a boilerplate with basic and adaptable capabilities of its User Interface (Desktop and mobile), Smart Contract, and an Admin dashboard to evaluate the APP interaction. Those sections in the menu will be available for the user to be modified for their project. What will not be shared with the community are the functionalities specific to the business logic behind EO2. 
+  
   EO2 can provide advice on using the boilerplate based on goodwill only. EO2 is not committed to providing support of any type in the development beyond the documentation of each component.
 
 
@@ -83,13 +87,13 @@ The team behind the project comes from diverse backgrounds. Besides IT expertise
 
 - **Team Leader:** Plinio HERRERA SCHUWIRTH & Marco BASSAN GUERRIERI
 - **IT Team Members:**
--- Miguel Angel Lopez (project manager, full-stack developer)
--- Nesrine Mrabet (full-stack developer)
--- Jose Tomas Schuwirth (full-stack developer)
--- Juan Schuwirth (full-stack developer)
+- Miguel Angel Lopez (project manager, full-stack developer)
+- Nesrine Mrabet (full-stack developer)
+- Jose Tomas Schuwirth (full-stack developer)
+- Juan Schuwirth (full-stack developer)
 - **Communications Team Members:**
--- Catalina Ruiz Cristi
--- Damien Guiral
+- Catalina Ruiz Cristi
+- Damien Guiral
 
 
 ### Legal Structure
@@ -150,10 +154,10 @@ We use git-flow architecture to work on our repositories.We have already develop
 - **Total Estimated Duration:** 4 months 
 - **Full-Time Equivalent (FTE):** Eight (8)
 - **Total Costs:** 122,000 USD
--- **IT Development:** 50,000 USD
--- **Marketing-related expenses:** 52,000 USD
--- **Compliance & legal costs: 15,000 USD
--- **Petty cash and eventualities: 5,000 USD
+	- **IT Development:** 50,000 USD
+	- **Marketing-related expenses:** 52,000 USD
+	- **Compliance & legal costs:** 15,000 USD
+	- **Petty cash and eventualities:** 5,000 USD
 
 **Note:** Some of the milestones can possibly overlap and be done in parallel.
 ### Milestone 1 Users web-app boilerplate
