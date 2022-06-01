@@ -9,12 +9,12 @@
 
 - [ ] **Level 1**:  Up to $10,000, 2 approvals
 - [ ] **Level 2**:  Up to $50,000, 3 approvals
-- [ ] **Level 3**:  Unlimited, 4 approvals (for > $100k ENF Grant Committee approval)
+- [ ] **Level 3**:  Unlimited, 4 approvals
 
 ### Application Checklist
 
 - [x] The [application template]([xxxx](https://github.com/eosnetworkfoundation/grant-framework/blob/main/applications/application-template.md)) has been copied, renamed ( `project_name.md`) and updated.
-- [ ] I have read and understood the 
+- [ ] I have read and understood the:
   - [ ] [FAQs](https://github.com/w3f/Grants-Program/blob/master/docs/faq.md), 
   - [ ] [application guidelines](https://github.com/w3f/Grants-Program/blob/master/docs/grant_guidelines_per_category.md) and 
   - [ ] [announcement guidelines](https://github.com/w3f/Grants-Program/blob/master/docs/announcement-guidelines.md).
