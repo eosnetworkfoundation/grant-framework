@@ -6,7 +6,7 @@
 - Grant Committee Approved
 - Grant Fully Approved
 - Grant Rejected
-- ![](https://img.shields.io/static/v1?label=&message=Ted Cahall&color=green)
+- ![](https://img.shields.io/static/v1?label=&message=Ted_Cahall&color=green)
 
 ## Upon Receipt of a Pull Request
 When a pull_request is received in the grant-framework directory, the grant is parsed and a thank you email is sent to the applicant.
