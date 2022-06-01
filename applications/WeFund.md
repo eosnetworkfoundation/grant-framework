@@ -142,187 +142,261 @@ built on various blockchains. WeFund has the capability to incubate and crowdfun
  
  
  
-9)
-Smart contract Workflow
- 
-Instantiate
-input parameter
-Wefund contract
+9)**Smart contract Workflow**
+
+1. Instantiate
+
+- input parameter
+
+- Wefund contract
+
 admin: String, //Owner wallet address
+
 wefund: String, //wefund wallet address
-anchor_market: String, //Anchor market contract address
-aust_token: String,  //aUST cw20 contract contract
-vesting_contract: String, //Vesting contract address
- 
-Vesting Contract
-admin: String  //Wefund contract address
- 
-Staking contract
-owner: String,  //Owner wallet address
-start_time: Uint128,  //farming rewards start time
-reward_token: String  //reward token address - WFD token address
- 
- 
- 
-Register Community
+
+anchor\_market: String, //Anchor market contract address
+
+aust\_token: String, //aUST cw20 contract contract
+
+vesting\_contract: String, //Vesting contract address
+
+- Vesting Contract
+
+admin: String //Wefund contract address
+
+- Staking contract
+
+owner: String, //Owner wallet address
+
+start\_time: Uint128, //farming rewards start time
+
+reward\_token: String //reward token address - WFD token address
+
+![](RackMultipart20220601-1-8dmb8p_html_5138273be82292c7.png)
+
+1. Register Community
+
 -input parameter
+
 Wallet
+
 -functions
+
 Register the community members
- 
- 
- 
- 
- 
- 
-Create Project
- 
- 
+
+![](RackMultipart20220601-1-8dmb8p_html_5234751d0374da44.png)
+
+![](RackMultipart20220601-1-8dmb8p_html_5da37c8ddc8227.png)
+
+1. Create Project
+
+![](RackMultipart20220601-1-8dmb8p_html_99b8541adf9a0ec1.png)
+
 -input parameter
-id: Uint128,  //If new, 0, If else, Stored project info
+
+id: Uint128, //If new, 0, If else, Stored project info
+
 company: String,
+
 title: String,
+
 description: String,
+
 ecosystem: String,
+
 createddate: String,
-saft: String,  //saft document
+
+saft: String, //saft document
+
 logo: String,
+
 whitepaper: String,
+
 website: String,
+
 email: String,
-creator_wallet: String,   //project creator wallet address
-collected: Uint128,  //Amount to be collected
-milestones: Vec<Milestone>,
-teammembers: Vec<TeamMember>,
-vesting: Vec<VestingParameter>,
-token_addr: String,
- 
+
+creator\_wallet: String, //project creator wallet address
+
+collected: Uint128, //Amount to be collected
+
+milestones: Vec\&lt;Milestone\&gt;,
+
+teammembers: Vec\&lt;TeamMember\&gt;,
+
+vesting: Vec\&lt;VestingParameter\&gt;,
+
+token\_addr: String,
+
 country: String,
-cofounder_name: String,
-service_wefund: String, //equity
-service_charity: String,
-professional_link: String
- 
+
+cofounder\_name: String,
+
+service\_wefund: String, //equity
+
+service\_charity: String,
+
+professional\_link: String
+
 -function
-Initialize the project state  variables
-If id = 0, New create and store, 
-if id > 0, Modify the Project informations on Wefund contract
-Register the project informations on Vesting contract
-If id = 0, set Project status to ::Wefund_approve
+
+- Initialize the project state variables
+- If id = 0, New create and store,
+
+if id \&gt; 0, Modify the Project informations on Wefund contract
+
+- Register the project informations on Vesting contract
+- If id = 0, set Project status to ::Wefund\_approve
+
 If id != 0, Keep the Project status
- 
- 
- 
-WeFund approve
- 
+
+1. WeFund approve
+
+![](RackMultipart20220601-1-8dmb8p_html_bc6bd14e7b2e478f.png)
+
 -input parameter
-Project_id  //Stored the project id
- 
+
+Project\_id //Stored the project id
+
 -functions
-Checking the message sender is the same as wefund.
-Checking the Project status is ::Wefund_approve
-Turn the Project status to ::Whitelist_open
- 
- 
- 
-Register Whitelist
+
+- Checking the message sender is the same as wefund.
+- Checking the Project status is ::Wefund\_approve
+- Turn the Project status to ::Whitelist\_open
+
+1. Register Whitelist
+
 -input parameters
-Project_id //Stored the project id
-Card_type: //The type of card the user has (Platinum, Gold, Silver, Bronze)
- 
+
+Project\_id //Stored the project id
+
+Card\_type: //The type of card the user has (Platinum, Gold, Silver, Bronze)
+
 -functions
-Checking the user is the card holder
-Store the user wallet address and card type
- 
- 
- 
-Close Whitelist
- 
+
+- Checking the user is the card holder
+- Store the user wallet address and card type
+
+![](RackMultipart20220601-1-8dmb8p_html_e956e3c5302d6fa5.png)
+
+![](RackMultipart20220601-1-8dmb8p_html_dae7536264d9469c.png)
+
+![](RackMultipart20220601-1-8dmb8p_html_dcbca7773cc50e5.png)
+
+1. Close Whitelist
+
+![](RackMultipart20220601-1-8dmb8p_html_d2d775a912aeebd0.png)
+
 -input parameters
-Project_id // Stored the project id
- 
+
+Project\_id // Stored the project id
+
 -functions
-Checking the message sender is the same as project creator
-Calculate the Card Holder ticket and the Community Holder ticket
-Making the whitelist with wallet address and allocation, based on ticket price
+
+- Checking the message sender is the same as project creator
+- Calculate the Card Holder ticket and the Community Holder ticket
+- Making the whitelist with wallet address and allocation, based on ticket price
+
 ( Storing the registered Card holder wallet and Community Wallet, allocation)
-Turn the project status to ::Fundraising
- 
- 
- 
-Reopen whitelist
- 
+
+- Turn the project status to ::Fundraising
+
+![](RackMultipart20220601-1-8dmb8p_html_7d65540be966deb.png)
+
+1. Reopen whitelist
+
+![](RackMultipart20220601-1-8dmb8p_html_31be672cce6118ca.png)
+
 -functions
-Checking the message sender is the project creator
-Calculate the amount to be collected and will collect
-Whitelist clear
-Turn the project status to ::Whitelist
- 
- 
-Set fundraising stage
- 
+
+- Checking the message sender is the project creator
+- Calculate the amount to be collected and will collect
+- Whitelist clear
+- Turn the project status to ::Whitelist
+
+1. Set fundraising stage
+
+![](RackMultipart20220601-1-8dmb8p_html_ebb0229a92a08b8d.png)
+
 -functions
-Checking the message sender is the project creator
-Turn the fundraising stage to next
- 
-Back to Project
+
+- Checking the message sender is the project creator
+- Turn the fundraising stage to next
+
+1. Back to Project
+
 -input parameters
-project_id: Uint128,
-backer_wallet: String,
-fundraising_stage: Uint128,
-token_amount: Uint128,
+
+project\_id: Uint128,
+
+backer\_wallet: String,
+
+fundraising\_stage: Uint128,
+
+token\_amount: Uint128,
+
 otherchain: String,
-otherchain_wallet: String,
- 
+
+otherchain\_wallet: String,
+
 -functions
-Checking the message sender is registered on whitelist
-Store the backer informations in the project information
-Transfer 5% to Wefund wallet
-Deposit 95% to Anchor Market and measure the aUST token amount and store.
-Store the backer informations in the Vesting contract, also
-Checking whether the backed amount has reached the collected amount, If reached, making the Milestone vote list(include the Wefund address to stop the milestone), 
-If a vesting token address is registered, transfer the vesting tokens from project_creator wallet to vesting contract, and send message starting the vesting to the vesting contract , turn the project status to ::Milestone_Releasing
- 
- 
-Milestone Vote
- 
+
+- Checking the message sender is registered on whitelist
+- Store the backer informations in the project information
+- Transfer 5% to Wefund wallet
+- Deposit 95% to Anchor Market and measure the aUST token amount and store.
+- Store the backer informations in the Vesting contract, also
+- Checking whether the backed amount has reached the collected amount, If reached, making the Milestone vote list(include the Wefund address to stop the milestone),
+- If a vesting token address is registered, transfer the vesting tokens from project\_creator wallet to vesting contract, and send message starting the vesting to the vesting contract , turn the project status to ::Milestone\_Releasing
+
+1. Milestone Vote
+
+![](RackMultipart20220601-1-8dmb8p_html_fca74ebefed456a8.png)
+
 -functions
-Checking the message sender is registered on Milestone vote list.
-Store the vote status in project informations
- 
- 
-Checking whether that all voted, 
-If all voted, calculate the aUST token amount to withdraw from the Anchor market.
+
+- Checking the message sender is registered on Milestone vote list.
+- Store the vote status in project informations
+-
+- Checking whether that all voted,
+- If all voted, calculate the aUST token amount to withdraw from the Anchor market.
+
 c: collected amount, a: measured aUST token amount for project
+
 m: amount - milestone step amount, x: aUST token amount to withdraw
- 
-x = m / c * a
- 
-Withdraw from the Anchor market and measure the UST amount(u) withdrawn from the Anchor market.
- 
-If u>m, transfer m UST to the project creator, (u-m) UST is stored on the Wefund smart contract for profit distribution.
-If u<m, transfer u UST to the project creator.
- 
-Turn the milestone step to next
-If milestone done, turn the project status to ::Done
- 
-Project fail(There is no UI)
+
+x = m / c \* a
+
+- Withdraw from the Anchor market and measure the UST amount(u) withdrawn from the Anchor market.
+
+If u\&gt;m, transfer m UST to the project creator, (u-m) UST is stored on the Wefund smart contract for profit distribution.
+
+If u\&lt;m, transfer u UST to the project creator.
+
+- Turn the milestone step to next
+- If milestone done, turn the project status to ::Done
+
+1. Project fail(There is no UI)
+
 -function
-Checking the message sender is the project creator
-Calculate the remained the aUST token amount for project
-Withdraw from the Anchor market and measure the UST amount to be withdrawn.
-Calculate the percent and the UST amount to be returned back.
-Return back the USt to the backer wallet.
- 
-Project Complete(There is no UI)
+
+- Checking the message sender is the project creator
+- Calculate the remained the aUST token amount for project
+- Withdraw from the Anchor market and measure the UST amount to be withdrawn.
+- Calculate the percent and the UST amount to be returned back.
+- Return back the USt to the backer wallet.
+
+1. Project Complete(There is no UI)
+
 -function
-Checking the message sender is the project creator
-Calculate the remained the aUST token amount for project
-Withdraw from the Anchor market and measure the UST amount to be withdrawn.
-Calculate the percent and the UST amount to be returned back.
-Return back the USt to the backer wallet.
- 
- 
+
+- Checking the message sender is the project creator
+- Calculate the remained the aUST token amount for project
+- Withdraw from the Anchor market and measure the UST amount to be withdrawn.
+- Calculate the percent and the UST amount to be returned back.
+- Return back the USt to the backer wallet.
+
+
  
 ### Ecosystem Fit
  
@@ -392,24 +466,24 @@ www.wefund.app
 - **Total Costs:** 86,000 USD
  
  
-| Milestone 1 | Smart Contract | Convert the existing smart contract to EOS |
+| Milestone 1 | Smart Contract | Description |
 | -----: | ----------- | ------------- |
-| 0a. | Converting the existing smart contract on EOS network and language C++ |
-| 0b. | Testing Guide | Testing functionality | Testing security in house
+| 0a. | Smart Contract converting| Converting the existing smart contract on EOS network and language C++ |
+| 0b. | Testing Guide | Testing functionality and Testing security in house
 | 0c. | Update smart contract documentation | Provide a smart contract test report
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
 | 0e. | Article | We will publish an **article**/workshop that explains how the smart contract working, how to use, the security report and all the goal we have make with the grant usage
-| 1. | EOSIO Sub-module: X | We will create a EOSIO module that will permit to create and submmit a project  
+| 1. | EOSIO Sub-module: X | We will create a EOSIO module that will permit to create and submit a project  
 | 2. | EOSIO Sub-module: Y | We will create a EOSIO module that will permit to back a project 
 | 3. | EOSIO Sub-module: Z | We will create a EOSIO module that will generate the milestone system with voting power by the backers for approvale and release the next milestone or to close the project if is necessary and send back the money not used
 | 4. | EOSIO chain | Sub-modules X, Y & Z of our custom chain will interact in such a way to be decentralise and transparance all the process to create a project, back a project and see all the milestone system , project deliver and vote by the investor on the project
  
-| Milestone 2 | Incubation | Team migration and integration |
+| Milestone 2 | Incubation | Description |
 | -----: | ----------- | ------------- |
-| 0a. | Integrate our incubation process in EOS ecosystem and working with EOS foundation to incubate the projects is most required for make grow the ecosystem and help them to be ready for the fundraising with the community |
-| 0b. | Integrate our incubation process in TrustEVM team and for incubating the projects most interesting and with potential for the new EVM will be implemented in September to make sure the ecosystem has the right projects and success with the new launch|
-| 0c. | Documentation for incubation criteria and minimum standard required
-| 0d. | Documentation and full report on the incubation process and all the step achive|
+| 0a. | Incubation on Eos Ecosystem | Integrate our incubation process in EOS ecosystem and working with EOS foundation to incubate the projects is most required for make grow the ecosystem and help them to be ready for the fundraising with the community |
+| 0b. | Incubation on TrustEVM | Integrate our incubation process in TrustEVM team and for incubating the projects most interesting and with potential for the new EVM will be implemented in September to make sure the ecosystem has the right projects and success with the new launch|
+| 0c. | Valuation Docs | Documentation for incubation criteria and minimum standard required
+| 0d. |Report doc| Documentation and full report on the incubation process and all the step achive|
 | 0e. | Article | We will publish an **article**/workshop that explains the way we use the grants and the success we get with the grant. 
 | 1. | EOSIO Ecosystem: X | We will create a Team for the EOSIO ecosystem incubation process
 | 2. | EOSIO TrustEVM: Y | We will create a Team for the TrustEVM incubation process
@@ -417,11 +491,11 @@ www.wefund.app
 | 4. | EOSIO chain | Sub-modules X, Y & Z create a full and specific incubation plan to make sure EOS ecosystem grow and have the projects most is needed for this process and we offering the full support to make this projects growing in the right way. All this process is documented and pubblic to check.
  
  
-| Milestone 3 | Marketing | Marketing and community develop |
+| Milestone 3 | Marketing | Description |
 | -----: | ----------- | ------------- |
-| 0a. | Brand WeFund inside EOS community, create article and interraction with the community to grow in organic way |
-| 0b. | Marketing WeFund and EOS in the most trusted media for gorw the trust and credibility of booth of us, strategic annuncent, incubation and success launch of Projects|
-| 0c. | Promote the incubation system for attract more and new projects for outside or from the community
+| 0a. | Rebranding | Brand WeFund inside EOS community, create article and interraction with the community to grow in organic way |
+| 0b. | Marketing | Marketing WeFund and EOS in the most trusted media for gorw the trust and credibility of booth of us, strategic annuncent, incubation and success launch of Projects|
+| 0c. | Promotion | Promote the incubation system for attract more and new projects for outside or from the community
 | 0d. | Article | We will publish an **article**/workshop that explains where and how much we spend for arrive to the target, in which way we use the grants and what is the goal achive with thet
 | 1. | EOSIO Branding: X | We will rebrand WeFund in EOSIO ecosystem
 | 2. | EOSIO Incubation promotion Y | We will promote the Incubation program for attract new project outside and inside the ecosystem
