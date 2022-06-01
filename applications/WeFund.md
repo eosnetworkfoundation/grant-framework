@@ -387,9 +387,9 @@ www.wefund.app
  
 ## Development Roadmap
  
--**Total Estimated Duration:** 4 months
--**Full-Time Equivalent (FTE):** 4 FTE
--**Total Costs:** 86,000 USD
+- **Total Estimated Duration:** 4 months
+- **Full-Time Equivalent (FTE):** 4 FTE
+- **Total Costs:** 86,000 USD
  
  
 | Milestone 1 | Smart Contract | Convert the existing smart contract to EOS |
