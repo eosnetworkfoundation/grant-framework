@@ -36,15 +36,18 @@ The following video provides a simple overview of our project: https://www.youtu
 The product consists of two applications focused on each user segment and/or the intended use of the Token: one for customers who will use EO2 Token as means of payment, for donations, and as a store of value; the second app is design to meet the needs of corporate users who will use the EO2 Token to pursue their sustainable agenda. Both applications will be declined in desktop and mobile version. 
 - **Individual user Webapp:** ReactJS 18 UI Boilerplate and React CSS and material-UI for component designs. Account creation on EOSIO-based blockchain, Plug and play KYC and AML screening integration using a third-party provider (Likely to be Scorechain), backend using AWS and Sidebar Menu with Dashboard, Assets, Support, and buttons for each project-specific development. The webapp will include the integration of external authorization providers' such as ANCHOR and LEDGER.
 - **Marketing:** consists of a three stage funnel that will help to brand recognition and adoption:
---**Captivating attention** through social networks, active participation in sustainability-related communities and providing incentives to individual users to join the EO2 community. As for corporate customers, engagement is with relevant actors. Partnering and creating synergies with Greentech companies.
---**Educating** non-crypto users and/or environmental sensitive on the digital ecosystem, Carbon Markets and sustainability in general, highlighting the core values of EO2 and EOS network. Among the topics covered are: blockchain, digital assets, carbon markets, EO2 and EOSIO-based blockchain. The content will be delivered with videoclips, co-produced or sponsored by ecosystem partners), social network posts, articles, and with the launch of our own blog.  Incentives to engage and interact with the platform (e.g. in the form of rewards) will be in place.
---**The conversion** will happen by leveraging the interest and engagement build in the previous phase and by making early adopters ambassadors of EO2.  
+	
+	-**Captivating attention** through social networks, active participation in sustainability-related communities and providing incentives to individual users to join the EO2 community. As for corporate customers, engagement is with relevant actors. Partnering and creating synergies with Greentech companies.
+	
+	-**Educating** non-crypto users and/or environmental sensitive on the digital ecosystem, Carbon Markets and sustainability in general, highlighting the core values of EO2 and EOS network. Among the topics covered are: blockchain, digital assets, carbon markets, EO2 and EOSIO-based blockchain. The content will be delivered with videoclips, co-produced or sponsored by ecosystem partners), social network posts, articles, and with the launch of our own blog.  Incentives to engage and interact with the platform (e.g. in the form of rewards) will be in place.
+	
+	-**The conversion** will happen by leveraging the interest and engagement build in the previous phase and by making early adopters ambassadors of EO2.  
 
 The B2B channel will be developed in a second stage following the prior engagement of indivuduals. 
 
--	PoC/MVP or other relevant prior work or research on the topic:
-	The MVP is already completed. If not published yet by the time of the review of this application, you can request access to p.herrera@eo2.earth. Access to the MVP code will remain restricted and be shown upon request.
--	What EO2 is not or will not provide or implement:
+- PoC/MVP or other relevant prior work or research on the topic:
+The MVP is already completed. If not published yet by the time of the review of this application, you can request access to p.herrera@eo2.earth. Access to the MVP code will remain restricted and be shown upon request.
+- What EO2 is not or will not provide or implement:
   EO2 will provide a boilerplate with basic and adaptable capabilities of its User Interface (Desktop and mobile), Smart Contract, and an Admin dashboard to evaluate the APP interaction. Those sections in the menu will be available for the user to be modified for their project. What will not be shared with the community are the functionalities specific to the business logic behind EO2. 
   EO2 can provide advice on using the boilerplate based on goodwill only. EO2 is not committed to providing support of any type in the development beyond the documentation of each component.
 
