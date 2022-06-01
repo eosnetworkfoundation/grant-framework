@@ -1,4 +1,12 @@
 # Workflow Description
+The Grant Framework workflow allows the Grant Operations team to automatically:
+- move grant applications though their states
+- add them to a central spreadsheet for Ops management
+- send emails to applicants at the appropriate steps
+
+The first step in the overall grant workflow is the Pull Request.  A `pull_request_target` action sends the applicant an email to let them know the grant
+was received and that it will go through processing.  The remainder of the workflow occurs when the grant operations team adds labels to that PR.
+
 **Labels:**
 - Grant Issues
 - Grant Received
@@ -6,7 +14,6 @@
 - Grant Committee Approved
 - Grant Fully Approved
 - Grant Rejected
-- ![](https://img.shields.io/static/v1?label=&message=Ted%20Cahall&color=green)
 
 ## Upon Receipt of a Pull Request
 When a pull_request is received in the grant-framework directory, the grant is parsed and a thank you email is sent to the applicant.
@@ -35,3 +42,9 @@ know to work with the grant-milestones repo to report milestones and request pay
 ## Grant Rejected
 This tag currently does nothing.  `FUTURE:` This should send a rejection email and cc the grants email account.  Operations can then reply all to 
 that email and list the reasons for rejection.
+
+# Testing
+There are a number of testing scripts that can call some of the reusable components.  They all begin with the word "test-" in this directory
+
+
+![](https://img.shields.io/static/v1?label=&message=Ted%20Cahall&color=black)
