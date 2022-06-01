@@ -3,7 +3,7 @@
  
 - **Project Name:** WeFund
 - **Team Name:** Andrea Bello & Ika Nur Affifah
-- **EOS Payment Address:** EOS7uPVEZK6gqs5jVzyJKX6YeRteYr7JzPqjLG6XZkB1ng6jUvcvT
+- **EOS Payment Address:** wefundoffici
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Pomelo Grant(s):** www.wefund.app
 - **Project is Open-Source:** Yes
@@ -387,9 +387,9 @@ www.wefund.app
  
 ## Development Roadmap
  
-**Total Estimated Duration:** 4 months
-**Full-Time Equivalent (FTE):** 4 FTE
-**Total Costs:** 86,000 USD
+-**Total Estimated Duration:** 4 months
+-**Full-Time Equivalent (FTE):** 4 FTE
+-**Total Costs:** 86,000 USD
  
  
 | Milestone 1 | Smart Contract | Convert the existing smart contract to EOS |
