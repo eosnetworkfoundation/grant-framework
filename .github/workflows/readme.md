@@ -47,4 +47,5 @@ that email and list the reasons for rejection.
 There are a number of testing scripts that can call some of the reusable components.  They all begin with the word "test-" in this directory
 
 
-![](https://img.shields.io/static/v1?label=&message=Ted%20Cahall&color=black)
+![](https://img.shields.io/static/v1?label=&message=Ted%20Cahall&color=black&style=for-the-badge)
+
