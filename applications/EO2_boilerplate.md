@@ -168,6 +168,7 @@ We use git-flow architecture to work on our repositories.We have already develop
 	- **Petty cash and eventualities:** 5,000 USD
 
 **Note:** Some of the milestones can possibly overlap and be done in parallel.
+
 ### Milestone 1 Users web-app boilerplate
 - **Estimated duration:** 2 month
 - **FTE:**  4
@@ -181,30 +182,54 @@ We use git-flow architecture to work on our repositories.We have already develop
 | 0d. | Video | Provide an introductory video on how to build and set up the boilerplate |
 | 1.  |	Multipage UI| Webapp with multiple pages and essential interaction (login, logout, send, receive, create an account) and multiple modals with QR generator for accounts to be easily scanned and imported with ANCHOR. |
 | 2.  | Language | Multi-language support for the UI |
+| 3. | External UAL | External UAL connection using ANCHOR by Greymass and Ledger hard-wallet. |
+| 4. | UI Components | Reusable interface components |
 
-### Milestone 2 Example — Additional features
+### Milestone 2 Users web-app boilerplate upgrade
+- **Estimated duration:** 2 month
+- **FTE:**  4
+- **Costs:** 25,000 USD
 
-- **Estimated Duration:** 1 month
-- **FTE:**  1
-- **Costs:** 4,000 USD
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | BSD 3-Clause |
+| 0b. | Documentation | Creation of documentation for the web app and basic usage |
+| 0c. | Testing Guide | End to end tests using third-party software providers such as  https://ghostinspector.com/ |
+| 0d. | Video | Provide an introductory video on how to build and set up the boilerplate |
+| 1.  |	KYC & AML | Integration of KYC & AML with an external provider (likely to be Scorechain) |
+| 2.  | Backend | Plug and play backend connector to store basic information |
 
-...
+### Milestone 3  Marketing
+- **Estimated duration:** 4 month
+- **FTE:**  4
+- **Costs:** 52,000 USD
+
+| Number | Amount | Specification |
+| -----: | ----------- | ------------- |
+| 1. | 10,000 USD | Social Network presence (Social Media Manager + Paid advertising) |
+| 2. | 5,000 USD | Specialized digital Press |
+| 3. | 5,000 USD | Goodies |
+| 4. | 6,000 USD | Blog Maintenance and Newsletter |
+| 5.  |	5,000 USD | Paperbased press |
+| 6.  | 12,000 USD | Educational Videos |
+| 7.  | 10,000 USD | Onboarding package for corporate users deciding to tokenize their allowances using our platform or Companies willing to pursue their agenda with us. |
 
 
 ## Future Plans
 
-> Please include here
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+- The plan include a test launch open to the public in late June 2022 to evaluate the performance of the application and smart contract, test the business logic and gain traction with users.
+- Develop a corporate version of the web-app and a mobile version. 
+- Captivate the attention of non-crypto users. This step will include a strong social media presence, paid advertising, and partnership with companies.
+- Ongoing applications to incubators to help us in the startup and scaleup phases.
+- Presence in fairs related with sustainability and blockchain.
+- We plan to make the first tokenization of allowances in late October 2022 with all compliance requirements completed.
+- Long-term goal is to expand to several registries of allowances in Europe and interconnect with registries outside the European Union.
 
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** Yves la Rose recommended us the program to help develop our platform.
 
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
+The project it's being financed by its 2 Co-founders from the research phase in early 2021 until the completed MVP.
 
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+No other grants have been received nor external financing. Nevertheless, we plan to raise funds in the seed phase to scale our venture.
