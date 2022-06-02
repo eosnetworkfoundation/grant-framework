@@ -72,7 +72,7 @@ Our target audience is composed by:
 -	Investors looking for new cryptocurrencies to invest their money or to balance their investment portfolio.
 -	Companies covered by the EU ETS that would benefit from an alternative to make their banked allowances more liquid, thus allocating extra resources to finance new technology and speed up their transition to Net-Zero.
 
-- **•	What need(s) does your project meet?**
+- **What need(s) does your project meet?**
 
 Our project is looking to make EUAs trading more accessible, easier to manage, and more inclusive.
 
