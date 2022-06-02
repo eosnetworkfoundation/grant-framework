@@ -28,25 +28,25 @@ The following video provides a simple overview of our project: https://www.youtu
 
 - **Name:** EO2, a Security Token that represents regulated Carbon Credit.
 - **Brief Description:** EO2 aims to tokenize quality Carbon Credits and make them available to individuals and SMEs. 
-- **Relationship to EOSIO:** EO2 Smart-contract is derived from the EOSIO Token Standard and it is hosted on EOSIO BasedBlockchain. The Smart-Contract is connected to our User Interface to facilitate the use for non-crypto users.
+- **Relationship to EOSIO:** EO2 Smart-contract is derived from the EOSIO Token Standard and it is hosted on EOSIO-Based Blockchain. The Smart-Contract is connected to our User Interface to facilitate the use for non-crypto users.
 - **Reason for Interest:** At EO2, we believe that a transparent and efficient system of carbon offset is essential for transitioning to a zero-emission society. Our Mission is to make the regulated Carbon Market more inclusive and allow easy access to regulated Carbon Credits for individuals and SMEs. We want to provide an effective offset to clear the carbon footprint and a sustainable means to make a transaction and store value. 
 
 ### Project Details
 
 The product consists of two applications focused on each user segment and/or the intended use of the Token: one for customers who will use EO2 Token as means of payment, for donations, and as a store of value; the second app is design to meet the needs of corporate users who will use the EO2 Token to pursue their sustainable agenda. Both applications will be declined in desktop and mobile version. 
 - **Individual user Webapp:** ReactJS 18 UI Boilerplate and React CSS and material-UI for component designs. Account creation on EOSIO-based blockchain, Plug and play KYC and AML screening integration using a third-party provider (Likely to be Scorechain), backend using AWS and Sidebar Menu with Dashboard, Assets, Support, and buttons for each project-specific development. The webapp will include the integration of external authorization providers' such as ANCHOR and LEDGER.
-- **Marketing:** consists of a three stage funnel that will help to brand recognition and adoption:
+- **Marketing:** consists of a three stage funnel that will help to the brand recognition and adoption:
 	
-	-**Captivating attention** through social networks, active participation in sustainability-related communities and providing incentives to individual users to join the EO2 community. As for corporate customers, engagement is with relevant actors. Partnering and creating synergies with Greentech companies.
+	-**Captivating attention** through social networks, active participation in sustainability-related communities and providing incentives to individual users to join the EO2 community. As for corporate customers, specific marketing campaigns will leverage their needs aiming to develop more structured partnertship. The Greentech Alliance constitutes a preferential channel to create synergies and partnertship with relevant customers.
 	
-	-**Educating** non-crypto users and/or environmental sensitive on the digital ecosystem, Carbon Markets and sustainability in general, highlighting the core values of EO2 and EOS network. Among the topics covered are: blockchain, digital assets, carbon markets, EO2 and EOSIO-based blockchain. The content will be delivered with videoclips, co-produced or sponsored by ecosystem partners), social network posts, articles, and with the launch of our own blog.  Incentives to engage and interact with the platform (e.g. in the form of rewards) will be in place.
+	-**Educating** non-crypto users and/or environmental sensitive people on the digital ecosystem, Carbon Markets and sustainability in general, highlighting the core values of EO2 and EOS network. Among the topics covered are: blockchain, digital assets, carbon markets, EO2 and EOSIO-based blockchain. The content will be delivered with videoclips, (co-produced or sponsored by ecosystem partners), social network posts, articles hosted on our own blog.  Incentives to engage and interact with the platform (e.g. in the form of rewards) will be in place.
 	
 	-**The conversion** will happen by leveraging the interest and engagement build in the previous phase and by making early adopters ambassadors of EO2.  
 
 The B2B channel will be developed in a second stage following the prior engagement of indivuduals. 
 
 - **PoC/MVP or other relevant prior work or research on the topic:**
-- 
+
 The MVP is already completed. If not published yet by the time of the review of this application, you can request access to p.herrera@eo2.earth. Access to the MVP code will remain restricted and be shown upon request.
 
 - **What EO2 is not or will not provide or implement:**
@@ -58,7 +58,11 @@ The MVP is already completed. If not published yet by the time of the review of 
 
 ### Ecosystem Fit
 
-EO2’s target are users who are not yet familiar with crypto and digital assets in general, so customers of EO2 will translate into additional users of the EOSIO Ecosystem. Also, EO2 is building its identity around the authentic promotion of sustainability and the choise of EOSIO plays a relevant role in this strategy. The EOS ecosystem as a whole can benefit from this association between its technology and sustainability, 
+- **Where and how does your project fit into the ecosystem?**
+
+EO2’s target are users who are not yet familiar with crypto and digital assets in general, so customers of EO2 will translate into additional users of the EOSIO Ecosystem. Also, EO2 is building its identity around the authentic promotion of sustainability and the choise of EOSIO plays a relevant role in this strategy. The EOS ecosystem as a whole can benefit from this association between its technology and sustainability. 
+
+- **Who is your target audience (chain/dapp/wallet/UI developers, designers, your user base, some dapp's userbase, yourself)?**
 
 Apps developed by EO2 that are meant to be open-source are aimed at Dapp/UI Developers.
 
@@ -68,6 +72,8 @@ Our target audience is composed by:
 -	Investors looking for new cryptocurrencies to invest their money or to balance their investment portfolio.
 -	Companies covered by the EU ETS that would benefit from an alternative to make their banked allowances more liquid, thus allocating extra resources to finance new technology and speed up their transition to Net-Zero.
 
+- **•	What need(s) does your project meet?**
+
 Our project is looking to make EUAs trading more accessible, easier to manage, and more inclusive.
 
 As most regulated carbon markets, the EU compliance Carbon Market is substantially a closed system. Barriers to access the market, allow only covered enterprises (those required by the law to comply with it) and intermediaries to currently trade, invest and offset their emissions with EU Emission Allowances. Due to this friction, all stakeholders different from the above (i.e. SMEs and individuals) need to buy unregulated carbon certificates from the voluntary carbon market, proving to be prompt to greenwash. 
@@ -75,6 +81,8 @@ As most regulated carbon markets, the EU compliance Carbon Market is substantial
 By enabling stakeholders to access the regulated carbon market, our project proposes a more solid and reliable alternative to those currently purchasing carbon certificates in the voluntary carbon market. To SMEs and individuals, the tokenization of Emission Allowances represents an easy and frictionless access to the regulated carbon market. 
 
 Each Token is backed by an Emission Allowance, which provides value stability over time. EO2 will be the custodian of the Emission Allowances, and Token holders will be able to redeem the Token and be assigned with the underlying Allowances.   Each Token can be undefinetely transacted among users and companies, but once donated (I.e. from an individual to a company) , Tokens can only be “burned”. When Tokens are burned, the underlying Emission Allowances are surrendered off-chain before the European Commission registry. In addition, EO2 will make public the list of surrendered Emission Allowances in order to disclose to what extent companies and individuals are effectively contributing to the fight against climate change.
+
+- **Are there any other projects similar to yours in the EOSIO ecosystem? If not, are there similar projects in related ecosystems? **
 
 To the best of our knowledge, there are no direct competitors proposing the same or comparable offer, either inside or outside the EOS ecosystem. Nevertheless, There are some projects offering tokenized voluntary carbon markets certificates outside the EOS ecosystem.. Although we cannot assess the quality of their underlying carbon credits, it is worth noting that in general voluntary carbon markets are prompt to greenwashing and due to lack of regulations or common standard, it is challenging to make an informed decision when purchasing voluntary carbon credits, regardless of their digital support. By way of example,there are green projects which claim to protect trees that were never in danger of being cut, thus making the green certificates arising from said projects not valuable from a environment-protection point of view.  
 As opposed to the voluntary carbon certificates, the European Commission is the guarantor of Emission Allowances and supervises the market stability over time. 
@@ -85,7 +93,8 @@ The team behind the project comes from diverse backgrounds. Besides IT expertise
 
 ### Team members
 
-- **Team Leader:** Plinio HERRERA SCHUWIRTH & Marco BASSAN GUERRIERI
+- **Team Leader:** Plinio Herrera Schuwirth 
+-  Marco Bassan Guerrieri
 - **IT Team Members:**
 - Miguel Angel Lopez (project manager, full-stack developer)
 - Nesrine Mrabet (full-stack developer)
@@ -102,9 +111,8 @@ The team behind the project comes from diverse backgrounds. Besides IT expertise
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
+The team has more than 20 years of collective experience in software development plus 10 years in IT project management. Some of the project that the team has worked on include integration of payment system in the Chilean tax offices, programming microcontrolers for IoT solutions and, participating in blockchain bounties.
 
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
 
 ### Team Org Repos
 
