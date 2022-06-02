@@ -433,9 +433,9 @@ www.wefund.app
  
 ## Development Roadmap
  
-- **Total Estimated Duration:** 4 months
+- **Total Estimated Duration:** 2 months
 - **Full-Time Equivalent (FTE):** 4 FTE
-- **Total Costs:** 86,000 USD
+- **Total Costs:** 24,000 USD
  
  
 | Milestone 1 | Smart Contract | Description |
@@ -450,6 +450,11 @@ www.wefund.app
 | 3. | EOSIO Sub-module: Z | We will create a EOSIO module that will generate the milestone system with voting power by the backers for approvale and release the next milestone or to close the project if is necessary and send back the money not used
 | 4. | EOSIO chain | Sub-modules X, Y & Z of our custom chain will interact in such a way to be decentralise and transparance all the process to create a project, back a project and see all the milestone system , project deliver and vote by the investor on the project
  
+- **Total Estimated Duration:** 4 months
+- **Full-Time Equivalent (FTE):** 5 FTE
+- **Total Costs:** 30,000 USD
+ 
+ 
 | Milestone 2 | Incubation | Description |
 | -----: | ----------- | ------------- |
 | 0a. | Incubation on Eos Ecosystem | Integrate our incubation process in EOS ecosystem and working with EOS foundation to incubate the projects is most required for make grow the ecosystem and help them to be ready for the fundraising with the community |
@@ -461,6 +466,11 @@ www.wefund.app
 | 2. | EOSIO TrustEVM: Y | We will create a Team for the TrustEVM incubation process
 | 3. | EOSIO Documents and check point: Z | We will create a document for entry criteria + full report of the incubation process and point done
 | 4. | EOSIO chain | Sub-modules X, Y & Z create a full and specific incubation plan to make sure EOS ecosystem grow and have the projects most is needed for this process and we offering the full support to make this projects growing in the right way. All this process is documented and pubblic to check.
+ 
+ 
+- **Total Estimated Duration:** 4 months
+- **Full-Time Equivalent (FTE):** 4 FTE
+- **Total Costs:** 32,000 USD
  
  
 | Milestone 3 | Marketing | Description |
