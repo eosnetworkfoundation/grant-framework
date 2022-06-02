@@ -11,7 +11,7 @@
 
 ## Contact
 
-- **Contact Name:** Plinio HERRERA SCHUWIRTH
+- **Contact Name:** Plinio Herrera Schuwirth
 - **Contact Email:** p.herrera@eo2.earth
 - **Website:** https://www.eo2.earth
 
