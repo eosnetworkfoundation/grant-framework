@@ -25,7 +25,7 @@ We are building a cross-platform mobile blockchain and SSI wallet for EOSIO publ
 
 We see this project as an extension of the Wallet+ blue paper. We want to support the work of these new EOSIO/Mandel SDK's by integrating early releases and giving feedback and potentially contributing to the development. We had already considered several of the features proposed in this blue paper: application registry, hardware wallets, account recovery and asset proxy/hosting service. While the initial proposal of Wallet+ is to support web applications, we will be able to adopt the JavaScript/typescript packages for our application as well as we are using React Native for the mobile wallet. This will also give the added benefit of providing a mobile testing ground for the Wallet+ deliverables.
 
-The mobile wallet will be fully open source (MIT or Apache 2.0 license) and provide a reference For other developers. This will be the first open-source self-sovereign identity EOSIO mobile client and the first identity solution using the EOSIO DID method.
+The mobile wallet will be fully open source (MIT or Apache 2.0 license) and provide a reference For other developers. This will be the first open-source self-sovereign identity EOSIO mobile client and the first identity solution using the EOSIO DID method. We make useability one of our highest priorities, ensuring that cryptography and blockchain are hidden from mainstream users as much as possible. We take a design first approach going through several rounds of increasing fidelity design prototypes and testing before starting development to ensure alignment with users and ecosystems.
 
 Due to the limited funding from only being at level 1 ($10,000), this grant proposal only seeks funding to support the development of its first recovery mechanism - social recovery. Other work is not covered in this proposal. We will be self-funding as well as receiving external European Horizon 2027 and other funding for the release of the first beta edition of the wallet. In future ENF and Pomelo proposals we aim to extend the features of this application and after a proper production launch offered it as a software as a service model for public and private chains.
 
@@ -36,29 +36,40 @@ Due to the limited funding from only being at level 1 ($10,000), this grant prop
 
 ### Project Details
 
-TODO technical description
+- **Our process and values**
 
-- Process
-Design first. Priorities: usability, security, privacy, sovereignty
+For technical development we value usability, security, privacy of personal information and sovereign control of your account. None of these should be compromised in an identity wallet.
+
+Our process:
+1. Brainstorm and concept development
+2. User reasearch
+3. Design hypersprint - a UX workshop where we discover flows and priorities
+4. Mockups and testing - creating a low fidelity click-through design that we conduct in person testing with users
+5. High-fidelity prototype - creating A high fidelity click-through design prototype that we conduct in pursing testing with users
+6. Research of technologies and architecture
+7. Development
 
 Deployed per chain or app.
 
-- Mockups/designs of any UI components
+- **Mockups/designs of any UI components**
   - Figma prototype access available upon request. Please email jack@tonomy.foundation
   - See video here: TODO
 
-- Data models of the core functionality
+- **Data models of the core functionality**
 
 Application architecture
+
 ![Application architecture](https://drive.google.com/uc?export=view&id=1HepZr9w9BxJ0EpGp2CZLeA7QtTjd1Ps9)
 
 We plan to use the EOSIO account model hierarchy for recoverability. This is an example of what an account might look like
+
 ![Account model example](https://drive.google.com/uc?export=view&id=1Jm7xwBnM6x4lRJRxOEMaSVAxEeIrwvY5)
 
 This UML diagram shows several of the datatypes and structures stored in the mobile wallet
+
 ![UML of data stored in the mobile wallet](https://drive.google.com/uc?export=view&id=12jOcSy39lk4im-ODADsasiu7jl3fhcrm)
 
-- API specifications of the core functionality
+- **API specifications of the core functionality**
 
 Draft public interfaces (typescript) for applications integrating with Tonomy ID:
   - [Identity](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/identity.type.ts) - Sign in and log out of your application with your Tonomy ID.
@@ -66,7 +77,7 @@ Draft public interfaces (typescript) for applications integrating with Tonomy ID
   - [Transactions](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/transaction.type.ts) - Sign EOSIO transactions
   - [Communication](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/communication.type.ts) - Send a message to another EOSIO account
 
-- An overview of the technology stack to be used
+- **An overview of the technology stack to be used**
 
   - See Application architecture diagram above
   - Mobile client: React Native
@@ -75,7 +86,7 @@ Draft public interfaces (typescript) for applications integrating with Tonomy ID
   - Data models: EOSIO signing request (ESR), verifiable credentials with [schema.org](https://schema.org) structures
   - Blockchain: EOSIO
 
-- Documentation of core components, protocols, architecture, etc. to be deployed
+- **Documentation of core components, protocols, architecture, etc. to be deployed**
 
 This project is creating the following softwares
 
@@ -84,7 +95,7 @@ This project is creating the following softwares
   - **Tonomy ID demo app** - a reactjs application showing demo flows applications can integrate with Tonomy ID To sign transactions, share credentials and consent and sign into their web2 or web3 application.
   - **Tonomy ID integration** - and integration repository used to run the above three applications in a developer environment for integration and automated testing.
 
-- PoC/MVP or other relevant prior work or research on the topic
+- **PoC/MVP or other relevant prior work or research on the topic**
 
 The following work was done by project lead Jack Tanner during his consulting and employment with [Gimly](https://www.gimly.io/). These experiences have led him to understand the identity landscape and create a design that will enable EOSIO chains to deliver one of the most advanced and empowering identity solution for web3:
 - Architecting and developing the entire [Myd](https://europechain.io/identity/myd-missing-piece-puzzle-ssi/) sovereign (not self-sovereign) identity solution for Europechain. See [myd.online](https://myd.online/).
@@ -100,7 +111,7 @@ Additionally, Jack has been in independently involved in several relevant prior 
 - Organising and running many [EOSIO workshops](https://theblockstalk.medium.com/the-eosio-blockchain-developer-workshop-now-available-on-youtube-ddeba54f0d94) - in person and online - and writing education and pratcical EOSIO material on [Medium](https://theblockstalk.medium.com/), [Github](https://github.com/theblockstalk) and [Twitter](https://twitter.com/theblockstalk).
 - Jack has been technically involved in blockchain since 2016 learning from Matthew Di Ferrente and Nick Johnson (core Ethereum Foundation developers) as a developer, auditor, educator and technical influencer. He has worked on many blockchain protocols and dApp architectures.
 
-- What your project is _not_ or will _not_ provide or implement
+- **What your project is _not_ or will _not_ provide or implement**
 
 Tonomy ID offers a range of features:
 1. EOSIO blockchain tx signing
@@ -116,12 +127,43 @@ Tonomy ID offers a range of features:
 
 This grant proposal **only seeks funding for #3, social recovery feature**. Other features will be funded through a mixture of self funding, EU grants and additional ENF and Pomelo grants in combination with revenue from our SaaS offering to industry.
 
+To be clear, we would prefer to receive more than $10,000 if possible to fund the development of this application.
+
 ### Ecosystem Fit
 
-- Where and how does your project fit into the ecosystem
-- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the EOSIO ecosystem?
+- **Where and how does your project fit into the ecosystem**
+
+We are developing an identity solution that can be used on public and private EOSIO blockchains. Users of each EOSIO chain will then be able to sign transactions on dApps securely from their mobile wallets. We aim to offer this as a SaaS and/or DIY with support package to industry as well as host and run a identity app for EOS, Telos and WAX.
+
+As previously mentioned, we see ourselves collaborating closely with the Wallet+ team to deliver an extended set of SDKs and services for wallets. We hope to provide a mobile testing ground for their software and likely assist in development ( probably through issue creation and PRs to fix bugs).
+
+We are excited to be 1st to truly bring a generic self-sovereign identity (SSI) solution to EOSIO. Other solutions like [OmniOne](https://omnione.net/en/main) and [Infra Blockchain](https://infrablockchain.com/en/posts/vaccine-passport-bclabs-notice) Do not maintain full EOSIO compatibility. Our solution develops the required libraries as well as a reference identity application which can be used by others. This is of tremendous value to the EOSIO ecosystem as it brings a highly adopted set of technologies and community with it that can then be available to EOSIO dApps including:
+  - credential sharing - Allow users to share their identity data privately with other users
+  - interoperability - All credential data standards across all did methods (Bitcoin, Ethereum, Polkadot, EOSIO, etc) are interoperable meaning that they can be validated even from another chain. This brings a level of interoperability between chains (between EOSIO chains and externally). With transnational companies like Microsoft and IBM and national government adoption of SSI this means EOSIO chains will be ready to use identities created by such institutions (even if not done using EOSIO).
+  - sovereign data - The SSI architecture allows full control over data without any third party storing your data.
+  - privacy and compliance - Ensuring identity data does not live on the block chain or any server significantly improves privacy andd ensurres that data compliance is built in.
+  - scalability - Moving identity off the blotting and into web or mobile clients improve scalability of the block chain
+  - communication - SSI tools like DIDComm allow a cross chain communication system to exist without having to trust third parties. This could be there in easy IBC solution for inter-dApp communication
+If you are unfamiliar with SSI we would be happy to Point you to some articles or give a brief introduction to SSI.
+
+- **Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?**
+
+
+chains
+EOS, telos, WAX
+ourself
+
+- **What need(s) does your project meet?**
+
+useability
+recoverability
+privacy
+security
+sovereignty
+scaleability
+
+
+- **Are there any other projects similar to yours in the EOSIO ecosystem?**
   - If so, how is your project different?
   - If not, are there similar projects in related ecosystems?
 
@@ -138,6 +180,7 @@ This grant proposal **only seeks funding for #3, social recovery feature**. Othe
 
 ### Legal Structure
 - **Registered Legal Entity:** Tonomy Stichting
+- **Registered Legal Country:** Netherlands
 - **Registered Address:** Thorbecke Laan, Baarn, Utrecht 3741TR, Netherlands
 
 ### Team Experience
