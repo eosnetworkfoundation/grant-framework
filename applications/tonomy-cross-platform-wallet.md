@@ -62,7 +62,6 @@ Application architecture
 ![Application architecture](https://drive.google.com/uc?export=view&id=1HepZr9w9BxJ0EpGp2CZLeA7QtTjd1Ps9)
 
 We plan to use the EOSIO account model hierarchy for recoverability. This is an example of what an account might look like
-
 ![Account model example](https://drive.google.com/uc?export=view&id=1Jm7xwBnM6x4lRJRxOEMaSVAxEeIrwvY5)
 
 This UML diagram shows several of the datatypes and structures stored in the mobile wallet
@@ -72,10 +71,14 @@ This UML diagram shows several of the datatypes and structures stored in the mob
 - **API specifications of the core functionality**
 
 Draft public interfaces (typescript) for applications integrating with Tonomy ID:
-  - [Identity](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/identity.type.ts) - Sign in and log out of your application with your Tonomy ID.
-  - [Credentials](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/credentials.type.ts) - Create and share verifiable credentials and store credentials in your sovereign storage
-  - [Transactions](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/transaction.type.ts) - Sign EOSIO transactions
-  - [Communication](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/communication.type.ts) - Send a message to another EOSIO account
+
+[Identity](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/identity.type.ts) - Sign in and log out of your application with your Tonomy ID.
+
+[Credentials](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/credentials.type.ts) - Create and share verifiable credentials and store credentials in your sovereign storage
+
+[Transactions](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/transaction.type.ts) - Sign EOSIO transactions
+
+[Communication](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/communication.type.ts) - Send a message to another EOSIO account
 
 - **An overview of the technology stack to be used**
 
@@ -90,10 +93,13 @@ Draft public interfaces (typescript) for applications integrating with Tonomy ID
 
 This project is creating the following softwares
 
-  - **[Tonomy ID](https://github.com/Tonomy-Foundation/Tonomy-ID)** - the cross-platform mobile wallet (Android and iOS) for public and private EOSIO blockchains
-  - **[Tonomy ID SDK](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK)** -  the typscript library used in Tonomy ID to interact and call with the EOSIO blockchain and services. It is also used as the public API for integration by applications to do single sign-on, share credentials and sign transactions.
-  - **Tonomy ID demo app** - a reactjs application showing demo flows applications can integrate with Tonomy ID To sign transactions, share credentials and consent and sign into their web2 or web3 application.
-  - **Tonomy ID integration** - and integration repository used to run the above three applications in a developer environment for integration and automated testing.
+**[Tonomy ID](https://github.com/Tonomy-Foundation/Tonomy-ID)** - the cross-platform mobile wallet (Android and iOS) for public and private EOSIO blockchains
+
+**[Tonomy ID SDK](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK)** -  the typscript library used in Tonomy ID to interact and call with the EOSIO blockchain and services. It is also used as the public API for integration by applications to do single sign-on, share credentials and sign transactions.
+
+**Tonomy ID demo app** - a reactjs application showing demo flows applications can integrate with Tonomy ID To sign transactions, share credentials and consent and sign into their web2 or web3 application.
+
+**Tonomy ID integration** - and integration repository used to run the above three applications in a developer environment for integration and automated testing.
 
 - **PoC/MVP or other relevant prior work or research on the topic**
 
