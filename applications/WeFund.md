@@ -509,7 +509,7 @@ Be able to work with the EOS fundation and TrustEVM to take and build the new te
  
 ## Additional Information
  
-**How did you hear about the Grants Program?** Personal Raccomandation
+**How did you hear about the Grants Program?** Personal Recomendation
 Yves La Rose
  
  
