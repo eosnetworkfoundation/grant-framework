@@ -438,11 +438,13 @@ www.wefund.app
 - **Full-Time Equivalent (FTE):** 13 FTE
 - **Total Costs:** 86,000 USD
  
+
+ 
 ### Milestone 1  — Implement Smart Contract
  
-- **Total Estimated Duration:** 2 months
-- **Full-Time Equivalent (FTE):** 4 FTE
-- **Total Costs:** 24,000 USD
+- **Estimated Duration** 2 months
+- **FTE:** 4 FTE
+- **Costs:** 24,000 USD
  
  
 | Milestone 1 | Smart Contract | Description |
@@ -459,9 +461,9 @@ www.wefund.app
 
 ### Milestone 2 — Incubation program
  
-- **Total Estimated Duration:** 4 months
-- **Full-Time Equivalent (FTE):** 5 FTE
-- **Total Costs:** 30,000 USD
+- **Estimated Duration:** 4 months
+- **FTE:** 5 FTE
+- **Costs:** 30,000 USD
  
  
 | Milestone 2 | Incubation | Description |
@@ -479,9 +481,9 @@ www.wefund.app
  
  ### Milestone 3 — marketing
  
-- **Total Estimated Duration:** 4 months
-- **Full-Time Equivalent (FTE):** 4 FTE
-- **Total Costs:** 32,000 USD
+- **Estimated Duration:** 4 months
+- **FTE:** 4 FTE
+- **Costs:** 32,000 USD
  
  
 | Milestone 3 | Marketing | Description |
