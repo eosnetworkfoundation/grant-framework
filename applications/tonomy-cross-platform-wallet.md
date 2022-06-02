@@ -36,28 +36,36 @@ Due to the limited funding from only being at level 1, this grant proposal only 
 ### Project Details
 
 - Mockups/designs of any UI components
-
-Figma prototype access available upon request. Please email jack@tonomy.foundation
-See video here:
-TODO
+  - Figma prototype access available upon request. Please email jack@tonomy.foundation
+  - See video here: TODO
 
 - Data models of the core functionality
 
 Application architecture
-![Application architecture2](https://drive.google.com/uc?export=view&id=1HAwuBd6dfuhQe7hu77gwzCyZbLD3n5JQ)
+![Application architecture](https://drive.google.com/uc?export=view&id=1HepZr9w9BxJ0EpGp2CZLeA7QtTjd1Ps9)
+
+We plan to use the EOSIO account model hierarchy for recoverability. This is an example of what an account might look like
+![Account model example](https://drive.google.com/uc?export=view&id=1Jm7xwBnM6x4lRJRxOEMaSVAxEeIrwvY5)
+
+This UML diagram shows several of the datatypes and structures stored in the mobile wallet
+![UML of data stored in the mobile wallet](https://drive.google.com/uc?export=view&id=12jOcSy39lk4im-ODADsasiu7jl3fhcrm)
 
 - API specifications of the core functionality
 
+TODO
+
 - An overview of the technology stack to be used
 
-See Application architecture diagram above
--- Mobile client: React Native
--- Key storage: [react-native-keychain](https://www.npmjs.com/package/react-native-keychain) (which uses key enclaves on the mobile device if available)
--- Transport layer: QR codes and DIDComm
--- Data models: EOSIO signing request (ESR), verifiable credentials with [schema.org](https://schema.org) structures
--- Blockchain: EOSIO
+  - See Application architecture diagram above
+  - Mobile client: React Native
+  - Key storage: [react-native-keychain](https://www.npmjs.com/package/react-native-keychain) (which uses key enclaves on the mobile device if available)
+  - Transport layer: QR codes and DIDComm
+  - Data models: EOSIO signing request (ESR), verifiable credentials with [schema.org](https://schema.org) structures
+  - Blockchain: EOSIO
 
 - Documentation of core components, protocols, architecture, etc. to be deployed
+
+TODO
 
 - PoC/MVP or other relevant prior work or research on the topic
 
@@ -73,6 +81,7 @@ Additionally, Jack has been in independently involved in several relevant prior 
 - Co-writing the [EOSIO Privacy report](https://eos.io/news/blockchain-privacy/) in collaboration with the EOSIO community and Block One. I led the research into existing privacy architectures, very relevant for understanding and leading architecture of SSI applications.
 - Leading the development of the [Civic Participation Tool](https://theblockstalk.medium.com/civic-participation-tool-upgrade-to-openstad-e7aed01c5271#c5a3) in which our team created a direct democracy tool on EOSIO with an SSI identity integration.
 - Organising and running many [EOSIO workshops](https://theblockstalk.medium.com/the-eosio-blockchain-developer-workshop-now-available-on-youtube-ddeba54f0d94) - in person and online - and writing education and pratcical EOSIO material on [Medium](https://theblockstalk.medium.com/), [Github](https://github.com/theblockstalk) and [Twitter](https://twitter.com/theblockstalk).
+- Jack has been technically involved in blockchain since 2016 learning from Matthew Di Ferrente and Nick Johnson (core Ethereum Foundation developers) as a developer, auditor, educator and technical influencer. He has worked on many blockchain protocols and dApp architectures.
 
 - What your project is _not_ or will _not_ provide or implement
 
@@ -82,10 +91,11 @@ Tonomy ID offers a range of features:
 3. Social recovery
 4. Hardware recovery
 5. Security question recovery
-6. Non-custodial third party recovery
+6. Non-custodial third party recovery ("guardians in Wallet+ paper)
 7. Verifiable Credential sharing
-8. SSO login to web2 and web3 applications
-9. Sovereign data cloud storage (client-side encrypted using a recoverable key)
+8. Peer-to-peer EOSIO account communication network
+9. SSO login to web2 and web3 applications
+10. Sovereign data cloud storage (client-side encrypted using a recoverable key)
 
 This grant proposal only seeks funding for #3, social recovery feature. Other features will be funded through a mixture of self funding, EU grants and additional ENF and Pomelo grants in combination with revenue from our SaaS offering to industry.
 
