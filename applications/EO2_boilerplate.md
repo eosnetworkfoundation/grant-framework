@@ -203,7 +203,7 @@ We use git-flow architecture to work on our repositories.We have already develop
 ### Milestone 3  Marketing
 - **Estimated duration:** 4 month
 - **FTE:**  4
-- **Costs:** 52,000 USD
+- **Costs:** 53,000 USD
 
 | Number | Amount | Specification |
 | -----: | ----------- | ------------- |
