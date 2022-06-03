@@ -6,7 +6,7 @@
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):**  3
 - **Pomelo Grant(s):** N/A
 - **Project is Open-Source:** Yes
-- **Project was part of Token sale:** Yes
+- **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/EO2-earth/EO2-app
 
 ## Contact
@@ -34,7 +34,7 @@ The following video provides a simple overview of our project: https://www.youtu
 ### Project Details
 
 The product consists of two applications focused on each user segment and/or the intended use of the Token: one for customers who will use EO2 Token as means of payment, for donations, and as a store of value; the second app is design to meet the needs of corporate users who will use the EO2 Token to pursue their sustainable agenda. Both applications will be declined in desktop and mobile version. 
-- **Individual user Webapp:** ReactJS 18 UI Boilerplate and React CSS and material-UI for component designs. Account creation on EOSIO-based blockchain, Plug and play KYC and AML screening integration using a third-party provider (Likely to be Scorechain), backend using AWS and Sidebar Menu with Dashboard, Assets, Support, and buttons for each project-specific development. The webapp will include the integration of external authorization providers' such as ANCHOR and LEDGER.
+- **Individual user Webapp:** ReactJS 18 UI Boilerplate and React CSS and material-UI for component designs. Account creation on EOSIO-based blockchain, Plug and play KYC and AML screening integration using a third-party provider (Likely to be Scorechain), backend using AWS. Sidebar Menu with Dashboard, Assets, Support, and buttons for each project-specific development. The webapp will include the integration of external authorization providers' such as ANCHOR and LEDGER.
 - **Marketing:** consists of a three stage funnel that will help to the brand recognition and adoption:
 	
 	-**Captivating attention** through social networks, active participation in sustainability-related communities and providing incentives to individual users to join the EO2 community. As for corporate customers, specific marketing campaigns will leverage their needs aiming to develop more structured partnertship. The Greentech Alliance constitutes a preferential channel to create synergies and partnertship with relevant customers.
@@ -69,18 +69,18 @@ Apps developed by EO2 that are meant to be open-source are aimed at Dapp/UI Deve
 Our target audience is composed by:
 -	Individuals that wants to either store the value of their savings or voluntarily clear their carbon footprint.
 -	Companies looking for a more straightforward solution to fulfill their environmental goals without the intrinsic risk of greenwashing present in voluntary carbon markets. 
--	Investors looking for new cryptocurrencies to invest their money or to balance their investment portfolio.
--	Companies covered by the EU ETS that would benefit from an alternative to make their banked allowances more liquid, thus allocating extra resources to finance new technology and speed up their transition to Net-Zero.
+-	Investors looking for Digital Assets to invest their money or to balance their investment portfolio.
+-	Companies covered by the EU ETS (I.e. the EU regulated Carbon Market) that would benefit from an alternative to make their banked allowances more liquid, thus allocating extra resources to finance new technology and speed up their transition to Net-Zero.
 
 - **What need(s) does your project meet?**
 
-Our project is looking to make EUAs trading more accessible, easier to manage, and more inclusive.
+Our project is looking to make EUAs (Emissions Allowances, I.e. the EU regulated Carbon Credits) trading more accessible, easier to manage, and more inclusive.
 
-As most regulated carbon markets, the EU compliance Carbon Market is substantially a closed system. Barriers to access the market, allow only covered enterprises (those required by the law to comply with it) and intermediaries to currently trade, invest and offset their emissions with EU Emission Allowances. Due to this friction, all stakeholders different from the above (i.e. SMEs and individuals) need to buy unregulated carbon certificates from the voluntary carbon market, proving to be prompt to greenwash. 
+As most regulated carbon markets, the EU compliance Carbon Market is substantially a closed system. Barriers to access the market, allow only covered enterprises (those required by the law to comply with it) and intermediaries to currently trade, invest and offset their emissions with EU Emission Allowances (EUAs). Due to this friction, all stakeholders different from the above (i.e. SMEs and individuals) need to buy unregulated carbon certificates from the voluntary carbon market, which has shown to be prompt to greenwash. 
 
-By enabling stakeholders to access the regulated carbon market, our project proposes a more solid and reliable alternative to those currently purchasing carbon certificates in the voluntary carbon market. To SMEs and individuals, the tokenization of Emission Allowances represents an easy and frictionless access to the regulated carbon market. 
+By enabling all stakeholders to access the regulated carbon market, our project proposes a more solid and reliable alternative to those currently purchasing carbon certificates in the voluntary carbon market. To SMEs and individuals, the tokenization of Emission Allowances represents an easy and frictionless access to the regulated carbon market. 
 
-Each Token is backed by an Emission Allowance, which provides value stability over time. EO2 will be the custodian of the Emission Allowances, and Token holders will be able to redeem the Token and be assigned with the underlying Allowances.   Each Token can be undefinetely transacted among users and companies, but once donated (I.e. from an individual to a company) , Tokens can only be “burned”. When Tokens are burned, the underlying Emission Allowances are surrendered off-chain before the European Commission registry. In addition, EO2 will make public the list of surrendered Emission Allowances in order to disclose to what extent companies and individuals are effectively contributing to the fight against climate change.
+Each issued Token is backed by an Emission Allowance, which provides value stability over time. EO2 will be the custodian of the Emission Allowances, and Token holders will be able to redeem the Token and be assigned with the underlying Allowances anytime.   Each Token can be undefinetely transacted among users and companies, but once donated (E.g. from an individual to a company) , Tokens can only be “burned”. When Tokens are burned, the underlying Emission Allowances are surrendered off-chain before the European Commission registry. In addition, EO2 will make public the list of surrendered Emission Allowances in order to disclose to what extent companies and individuals are effectively contributing to the fight against climate change.
 
 - **Are there any other projects similar to yours in the EOSIO ecosystem? If not, are there similar projects in related ecosystems?**
 
@@ -93,8 +93,9 @@ The team behind the project comes from diverse backgrounds. Besides IT expertise
 
 ### Team members
 
-- **Team Leader:** Plinio Herrera Schuwirth 
--  Marco Bassan Guerrieri
+- **Team Leader:** 
+- Plinio Herrera Schuwirth 
+- Marco Bassan Guerrieri
 - **IT Team Members:**
 - Miguel Angel Lopez (project manager, full-stack developer)
 - Nesrine Mrabet (full-stack developer)
@@ -111,7 +112,7 @@ The team behind the project comes from diverse backgrounds. Besides IT expertise
 
 ### Team Experience
 
-The team has more than 20 years of collective experience in software development plus 10 years in IT project management. Some of the project that the team has worked on include integration of payment system in the Chilean tax offices, programming microcontrolers for IoT solutions and, participating in blockchain bounties.
+The team has more than 20 years of collective experience in software development plus 10 years in IT project management. Some of the projects that the team has worked on include integration of payment system in the Chilean tax offices, programming microcontrolers for IoT solutions and, participating in blockchain bounties.
 
 
 ### Team Org Repos
@@ -220,7 +221,7 @@ We use git-flow architecture to work on our repositories.We have already develop
 - The plan include a test launch open to the public in late June 2022 to evaluate the performance of the application and smart contract, test the business logic and gain traction with users.
 - Develop a corporate version of the web-app and a mobile version. 
 - Captivate the attention of non-crypto users. This step will include a strong social media presence, paid advertising, and partnership with companies.
-- Ongoing applications to incubators to help us in the startup and scaleup phases.
+- Ongoing applications to incubators/accelerators to help us in the startup and scaleup phases.
 - Presence in fairs related with sustainability and blockchain.
 - We plan to make the first tokenization of allowances in late October 2022 with all compliance requirements completed.
 - Long-term goal is to expand to several registries of allowances in Europe and interconnect with registries outside the European Union.
@@ -228,8 +229,8 @@ We use git-flow architecture to work on our repositories.We have already develop
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** Yves la Rose recommended us the program to help develop our platform.
+**How did you hear about the Grants Program?** Yves la Rose recommended us the grants program to help develop our platform.
 
-The project it's being financed by its 2 Co-founders from the research phase in early 2021 until the completed MVP.
+The project has being financed by its 2 Co-founders from the research phase in early 2021 until the completed MVP.
 
 No other grants have been received nor external financing. Nevertheless, we plan to raise funds in the seed phase to scale our venture.
