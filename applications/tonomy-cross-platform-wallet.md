@@ -144,7 +144,7 @@ We are developing an identity solution that can be used on public and private EO
 As previously mentioned, we see ourselves collaborating closely with the Wallet+ team to deliver an extended set of SDKs and services for wallets. We hope to provide a mobile testing ground for their software and likely assist in development ( probably through issue creation and PRs to fix bugs).
 
 We are excited to be 1st to truly bring a generic self-sovereign identity (SSI) solution to EOSIO. Other solutions like [OmniOne](https://omnione.net/en/main) and [Infra Blockchain](https://infrablockchain.com/en/posts/vaccine-passport-bclabs-notice) Do not maintain full EOSIO compatibility. Our solution develops the required libraries as well as a reference identity application which can be used by others. This is of tremendous value to the EOSIO ecosystem as it brings a highly adopted set of technologies and community with it that can then be available to EOSIO dApps including:
-  - credential sharing - Allow users to share their identity data privately with other users
+  - credential sharing - Allow users to share their identity data privately with other users. This is a privacy-preserving alternative approach to the Wallet+ "profiles"
   - interoperability - All credential data standards across all did methods (Bitcoin, Ethereum, Polkadot, EOSIO, etc) are interoperable meaning that they can be validated even from another chain. This brings a level of interoperability between chains (between EOSIO chains and externally). With transnational companies like Microsoft and IBM and national government adoption of SSI this means EOSIO chains will be ready to use identities created by such institutions (even if not done using EOSIO).
   - sovereign data - The SSI architecture allows full control over data without any third party storing your data.
   - privacy and compliance - Ensuring identity data does not live on the block chain or any server significantly improves privacy andd ensurres that data compliance is built in.
@@ -155,8 +155,9 @@ If you are unfamiliar with SSI we would be happy to Point you to some articles o
 - **Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?**
 
 
-chains
+chains for identity
 EOS, telos, WAX
+dapps for tx signing, SSO and other features
 ourself
 
 - **What need(s) does your project meet?**
