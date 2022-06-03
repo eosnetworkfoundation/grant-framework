@@ -2,7 +2,7 @@
 
 - **Project Name:** EO2
 - **Team Name:** EOTWO SAS
-- **EOS Payment Address:** eotwodonacc
+- **EOS Payment Address:** eotwodonacct
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):**  3
 - **Pomelo Grant(s):** N/A
 - **Project is Open-Source:** Yes
