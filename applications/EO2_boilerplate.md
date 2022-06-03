@@ -162,9 +162,9 @@ We use git-flow architecture to work on our repositories.We have already develop
 
 - **Total Estimated Duration:** 4 months 
 - **Full-Time Equivalent (FTE):** Eight (8)
-- **Total Costs:** 122,000 USD
+- **Total Costs:** 123,000 USD
 	- **IT Development:** 50,000 USD
-	- **Marketing-related expenses:** 52,000 USD
+	- **Marketing-related expenses:** 53,000 USD
 	- **Compliance & legal costs:** 15,000 USD
 	- **Petty cash and eventualities:** 5,000 USD
 
