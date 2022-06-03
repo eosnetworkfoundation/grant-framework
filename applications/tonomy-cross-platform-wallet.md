@@ -103,19 +103,12 @@ This project is creating the following softwares
 
 - **PoC/MVP or other relevant prior work or research on the topic**
 
-The following work was done by project lead Jack Tanner during his consulting and employment with [Gimly](https://www.gimly.io/). These experiences have led him to understand the identity landscape and create a design that will enable EOSIO chains to deliver one of the most advanced and empowering identity solution for web3:
-- Architecting and developing the entire [Myd](https://europechain.io/identity/myd-missing-piece-puzzle-ssi/) sovereign (not self-sovereign) identity solution for Europechain. See [myd.online](https://myd.online/).
-- Running the [EOSIO identity working group](https://www.gimly.io/eosio-identity) in which we researched and built the EOSIO DID in collaboration with the community and Block One.
-- Writing the [EOSIO DID spec](https://github.com/Gimly-Blockchain/eosio-did-spec)
-- Leading the development of the [EOSIO DID resolver](https://github.com/Gimly-Blockchain/eosio-did-resolver)
-- Leading and writing the W3C standard [Verifiable Conditions](https://github.com/w3c-ccg/verifiable-conditions) to allow EOSIO and other DID methods to suitably expose multi-key material and delegated authorizations in DID Documents. This was then incorporated in the EOSIO DID.
-- Researching recovery techniques, sovereign storage, locking protocols and more for the research deliverable for EU funded project [Gimly ID](https://www.gimly.io/gimly-id). This research survey existing technologies needed to build a fully self sovereign identity system.
-
-Additionally, Jack has been in independently involved in several relevant prior works:
-- Co-writing the [EOSIO Privacy report](https://eos.io/news/blockchain-privacy/) in collaboration with the EOSIO community and Block One. I led the research into existing privacy architectures, very relevant for understanding and leading architecture of SSI applications.
-- Leading the development of the [Civic Participation Tool](https://theblockstalk.medium.com/civic-participation-tool-upgrade-to-openstad-e7aed01c5271#c5a3) in which our team created a direct democracy tool on EOSIO with an SSI identity integration.
-- Organising and running many [EOSIO workshops](https://theblockstalk.medium.com/the-eosio-blockchain-developer-workshop-now-available-on-youtube-ddeba54f0d94) - in person and online - and writing education and pratcical EOSIO material on [Medium](https://theblockstalk.medium.com/), [Github](https://github.com/theblockstalk) and [Twitter](https://twitter.com/theblockstalk).
-- Jack has been technically involved in blockchain since 2016 learning from Matthew Di Ferrente and Nick Johnson (core Ethereum Foundation developers) as a developer, auditor, educator and technical influencer. He has worked on many blockchain protocols and dApp architectures.
+See our Team Experience below. Very specific for this proposl is
+1. We have already built a self sovereign identity at on EOSIO - Myd
+2. We have led and developed the core components needed for EOSIO SSI in the EOSIO identity working group and EOSIO DID work, this also shows our willingness to collaborate openly with the ecosystem
+3. We have researched various technical building blocks and protocols relevant for making this product as part of the EU funded Gimly ID project
+4. We have built a prototype direct democracy dApp on EOSIO leading us to further understand the requirements of web3 identity - the Civic Participation Tool
+5. We have a deep and varied knowledge and commercial of both EOSIO and other blockchains and SSI technologies, tools and communities
 
 - **What your project is _not_ or will _not_ provide or implement**
 
@@ -129,7 +122,8 @@ Tonomy ID offers a range of features:
 7. Verifiable Credential sharing
 8. Peer-to-peer EOSIO account communication network
 9. SSO login to web2 and web3 applications
-10. Sovereign data cloud storage (client-side encrypted using a recoverable key)
+10. Sybil protection
+11. Sovereign data cloud storage (client-side encrypted using a recoverable key)
 
 This grant proposal **only seeks funding for #3, social recovery feature**. Other features will be funded through a mixture of self funding, EU grants and additional ENF and Pomelo grants in combination with revenue from our SaaS offering to industry.
 
@@ -154,25 +148,23 @@ If you are unfamiliar with SSI we would be happy to Point you to some articles o
 
 - **Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?**
 
+The Tonomy ID product will be targeted for EOSIO blockchains. As a revenue stream, we see ourselves mainly reaching out to industries or current industry EOSIO chains as a solution for them.
 
-chains for identity
-EOS, telos, WAX
-dapps for tx signing, SSO and other features
-ourself
+We also plan to host a solution on at least one of the major EOSIO public chains: EOS, Telos and WAX. We hope to get the support of the foundations/communities in launching these. We expect these to to be white labelled to some degree, e.g. EOS ID, Telos ID etc for their branding... The adoption on a chain basis depends on the support from their community. We also plan to support account creation and as this depends on each chain, will need to collaborate further with each ecosystem.
+
+As part of our efforts to increase adoption and get feedback about software, We will additionally target dApps in EOS, Telos and WAX. For example, we are already talking with Hypha DAO on Telos about creating an identity solution for them on Telos. By talking to dApps we can discuss the specific features that they need for their application.
 
 - **What need(s) does your project meet?**
 
-useability
-recoverability
-privacy
-security
-sovereignty
-scaleability
+Our strategy prioritises usability without compromising security or privacy. We aim to create a user-friendly chain specific identity application in which users do not need to know or see aany cryptography or even watching information. This addresses a major usability issue in most EOSIO chain ecosystems.
 
+Our additional features such as recoverability or credential sharing provide the means for dApps to decentralise their identity and onboarding process in a way that the whole ecosystem can trust.
+
+With self sovereign identity, we ensure current dApps meet human privacy rights and important compliance regulations such as Europe's GDPR, California's CCPA and general KYC regulations. Just as important, SSI provides a large scalability improvement by moving data off the blockchain / IPFS and into the hands of the people can then share it peer-to-peer.
 
 - **Are there any other projects similar to yours in the EOSIO ecosystem?**
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+Contact us for a more detailed market analysis.
+![Application architecture](https://drive.google.com/uc?export=view&id=1S_YVQp8MoK6Ornk2q_hmGaT-YnnteViA)
 
 ## Team
 
@@ -192,21 +184,26 @@ scaleability
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
+The following work was done by project lead Jack Tanner during his consulting and employment with [Gimly](https://www.gimly.io/). These experiences have led him to understand the identity landscape and create a design that will enable EOSIO chains to deliver one of the most advanced and empowering identity solution for web3:
+- Architecting and developing the entire [Myd](https://europechain.io/identity/myd-missing-piece-puzzle-ssi/) sovereign (not self-sovereign) identity solution for Europechain. See [myd.online](https://myd.online/).
+- Running the [EOSIO identity working group](https://www.gimly.io/eosio-identity) in which we researched and built the EOSIO DID in collaboration with the community and Block One.
+- Writing the [EOSIO DID spec](https://github.com/Gimly-Blockchain/eosio-did-spec)
+- Leading the development of the [EOSIO DID resolver](https://github.com/Gimly-Blockchain/eosio-did-resolver)
+- Leading and writing the W3C standard [Verifiable Conditions](https://github.com/w3c-ccg/verifiable-conditions) to allow EOSIO and other DID methods to suitably expose multi-key material and delegated authorizations in DID Documents. This was then incorporated in the EOSIO DID.
+- Researching recovery techniques, sovereign storage, locking protocols and more for the research deliverable for EU funded project [Gimly ID](https://www.gimly.io/gimly-id). This research survey existing technologies needed to build a fully self sovereign identity system.
 
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+Additionally, Jack has been in independently involved in several relevant prior works:
+- Co-writing the [EOSIO Privacy report](https://eos.io/news/blockchain-privacy/) in collaboration with the Suneet and the EOSIO community and Block One. I led the research into existing privacy architectures, very relevant for understanding and leading architecture of SSI applications.
+- Leading the development of the [Civic Participation Tool](https://theblockstalk.medium.com/civic-participation-tool-upgrade-to-openstad-e7aed01c5271#c5a3) in which our team created a direct democracy tool on EOSIO with an SSI identity integration.
+- Organising and running many [EOSIO workshops](https://theblockstalk.medium.com/the-eosio-blockchain-developer-workshop-now-available-on-youtube-ddeba54f0d94) - in person and online - and writing education and pratcical EOSIO material on [Medium](https://theblockstalk.medium.com/), [Github](https://github.com/theblockstalk) and [Twitter](https://twitter.com/theblockstalk).
+- Jack has been technically involved in blockchain since 2016 learning from Matthew Di Ferrente and Nick Johnson (core Ethereum Foundation developers) as a developer, auditor, educator and technical influencer. He has worked on many blockchain protocols and dApp architectures.
 
-Myd, EOSIO DID, EOSIO identity working group, gimly, Verifiable Conditions, W3C CCG, DIF
-EOSIO training
-ethereum
-other from other teammates?
+TODO add something about Suneet
 
 ### Team Org Repos
 
 - https://github.com/Tonomy-Foundation
 - https://github.com/Tonomy-Foundation/civic-participation
-
-TODO add Chris and Carrie?
 
 ### Team Member Repos
 
@@ -218,6 +215,8 @@ TODO add Chris and Carrie?
 - https://github.com/theblockstalk/funnels
 - https://github.com/kamitor
 - https://github.com/carrie2240
+- https://github.com/bendre
+- https://github.com/Rebal67
 
 ### Team LinkedIn Profiles (if available)
 
@@ -227,16 +226,16 @@ TODO add Chris and Carrie?
 - https://www.linkedin.com/in/carrie-ann-smith-95240899/
 - https://www.linkedin.com/in/jordanelizabethfisher/
 - https://www.linkedin.com/in/mia-jacobson-012218139/
+- https://www.linkedin.com/in/suneet-bendre/
+- TODO rebal
 
 ## Development Status
 
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
+We have currently finished a clickable prototype.
 
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+We are currently in the process of creating the final design. We have begun setting up some of the repositories needed.
+
+As mentioned previously, Jack Tanner has conducted a large amount of research into protocols and Technical components needed to create this application during his contracting and employment with Gimly. He has also been involved with the EOSIO community since the EOS public block chain launch. An example of this is the publishing of the Data Privacy Research report. See **Team Experience** for more information.
 
 ## Development Roadmap
 
