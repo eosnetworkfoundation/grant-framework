@@ -89,7 +89,7 @@ As opposed to the voluntary carbon certificates, the European Commission is the 
 
 ## Team
 
-The team behind the project comes from diverse backgrounds. Besides IT expertise, the team members' experience includes Tax & Legal, Accounting, , Business Administration, Marketing & Communication, Corporate Finance, Sustainable Markets, and Strategy. 
+The team behind the project comes from diverse backgrounds. Besides IT expertise, the team members' experience includes Tax & Legal, Accounting, Business Administration, Marketing & Communication, Corporate Finance, Sustainable Markets, and Strategy. 
 
 ### Team members
 
