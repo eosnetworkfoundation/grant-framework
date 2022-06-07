@@ -2,7 +2,7 @@
 
 - **Project Name:** EOS Spanish Courses
 - **Team Name:** Néstor Nicolás Campos Rojas
-- **EOS Payment Address:** EOS8JMTiWH9hjJJnJLexEsiRRx8nh3NZaYmqipBrccKV6mnPVvuKj
+- **EOS Payment Address:** nescampos.gm
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 - **Pomelo Grant(s):** N/A
 - **Project is Open-Source:** Yes
