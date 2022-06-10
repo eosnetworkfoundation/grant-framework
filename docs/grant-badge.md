@@ -1,7 +1,7 @@
 # ENF Grant Badge Usage Guidelines
 Usage of the ENF Grant Badge must adhere to the following guidelines.
 
-<img align="right" width="400" src="../img/badge_black.svg">
+<img align="right" width="400" src="../img/ENF-grant-badge.svg">
 
 **Once a project's first milestone has been accepted**, we intend to help teams acknowledge their grant publicly while observing the ENF’s guidelines.
 
