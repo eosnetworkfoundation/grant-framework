@@ -26,15 +26,15 @@ The ENF makes payments after each milestone is approved.  The Grant Evaluators n
 
 ### What if I want to leverage another open-source project.  Is that OK?
 
-Yes.  As long as you abibe by the licenses on that open-source project.
+Yes.  As long as you abide by the licenses on that open-source project.
 
 ### What can I do if my application was rejected?
 
-The Grant Committee stives to provide useful feedback. It is possible you can modify your application and re-apply.  Or try a different type project for funding.
+The Grant Committee strives to provide useful feedback. It is possible you can modify your application and re-apply.  Or try a different type project for funding.
 
 ### Why have other grants made it through the system faster than mine?
 
-Each application is unique. They need to be approved by the Grant Committee first - which may result in a number of meetingd to resolve a difference of opinion.  Secondly, the Grant Evaluators may request modifications to your application, which may also slow down the process.
+Each application is unique. They need to be approved by the Grant Committee first - which may result in a number of meetings to resolve a difference of opinion.  Secondly, the Grant Evaluators may request modifications to your application, which may also slow down the process.
 
 ## Application Process
 
@@ -58,21 +58,21 @@ Please communicate with us at grants@eosn.foundation.  We will try to work with 
 
 ### Can I list the EOS Network Foundation as a parner?
 
-Only after you have completed your first milesone may you display the ENF grant badge in a contect of the repository containing your work or an about page on your website.
+Only after you have completed your first milesone may you display the ENF grant badge in a context of the repository containing your work or an about page on your website.
 
 ### Will the ENF help promote my project?
 
-While we do not provide PR servies, we will tweet about your project after you have delovered your first milestone and likely after each milestone has been completed.
+While we do not provide PR servies, we will tweet about your project after you have delivered your first milestone and likely after each milestone has been completed.
 
-### What if I now realize it will be impossible to complete on of the milestones?
+### What if I realize it will be impossible to complete on of the milestones?
 
-PLease contact us at grants@eosn.foundation and we will attempt to work changes out with you.  We will likely have you resubmit a moddified application which will be reviewed by the Committee.
+PLease contact us at grants@eosn.foundation and we will attempt to work out changes with you.  We will likely have you resubmit a moddified application which will be reviewed by the Committee.
 
 ## Milestone Delivery
 
 ### How do I submit a milestone?
 
-For details, please refer to the [milestone delivery guidelines](./milestone-deliverables-guidelines.md) for the respective grants program.  Generally speaking, the most important part of a delivery is a list of **the same deliverables listed in the application** with links to their specific commit or tag.  The list of deliverables for each of your milestones should be defined in your grant agreement.
+For details, please refer to the [milestone delivery guidelines](./milestone-deliverables-guidelines.md) for the respective grants program.  Generally speaking, the most important part of a milestone delivery is a list of **the same deliverables listed in the application** with links to their specific commit or tag.  The list of deliverables for each of your milestones should be defined in your grant agreement.
 
 ### Can I submit two or more milestones at one?
 
@@ -80,9 +80,9 @@ No.  We need clear linkage to each milestone so we can separately assess, approv
 
 ### Can I add a badge to my repo once I’ve completed a milestone?
 
-  Yes  - if your grant is [Level 2 or 3](../README.md#grant-levels) grant and your first milestone has been submitted **and accepted**. Please make sure that you follow the [badge guidelines](./grant-badge-guidelines.md) when doing so.
+  Yes  - if your grant is [Level 2 or 3](../README.md#grant-levels) grant and your first milestone has been submitted **and accepted**. Please make sure that you follow the [badge guidelines](./grant-badge.md) when doing so.
 
 
 ### Why are other milestones being accepted or discussed faster than mine?
 
-The Grant Evaluators may request information on your milestone, which may also slow down the process.
+The Grant Evaluators may request information on your milestone, which may slow down the process.
