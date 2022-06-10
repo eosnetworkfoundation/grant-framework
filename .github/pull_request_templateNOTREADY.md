@@ -15,21 +15,22 @@
 
 - [x] The [application template]([xxxx](https://github.com/eosnetworkfoundation/grant-framework/blob/main/applications/application-template.md)) has been copied, renamed ( `project_name.md`) and updated.
 - [ ] I have read and understood the:
-  - [ ] [FAQs](https://github.com/w3f/Grants-Program/blob/master/docs/faq.md), 
-  - [ ] [application guidelines](https://github.com/w3f/Grants-Program/blob/master/docs/grant_guidelines_per_category.md) and 
-  - [ ] [announcement guidelines](https://github.com/w3f/Grants-Program/blob/master/docs/announcement-guidelines.md).
+  - [ ] [FAQs](https://github.com/eosnetworkfoundation/grant-framework/blob/main/docs/faq.md), 
+  - [ ] [application guidelines](https://github.com/eosnetworkfoundation/grant-framework/blob/main/docs/grant_guidelines_per_category.md) and 
+  - [ ] [announcement guidelines](https://github.com/eosnetworkfoundation/grant-framework/blob/main/docs/announcement-guidelines.md).
 - [ ] An EOS address for the payment of the milestones is provided inside the application.
-- [ ] I have read and acknowledge the [terms and conditions](https://github.com/w3f/Grants-Program/blob/master/docs/T&Cs.md).
+- [ ] I have read and acknowledge the [terms and conditions](https://github.com/eosnetworkfoundation/grant-framework/blob/main/docs/T&Cs.md).
 - [ ] The software delivered for this grant will be released under an open-source license specified in the application.
 - [ ] The initial PR contains only one commit (squash and force-push if needed).
-- [ ] The grant will only be announced once the first milestone [has been accepted](https://github.com/w3f/Grant-Milestone-Delivery#process).
+- [ ] The grant will only be announced once the first milestone [has been accepted](https://github.com/eosnetworkfoundation/grant-milestones#process).
 
 ### How Did You Hear About our grants program?
 
 - [ ] Social Media
-- [ ] Hackathon
+- [ ] EOSNetwork.com
 - [ ] Personal Recommendation
 - [ ] ENF Fireside Chat
 - [ ] Investor/VC
 - [ ] Online Search
+- [ ] Hackathon
 - [ ] Other: _______
