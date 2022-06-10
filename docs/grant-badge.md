@@ -5,7 +5,7 @@ Usage of the ENF Grant Badge must adhere to the following guidelines.
 
 **Once a project's first milestone has been accepted**, we intend to help teams acknowledge their grant publicly while observing the ENF’s guidelines.
 
-To that end, we’ve created a badge for grant recipients. This is available for download under [eosnetworkfoundation/grants/badge](../img/logo.svg).
+To that end, we’ve created a badge for grant recipients. This is available for download under [eosnetworkfoundation/grants/badge](../img/ENF-grant-badge.svg).
 
 *Before you begin using the badge, please note the following points:*
 
