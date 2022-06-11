@@ -18,13 +18,13 @@
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
-| [TDSoftware](https://www.tdsoftware.de/) | SubIdentity | [GitHub](https://github.com/TDSoftware) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [ChainSafe Systems](https://chainsafe.io/) | SubstrateSnap Maintenance Proposal | [GitHub](https://github.com/ChainSafe/metamask-snap-polkadot) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Time2Discover](https://thelostdiamond.io/) | The Lost Diamond | [GitHub](https://github.com/bjornomsland) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [ZeroPass](https://https://zeropass.io//) | EOS Cryptography Proposal | [GitHub](https://github.com/ZeroPass) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 
 
 ## Wave 1 - First Quarter 2022
 
+None
+
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
-| [Chainify](https://github.com/chainify) | Nolik | [GitHub](https://github.com/chainify) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Pennsylvania State University](https://www.psu.edu/) | Avoiding Rust Deadlocks via Lifetime Visualization | [GitHub](https://songlh.github.io/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
