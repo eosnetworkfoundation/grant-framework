@@ -19,7 +19,7 @@
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
 | [Time2Discover](https://time2discover.no/) | The Lost Diamond | [GitHub](https://github.com/bjornomsland) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [ZeroPass](https://https://zeropass.io//) | EOS Cryptography Proposal | [GitHub](https://github.com/ZeroPass) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [ZeroPass](https://zeropass.io/) | EOS Cryptography Proposal | [GitHub](https://github.com/ZeroPass) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 
 
 ## Wave 1 - First Quarter 2022
