@@ -202,3 +202,5 @@ Chronicle would easily fit for such services.
 ## Additional Information
 
 **How did you hear about the Grants Program?** Twitter and Discord
+
+
