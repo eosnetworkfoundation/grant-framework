@@ -1,6 +1,6 @@
 # EOS Network Foundation Grant Proposal
 
-- **Project Name:** EOSIO cross-platform wallet
+- **Project Name:** EOSIO cross-platform mobile wallet
 - **Team Name:** Tonomy Foundation
 - **EOS Payment Address:** tonomyaccou1
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
