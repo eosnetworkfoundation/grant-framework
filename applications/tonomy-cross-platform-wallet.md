@@ -65,14 +65,10 @@ We plan to use the EOSIO account model hierarchy for recoverability. This is an 
 ### **API specifications of the core functionality**
 
 Draft public interfaces (typescript) for applications integrating with Tonomy ID:
-
-[Identity](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/identity.type.ts) - Sign in and log out of your application with your Tonomy ID.
-
-[Credentials](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/credentials.type.ts) - Create and share verifiable credentials and store credentials in your sovereign storage
-
-[Transactions](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/transaction.type.ts) - Sign EOSIO transactions
-
-[Communication](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/communication.type.ts) - Send a message to another EOSIO account
+- [Identity](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/identity.type.ts) - Sign in and log out of your application with your Tonomy ID.
+- [Credentials](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/credentials.type.ts) - Create and share verifiable credentials and store credentials in your sovereign storage
+- [Transactions](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/transaction.type.ts) - Sign EOSIO transactions
+- [Communication](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/blob/master/src/integration/communication.type.ts) - Send a message to another EOSIO account
 
 #### **An overview of the technology stack to be used**
 
@@ -87,13 +83,10 @@ Draft public interfaces (typescript) for applications integrating with Tonomy ID
 
 This project is creating the following softwares
 
-**[Tonomy ID](https://github.com/Tonomy-Foundation/Tonomy-ID)** - the cross-platform mobile wallet (Android and iOS) for public and private EOSIO blockchains
-
-**[Tonomy ID SDK](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK)** -  the typscript library used in Tonomy ID to interact and call with the EOSIO blockchain and services. It is also used as the public API for integration by applications to do single sign-on, share credentials and sign transactions.
-
-**Tonomy ID demo app** - a reactjs application showing demo flows applications can integrate with Tonomy ID To sign transactions, share credentials and consent and sign into their web2 or web3 application.
-
-**Tonomy ID integration** - and integration repository used to run the above three applications in a developer environment for integration and automated testing.
+- **[Tonomy ID](https://github.com/Tonomy-Foundation/Tonomy-ID)** - the cross-platform mobile wallet (Android and iOS) for public and private EOSIO blockchains
+- **[Tonomy ID SDK](https://github.com/Tonomy-Foundation/Tonomy-ID-SDK)** -  the typscript library used in Tonomy ID to interact and call with the EOSIO blockchain and services. It is also used as the public API for integration by applications to do single sign-on, share credentials and sign transactions.
+- **Tonomy ID demo app** - a reactjs application showing demo flows applications can integrate with Tonomy ID To sign transactions, share credentials and consent and sign into their web2 or web3 application.
+- **Tonomy ID integration** - and integration repository used to run the above three applications in a developer environment for integration and automated testing.
 
 #### **PoC/MVP or other relevant prior work or research on the topic**
 
@@ -131,7 +124,7 @@ Our goal is to ensure that we develop something that is suitable for each of the
 
 We are developing an identity solution that can be used on public and private EOSIO blockchains. Users of each EOSIO chain will then be able to sign transactions on dApps securely from their mobile wallets. We aim to offer this as a SaaS and/or DIY with support package to industry as well as host and run a identity app for EOS, Telos and WAX.
 
-As previously mentioned, we see ourselves collaborating closely with the Wallet+ team to deliver an extended set of SDKs and services for wallets. We hope to provide a mobile testing ground for their software and likely assist in development ( probably through issue creation and PRs to fix bugs).
+As previously mentioned, we see ourselves collaborating closely with the Wallet+ team to deliver an extended set of SDKs and services for wallets. We hope to provide a mobile testing ground for their software and likely assist in development (probably through issue creation and PRs to fix bugs).
 
 We are excited to be 1st to truly bring a generic self-sovereign identity (SSI) solution to EOSIO. Other solutions like [OmniOne](https://omnione.net/en/main) and [Infra Blockchain](https://infrablockchain.com/en/posts/vaccine-passport-bclabs-notice) Do not maintain full EOSIO compatibility. Our solution develops the required libraries as well as a reference identity application which can be used by others. This is of tremendous value to the EOSIO ecosystem as it brings a highly adopted set of technologies and community with it that can then be available to EOSIO dApps including:
 - credential sharing - Allow users to share their identity data privately with other users. This is a privacy-preserving alternative approach to the Wallet+ "profiles"
@@ -147,9 +140,9 @@ If you are unfamiliar with SSI we would suggest [you start here](https://github.
 
 The Tonomy ID product will be targeted for EOSIO blockchains. As a revenue stream, we see ourselves mainly reaching out to industries or current industry EOSIO chains as a solution for them.
 
-We also plan to host a solution on at least one of the major EOSIO public chains: EOS, Telos and WAX. We hope to get the support of the foundations/communities in launching these. We expect these to to be white labelled to some degree, e.g. EOS ID, Telos ID etc for their branding... The adoption on a chain basis depends on the support from their community. We also plan to support account creation and as this depends on each chain, will need to collaborate further with each ecosystem.
+We also plan to host a solution on at least one of the major EOSIO public chains: EOS, Telos and WAX. We hope to get the support of the foundations/communities in launching these. We expect these to to be white labelled and branded, e.g. EOS ID, Telos ID etc with their chosen branding... The adoption per chain depends on the support from their community. We also plan to support account creation and as this depends on each chain, and will need to collaborate further with each ecosystem to deliver the correct solution.
 
-As part of our efforts to increase adoption and get feedback about software, We will additionally target dApps in EOS, Telos and WAX. For example, we are already talking with Hypha DAO on Telos about creating an identity solution for them on Telos. By talking to dApps we can discuss the specific features that they need for their application.
+As part of our efforts to increase adoption and get feedback about software, we will additionally target dApps in EOS, Telos and WAX. For example, we are already talking with Hypha DAO on Telos about creating an identity solution for them on Telos. By talking to dApps we can discuss the specific features that they need for their application.
 
 #### **What need(s) does your project meet?**
 
@@ -164,12 +157,12 @@ Contact us for a more detailed market analysis.
 ![Market analysis](https://drive.google.com/uc?export=view&id=1S_YVQp8MoK6Ornk2q_hmGaT-YnnteViA)
 
 In addition to the above, we want to make the distinction between Tonomy ID and Anchor (the leading EOSIO wallet) clear:
-  - we are building an application that can be deployed for each chain instead of a generic multi-EOSIO-chain specific wallet like Anchor. The reason we are doing this is to simplify the design and flows for users and create a better user experience.
-  - both Tonomy ID and Anchor have a EOSIO transaction signer
-  - Tonomy ID has built in SSI support, allowing for personal information ( who you are, health and more) to be privately stored and shared with consenting parties. This is a different approach to Anchor which has proposed "profiles" as a feature in Wallet+ which puts this information on the blockchain.
-  - Tonomy ID has several built in recovery mechanisms that do not rely on any third parties. Anchor has as planned a semi-custodial recovery technique with "guardians"
-  - Tonomy ID is planning to build a variety of plug-in sybil attack prevention modules
-  - Tonomy ID Allows single sign-on (SSO) login to applications, like Anchor. Where Tonomy ID this is is that it can authorise a public key on the block chain which can then be used by the sign in application without needing to go back to Tonomy ID for every transaction that needs to be signed. This is an optional feature, if applications want everything signed by the active key a will need to use Tonomy ID to sign this. This allows applications to decide the usability/security balance for their applications needs.
+- we are building an application that can be deployed for each chain instead of a generic multi-EOSIO-chain specific wallet like Anchor. The reason we are doing this is to simplify the design and flows for users and create a better user experience.
+- both Tonomy ID and Anchor have a EOSIO transaction signer
+- Tonomy ID has built in SSI support, allowing for personal information ( who you are, health and more) to be privately stored and shared with consenting parties. This is a different approach to Anchor which has proposed "profiles" as a feature in Wallet+ which puts this information on the blockchain.
+- Tonomy ID has several built in recovery mechanisms that do not rely on any third parties. Anchor has as planned a semi-custodial recovery technique with "guardians"
+- Tonomy ID is planning to build a variety of plug-in sybil attack prevention modules
+- Tonomy ID Allows single sign-on (SSO) login to applications, like Anchor. Where Tonomy ID this is is that it can authorise a public key on the block chain which can then be used by the sign in application without needing to go back to Tonomy ID for every transaction that needs to be signed. This is an optional feature, if applications want everything signed by the active key a will need to use Tonomy ID to sign this. This allows applications to decide the usability/security balance for their applications needs.
 
 ## Team
 
@@ -285,7 +278,7 @@ For each milestone,
 - **Estimated Duration:** 1 month
 - **FTE:**  1
 - **Costs:** 2,000 USD
-- 
+
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 1. | UAT | Items relevant to social recovery will be checked in the user acceptance test (UAT) which was created at the end of our design phase. |
@@ -304,5 +297,7 @@ Tonomy ID is part of a application suit designed to fit the needs of "ecosystems
 - Tonomy Organizations (A DAO factory)
 
 ## Additional Information
+
+We are a **non-for-profit** Dutch foundation focused on ethical, open source and community driven solutions to deliver ecosystems of trust.
 
 **How did you hear about the Grants Program?** EOS Network Foundation Medium and Twitter I think
