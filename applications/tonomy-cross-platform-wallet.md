@@ -17,7 +17,7 @@
 
 ## Project Overview
 
-We submit this grant proposal for feedback about the design and fit for the EOS and EOSIO ecosystems. We are happy to work with you to fix problems in the ecosystem related to identity and be connected with others doing so. We want to align with the community reasonably before moving forward with developing something to ensure it can be used, easily and have the greatest impact for EOS and EOSIO. Your support and funding helps us achieve this goal!
+We submit this grant proposal for feedback about the design and fit for the EOS and EOSIO ecosystems. We are happy to work with you to fix problems in the ecosystem related to identity and be connected with others doing so. We want to align with the community reasonably before moving forward with developing something to ensure it can be used, easily and have the greatest impact for EOS and EOSIO. Your support and funding help us achieve this goal!
 
 ### Overview
 
