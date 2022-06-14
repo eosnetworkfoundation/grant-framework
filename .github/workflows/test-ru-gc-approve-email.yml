@@ -1,0 +1,17 @@
+name: Test reusable Committee Appoval email
+
+on:
+  workflow_dispatch:
+
+jobs:
+  call-workflow-passing-data:
+    uses: ./.github/workflows/ru-committee-approved-email.yml
+    with:
+      app_email: ted@eosn.foundation
+      contact_name: Ted Cahall
+      project_name: Brauhaus Brohaus
+      team_name: Brauhaus Bros
+      total_cost: $1,000,000
+      repo_account: tedcahalleos
+    secrets:
+      gmail_password: ${{ secrets.ENFMAILBOT_PASSWORD }}

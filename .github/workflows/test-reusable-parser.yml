@@ -1,4 +1,9 @@
-name: Call a reusable parser
+# Test file to check the reusable parser for the ENF Grant Framework application
+# Ted Cahall 25May2022
+#
+# uses a sample file from the directory
+#
+name: Test reusable parser
 
 on:
   workflow_dispatch:
@@ -21,3 +26,5 @@ jobs:
         run: echo "team name ${{ needs.call-parser.outputs.team_name }}"
       - id: echo4
         run: echo "app_email ${{ needs.call-parser.outputs.app_email }}"
+      - id: echo5
+        run: echo "total cost ${{ needs.call-parser.outputs.total_cost }}"

@@ -1,0 +1,75 @@
+# Callable workflow that emails the grantee to say their application has been fully approved.
+# In other words, the Evaluators have signed off.
+# They can now begin coding and submit their milestones.
+#
+# Ted Cahall 28May2022
+
+name: Fully Approved Email to Grantee
+on:
+  workflow_call:
+    inputs:
+      app_email:
+        required: true
+        type: string
+      contact_name:
+        required: true
+        type: string
+      project_name:
+        required: true
+        type: string
+      team_name:
+        required: true
+        type: string
+      total_cost:
+        required: true
+        type: string
+      repo_account:
+        required: true
+        type: string
+    secrets:
+      gmail_password:
+        required: true
+  
+jobs:
+  email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: send email
+        uses: dawidd6/action-send-mail@v3.6.1
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: enfmailbot@eosn.foundation
+          password: ${{ secrets.gmail_password }}
+          subject: Your ENF Grant Application has been fully approved!
+          body: | 
+            Hi ${{inputs.contact_name}}, 
+            Congratulations to you and the ${{inputs.team_name}} team.  Your ENF Grant Framework application for ${{inputs.project_name}} 
+            submited from the ${{ inputs.repo_account }} Github account has been fully approved!
+
+            Please work through your milestones and submit them via the milestones repository
+            https://github.com/eosnetworkfoundation/grant-milestones
+            
+            Once your milestones have been approved, you may submit the invoice as described in the milestones description.
+            Best,
+            ENF Operations Team
+            
+          html_body: |
+            Hi ${{inputs.contact_name}}, 
+            <br/><br/>
+            Congratulations to you and the ${{inputs.team_name}} team.  Your ENF Grant Framework application for <b>${{inputs.project_name}}</b> 
+            submited from the ${{ inputs.repo_account }} Github account has been fully approved!
+            <br/><br/>
+            Please work through your milestones and submit them via the milestones repository
+            <a href="https://github.com/eosnetworkfoundation/grant-milestones">https://github.com/eosnetworkfoundation/grant-milestones</a>
+            <br/><br/>
+            Once your milestones have been approved, you may submit the invoice as described in the milestones description.
+            <br/><br/>
+            Best,<br/>
+            ENF Operations Team
+          to: ${{inputs.app_email}}
+          from: grants@eosn.foundation
+          reply_to: grants@eosn.foundation
+          bcc: grants@eosn.foundation
+

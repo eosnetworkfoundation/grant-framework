@@ -29,6 +29,7 @@ jobs:
       contact_name: ${{ steps.grep_email.outputs.contact_name }}
       project_name: ${{ steps.grep_email.outputs.project_name }}
       team_name: ${{ steps.grep_email.outputs.team_name }}
+      total_cost: ${{ steps.grep_email.outputs.total_cost }}
     steps:
       - name: Checkout
         id: checkout
@@ -52,6 +53,8 @@ jobs:
           echo "::set-output name=project_name::$PNAME"
           export TNAME=`/bin/grep "**Team Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
           echo "::set-output name=team_name::$TNAME"
+          export TCOST=`/bin/grep "**Total Costs:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=total_cost::$TCOST"
           echo ${{ github.actor }} ${{ github.event_name }} ${{ github.event.pull_request.head.repo.owner.login }}
 
   checklabel:
@@ -66,7 +69,7 @@ jobs:
           spreadsheetId: 1RdSK5Y_URnTSzg__fRHV51jwO90x4AUMy0ym0ytWwKA
           commands: |
             [
-              { "command": "appendData", "args": { "data": [["${{ github.event.pull_request.head.repo.owner.login }}", "${{needs.parse_app.outputs.app_email}}", "${{needs.parse_app.outputs.project_name}}"]], "worksheetTitle": "Grants", "minCol": 2 }}
+              { "command": "appendData", "args": { "data": [["${{ github.event.pull_request.head.repo.owner.login }}", "${{needs.parse_app.outputs.app_email}}", "${{needs.parse_app.outputs.project_name}}", "${{needs.parse_app.outputs.total_cost}}"]], "worksheetTitle": "Grants", "minCol": 2 }}
             ]
         env:
           GSHEET_CLIENT_EMAIL: enf-grant-service-account@sonorous-haven-350712.iam.gserviceaccount.com
