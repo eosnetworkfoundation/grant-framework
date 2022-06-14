@@ -20,72 +20,50 @@
 
 EO2's Mission is to contribute to a more inclusive, efficient, and reliable Carbon Market by providing all stakeholders with easier access to quality Carbon Credits. Our goal is achieved through the tokenization of regulated Carbon Credits and their (crypto-) representation into EO2 Digital Token, which reduces frictions and improves their usability and diffusion.
 The core project function is represented in a smart contract that constitutes a two-way bridge between off-chain Carbon certificates and their in-chain Token representation. The smart contract is hosted on an EOSIO-based blockchain. To connect with the smart contract, users will interact with an app tailored according to the specific needs of each user class (Corporate or Individuals).
-The user interface has been designed to facilitate the adoption from users with different levels of experience with technology and digital assets. Developing an intuitive user interface that simplifies the customer journey (registration, wallet, etc.) and the product cycle management (buy, sell, donate, etc.) was our goal to attract users with different levels of familiarity with technology and digital assets, and so promoting Carbon Markets inclusiveness.
+EOTWO has already developed an interface designed to facilitate the adoption from users with different level of experience with technology and digital assets. Developing an intuitive user interface that simplifies the customer journery (registration, wallet, etc.) and the product cycle (buy, sell, etc.) was a goal to attract users with different level of familiarity with technology and digital assets, and so promoting Carbon Markets inclusiveness.
+For this grant proposal, EOTWO is looking for funds to improve the current web application by performir unit testing, an enhanced user interface in terms of design and the creation of video-manuals. In order to achieve this, we propose to share a version of our webapp with the EOS community, so designers, developers or enthusiast can plug and play their own EOSIO-Based token. 
 
-The following video provides a simple overview of our project: https://www.youtube.com/watch?v=0yrKXtR34Do&t=3s 
+
+The following video provides a simple overview of our EO2: https://www.youtube.com/watch?v=0yrKXtR34Do&t=3s 
 
 ### Overview
 
-- **Name:** EO2, a Security Token that represents regulated Carbon Credit.
-- **Brief Description:** EO2 aims to tokenize quality Carbon Credits and make them available to individuals and SMEs. 
-- **Relationship to EOSIO:** EO2 Smart-contract is derived from the EOSIO Token Standard and it is hosted on EOSIO-Based Blockchain. The Smart-Contract is connected to our User Interface to facilitate the use for non-crypto users.
-- **Reason for Interest:** At EO2, we believe that a transparent and efficient system of carbon offset is essential for transitioning to a zero-emission society. Our Mission is to make the regulated Carbon Market more inclusive and allow easy access to regulated Carbon Credits for individuals and SMEs. We want to provide an effective offset to clear the carbon footprint and a sustainable means to make a transaction and store value. 
+- **Name:** EO2 User Interface Boilerplate.
+- **Brief Description:** User Interface ready to use and simple to setup for developers and other newcomers. 
+- **Relationship to EOSIO:** EO2 offer a boilerplate so developers can plug and play their Token project with an User Interface that facilitate the use for non-crypto users.
+- **Reason for Interest:** EO2 have been working for the past year in developing a solution for the carbon markets based on EOSIO-based blockchain. In order to keep funding our venture, we want to make available our code to help the EOS community to thrive. 
 
 ### Project Details
 
-The product consists of two applications focused on each user segment and/or the intended use of the Token: one for customers who will use EO2 Token as means of payment, for donations, and as a store of value; the second app is design to meet the needs of corporate users who will use the EO2 Token to pursue their sustainable agenda. Both applications will be declined in desktop and mobile version. 
-- **Individual user Webapp:** ReactJS 18 UI Boilerplate and React CSS and material-UI for component designs. Account creation on EOSIO-based blockchain, Plug and play KYC and AML screening integration using a third-party provider (Likely to be Scorechain), backend using AWS. Sidebar Menu with Dashboard, Assets, Support, and buttons for each project-specific development. The webapp will include the integration of external authorization providers' such as ANCHOR and LEDGER.
-- **Marketing:** consists of a three stage funnel that will help to the brand recognition and adoption:
-	
-	-**Captivating attention** through social networks, active participation in sustainability-related communities and providing incentives to individual users to join the EO2 community. As for corporate customers, specific marketing campaigns will leverage their needs aiming to develop more structured partnertship. The Greentech Alliance constitutes a preferential channel to create synergies and partnertship with relevant customers.
-	
-	-**Educating** non-crypto users and/or environmental sensitive people on the digital ecosystem, Carbon Markets and sustainability in general, highlighting the core values of EO2 and EOS network. Among the topics covered are: blockchain, digital assets, carbon markets, EO2 and EOSIO-based blockchain. The content will be delivered with videoclips, (co-produced or sponsored by ecosystem partners), social network posts, articles hosted on our own blog.  Incentives to engage and interact with the platform (e.g. in the form of rewards) will be in place.
-	
-	-**The conversion** will happen by leveraging the interest and engagement build in the previous phase and by making early adopters ambassadors of EO2.  
+The project consists of a boilerplate of an UI that simplify the adoption of EOSIO-based blockchain technology as well as the adoption of non-crypto users considering in app payment system, multi - language characteristics and built-in connection with Anchor and Ledger as authorization providers.  
+EOTWO will make open-source the following:
+1.- Individual user Webapp: ReactJS 18 UI Boilerplate with JSS and material-UI for component designs. Account creation on EOSIO-based blockchain, Instruction to connect to the backend using AWS. Sidebar Menu with Dashboard, Assets, Support, and extra buttons for each project-specific development. The webapp will include the integration of external wallet such as ANCHOR and LEDGER.
 
-The B2B channel will be developed in a second stage following the prior engagement of indivuduals. 
-
-- **PoC/MVP or other relevant prior work or research on the topic:**
-
-The MVP is already completed. If not published yet by the time of the review of this application, you can request access to p.herrera@eo2.earth. Access to the MVP code will remain restricted and be shown upon request.
-
-- **What EO2 is not or will not provide or implement:**
-
-  EO2 will provide a boilerplate with basic and adaptable capabilities of its User Interface (Desktop and mobile), Smart Contract, and an Admin dashboard to evaluate the APP interaction. Those sections in the menu will be available for the user to be modified for their project. What will not be shared with the community are the functionalities specific to the business logic behind EO2. 
-  
-  EO2 can provide advice on using the boilerplate based on goodwill only. EO2 is not committed to providing support of any type in the development beyond the documentation of each component.
-
+EOTWO has already developed the main functions of the webapp and is looking for resources to complete it. In addition, we recently hire an UI designer that will enhance the look of the webapp.
+The webapp is available in the following link to be analyzed by the committee: https://serene-biscotti-ca7162.netlify.app/
+A preview of how the user inverface will looks like in the following link: https://xd.adobe.com/view/beb2bcc9-2e61-42a2-bc26-f28d8404792b-ebe1/
+EO2 will provide a boilerplate with basic and adaptable capabilities of its User Interface and an Admin dashboard to evaluate the APP interaction. some sections in the menu will be available for the user to be modified for their project.
+ What will not be shared with the community are the functionalities specific to the business logic behind EO2. 
+EO2 can provide advice on using the boilerplate based on goodwill only. EO2 is not committed to providing support of any type in the development beyond the documentation of each component.
 
 ### Ecosystem Fit
 
 - **Where and how does your project fit into the ecosystem?**
 
-EO2’s target are users who are not yet familiar with crypto and digital assets in general, so customers of EO2 will translate into additional users of the EOSIO Ecosystem. Also, EO2 is building its identity around the authentic promotion of sustainability and the choise of EOSIO plays a relevant role in this strategy. The EOS ecosystem as a whole can benefit from this association between its technology and sustainability. 
+EOTWO will provie with a user interface to plug and play EOSIO-based token.
 
 - **Who is your target audience (chain/dapp/wallet/UI developers, designers, your user base, some dapp's userbase, yourself)?**
 
-Apps developed by EO2 that are meant to be open-source are aimed at Dapp/UI Developers.
-
-Our target audience is composed by:
--	Individuals that wants to either store the value of their savings or voluntarily clear their carbon footprint.
--	Companies looking for a more straightforward solution to fulfill their environmental goals without the intrinsic risk of greenwashing present in voluntary carbon markets. 
--	Investors looking for Digital Assets to invest their money or to balance their investment portfolio.
--	Companies covered by the EU ETS (I.e. the EU regulated Carbon Market) that would benefit from an alternative to make their banked allowances more liquid, thus allocating extra resources to finance new technology and speed up their transition to Net-Zero.
+Apps developed by EOTWO that are ment to be open-source are aimed to Dapp/UI Developers.
+We aim to provide developers with an easy to use user interface that will help the EOS community to attract a non-crypto user audience. 
 
 - **What need(s) does your project meet?**
 
-Our project is looking to make EUAs (Emissions Allowances, I.e. the EU regulated Carbon Credits) trading more accessible, easier to manage, and more inclusive.
-
-As most regulated carbon markets, the EU compliance Carbon Market is substantially a closed system. Barriers to access the market, allow only covered enterprises (those required by the law to comply with it) and intermediaries to currently trade, invest and offset their emissions with EU Emission Allowances (EUAs). Due to this friction, all stakeholders different from the above (i.e. SMEs and individuals) need to buy unregulated carbon certificates from the voluntary carbon market, which has shown to be prompt to greenwash. 
-
-By enabling all stakeholders to access the regulated carbon market, our project proposes a more solid and reliable alternative to those currently purchasing carbon certificates in the voluntary carbon market. To SMEs and individuals, the tokenization of Emission Allowances represents an easy and frictionless access to the regulated carbon market. 
-
-Each issued Token is backed by an Emission Allowance, which provides value stability over time. EO2 will be the custodian of the Emission Allowances, and Token holders will be able to redeem the Token and be assigned with the underlying Allowances anytime.   Each Token can be undefinetely transacted among users and companies, but once donated (E.g. from an individual to a company) , Tokens can only be “burned”. When Tokens are burned, the underlying Emission Allowances are surrendered off-chain before the European Commission registry. In addition, EO2 will make public the list of surrendered Emission Allowances in order to disclose to what extent companies and individuals are effectively contributing to the fight against climate change.
+Since the raise of the crypto, more and more developers are turning into easy and scalable solutions to build their project over. Since 2021, EOTWO have been learning and developing a solution based on EOSIO, and we came across with multiple difficulties, lack of documentation, very few applications as example and not comprehensive tutorials. Thanks to the experience of our programmers and the help of the EOS community we manage to overcome those difficulties. Now, EOTWO wants to make this transition smoother by providing, during this first stage, an easy to setup boilerplate.
 
 - **Are there any other projects similar to yours in the EOSIO ecosystem? If not, are there similar projects in related ecosystems?**
 
-To the best of our knowledge, there are no direct competitors proposing the same or comparable offer, either inside or outside the EOS ecosystem. Nevertheless, There are some projects offering tokenized voluntary carbon markets certificates outside the EOS ecosystem.. Although we cannot assess the quality of their underlying carbon credits, it is worth noting that in general voluntary carbon markets are prompt to greenwashing and due to lack of regulations or common standard, it is challenging to make an informed decision when purchasing voluntary carbon credits, regardless of their digital support. By way of example,there are green projects which claim to protect trees that were never in danger of being cut, thus making the green certificates arising from said projects not valuable from a environment-protection point of view.  
-As opposed to the voluntary carbon certificates, the European Commission is the guarantor of Emission Allowances and supervises the market stability over time. 
+There are some user interface boilerplates, and some templates available to be bought, but we know by experience that those are complicated and not as easy to use as EOTWO’s 
 
 ## Team
 
@@ -139,34 +117,22 @@ https://github.com/EO2-earth
 
 **IT Development Status:**
 
-The smart contract has been written with C++ language  using the EOS SDK and is currently running on TLOS Testnet.
+We have already developed a MVP having the basic business fuction for our project. 
+
 The web application is hosted on AWS. Additionally, we have a NodeJS service running to get requests from the web application. That requests are made by API calls using REST protocols. 
 All our source code is hosted on Github in a private account connected with AWS to do the deploys on the server machine.
-We use git-flow architecture to work on our repositories.We have already developed a MVP with the primary business functions for our project and can be shown upon request. We are planning to launch the prototype publicly to test its functionalities in a live environment.
-
-**Off-chain Development Status:**
-
--	Recognition of the innovative nature of EO2 by the French Interdepartmental Regional Body for the Economy, Employment, Labor and Solidarity (DRIEETS d'Île-de-France ).
--	Accepted as a member of the Greentech Alliance, A hub of 1500+ companies and 12.000 followers committed to fighting climate change using innovative technologies. (www.greentech.earth) 
--	Social network presence on Facebook, Instagram, Youtube, and Linkedin. Looking to expand to Medium and Discord. 
--	Webpage (www.EO2.earth & www.EO2.app)
--	Obtained a registry number to trade carbon allowances in the EU ETS.
--	Partnership with EDHEC Business School, Ranked #7 worldwide for its MBA (The economist 2021). The provide MBA students to help EO2 in its sustainability challenges as external consultants as part of their curriculum.
--	Grew a network of 500+ sustainability professionals on social networks
-
+We use git-flow architecture to work on our repositories.
 
 ## Development Roadmap
 
 
 ### Overview
 
-- **Total Estimated Duration:** 4 months 
-- **Full-Time Equivalent (FTE):** Eight (8)
-- **Total Costs:** 123,000 USD
-	- **IT Development:** 50,000 USD
-	- **Marketing-related expenses:** 53,000 USD
-	- **Compliance & legal costs:** 15,000 USD
-	- **Petty cash and eventualities:** 5,000 USD
+- **Total Estimated Duration:** 2 months 
+- **Full-Time Equivalent (FTE):** Eight (4)
+- **Total Costs:** 29,000 USD
+	- **IT Development:** 25,000 USD
+	- **Marketing-related expenses:** 4,000 USD
 
 **Note:** Some of the milestones can possibly overlap and be done in parallel.
 
@@ -186,34 +152,17 @@ We use git-flow architecture to work on our repositories.We have already develop
 | 3. | External UAL | External UAL connection using ANCHOR by Greymass and Ledger hard-wallet. |
 | 4. | UI Components | Reusable interface components |
 
-### Milestone 2 Users web-app boilerplate upgrade
+
+### Milestone 2 Marketing
 - **Estimated duration:** 2 month
 - **FTE:**  4
-- **Costs:** 25,000 USD
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | BSD 3-Clause |
-| 0b. | Documentation | Creation of documentation for the web app and basic usage |
-| 0c. | Testing Guide | End to end tests using third-party software providers such as  https://ghostinspector.com/ |
-| 0d. | Video | Provide an introductory video on how to build and set up the boilerplate |
-| 1.  |	KYC & AML | Integration of KYC & AML with an external provider (likely to be Scorechain) |
-| 2.  | Backend | Plug and play backend connector to store basic information |
-
-### Milestone 3  Marketing
-- **Estimated duration:** 4 month
-- **FTE:**  4
-- **Costs:** 53,000 USD
+- **Costs:** 4,000 USD
 
 | Number | Amount | Specification |
 | -----: | ----------- | ------------- |
-| 1. | 10,000 USD | Social Network presence (Social Media Manager + Paid advertising) |
-| 2. | 5,000 USD | Specialized digital Press |
-| 3. | 5,000 USD | Goodies |
-| 4. | 6,000 USD | Blog Maintenance and Newsletter |
-| 5.  |	5,000 USD | Paperbased press |
-| 6.  | 12,000 USD | Educational Videos |
-| 7.  | 10,000 USD | Onboarding package for corporate users deciding to tokenize their allowances using our platform or Companies willing to pursue their agenda with us. |
+| 1. | 2,000 USD | Goodies |
+| 2.  | 2,000 USD | Educational Videos |
+
 
 
 ## Future Plans
