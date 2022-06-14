@@ -43,6 +43,7 @@ This project requires:
 - What your project is _not_ or will _not_ provide or implement
   - Project doesn't come with IP, and social media accounts.
   - Implementing and deploying EdensOS for other organizations.
+  - Doesn't include maintenance
 
 ### Ecosystem Fit
 
@@ -92,21 +93,22 @@ Deployed code on testnet on June 11th,2022
 | 0b. | Documentation on Eden notion|
 | 0c. | Testing Guide | Core functions has already been documented by Fractally LLC
 
-Cost: 35,000 usd
+Cost: 50,000 usd
 
-### Milestone 2 Setup Testing and test code
+### Milestone 2 Setup Testing infra and test code with team
 
 cost: 10,000 usd
 
-### Milestone 3 Prepare and run an Eden election x1 
+### Milestone 3 setup production infra and run an Eden election x1 
 
 cost: 15,000 usd
 
 
 ## Future Plans:
 
-- Run elections for organizations that has integrated iterated version of EdenOS
-- Deploy edenOS for organizations
+- Run elections for organizations that have integrated iterated versions of EdenOS
+- Host and Deploy edenOS for organizations
+- Maintain code for organizations
 - R&D to improve and iterate edenOS 
 - Develop dispute resolution
 
