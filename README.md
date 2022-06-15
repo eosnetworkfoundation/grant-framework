@@ -1,7 +1,7 @@
 <img src="img/enf-header.png" />
 
 # EOS Network Foundation Grant Framework
-As part of the EOS Network Foundation's (ENF) charter to grow and support the EOS ecosystem, the ENF has developed a multi-level grant program to help power research, software development, and maintenance of the EOSIO code base.  For more information about the ENF, please visit our [website](https://eosn.foundation/), [Medium blog](https://medium.com/eos-network-foundation), or [YouTube account](https://www.youtube.com/c/EverythingEOS).
+As part of the EOS Network Foundation's (ENF) charter to grow and support the EOS ecosystem, the ENF has developed a multi-level grant program to help power research, software development, and maintenance of the EOSIO code base.  For more information about the ENF, please visit our [website](https://eosnetwork.com/) or [YouTube account](https://www.youtube.com/c/EverythingEOS).
 
 ## Grant Guidelines
 Individuals, small teams, and companies are all permitted to apply for grants. The purpose of the grants is to enable developers, businesses and individuals to build on EOS.  Grants [vary in size](#grant-levels) based on the size and scope of the initiative.  All forms of projects are open for submission, core chain modifications, tools, libraries, etc.  However, strong technical projects that clearly add to the Public Good are preferred.
@@ -42,8 +42,8 @@ The Grant Process consists of four major components: the Application Process, th
 The application process is completed through Github.  You will need to fork the repository, change one of the forms, and submit it via a Pull Request as outlined in the steps below:
 1. [Fork](https://github.com/eosnetworkfoundation/grant-framework/fork) this repository
 2. In your fork, create a copy of the Grant Application template [(applications/application-template.md)](applications/application-template.md). If you're using the GitHub web interface, you will need to create a new file and copy the contents of the template inside the new one. **Please make sure you do not modify the template file directly.**
-3. Name the new file after your project: `myproject_name.md`.
-4. Fill out the template with the details of your project. The more information you provide, the faster the review. Please refer to our [Grant guidelines for most popular grant categories](docs/grant_guidelines_per_category.md) and make sure your deliverables present a similar level of detail. If you're only applying for a smaller grant that only consists of, say, UI work, you don't need to provide as much detail.
+3. Name the new file after your project: `myproject_name.md`.  Please make sure to put it in the `applications` directory.
+4. Fill out the template with the details of your project. The more information you provide, the faster the review. Please refer to our [Grant guidelines for most popular grant categories](docs/grant_guidelines_per_category.md) and make sure your deliverables present a similar level of detail. To get an idea of what a strong application looks like, you can have a look at the following examples: [1](./applications/greymass-web-client-sdk.md), [2](./applications/oci-transaction-lifecycle.md).  If you're only applying for a smaller grant that only consists of, say, UI work, you don't need to provide as much detail.
 5. When your application is complete, create a Pull Request.  Please note, the Pull Request should only contain _one new file_—the Markdown file you created from the template.
 6. You will see a comment template that contains a checklist. You can leave it as is and tick the checkboxes once the pull request has been created. Please read through these items and check all of them.
 7. Sign off on the [terms and conditions](docs/T&Cs.md) presented by the [CLA assistant](https://github.com/claassistantio) bot as a Contributor License Agreement. You might need to reload the pull request to see its comment.
