@@ -4,7 +4,7 @@
 - **Project Name:** WeFund
 - **Team Name:** Andrea Bello & Ika Nur Affifah
 - **EOS Payment Address:** wefundoffici
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
 - **Pomelo Grant(s):** www.wefund.app
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
