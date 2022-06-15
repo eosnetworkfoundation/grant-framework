@@ -37,7 +37,7 @@ From time to time, the ENF will propose a work request to the community in the f
 <br/><br/>
 
 ## Grant Process (for New Proposals)
-The Grant Process consists of four major components: the Application Process, the Approval Process, Milestone Reporting, and Payment(s).  Payments will be made in EOS to the wallet specified in the Grant Application.  The processes must be completed in order and there may be feedback loops in some of the processes as described below.
+The Grant Process consists of four major components: the Application Process, the Approval Process, Milestone Reporting, and Payment(s).  Payments will be made in EOS to the wallet specified in the Grant Application.  The processes must be completed in order and there may be feedback loops in some of the processes as described below.  Please remember, your application will have a higher chance of acceptance and move through the process more quickly if you follow our [acceptance recommendations](docs/acceptance-recommendations.md) and meet all of our [minimum requirements](docs/minimum-requirements.md).
 ### 1. Application Process
 The application process is completed through Github.  You will need to fork the repository, change one of the forms, and submit it via a Pull Request as outlined in the steps below:
 1. [Fork](https://github.com/eosnetworkfoundation/grant-framework/fork) this repository
