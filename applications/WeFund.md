@@ -434,68 +434,63 @@ www.wefund.app
 ### Overview
 
 
-- **Total Estimated Duration:** 4 months 
-- **Full-Time Equivalent (FTE):** 13 FTE
-- **Total Costs:** 86,000 USD
+- Total Estimated Duration: 2 months 
+- Full-Time Equivalent (FTE): 16 FTE
+- Total Costs: 45,000 USD
  
 
  
 ### Milestone 1  — Implement Smart Contract
  
-- **Estimated Duration** 2 months
-- **FTE:** 4 FTE
-- **Costs:** 24,000 USD
+- Estimated Duration 2 months
+- FTE: 6 FTE
+- Costs: 24,000 USD
  
  
 | Milestone 1 | Smart Contract | Description |
 | -----: | ----------- | ------------- |
 | 0a. | Smart Contract converting| Converting the existing smart contract on EOS network and language C++ |
-| 0b. | Testing Guide | Testing functionality and Testing security in house
+| 0b. | Testing Guide | Testing functionality and Testing security inhouse
 | 0c. | Update smart contract documentation | Provide a smart contract test report
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains how the smart contract working, how to use, the security report and all the goal we have make with the grant usage
-| 1. | EOSIO Sub-module: X | We will create a EOSIO module that will permit to create and submit a project  
-| 2. | EOSIO Sub-module: Y | We will create a EOSIO module that will permit to back a project 
-| 3. | EOSIO Sub-module: Z | We will create a EOSIO module that will generate the milestone system with voting power by the backers for approvale and release the next milestone or to close the project if is necessary and send back the money not used
-| 4. | EOSIO chain | Sub-modules X, Y & Z of our custom chain will interact in such a way to be decentralise and transparance all the process to create a project, back a project and see all the milestone system , project deliver and vote by the investor on the project
+| 0e. | Article | We will publish an article/workshop that explains how the smart contract works, how to use it, the security report, and all the goals we have made with the grant usage
+| 1. | EOSIO Sub-module: X | We will create an EOSIO module that will permit us to create and submit a project  
+| 2. | EOSIO Sub-module: Y | We will create an EOSIO module that will permit to back a project 
+| 3. | EOSIO Sub-module: Z | We will create an EOSIO module that will generate the milestone system with voting power by the backers for approval and release the next milestone or to close the project if is necessary and send back the money not used
+| 4. | EOSIO chain | Sub-modules X, Y & Z of our custom chain will interact in such a way to be decentralized and transparent for all the processes to create a project, back a project, and see all the milestone system, project deliver and vote by the investor on the project
 
-### Milestone 2 — Incubation program
+ ### Milestone 2 — Dapp
  
-- **Estimated Duration:** 4 months
-- **FTE:** 5 FTE
-- **Costs:** 30,000 USD
- 
- 
-| Milestone 2 | Incubation | Description |
+- Estimated Duration: 1 months
+- FTE: 2 FTE
+- Costs: 5,000 USD
+
+| Milestone 2 | Dapp | Description |
 | -----: | ----------- | ------------- |
-| 0a. | Incubation on Eos Ecosystem | Integrate our incubation process in EOS ecosystem and working with EOS foundation to incubate the projects is most required for make grow the ecosystem and help them to be ready for the fundraising with the community |
-| 0b. | Incubation on TrustEVM | Integrate our incubation process in TrustEVM team and for incubating the projects most interesting and with potential for the new EVM will be implemented in September to make sure the ecosystem has the right projects and success with the new launch|
-| 0c. | Valuation Docs | Documentation for incubation criteria and minimum standard required
-| 0d. |Report doc| Documentation and full report on the incubation process and all the step achive|
-| 0e. | Article | We will publish an **article**/workshop that explains the way we use the grants and the success we get with the grant. 
-| 1. | EOSIO Ecosystem: X | We will create a Team for the EOSIO ecosystem incubation process
-| 2. | EOSIO TrustEVM: Y | We will create a Team for the TrustEVM incubation process
-| 3. | EOSIO Documents and check point: Z | We will create a document for entry criteria + full report of the incubation process and point done
-| 4. | EOSIO chain | Sub-modules X, Y & Z create a full and specific incubation plan to make sure EOS ecosystem grow and have the projects most is needed for this process and we offering the full support to make this projects growing in the right way. All this process is documented and pubblic to check.
+| 0a. | Wallet integration | Insert the EOSIO wallet connection on the dApp |
+| 0b. | EOSDT payment | Implement the payment system with EOSDT |
+| 0c. | Test | Testing on testnet and mainnet on web and mobile the proper functionality to connect the wallet and back projects using EOSDT |
+| 1. | EOSIO Sub-module: X | We will create an EOSIO wallet integration  
+| 2. | EOSIO Sub-module: Y | We will create an EOSIO EOSDT payment system
+| 3. | EOSIO Sub-module: Z | We will test all the functionality
+| 4. | EOSIO chain | Sub-modules X, Y & Z permit to have wallet connection and stablecoin payment using EOSDT
+
+ ### Milestone 3 — Incubation
+ 
+- Estimated Duration: 2 months
+- FTE: 8 FTE
+- Costs: 16,000 USD
  
  
- ### Milestone 3 — marketing
- 
-- **Estimated Duration:** 4 months
-- **FTE:** 4 FTE
-- **Costs:** 32,000 USD
- 
- 
-| Milestone 3 | Marketing | Description |
+| Milestone 3 | Incubation | Description |
 | -----: | ----------- | ------------- |
-| 0a. | Rebranding | Brand WeFund inside EOS community, create article and interraction with the community to grow in organic way |
-| 0b. | Marketing | Marketing WeFund and EOS in the most trusted media for gorw the trust and credibility of booth of us, strategic annuncent, incubation and success launch of Projects|
-| 0c. | Promotion | Promote the incubation system for attract more and new projects for outside or from the community
-| 0d. | Article | We will publish an **article**/workshop that explains where and how much we spend for arrive to the target, in which way we use the grants and what is the goal achive with thet
-| 1. | EOSIO Branding: X | We will rebrand WeFund in EOSIO ecosystem
-| 2. | EOSIO Incubation promotion Y | We will promote the Incubation program for attract new project outside and inside the ecosystem
-| 3. | EOSIO Articles: Z | We will write article about partnership, incubation and achivement 
-| 4. | EOSIO chain | Sub-modules X, Y & Z have the right visibility inside and outside the ecosystem to facilitate the incubation program and get the top level project on board
+| 0a. | Incubation | Ability for the WeFund team to do the incubation process with the EOS foundation to prepare and build what is most needed in the ecosystem in terms of growth |
+| 0b. | Fundraising | Helping the projects with the fundraising process using the crowdfunding model|
+| 0c. | Milestone | Using a milestone system to release the funds and protect the investors |
+| 1. | EOSIO Sub-module: X | We will have an incubation program
+| 2. | EOSIO Sub-module: Y | We will have a fundraising system
+| 3. | EOSIO Sub-module: Z | We will secure milestones to avoid scams or projects not able to deliver
+| 4. | EOSIO chain | Sub-modules X, Y & Z have a process for taking on new projects, setting up processes to get visibility, establishing proper documentation and financials for fundraising due diligence, and continuing support for projects with the security of WeFund’s milestone process.
  
  
  
