@@ -18,9 +18,15 @@
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
 | [Time2Discover](https://time2discover.no/) | The Lost Diamond | [GitHub](https://github.com/bjornomsland) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [ZeroPass](https://zeropass.io/) | EOS Cryptography Proposal | [GitHub](https://github.com/ZeroPass) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [GenerEOS Pty Ltd](https://genereos.io/) | Smart Contract Testing | [GitHub](https://github.com/timwest) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [CETF](https://https://github.com/n0umen0n) | Crypto Exchg Traded Funds | [GitHub](https://github.com/n0umen0n) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [TrustSwap](https://trustswap-testnet.web.app/) | Trust Swap | [GitHub](https://github.com/evm20) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Zaisan BV](https://zaisan.io/about/) | Chronicle | [GitHub](https://github.com/EOSChronicleProject/eos-chronicle) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 
 
 ## Wave 1 - First Quarter 2022
+
+The ENF Grant Framework Launched in 2022 Q2
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
