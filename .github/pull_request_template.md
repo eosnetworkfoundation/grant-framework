@@ -13,7 +13,7 @@
 
 ### Application Checklist
 
-- [x] The [application template]([xxxx](https://github.com/eosnetworkfoundation/grant-framework/blob/main/applications/application-template.md)) has been copied, renamed ( `my_project_name.md`) and updated.
+- [x] The [application template]([xxxx](https://github.com/eosnetworkfoundation/grant-framework/blob/main/applications/application-template.md)) has been copied, renamed (`my_project_name.md`) and updated.
 - [ ] The application file (`my_project_name.md`) has no spaces in its name, ends with the `.md` extension has been placed in the `applications` directory.
 - [ ] I have read and understood the:
   - [ ] [FAQs](https://github.com/eosnetworkfoundation/grant-framework/blob/main/docs/faq.md), 
