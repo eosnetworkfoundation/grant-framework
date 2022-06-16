@@ -1,0 +1,27 @@
+ChallengeDac is a social media network that has been running EOS software since July 2018.
+EOS software provides ChallengeDac (Application may appear under the name ChallengeEOS or Challenge & Fun in IOS or Android mobile store). The core mechanism of ChallengeDac is to provide our users with a way to publish and interact with customizable smart contracts through a free-to-download APP.
+The project has built extensively around this core feature and provides a gamified context around the process of smart contract creation and interaction. Which are called “Challenges “ within the application.
+The project has implemented feedback gained from 8 different software releases, from 2019-2022. The application is approaching 50,000 downloads and has an active diverse community of daily active users.
+ChallengeDac provides users with free account creation, free main net resources, and an extensive user interface to guide and provide users with a context on how to navigate the world of smart contract creation and participation with features including, a user’s profile with public reputation rankings and Challenge history. The application also has a newsfeed where the most popular Challenges are displayed.
+
+Proposal Milestone 1 ( $38,500 worth of EOS)
+Milestone 1 (Estimated completion  4 weeks)
+Overview:
+Add needed code to the ChallengeDac code base to reduce fraudulent accounts and provide an increased level of user support for bug issues. Additionally, conduct a full audit of all of the ChallengeDac code so it can be Opensourced.
+
+Improved Identity solution features to reduce bots and limit users to one account per person. This will improve the results of current Challenge participants results reducing the number of token rewards that are claimed by bots or users operating multiple accounts. Enhanced identity techniques will include IP address tracking, catch verification, and unique user identification.
+
+User support
+Add troubleshooting and user support features to help identify and track bugs and phone-specific issues.
+
+ChallengeDac code audit.
+Fully audit ChallengeDac code complete with new features to release publicly to the community.
+
+
+
+Proposal Milestone 2 ( $83,500) worth of EOS)
+Milestone 1 (Estimated completion 10 weeks)
+
+Release ChallengeDac version 9 with new
+“go live” feature.
+Which will consist of a built-in streaming plug-in tool that will allow ChallengeDac users to log in to major streaming platforms like youtube and Twitch. In the lower bottom corner, streamer users will have their ChallengeDac username displayed. Which will allow users to be sent crypto while live streaming. Wherever Crypto is sent during the live stream a notification will appear on the stream. All current live streamers will have their stream displayed on the ChallengeDac News feed and will be available for ChallengeDac users to vote on, with the most voted on streams appearing highest in the ChallengeDac newsfeed. After the completion of ChallengeDac version 9, the code will be audited and open-sourced to the Community. 
