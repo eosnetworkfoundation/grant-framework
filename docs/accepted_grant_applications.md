@@ -2,7 +2,7 @@
 
 > This page provides an overview of accepted grant applications, their progress and a link to their GitHub repositories. In cases where the link points to an organization, you should be aware that the grant application itself **is often an independent project unrelated to other work done by the teams**.
 >
-> This page also lists terminations which happened due to a breach of the terms of the grants programs. Additionally, teams might have decided to stop working on the grant—though not necessarily on the project itself—for various reasons, which is not reflected on this sheet.
+> This page also lists terminations which happened due to a breach of the terms of the grants programs. Additionally, teams might have decided to stop working on the grant—though not necessarily on the project itself—for various reasons, which is not reflected here.
 
 ## Table of Contents <!-- omit in toc -->
 
@@ -17,10 +17,16 @@
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
 | [Time2Discover](https://time2discover.no/) | The Lost Diamond | [GitHub](https://github.com/bjornomsland) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [ZeroPass](https://zeropass.io/) | EOS Cryptography Proposal | [GitHub](https://github.com/ZeroPass) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [ZeroPass](https://zeropass.io/) | EOS Cryptography Proposal | [GitHub](https://github.com/ZeroPass/eosio.ck) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [GenerEOS Pty Ltd](https://genereos.io/) | Smart Contract Testing | [GitHub](https://github.com/generEOS) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [CETF](https://github.com/n0umen0n) | Crypto Exchange Traded Funds | [GitHub](https://github.com/n0umen0n) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [TrustSwap](https://trustswap-testnet.web.app/) | Trust Swap | [GitHub](https://github.com/evm20) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Zaisan BV](https://zaisan.io/about/) | Chronicle | [GitHub](https://github.com/EOSChronicleProject/eos-chronicle) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 
 
 ## Wave 1 - First Quarter 2022
+
+The ENF Grant Framework Launched in 2022 Q2
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
