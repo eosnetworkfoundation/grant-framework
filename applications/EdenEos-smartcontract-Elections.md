@@ -7,7 +7,7 @@
 - **Pomelo Grant(s):** https://pomelo.io/grants/rneyu
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
-- **Repository where Project resides:** https://github.com/Eossupport/Eden.git
+- **Repository where Project resides:** https://github.com/EOS-Support/Eden.git
 
 ## Contact
 
