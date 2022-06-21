@@ -70,7 +70,11 @@ It will cover the following topics in detail:
 
 - Smart contract data design: planning and building smart contract tables, indexes, and queries.
 
+- Design patterns: typical tasks and approaches.
+
 - Performance and scaling: do's and dont's, and best practices in building a scalable application.
+
+- Contract development kits (CDT, CLSDK, ...)
 
 - Other topics, also answering the questions from the audience.
 
@@ -131,21 +135,34 @@ Several chapters have already been published at
 - **Full-Time Equivalent (FTE):**  0.2
 - **Total Costs:** USD 50,000
 
-### Milestone 1 — Writing the content
+### Milestone 1 — Writing the content, 50%
 
-- **Estimated duration:** 6 months
+- **Estimated duration:** 3 months
 - **FTE:**  0.2
-- **Costs:** 40,000 USD
+- **Costs:** 20,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | Creative Commons BY-SA 4.0 |
 | 0b. | Documentation | N/A |
 | 0c. | Testing Guide | N/A |
-| 1. | Writing | Topics coverage as described in project details |
+| 1. | Writing | Topics mostly covered by mid-June, plus details on smart contract execution. This work has been started several months proior to grant application. |
 
 
-### Milestone 2 — Proofreading, structuring
+### Milestone 2 — Writing the content, 50%
+
+- **Estimated duration:** 3 months
+- **FTE:**  0.2
+- **Costs:** 20,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | Writing | Data design best practices |
+| 2. | Writing | Design patterns |
+| 3. | Writing | Performance and scaling |
+| 4. | Writing | Contract development kits |
+
+### Milestone 3 — Proofreading, structuring
 
 - **Estimated duration:** 2 months
 - **FTE:**  0.25
@@ -153,10 +170,10 @@ Several chapters have already been published at
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1      | Finalized book | Proofreading, structuring, links check |
+| 1.      | Finalized book | Proofreading, structuring, links check |
 
 
-### Milestone 3 — Community feedback
+### Milestone 4 — Community feedback
 
 - **Estimated duration:** 6 months
 - **FTE:**  0.01
@@ -164,7 +181,7 @@ Several chapters have already been published at
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1 | Community feedback | Answering questions, adding more material, fixing errors in the text |
+| 1. | Community feedback | Answering questions, adding more material, fixing errors in the text |
 
 
 
