@@ -16,7 +16,7 @@
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
-| [Time2Discover](https://time2discover.no/) | The Lost Diamond | [GitHub](https://github.com/bjornomsland) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Time2Discover](https://time2discover.no/) | [The Lost Diamond](../applications/TheLostDiamond_BjornOmsland.md) | [GitHub](https://github.com/bjornomsland) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [ZeroPass](https://zeropass.io/) | EOS Cryptography Proposal | [GitHub](https://github.com/ZeroPass/eosio.ck) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [GenerEOS Pty Ltd](https://genereos.io/) | Smart Contract Testing | [GitHub](https://github.com/generEOS) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [CETF](https://github.com/n0umen0n) | Crypto Exchange Traded Funds | [GitHub](https://github.com/n0umen0n) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
