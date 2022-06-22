@@ -40,9 +40,15 @@ Following the test session, we are willing to share the enhanced version of our 
 In a nutshell, EO2 is a Token that cryptographically represents a ton of Co2 equivalent and constitutes a safe and sustainable alternative asset suitable to meet the financial needs for diversification, investment and store of value of individuals as well as an effective tool to offset individuals’ and businesses’ carbon emissions. By integrating the regulated carbon market with blockchain technology, EO2 aims to leverage the best of both worlds and to create additional value out of the carbon market. The creation of value derives from the greater usability, easier accessibility and traceability that digital tokens and blockchain add to the existing carbon market dynamics. 
 
 From an IT point of view, the project for the grant proposal consists of a boilerplate of an UI that simplify the adoption of EOSIO-based blockchain technology as well as the adoption of non-crypto users considering in app payment system, multi - language characteristics and built-in connection with Anchor and Ledger as authorization providers.  
+
 EOTWO will make open-source the following: 
-Webapp: ReactJS 18 UI Boilerplate with JSS and material-UI for component designs. Account creation on EOSIO-based blockchain, Instruction to connect to the backend using AWS. Sidebar Menu with Dashboard, Assets, Support, and extra buttons for each project-specific development. The webapp will include the integration of external wallet such as ANCHOR and LEDGER.  
-EOTWO has already developed the main functions of the webapp and is looking for resources to complete it. In addition, we recently hired an UI designer that will enhance the look of the webapp. The webapp is available in the following link to be analyzed by the committee: https://serene-biscotti-ca7162.netlify.app/ A preview of how the user interface will looks like in the following link: https://xd.adobe.com/view/beb2bcc9-2e61-42a2-bc26-f28d8404792b-ebe1/ What will not be shared with the community are the functionalities specific to the business logic behind EO2. EO2 can provide advice on using the boilerplate based on goodwill only. EO2 is not committed to providing support of any type in the development beyond the documentation of each component. 
+Webapp: ReactJS 18 UI Boilerplate with JSS and material-UI for component designs. Account creation on EOSIO-based blockchain, Instruction to connect to the backend using AWS. Sidebar Menu with Dashboard, Assets, Support, and extra buttons for each project-specific development. The webapp will include the integration of external wallet such as ANCHOR and LEDGER. 
+
+EOTWO has already developed the main functions of the webapp and is looking for resources to complete it. In addition, we recently hired an UI designer that will enhance the look of the webapp.
+The webapp is available in the following link to be analyzed by the committee: https://serene-biscotti-ca7162.netlify.app/
+A preview of how the user interface will looks like in the following link: https://xd.adobe.com/view/beb2bcc9-2e61-42a2-bc26-f28d8404792b-ebe1/
+
+What will not be shared with the community are the functionalities specific to the business logic behind EO2. EO2 can provide advice on using the boilerplate based on goodwill only. EO2 is not committed to providing support of any type in the development beyond the documentation of each component. 
 
 
 ### Ecosystem Fit
@@ -54,6 +60,7 @@ EOTWO will make available to the ecosystem the internally developed UI ready to 
 - **Who is your target audience (chain/dapp/wallet/UI developers, designers, your user base, some dapp's userbase, yourself)?**
 
 EO2 aims to make regulated Carbon Credits more accessible and usable compared with the status quo. The target audience includes individuals who are currently investing in digital assets, individuals who are approaching this new market niche, environmental-sensitive individuals and companies who wish to offset their carbon footprint with no greenwashing risks, companies who wish to introduce offsetting processes in their digital operations. Indeed, in the form of digital assets, regulated Carbon Credits are more versatile and become suitable of multiple uses and able to accommodate market needs beyond the traditional buy & offset lifecycle. 
+
 In this given context, EOTWO’s opensource apps are aimed to Dapp/UI Developers and to all EOSIO-related product developer who intend to use the EO2 tokens made available to the community. Also, we aim to provide developers with an easy to use UI that will help the EOS community members to attract users with limited experience with digital assets.
 
 
