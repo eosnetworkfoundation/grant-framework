@@ -14,7 +14,7 @@
 
 ## Wave 2 - Second Quarter 2022
 
-| Team | Project | Link | Terminated | First Delivery | Completed
+| Team | Project Name / Application | Repo | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
 | [Time2Discover](https://time2discover.no/) | [The Lost Diamond](../applications/TheLostDiamond_BjornOmsland.md) | [GitHub](https://github.com/bjornomsland) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [ZeroPass](https://zeropass.io/) | [EOS Cryptography Proposal](../applications/eos-cryptography-proposal.md) | [GitHub](https://github.com/ZeroPass/eosio.ck) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
@@ -28,6 +28,6 @@
 
 The ENF Grant Framework Launched in 2022 Q2
 
-| Team | Project | Link | Terminated | First Delivery | Completed
+| Team | Project Name / Application | Repo | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
 | None | None | GitHub | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
