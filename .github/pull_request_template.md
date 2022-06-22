@@ -22,6 +22,7 @@
 - [ ] An EOS address for the payment of the milestones is provided inside the application.
 - [ ] I have read and acknowledge the [terms and conditions](https://github.com/eosnetworkfoundation/grant-framework/blob/main/docs/T&Cs.md).
 - [ ] The software delivered for this grant will be released under an open-source license specified in the application.
+- [ ] This project has NOT been part of a token sale or NFT sale
 - [ ] The initial PR contains only one commit (squash and force-push if needed).
 - [ ] The grant will only be announced once the first milestone [has been accepted](https://github.com/eosnetworkfoundation/grant-milestones#process).
 
