@@ -45,7 +45,9 @@ EOTWO will make open-source the following:
 Webapp: ReactJS 18 UI Boilerplate with JSS and material-UI for component designs. Account creation on EOSIO-based blockchain, Instruction to connect to the backend using AWS. Sidebar Menu with Dashboard, Assets, Support, and extra buttons for each project-specific development. The webapp will include the integration of external wallet such as ANCHOR and LEDGER. 
 
 EOTWO has already developed the main functions of the webapp and is looking for resources to complete it. In addition, we recently hired an UI designer that will enhance the look of the webapp.
+
 The webapp is available in the following link to be analyzed by the committee: https://serene-biscotti-ca7162.netlify.app/
+
 A preview of how the user interface will looks like in the following link: https://xd.adobe.com/view/beb2bcc9-2e61-42a2-bc26-f28d8404792b-ebe1/
 
 What will not be shared with the community are the functionalities specific to the business logic behind EO2. EO2 can provide advice on using the boilerplate based on goodwill only. EO2 is not committed to providing support of any type in the development beyond the documentation of each component. 
