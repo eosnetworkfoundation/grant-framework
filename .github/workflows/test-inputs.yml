@@ -3,9 +3,9 @@ name: Test Inputs
 on:
   workflow_dispatch:
     inputs:
-      environment:
-        type: environment
-        description: Select the environment
+      #environment:
+        #type: environment
+        #description: Select the environment
       boolean:
         type: boolean
         description: True or False
