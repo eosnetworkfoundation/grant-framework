@@ -25,7 +25,7 @@ not send an email or do any workflow. `FUTURE:` it may send a generic email noti
 It would cc the grants email address.  Then a simple reply all email can be send from that account to note the items that need to be addressed.
 
 ## Grant Received
-This currnet does nothing but add the tag so it is clear the grant is valid and has been processed (and sent to be translated).
+This currently does nothing but add the tag so it is clear the grant is valid and has been processed (and sent to be translated).
 
 ## Grant Translated
 This adds the grant to the grant spreadsheet for the Grant Committee.  `FUTURE:` It should also sent the notification email to the Grant Committee
