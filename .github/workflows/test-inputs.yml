@@ -3,6 +3,9 @@ name: Test Inputs
 on:
   workflow_dispatch:
     inputs:
+      string:
+        type: string
+        description: This is a string
       #environment:
         #type: environment
         #description: Select the environment
