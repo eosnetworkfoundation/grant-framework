@@ -28,6 +28,7 @@ jobs:
 
       - name: greet
         run: | 
+          echo "string is ${{ github.event.inputs.string }}"
           echo "environment is ${{ github.event.inputs.environment }}"
           echo "boolean is ${{ github.event.inputs.boolean }}"
           echo "choice is ${{ github.event.inputs.choice }}"
