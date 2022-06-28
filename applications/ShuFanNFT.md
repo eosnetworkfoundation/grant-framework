@@ -33,7 +33,7 @@
 
 ### Project Details
 
-- ShuFan is a freelance illustration artist who first put his work on https://eos.atomichub.io/ on March 18, 2021, and sold it in the form of NFT 21 days later, on April 8, the first work ["Small Flower" was collected](https://eos.atomichub.io/market/sale/2230) by a collector for 1 EOS ($6.44). Since then, more works have been gradually converted into NFTs for the first launch on EOS. Up to now, the [shufan.free collection](https://eos.atomichub.io/explorer/collection/shufan.free) has reached 1270 EOS in sales, **[ranking 18th** on the entire network](https://eos.atomichub.io/ranking), and it is also the **only** illustration art collection on the list.
+- ShuFan is a freelance illustration artist who first put his work on https://eos.atomichub.io/ on March 18, 2021, and sold it in the form of NFT 21 days later, on April 8, the first work ["Small Flower" was collected](https://eos.atomichub.io/market/sale/2230) by a collector for 1 EOS ($6.44). Since then, more works have been gradually converted into NFTs for the first launch on EOS. Up to now, the [shufan.free collection](https://eos.atomichub.io/explorer/collection/shufan.free) has reached 1270 EOS in sales, [**ranking 18th** on the entire network](https://eos.atomichub.io/ranking), and it is also the **only** illustration art collection on the list.
 
 - The current ShuFanNFT project has formed a small team and has its own official web and other media platforms. Committed to building ShuFanNFT as a brand and striving to be part of the metaverse.
 
