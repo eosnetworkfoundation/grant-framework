@@ -33,27 +33,19 @@
 
 ### Project Details
 
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
+- ShuFan is a freelance illustration artist who first put his work on https://eos.atomichub.io/ on March 18, 2021, and sold it in the form of NFT 21 days later, on April 8, the first work ["Small Flower" was collected](https://eos.atomichub.io/market/sale/2230) by a collector for 1 EOS ($6.44). Since then, more works have been gradually converted into NFTs for the first launch on EOS. Up to now, the [shufan.free collection](https://eos.atomichub.io/explorer/collection/shufan.free) has reached 1270 EOS in sales, **[ranking 18th** on the entire network](https://eos.atomichub.io/ranking), and it is also the **only** illustration art collection on the list.
 
-- Mock-ups/designs of any UI components
-- Data models of the core functionality
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+- The current ShuFanNFT project has formed a small team and has its own official web and other media platforms. Committed to building ShuFanNFT as a brand and striving to be part of the metaverse.
 
 ### Ecosystem Fit
 
-> Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
+- If ShuFan NFT project is successful on EOS, it will be very beneficial to show the advantages of NFT on EOS (fast, 0 cost, decentralization, user-friendly, etc.), and attract more traditional artists to enter the platform on EOS NFT marketplace.
+- NFT enthusiasts on EOS, and potential illustrator art collectors are target audiences.
+- ShuFan NFT project will enrich the artwork NFT in the EOS ecosystem. Artwork NFT is different from the popular game NFT on the market, small circulation (even only 1 Mint), high originality requirements, relatively independent between NFT, relatively high creation cost. In addition, because the illustration artwork itself has an independent collection value, the artwork NFT also has asset value, collection value, appreciation value, aesthetic value, and will increase in value over time. 
+- ShuFan is an early explorer in the field of illustration NFTs, one of the earliest publishers of artwork NFTs on EOS, and is currently the highest-selling illustration artist on https://eos.atomichub.io/,  
+- Because ShuFan's creative style is unique, the creative theme focuses on the close connection between human beings and other life in nature. There are three categories of creative methods: digital painting, pen painting and pen + watercolor combined painting. 
+- Although EOS has other paintings currently on sale, the styles are very different and there is no similarity in the strict sense.
 
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the EOSIO ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
 
 ## Team
 
