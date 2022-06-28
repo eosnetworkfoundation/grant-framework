@@ -1,18 +1,10 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Please do not remove any of the mandatory lines that start with **bold labels** or as headlines! Your application will be rejected!
-> Lines starting with a `>` (such as this one) should be removed.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-> 
-> Please note that this application will be **automatically parsed**.  Please only put the data required in the fields following the bolded labels.
->
-> Deleting lines that start with **Bold Labels** will cause your grant to be rejected! Please fill this out carefully if you want to be approved!
 
-- **Project Name:** Name of your project (e.g. Anchor Wallet)
-- **Team Name:** Legal name of your team (e.g. Greymass, Inc.)
-- **EOS Payment Address:** EOS payment address
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
+- **Project Name:** ShuFan NFT
+- **Team Name:** ShuFan NFT team
+- **EOS Payment Address:** shufan.free
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 - **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
 - **Project is Open-Source:** Yes/No
 - **Project was part of Token sale:** Yes/No
