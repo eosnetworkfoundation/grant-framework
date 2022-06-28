@@ -5,7 +5,7 @@
 - **Team Name:** ShuFan NFT team
 - **EOS Payment Address:** shufan.free
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
-- **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
+- **Pomelo Grant(s):** N/A
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/ShuFanNFTart
@@ -13,11 +13,10 @@
 
 ## Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** myemail@mycompany.com
-- **Website:** https://yourwebsite.com
+- **Contact Name:** ShuFan Chen
+- **Contact Email:** ShuFanNFT@gmail.com
+- **Website:** https://eos.atomichub.io/profile/shufan.free
 
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview
 
@@ -27,10 +26,10 @@
 
 > Please provide the following:
 
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+- **Name:** ShuFan NFT
+- **Brief Description:** The ShuFan NFT project was founded by original illustrator ShuFan Chen, dedicated to sharing her original artwork through NFT, each NFT is unique and limited edition, and trying to be an important part of the Metaverse.
+- **Relationship to EOSIO:** The illustration NFTs are minted on EOS blockchain, including the NFT market of https://eos.atomichub.io.
+- **Reason for Interest:** ShuFan is an original artist, she loves painting, hope to share them with the world by NFT.
 
 ### Project Details
 
