@@ -20,18 +20,19 @@
 
 ## Project Overview
 
-NFT, giving traditional painting artists a new platform for displaying and sharing their works, is also an epoch-making revolution for the future traditional painting art market. I am excited to be in such an era.Since I sold my first work on eos.atomichub.io on April 8, the ShuFanNFT project has been officially launched, and inspire me to create more high-quality illustration NFTs to share on EOS.
+This application is in response to a New Proposal.
 
 ### Overview
 
 
 - **Name:** ShuFan NFT
-- **Brief Description:** The ShuFan NFT project was founded by original illustrator ShuFan Chen, dedicated to sharing her original artwork through NFT, each NFT is unique and limited edition, and trying to be an important part of the Metaverse.
-- **Relationship to EOSIO:** The illustration NFTs are minted on EOS blockchain, including the NFT market of https://eos.atomichub.io.
-- **Reason for Interest:** ShuFan is an original artist, she loves painting, hope to share them with the world by NFT.
+- **Brief Description:** The Shufan NFT project is designed to inspire ShuFan to create original illustrations, share and promote them through NFT on EOS. And become an important ecological project in the EOS community, an important part of the future Metaverse.
+- **Relationship to EOSIO:** The illustration NFTs are minted on EOS blockchain, including the NFT market of https://eos.atomichub.io. 
+- **Reason for Interest:** ShuFan NFT project will enrich the artwork NFTs in the EOS ecosystem, demonstrate the excellent performance of EOS in the way of illustration art project application，and attract more traditional artists to join.
 
 ### Project Details
 
+- NFT, giving traditional painting artists a new platform for displaying and sharing their works, is also an epoch-making revolution for the future traditional painting art market. ShuFan is excited to be in such an era.
 - ShuFan is a freelance illustration artist who first put his work on https://eos.atomichub.io/ on March 18, 2021, and sold it in the form of NFT 21 days later, on April 8, the first work ["Small Flower" was collected](https://eos.atomichub.io/market/sale/2230) by a collector for 1 EOS ($6.44). Since then, more artworks have been gradually converted into NFTs for the first launch on EOS. Up to now, the [shufan.free collection](https://eos.atomichub.io/explorer/collection/shufan.free) has reached 1270 EOS in sales, [**ranking 18th** on the entire network](https://eos.atomichub.io/ranking), and it is also the **only** illustration art collection on the list.
 
 - The current ShuFanNFT project has formed a small team and has its own official web and other media platforms. Committed to building ShuFanNFT as a brand and striving to be part of the metaverse.
