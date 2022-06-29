@@ -39,50 +39,42 @@
 
 ### Ecosystem Fit
 
-- If ShuFan NFT project is successful on EOS, it will be very beneficial to show the advantages of NFT on EOS (fast, 0 cost, decentralization, user-friendly, etc.), and attract more traditional artists to enter the platform on EOS NFT marketplace.
-- NFT enthusiasts on EOS, and potential illustrator art collectors are target audiences.
-- ShuFan NFT project will enrich the artwork NFT in the EOS ecosystem. Artwork NFT is different from the popular game NFT on the market, small circulation (even only 1 Mint), high originality requirements, relatively independent between NFT, relatively high creation cost. In addition, because the illustration artwork itself has an independent collection value, the artwork NFT also has asset value, collection value, appreciation value, aesthetic value, and will increase in value over time. 
-- ShuFan is an early explorer in the field of illustration NFTs, one of the earliest publishers of artwork NFTs on EOS, and is currently the highest-selling illustration artist on https://eos.atomichub.io/,  
-- Because ShuFan's creative style is unique, the creative theme focuses on the close connection between human beings and other life in nature. There are three categories of creative methods: digital painting, pen painting and pen + watercolor combined painting. 
-- Although EOS has other paintings currently on sale, the styles are very different and there is no similarity in the strict sense.
+- **Attract more traditional artists**. If ShuFan NFT project is successful on EOS, it will be very beneficial to show the advantages of NFT on EOS (fast, 0 cost, decentralization, user-friendly, etc.), and attract more traditional artists to enter the platform on EOS NFT marketplace.
+- **Target audiences**. NFT enthusiasts on EOS and potential illustration art collectors are target audiences.
+- **Will enrich the artwork NFT in the EOS ecosystem**. Artwork NFT is different from the popular game NFT on the market, small circulation (even only 1 Mint), high originality requirements, relatively independent between NFT, relatively high creation cost. In addition, because the illustration artwork itself has an independent collection value, the artwork NFT also has asset value, collection value, appreciation value, aesthetic value, and will increase in value over time. 
+- **The earliest publishers of artwork NFTs on EOS**. ShuFan is an early explorer in the field of illustration NFTs, one of the earliest publishers of artwork NFTs on EOS, and is currently the highest-selling illustration artist on https://eos.atomichub.io/,  
+- **Unique creative style**. Because ShuFan's creative style is unique, the creative theme focuses on the close connection between human beings and other life in nature. There are three categories of creative methods: digital painting, pen painting and pen + watercolor combined painting. 
+- **ShuFan NFT project is different**. There are some other paintings for sale on EOS, however, ShuFan NFT project is different.
+  - *Continuous innovation*. ShuFan is an artist who loves painting, is full of ideals on the symbiotic relationship between man and nature, and is open-minded. She conceives or creates new paintings almost every day.
+  - *Explore ahead*. In addition to being the earliest explorer of illustration NFTs on EOS, ShuFan is also constantly exploring new projects on the blockchain and integrating her works into them, including blockchain games, 3D galleries, etc. She is also paying attention to the upcoming outbreak on EOS of ecological projects.
+  - *Planned promotion*. The project has received small start-up support from the capital market, and a small team has been formed to promote the project in a planned way. Including the construction of the project [website](https://shufannft.carrd.co/), [twitter](https://twitter.com/ShuFanNFT), [telegram](https://t.me/ShuFanNFT), [discord](https://discord.gg/NkJAnGK9ZA), [instagram](https://www.instagram.com/shufannft) and other media platforms. ShuFan is also participating in many international illustration competitions.
+  - *Long-term strategy*. The ShuFan NFT project wants to make an illustration NFT project with global influence, so it chooses the most potential blockchain project to issue NFT, and EOS ranks first. And plan to build the DAO of the project on EOS at a suitable time in the future.
 
 
 ## Team
 
 ### Team members
 
-- **Team Leader:** Name of team leader
-- Name of team member 1
-- Name of team member 2
-- Name of team member 3, etc.
+- **Team Leader:** ShuFan
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity. (e.g. Greymass, Inc.)
-- **Registered Address:** Address of your registered legal entity. Please keep it in a single line. (e.g. 123 Main Street, London LK1 234, UK)
+- **Registered Legal Entity:** N/A
+- **Registered Address:** N/A
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
-
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+> ShuFan is a professional painter, she is widely involved in world literature, film, and music, which has cultivated her sensitive, focused and unique aesthetic characteristics, coupled with her longing for future technology, focusing on the harmonious symbiotic relationship between human beings and nature , use professional drawing skills to create unique and outstanding illustrations.
+> Shu Fan is also a member of EdenOnEOS, and has formed some popularity and fans in the EOS community. Her illustrations and NFT sales rankings have proved her professionalism to a certain extent.
 
 ### Team Org Repos
 
-- https://github.com/<your_organization>
-- https://github.com/<your_organization>/<project_1>
-- https://github.com/<your_organization>/<project_2>
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+- https://github.com/<ShuFanNFTart>
 
 ### Team Member Repos
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- https://github.com/<ShuFanNFT>
 
 ### Team LinkedIn Profiles (if available)
-
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
 
 ## Development Status
 
