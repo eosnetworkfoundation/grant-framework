@@ -20,11 +20,10 @@
 
 ## Project Overview
 
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
+NFT, giving traditional painting artists a new platform for displaying and sharing their works, is also an epoch-making revolution for the future traditional painting art market. I am excited to be in such an era.Since I sold my first work on eos.atomichub.io on April 8, the ShuFanNFT project has been officially launched, and inspire me to create more high-quality illustration NFTs to share on EOS.
 
 ### Overview
 
-> Please provide the following:
 
 - **Name:** ShuFan NFT
 - **Brief Description:** The ShuFan NFT project was founded by original illustrator ShuFan Chen, dedicated to sharing her original artwork through NFT, each NFT is unique and limited edition, and trying to be an important part of the Metaverse.
@@ -33,7 +32,7 @@
 
 ### Project Details
 
-- ShuFan is a freelance illustration artist who first put his work on https://eos.atomichub.io/ on March 18, 2021, and sold it in the form of NFT 21 days later, on April 8, the first work ["Small Flower" was collected](https://eos.atomichub.io/market/sale/2230) by a collector for 1 EOS ($6.44). Since then, more works have been gradually converted into NFTs for the first launch on EOS. Up to now, the [shufan.free collection](https://eos.atomichub.io/explorer/collection/shufan.free) has reached 1270 EOS in sales, [**ranking 18th** on the entire network](https://eos.atomichub.io/ranking), and it is also the **only** illustration art collection on the list.
+- ShuFan is a freelance illustration artist who first put his work on https://eos.atomichub.io/ on March 18, 2021, and sold it in the form of NFT 21 days later, on April 8, the first work ["Small Flower" was collected](https://eos.atomichub.io/market/sale/2230) by a collector for 1 EOS ($6.44). Since then, more artworks have been gradually converted into NFTs for the first launch on EOS. Up to now, the [shufan.free collection](https://eos.atomichub.io/explorer/collection/shufan.free) has reached 1270 EOS in sales, [**ranking 18th** on the entire network](https://eos.atomichub.io/ranking), and it is also the **only** illustration art collection on the list.
 
 - The current ShuFanNFT project has formed a small team and has its own official web and other media platforms. Committed to building ShuFanNFT as a brand and striving to be part of the metaverse.
 
@@ -77,7 +76,9 @@
 
 ## Development Status
 
-- The ShuFan NFT project was launched in March 2021 and has been running on EOS for more than 15 months. The recently released popular work is the [panda series](https://eos.atomichub.io/profile/shufan.free#sets-shufan.free-0-0), which includes 4 panda-related illustrations, and refreshed the one mint (100 $EOS) and one selling (150 $EOS) price. 
+- The ShuFan NFT project was launched in March 2021 and has been running on EOS for more than 15 months.
+- Up to now, the [shufan.free collection](https://eos.atomichub.io/explorer/collection/shufan.free) has reached 1270 EOS in sales, [ranking 18th on the entire network](https://eos.atomichub.io/ranking), and it is also the **only** illustration art collection on the list.
+- The recently released popular work is the [panda series](https://eos.atomichub.io/profile/shufan.free#sets-shufan.free-0-0), which includes 4 panda-related illustrations, and refreshed the one mint (100 $EOS) and one selling (150 $EOS) price. 
 - At present, the basic settings of NFT project management, the structure of the media platform, and the IP construction of the ShuFan NFT brand have been completed.
 - Shu Fan is now constantly creating new artworks and making a series of promotion plans.
 
@@ -107,7 +108,7 @@ The first milestone (2 months duration) is to 1) release at least 6 new illustra
 | 3. | Marketing campaign | $2,000 to support marketing campaign. Cooperate with media on EOS to promote NFT sales through activities such as mystery boxes, articles, etc. NFT sales exceeding 100 EOS. |
 
 
-### Milestone 2 - Get funding for the next $50,000 dollar
+### Milestone 2 - Get funding for the next $50,000 in funding to support more creations and greater marketing
 
 - **Estimated Duration:** TBA in the next grant application
 - **FTE:**  2
