@@ -98,7 +98,7 @@ The first milestone (2 months duration) is to: 1) release at least 6 new illustr
 - **Full-Time Equivalent (FTE):**  2 FTE
 - **Total Costs:** 10,000 USD (for the first milestone. The whole project is long term.)
 
-### Milestone 1 — Prove ShuFan's innovative ability and the market potential of Illustrator NFTs.
+### Milestone 1 — Prove ShuFan's innovative ability and the market potential of illustration NFTs.
 
 - **Estimated duration:** 2 months
 - **FTE:**  2
@@ -135,10 +135,9 @@ The first milestone (2 months duration) is to: 1) release at least 6 new illustr
 
 **How did you hear about the Grants Program?**  Twitter.
 
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
 - **Cooperate with blockchain games**: ShuFan NFT once cooperated with wombate, who developed a NFT pledged game named [Dungeon Master](https://dungeon.wombat.app/dungeon), which increased the playability value and fun of NFT, beyond the collection value of artworks.
-- **Metaverse/Web3**: ShuFan NFT on ETH can be [displayed in a 3D virtual gallery](https://oncyber.io/girls-shufan), this is an exciting project that will make you feel entering the Metaverse, you can experience it. If there is a similar project on EOS, ShuFan NFT will also choose to actively cooperate.In addition, NFTs can also be set as avatars on EOS wallet via https://harvest.pomelo.io.
+- **Metaverse/Web3**: ShuFan NFT on ETH can be [displayed in a 3D virtual gallery](https://oncyber.io/girls-shufan), this is an exciting project that will make you feel entering the Metaverse. If there is a similar project on EOS, ShuFan NFT will also choose to actively cooperate. In addition, NFTs can also be set as avatars on EOS wallet via https://harvest.pomelo.io.
 - **Angel investment**.The project has received [a small start-up support from the capital market](https://medium.com/@EdenCapital/eden-capital-angel-invested-100-000-in-shufan-nft-e91aca1f9ee1).
 - **Small team**. A small team has been formed to promote the project in a planned way, including the construction of the project [website](https://shufannft.carrd.co/), [twitter](https://twitter.com/ShuFanNFT), [telegram](https://t.me/ShuFanNFT), [discord](https://discord.gg/NkJAnGK9ZA), [instagram](https://www.instagram.com/shufannft) and other media platforms.
-- **Illustration competition**. ShuFan is also participating in many international illustration competitions, once these illustrations are awarded, NFTs may also be launched for the first time on EOS.
+- **Illustration competitions**. ShuFan is also participating in many international illustration competitions, once these illustrations are awarded, NFTs are expected to be first launched on EOS.
