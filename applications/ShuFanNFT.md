@@ -47,7 +47,6 @@
 - **ShuFan NFT project is different**. There are some other paintings for sale on EOS, however, ShuFan NFT project is different.
   - **Continuous innovation**. ShuFan is an artist who loves painting, is full of ideals on the symbiotic relationship between man and nature, and is open-minded. She conceives or creates new paintings almost every day.
   - **Explore ahead**. In addition to being the earliest explorer of illustration NFTs on EOS, ShuFan is also constantly exploring new projects on the blockchain and integrating her works into them, including blockchain games, 3D galleries, etc. She is also paying attention to the upcoming outbreak on EOS of ecological projects.
-  - **Planned promotion**. The project has received small start-up support from the capital market, and a small team has been formed to promote the project in a planned way. Including the construction of the project [website](https://shufannft.carrd.co/), [twitter](https://twitter.com/ShuFanNFT), [telegram](https://t.me/ShuFanNFT), [discord](https://discord.gg/NkJAnGK9ZA), [instagram](https://www.instagram.com/shufannft) and other media platforms. ShuFan is also participating in many international illustration competitions.
   - **Long-term strategy**. The ShuFan NFT project wants to make an illustration NFT project with global influence, so it chooses the most potential blockchain project to issue NFT, and EOS ranks first. And plan to build the DAO of the project on EOS at a suitable time in the future.
 
 
@@ -63,8 +62,8 @@
 
 ### Team Experience
 
-> ShuFan is a professional painter, she is widely involved in world literature, film, and music, which has cultivated her sensitive, focused and unique aesthetic characteristics, coupled with her longing for future technology, focusing on the harmonious symbiotic relationship between human beings and nature , use professional drawing skills to create unique and outstanding illustrations.
-> ShuFan is also a [member of EdenOnEOS](https://genesis.eden.eoscommunity.org/members/shufan.free), and has formed some popularity and fans in the EOS community. Her illustrations and NFT sales rankings have proved her professionalism to a certain extent.
+- ShuFan is a professional painter, she is widely involved in world literature, film, and music, which has cultivated her sensitive, focused and unique aesthetic characteristics, coupled with her longing for future technology, focusing on the harmonious symbiotic relationship between human beings and nature , use professional drawing skills to create unique and outstanding illustrations.
+- ShuFan is also a [member of EdenOnEOS](https://genesis.eden.eoscommunity.org/members/shufan.free), and has formed some popularity and fans in the EOS community. Her illustrations and NFT sales rankings have proved her professionalism to a certain extent.
 
 ### Team Org Repos
 
@@ -78,101 +77,63 @@
 
 ## Development Status
 
-> The ShuFan NFT project was launched in March 2021 and has been running on EOS for more than 15 months. The recently released popular work is the [panda series](https://eos.atomichub.io/profile/shufan.free#sets-shufan.free-0-0), which includes 4 panda-related illustrations, and refreshed the one mint (100 $EOS) and one selling (150 $EOS) price. 
-> At present, the basic settings of NFT project management, the structure of the media platform, and the IP construction of the ShuFan NFT brand have been completed.
-> Shu Fan is now constantly creating new artworks and making a series of promotion plans.
+- The ShuFan NFT project was launched in March 2021 and has been running on EOS for more than 15 months. The recently released popular work is the [panda series](https://eos.atomichub.io/profile/shufan.free#sets-shufan.free-0-0), which includes 4 panda-related illustrations, and refreshed the one mint (100 $EOS) and one selling (150 $EOS) price. 
+- At present, the basic settings of NFT project management, the structure of the media platform, and the IP construction of the ShuFan NFT brand have been completed.
+- Shu Fan is now constantly creating new artworks and making a series of promotion plans.
 
 ## Development Roadmap
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
+**Marketing Roadmap**
 
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to the EOS ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
+The first milestone (2 months duration) is to 1) release at least 6 new illustrations, 2) add at least 100 twitter followers, 3) NFT sales exceeding 100 EOS.
 
-For each milestone,
+### Overview
 
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
+- **Total Estimated Duration:** 2 months (for the first milestone)
+- **Full-Time Equivalent (FTE):**  2 FTE
+- **Total Costs:** 10,000 USD (for the first milestone. The whole project is long term.)
 
-> :zap: If any of your deliverables is based on someone else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
+### Milestone 1 — Prove ShuFan's innovative ability and the market potential of Illustrator NFTs.
 
-### Milestone Summary
-
-> Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
-> You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
-> of all of your Milestones.
-- **Total Estimated Duration:** 2 months 
-- **Full-Time Equivalent (FTE):** 2 FTE
-- **Total Costs:** 12,000 USD
-
-> Please note that this application is automatically parsed.<br/>
-> For the above fields, please only put the answer on that line.  If you want to add more information, please put it below these instructions.<br/>
-> Please remember to delete all lines that start with `>` as they are just instructions and not needed in the application submission.<br/>
-> 
-> Notes on above fields:
-> - Total Estimated Duration: Duration of the whole project (example: 2 months or 7 weeks)
-> - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
-> - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
-
-### Milestone 1 Example — Implement EOSIO Application
-
-- **Estimated duration:** 1 month
+- **Estimated duration:** 2 months
 - **FTE:**  2
-- **Costs:** 8,000 USD
+- **Costs:** 10,000 USD
+- Milestone 1 is creating and marketing oriented and as such there is no code to test.
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Application interface to EOSIO | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
-| 3. | Caching layer | We will create a caching layer ... |  
-| 4. | API interface to our app | We will create an API that ... |  
+| 1. | Illustration creation | $6,000 to support ShuFan's illustration creation, she can focus more on painting creation to create more high-quality illustration artworks. Release at least 6 new illustrations on EOS |
+| 2. | Media promotion | $2,000 to support media promotion, add at least 100 real twitter followers through giveaway and other activities |
+| 3. | Marketing campaign | $2,000 to support marketing campaign. Cooperate with media on EOS to promote NFT sales through activities such as mystery boxes, articles, etc. NFT sales exceeding 100 EOS. |
 
 
+### Milestone 2 - Get funding for the next $50,000 dollar
 
-### Milestone 2 Example — Additional features
-
-- **Estimated Duration:** 1 month
+- **Estimated Duration:** TBA in the next grant application
 - **FTE:**  2
-- **Costs:** 4,000 USD
+- **Costs:** x USD
 
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Added UI functionality | We will add UI functionality to... |  
-| 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
-
-
-... Add more milestones as above as needed ...
+...
 
 
 ## Future Plans
 
-> Please include here:
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+- Continuously create new works,
+- Optimize the management, display and application of NFT.
+- Use new concepts such as DAO to optimize management projects and fans.
+- Expand the online influence of the market, including cooperating with more platforms, like blockchain games, Metaverse/Web3, 3D gallery, etc.
+- Expand the offline influence of the market, including cooperating with galleries and museums, and attach the EOS NFT tag, which will not only promote ShuFanNFT artworks, but also improve the brand effect of EOS, attracting more traditional artists to join the EOS NFT market.
+- ShuFan NFT project will make good use of the performance of EOS (fast, 0 cost, decentralization, user-friendly, etc.), and has the ambition to grow together with the EOS ecosystem, become an illustration NFT project with world influence.
 
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?**  Twitter.
 
 > Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+- **Cooperate with blockchain games**: ShuFan NFT once cooperated with wombate, who developed a NFT pledged game named [Dungeon Master](https://dungeon.wombat.app/dungeon), which increased the playability value and fun of NFT, beyond the collection value of artworks.
+- **Metaverse/Web3**: ShuFan NFT on ETH can be [displayed in a 3D virtual gallery](https://oncyber.io/girls-shufan), this is an exciting project that will make you feel entering the Metaverse, you can experience it. If there is a similar project on EOS, ShuFan NFT will also choose to actively cooperate.In addition, NFTs can also be set as avatars on EOS wallet via https://harvest.pomelo.io.
+- **Angel investment**.The project has received [a small start-up support from the capital market](https://medium.com/@EdenCapital/eden-capital-angel-invested-100-000-in-shufan-nft-e91aca1f9ee1).
+- **Small team**. A small team has been formed to promote the project in a planned way(After team discussion,this Level 1 grant plan is to apply in the name of ShuFan), including the construction of the project [website](https://shufannft.carrd.co/), [twitter](https://twitter.com/ShuFanNFT), [telegram](https://t.me/ShuFanNFT), [discord](https://discord.gg/NkJAnGK9ZA), [instagram](https://www.instagram.com/shufannft) and other media platforms.
+- **Illustration competition**. ShuFan is also participating in many international illustration competitions, once these illustrations are awarded, NFTs may also be issued for the first time on EOS.
