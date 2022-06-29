@@ -40,10 +40,10 @@ This application is in response to a New Proposal.
 
 ### Ecosystem Fit
 
-- **Attract more traditional artists**. If ShuFan NFT project is successful on EOS, it will be very beneficial to show the advantages of NFT on EOS (fast, 0 cost, decentralization, user-friendly, etc.), and attract more traditional artists to enter the platform on EOS NFT marketplace.
-- **Will enrich the artwork NFT in the EOS ecosystem**. Artwork NFT is different from the popular game NFT on the market, small circulation (even only 1 Mint), high originality requirements, relatively independent between NFT, relatively high creation cost. In addition, because the illustration artwork itself has an independent collection value, the artwork NFT also has asset value, collection value, appreciation value, aesthetic value, and will increase in value over time. 
-- **Target audiences**. NFT enthusiasts on EOS and potential illustration art collectors are target audiences.
 - **The earliest publishers of artwork NFTs on EOS**. ShuFan is an early explorer in the field of illustration NFTs, one of the earliest publishers of artwork NFTs on EOS, and is currently the highest-selling illustration artist on https://eos.atomichub.io/. 
+- **Will enrich the artwork NFT in the EOS ecosystem**. Artwork NFT is different from the popular game NFT on the market, small circulation (even only 1 Mint), high originality requirements, relatively independent between NFT, relatively high creation cost. In addition, because the illustration artwork itself has an independent collection value, the artwork NFT also has asset value, collection value, appreciation value, aesthetic value, and will increase in value over time. 
+-  **Attract more traditional artists**. If ShuFan NFT project is successful on EOS, it will be very beneficial to show the advantages of NFT on EOS (fast, 0 cost, decentralization, user-friendly, etc.), and attract more traditional artists to enter the platform on EOS NFT marketplace.
+- **Target audiences**. NFT enthusiasts on EOS and potential illustration art collectors are target audiences.
 - **ShuFan NFT project is different**. There are some other painting NFT for sale on EOS, however, ShuFan NFT project is different.
   - **Continuous innovation**. ShuFan is an artist who loves painting, is full of ideals on the symbiotic relationship between man and nature, and is open-minded. She conceives or creates new paintings almost every day.
   - **Unique creative style**. Because ShuFan's creative style is unique, the creative theme focuses on the close connection between human beings and other life in nature. There are three categories of creative methods: digital painting, pen painting and pen + watercolor combined painting. 
@@ -90,7 +90,7 @@ This application is in response to a New Proposal.
 
 **Marketing Roadmap**
 
-The first milestone (2 months duration) is to 1) release at least 6 new illustrations, 2) add at least 100 twitter followers, 3) NFT sales exceeding 100 EOS.
+The first milestone (2 months duration) is to: 1) release at least 6 new illustrations, 2) add at least 100 twitter followers, 3) NFT sales exceeding 100 EOS.
 
 ### Overview
 
