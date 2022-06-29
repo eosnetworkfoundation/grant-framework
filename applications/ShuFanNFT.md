@@ -13,7 +13,7 @@
 
 ## Contact
 
-- **Contact Name:** ShuFan Chen
+- **Contact Name:** ShuFan
 - **Contact Email:** ShuFanNFT@gmail.com
 - **Website:** https://eos.atomichub.io/profile/shufan.free
 
