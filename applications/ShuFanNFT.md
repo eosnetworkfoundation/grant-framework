@@ -45,10 +45,10 @@
 - **The earliest publishers of artwork NFTs on EOS**. ShuFan is an early explorer in the field of illustration NFTs, one of the earliest publishers of artwork NFTs on EOS, and is currently the highest-selling illustration artist on https://eos.atomichub.io/,  
 - **Unique creative style**. Because ShuFan's creative style is unique, the creative theme focuses on the close connection between human beings and other life in nature. There are three categories of creative methods: digital painting, pen painting and pen + watercolor combined painting. 
 - **ShuFan NFT project is different**. There are some other paintings for sale on EOS, however, ShuFan NFT project is different.
-  - *Continuous innovation*. ShuFan is an artist who loves painting, is full of ideals on the symbiotic relationship between man and nature, and is open-minded. She conceives or creates new paintings almost every day.
-  - *Explore ahead*. In addition to being the earliest explorer of illustration NFTs on EOS, ShuFan is also constantly exploring new projects on the blockchain and integrating her works into them, including blockchain games, 3D galleries, etc. She is also paying attention to the upcoming outbreak on EOS of ecological projects.
-  - *Planned promotion*. The project has received small start-up support from the capital market, and a small team has been formed to promote the project in a planned way. Including the construction of the project [website](https://shufannft.carrd.co/), [twitter](https://twitter.com/ShuFanNFT), [telegram](https://t.me/ShuFanNFT), [discord](https://discord.gg/NkJAnGK9ZA), [instagram](https://www.instagram.com/shufannft) and other media platforms. ShuFan is also participating in many international illustration competitions.
-  - *Long-term strategy*. The ShuFan NFT project wants to make an illustration NFT project with global influence, so it chooses the most potential blockchain project to issue NFT, and EOS ranks first. And plan to build the DAO of the project on EOS at a suitable time in the future.
+  - **Continuous innovation**. ShuFan is an artist who loves painting, is full of ideals on the symbiotic relationship between man and nature, and is open-minded. She conceives or creates new paintings almost every day.
+  - **Explore ahead**. In addition to being the earliest explorer of illustration NFTs on EOS, ShuFan is also constantly exploring new projects on the blockchain and integrating her works into them, including blockchain games, 3D galleries, etc. She is also paying attention to the upcoming outbreak on EOS of ecological projects.
+  - **Planned promotion**. The project has received small start-up support from the capital market, and a small team has been formed to promote the project in a planned way. Including the construction of the project [website](https://shufannft.carrd.co/), [twitter](https://twitter.com/ShuFanNFT), [telegram](https://t.me/ShuFanNFT), [discord](https://discord.gg/NkJAnGK9ZA), [instagram](https://www.instagram.com/shufannft) and other media platforms. ShuFan is also participating in many international illustration competitions.
+  - **Long-term strategy**. The ShuFan NFT project wants to make an illustration NFT project with global influence, so it chooses the most potential blockchain project to issue NFT, and EOS ranks first. And plan to build the DAO of the project on EOS at a suitable time in the future.
 
 
 ## Team
@@ -64,27 +64,23 @@
 ### Team Experience
 
 > ShuFan is a professional painter, she is widely involved in world literature, film, and music, which has cultivated her sensitive, focused and unique aesthetic characteristics, coupled with her longing for future technology, focusing on the harmonious symbiotic relationship between human beings and nature , use professional drawing skills to create unique and outstanding illustrations.
-> Shu Fan is also a member of EdenOnEOS, and has formed some popularity and fans in the EOS community. Her illustrations and NFT sales rankings have proved her professionalism to a certain extent.
+> ShuFan is also a [member of EdenOnEOS](https://genesis.eden.eoscommunity.org/members/shufan.free), and has formed some popularity and fans in the EOS community. Her illustrations and NFT sales rankings have proved her professionalism to a certain extent.
 
 ### Team Org Repos
 
-- https://github.com/<ShuFanNFTart>
+- https://github.com/ShuFanNFTart
 
 ### Team Member Repos
 
-- https://github.com/<ShuFanNFT>
+- https://github.com/ShuFanNFT
 
 ### Team LinkedIn Profiles (if available)
 
 ## Development Status
 
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+> The ShuFan NFT project was launched in March 2021 and has been running on EOS for more than 15 months. The recently released popular work is the [panda series](https://eos.atomichub.io/profile/shufan.free#sets-shufan.free-0-0), which includes 4 panda-related illustrations, and refreshed the one mint (100 $EOS) and one selling (150 $EOS) price. 
+> At present, the basic settings of NFT project management, the structure of the media platform, and the IP construction of the ShuFan NFT brand have been completed.
+> Shu Fan is now constantly creating new artworks and making a series of promotion plans.
 
 ## Development Roadmap
 
