@@ -21,7 +21,7 @@
 EO2's Mission is to contribute to a more inclusive, efficient, and reliable Carbon Market by providing all stakeholders with easier access to quality Carbon Credits. Our goal is achieved through the tokenization of regulated Carbon Credits and their (crypto-) representation into EO2 Digital Token, which reduces frictions and improves their usability and diffusion. The core project function is represented in a smart contract that constitutes a two-way bridge between off-chain Carbon Credits and their in-chain Token representation.
 
 
-The following video provides a simple overview of EO2: https://www.youtube.com/watch?v=0yrKXtR34Do&t=3s 
+The following video provides a simple overview of EO2: https://youtu.be/webvzEuRnRY
 
 The smart contract is hosted on an EOSIO-based blockchain and interacts with an app tailored according to the user needs. EOTWO has already developed the UI which has been designed taking into consideration the different level of experience with technology and digital assets of our target users. Developing an intuitive user interface that simplifies the customer journey (registration, wallet, etc.) and the product cycle (buy, sell, etc.) was condition sine qua non of the promotion of the Carbon Markets inclusiveness among different class of stakeholders.
 We plan to test the UI in a live environment to assess the reaction of users and to receive feedbacks before deployment. In this respect, part of the grant, if obtained, will be used to promote the trial and to develop the UI accordingly to the data collected.
@@ -37,7 +37,7 @@ Following the test session, we are willing to share the enhanced version of our 
 
 ### Project Details
 
-In a nutshell, EO2 is a Token that cryptographically represents a ton of Co2 equivalent and constitutes a safe and sustainable alternative asset suitable to meet the financial needs for diversification, investment and store of value of individuals as well as an effective tool to offset individuals’ and businesses’ carbon emissions. By integrating the regulated carbon market with blockchain technology, EO2 aims to leverage the best of both worlds and to create additional value out of the carbon market. The creation of value derives from the greater usability, easier accessibility and traceability that digital tokens and blockchain add to the existing carbon market dynamics. 
+In a nutshell, EO2 is a Token that cryptographically represents a ton of CO2 equivalent and constitutes a safe and sustainable alternative asset suitable to meet the financial needs for diversification, investment and store of value of individuals as well as an effective tool to offset individuals’ and businesses’ carbon emissions. By integrating the regulated carbon market with blockchain technology, EO2 aims to leverage the best of both worlds and to create additional value out of the carbon market. The creation of value derives from the greater usability, easier accessibility and traceability that digital tokens and blockchain add to the existing carbon market dynamics. 
 
 From an IT point of view, the project for the grant proposal consists of a boilerplate of an UI that simplify the adoption of EOSIO-based blockchain technology as well as the adoption of non-crypto users considering in app payment system, multi - language characteristics and built-in connection with Anchor and Ledger as authorization providers.  
 
@@ -57,7 +57,7 @@ What will not be shared with the community are the functionalities specific to t
 
 - **Where and how does your project fit into the ecosystem?**
 
-EOTWO will make available to the ecosystem the internally developed UI ready to plug and play. The goal is to allow the interaction of EO2 with other EOSIO-based tokens and make possible functional integrations between tokens with different purposes and utilities, where EO2 tokens can serve the purpose of offsetting the carbon footprint of the EOSIO ecosystem. Upon proper assessment of variable transaction costs (both financial and environmental), we are willing to allocate fractional EO2 tokens (out of the donation fee we will charge to users upon token donation) to a special purpose fund at EOS ecosystem actors’ disposal.
+EOTWO will make available to the ecosystem the internally developed UI ready to plug and play. The goal is to allow the interaction of EO2 with other EOSIO-based tokens and make possible functional integrations between tokens with different purposes and utilities.
 
 - **Who is your target audience (chain/dapp/wallet/UI developers, designers, your user base, some dapp's userbase, yourself)?**
 
@@ -68,15 +68,8 @@ In this given context, EOTWO’s opensource apps are aimed to Dapp/UI Developers
 
 - **What need(s) does your project meet?**
 
-EO2 addresses and anticipates the demand for a more inclusive, reliable and efficient system of carbon offset. More precisely, the problems that EO2 aims to address are the followings:
--	Allow those not covered by the EU regulated market to purchase reliable and effective carbon credits as an alternative to voluntary carbon certificates.
--	Streamline the purchase process of regulated carbon credits.
--	Enhance the potential of regulated carbon credits and make them adaptable to multiple use and needs.
--	Guarantee that the system of offset is transparent, inclusive and efficient thanks to blockchain.  
-
-Also, by making open source what is listed in the above paragraph (to which we refer), we intend to pave the way for ecosystem developers who will benefit from an easy and scalable solution as a foundation to build or improve their projects, thus allowing them to flatten the learning curve and so saving time and freeing resources.
+By making open source this project, we intend to pave the way for ecosystem developers who will benefit from an easy and scalable solution as a foundation to build or improve their projects, thus allowing them to flatten the learning curve and so saving time and freeing resources.
 Indeed, EOTWO has been working on a solution based on EOSIO since 2021 and the difficulties and challenges encountered have required relevant human capital investment.
-
 
 - **Are there any other projects similar to yours in the EOSIO ecosystem? If not, are there similar projects in related ecosystems?**
 
@@ -96,10 +89,6 @@ The team behind the project comes from diverse backgrounds. Besides IT expertise
 - Nesrine Mrabet (full-stack developer)
 - Jose Tomas Schuwirth (full-stack developer)
 - Juan Schuwirth (full-stack developer)
-- **Communications Team Members:**
-- Catalina Ruiz Cristi
-- Damien Guiral
-
 
 ### Legal Structure
 - **Registered Legal Entity:** EOTWO SAS (French Societe par action simplifiee)
@@ -109,11 +98,9 @@ The team behind the project comes from diverse backgrounds. Besides IT expertise
 
 The team has more than 20 years of collective experience in software development plus 10 years in IT project management. Some of the projects that the team has worked on include integration of payment system in the Chilean tax offices, programming microcontrolers for IoT solutions and, participating in blockchain bounties.
 
-
 ### Team Org Repos
 
 https://github.com/EO2-earth
-
 
 ### Team Member Repos
 
@@ -138,14 +125,12 @@ We have already developed an MVP that can perform the basic business actions for
 The webapp is currently hosted in Netlify. Additionally, we have a NodeJS service running to get requests from the web application. That requests are made by API calls using REST protocols. All our source code is hosted on Github in a private account connected with AWS to do the deploys on the server machine. We use git-flow architecture to work on our repositories.
 To see first-hand our achievement so far, we kindly invite you to check out the published version of our MVP platform at the following link: https://serene-biscotti-ca7162.netlify.app/
 
-
 ## Development Roadmap
-
 
 ### Overview
 
 - **Total Estimated Duration:** 2 months 
-- **Full-Time Equivalent (FTE):** Eight (4)
+- **Full-Time Equivalent (FTE):** Eight (8)
 - **Total Costs:** 29,000 USD
 	- **IT Development:** 25,000 USD
 	- **Marketing-related expenses:** 4,000 USD
@@ -185,20 +170,18 @@ To see first-hand our achievement so far, we kindly invite you to check out the 
 
 The short-term developing plan includes:
 
-
--	A live test open to the public (early supporters) to be held in mid July 2022. The goal of the test is to evaluate the performance of the application and of the smart contract, test the business logic, receive feedbacks from users, and ultimately gain traction.
+-	A live test open to the public (early supporters) to be held in mid July 2022. The goal of the test is to evaluate the performance of the application and the smart contract, test the business logic, receive feedbacks from users, and ultimately gain traction.
 -	Captivate the attention of non-crypto users. This step will include a strong social media presence, paid advertising, and partnership with companies.
 -	Ongoing applications to incubators/accelerators to help us in the startup and scaleup phases.
 -	Fulfill compliance requirements. 
 -	Tokenize our first emission allowances in late October 2022.
 
 long-term objectives:
+
 -	Apply for a second grant looking to upgrade our product, include KYC & AML checks, and additional investment in marketing to promote EO2. The objective is to have 2500 users by the time of first STO and planning to growth to 360.000 new users in 5 years. Since our focus is non-crypto users, we account for these to be non-EOS users, meaning that we expect to contribute in at least 7% of the EOS user network growth during this period.
--	EO2 is currently applying to other sources of funding, including subsidies at European level and at country level. For the latter, EO2 already achieved it first milestone, obtaining a certification from the French minister of economics that recognizing the potential and the innovative traits of the project.
+-	EO2 is currently applying to other sources of funding, including subsidies at European level and at country level (France). For the latter, EO2 already achieved it first milestone, obtaining a certification from the French minister of economics that recognizing the potential and the innovative traits of the project.
 -	Additional funds are expected to be obtained once we have the first sale. This will come from investors in exchange of equity.
--	We expect to open EUAs (European Union Allowances) registries across Europe and to operate in different emission trading system outside Europe and building a carbon bridge among them.
-
-
+-	We expect to open EUAs (European Union Allowances) registries across Europe and to operate in different emission trading system outside Europe and building a carbon bridges among them.
 
 ## Additional Information
 
