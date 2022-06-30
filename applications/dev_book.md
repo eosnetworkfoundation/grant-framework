@@ -28,7 +28,7 @@
 
 Our team has described many missing aspects in EOSIO infosphrere in
 its Core+ Blue Paper which was sponsored by ENF back in autumn
-2021. recently our senior consultant, widely known under the "cc32d9"
+2021. Recently our senior consultant, widely known under the "cc32d9"
 pseudonym, has started writing a book for software EOSIO developers,
 trying to cover the topics described in the paper.
 
@@ -56,7 +56,7 @@ The book is targeting senior engineers and application architects, as
 well as beginner developers who want to understand the inner workings
 of an EOSIO blockchain.
 
-It will cover the following topics in detail:
+Topics to be covered within this grant application:
 
 - High-level view on blockchain and its components.
 
@@ -70,13 +70,20 @@ It will cover the following topics in detail:
 
 - Smart contract data design: planning and building smart contract tables, indexes, and queries.
 
+- Performance and scaling: do's and dont's, and best practices in building a scalable application.
+
+
+Additional topics for future grant applications:
+
 - Design patterns: typical tasks and approaches.
 
-- Performance and scaling: do's and dont's, and best practices in building a scalable application.
+- Practical examples and usage scenarions.
 
 - Contract development kits (CDT, CLSDK, ...)
 
-- Other topics, also answering the questions from the audience.
+- Off-chain software development: data collectors, history, oracles, CPU sponsoring, RNG, etc.
+
+- Feedback from the audience
 
 
 ### Ecosystem Fit
@@ -131,13 +138,13 @@ Several chapters have already been published at
 
 ### Overview
 
-- **Total Estimated Duration:**  10 months
+- **Total Estimated Duration:**  4 months
 - **Full-Time Equivalent (FTE):**  0.2
-- **Total Costs:** USD 50,000
+- **Total Costs:** USD 20,000
 
-### Milestone 1 — Writing the content, 50%
+### Milestone 1 — Writing and finalizing the content
 
-- **Estimated duration:** 3 months
+- **Estimated duration:** 4 months
 - **FTE:**  0.2
 - **Costs:** 20,000 USD
 
@@ -146,49 +153,14 @@ Several chapters have already been published at
 | 0a. | License | Creative Commons BY-SA 4.0 |
 | 0b. | Documentation | N/A |
 | 0c. | Testing Guide | N/A |
-| 1. | Writing | Topics mostly covered by mid-June, plus details on smart contract execution. This work has been started several months proior to grant application. |
-
-
-### Milestone 2 — Writing the content, 50%
-
-- **Estimated duration:** 3 months
-- **FTE:**  0.2
-- **Costs:** 20,000 USD
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 1. | Writing | Data design best practices |
-| 2. | Writing | Design patterns |
-| 3. | Writing | Performance and scaling |
-| 4. | Writing | Contract development kits |
-
-### Milestone 3 — Proofreading, structuring
-
-- **Estimated duration:** 2 months
-- **FTE:**  0.25
-- **Costs:** 5,000 USD
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 1.      | Finalized book | Proofreading, structuring, links check |
-
-
-### Milestone 4 — Community feedback
-
-- **Estimated duration:** 6 months
-- **FTE:**  0.01
-- **Costs:** 5,000 USD
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 1. | Community feedback | Answering questions, adding more material, fixing errors in the text |
-
-
+| 1. | Prior writing | This work has been started several months proior to grant application. About 50% of content is ready by the time of application |
+| 2. | Writing | Covering the remaining topics, adding details |
+| 3. | Finalized book | Proofreading, structuring, links check |
 
 
 ## Future Plans
 
-Further work on education material.
+Adding more content as described above.
 
 ## Additional Information
 
