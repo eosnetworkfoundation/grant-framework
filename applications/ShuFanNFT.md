@@ -139,7 +139,7 @@ The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrat
 
 ## Future Plans
 
-- ShuFan will continuously create new illustrations,
+- ShuFan will continuously create new beautiful illustrations.
 - Optimize the management, display and application of NFT.
 - Use new concepts such as DAO to optimize management projects and fans.
 - Expand the online influence of the market, including cooperating with more platforms, like blockchain games, Metaverse/Web3, 3D gallery, etc.
@@ -149,10 +149,10 @@ The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrat
 
 ## Additional Information
 
-**How did you hear about the Grants Program?**  Twitter.
+**How did you hear about the Grants Program?**  Personal recommendation, and then consulted respectable [Ted](https://github.com/tedcahalleos).
 
 
-- **Cooperate with blockchain games**: ShuFan NFT once cooperated with wombate, who developed a NFT pledged game named [Dungeon Master](https://dungeon.wombat.app/dungeon), which increased the playability value and fun of NFT, beyond the collection value of artworks.
-- **Metaverse/Web3**: ShuFan NFT on ETH can be [displayed in a 3D virtual gallery](https://oncyber.io/girls-shufan), this is an exciting project that will make you feel entering the Metaverse. If there is a similar project on EOS, ShuFan NFT will also choose to actively cooperate. In addition, NFTs can also be set as avatars on EOS wallet via https://harvest.pomelo.io.
+- **Cooperate with blockchain games**: ShuFan NFT is now cooperating with wombate, who developed a NFT pledged game named [Dungeon Master](https://dungeon.wombat.app/dungeon), which increased the playability value and fun of NFT, beyond the collection value of artworks.
+- **Metaverse/Web3**: ShuFan NFT on ETH can be [displayed in a 3D virtual gallery](https://oncyber.io/girls-shufan), this is an exciting project that will make you feel like entering the Metaverse. If there is a similar project on EOS, ShuFan NFT will also choose to actively cooperate. In addition, NFTs can also be set as avatars on EOS wallet via https://harvest.pomelo.io.
 - **Small team**. A small team has been formed to promote the project in a planned way, including the construction of the project [website](https://shufannft.carrd.co/), [twitter](https://twitter.com/ShuFanNFT), [telegram](https://t.me/ShuFanNFT), [discord](https://discord.gg/NkJAnGK9ZA), [instagram](https://www.instagram.com/shufannft) and other media platforms.
 - **Illustration competitions**. ShuFan is also participating in many international illustration competitions, once these illustrations are awarded, NFTs are expected to be first launched on EOS.
