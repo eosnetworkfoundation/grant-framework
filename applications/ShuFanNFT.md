@@ -86,7 +86,7 @@ This application is in response to a New Proposal.
 - Up to now, the [shufan.free collection](https://eos.atomichub.io/explorer/collection/shufan.free) has reached 1270 EOS in sales, [ranking 18th on the entire network](https://eos.atomichub.io/ranking), and it is also the **only** illustration art collection on the list.
 - The recently released popular work is the [panda series](https://eos.atomichub.io/profile/shufan.free#sets-shufan.free-0-0), which includes 4 panda-related illustrations, and refreshed the one mint (100 $EOS) and one selling (150 $EOS) price. 
 - At present, the basic settings of NFT project management, the structure of the media platform, and the IP construction of the ShuFan NFT brand have been completed.
-- The ShuFan NFT project is still in the initial stage, and the community influence is still small.
+- The ShuFan NFT project is still in the initial stage, and the community influence is still small. The best-selling shufan.free collection currently has only [49 NFT users](https://eos.atomichub.io/explorer/collection/shufan.free#accounts) (including ShuFan himself), which is only a tiny fraction of the current total of more than 5 million EOS accounts.
 - Shu Fan is now constantly creating new artworks and making a series of promotion plans.
 
 ## Development Roadmap
