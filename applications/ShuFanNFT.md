@@ -110,9 +110,9 @@ The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrat
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1. | Illustration creation 01 | $3,000 to support ShuFan's illustration creation, she can focus more on painting creation to create more high-quality illustration artworks. Complete the creation of at least 3 illustrations. Key result: release at least 3 new illustration NFT templetes on https://eos.atomichub.io/profile/shufan.free#listings |
-| 2. | Media promotion 01 | $1,000 to support media promotion, through daily tweets, article tweets, giveaway and other activities, let more people know what ShuFan NFT is, what it is useful for, how to trade, why choose EOS to publish, etc. Key result: add at least 30 real twitter followers. |
-| 3. | Marketing campaign 01 | $1,000 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 50 EOS. |
+| 1. | Illustration creation 01 | $2,000 to support ShuFan's illustration creation, she can focus more on painting creation to create more high-quality illustration artworks. Complete the creation of at least 3 illustrations. Key result: release at least 3 new illustration NFT templetes on https://eos.atomichub.io/profile/shufan.free#listings |
+| 2. | Media promotion 01 | $1,500 to support media promotion, through daily tweets, article tweets, giveaway and other activities, let more people know what ShuFan NFT is, what it is useful for, how to trade, why choose EOS to publish, etc. Key result: add at least 30 real twitter followers. |
+| 3. | Marketing campaign 01 | $1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 50 EOS. |
 
 
 ### Milestone 2 — Prove ShuFan's innovative ability and the market potential of illustration NFTs - The initial stage 02.
@@ -124,9 +124,9 @@ The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrat
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1. | Illustration creation 02 | $3,000 to support ShuFan's illustration creation, she can focus more on painting creation to create more high-quality illustration artworks. Complete the creation of at least 3 illustrations. Key result: release at least 3 new illustration NFT templetes on https://eos.atomichub.io/profile/shufan.free#listings |
-| 2. | Media promotion 02 | $1,000 to support media promotion, through daily tweets, article tweets, giveaway and other activities, let more people know what ShuFan NFT is, what it is useful for, how to trade, why choose EOS to publish, etc. Key result: add at least 50 real twitter followers. |
-| 3. | Marketing campaign 02 | $1,000 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 70 EOS. |
+| 1. | Illustration creation 02 | $2,000 to support ShuFan's illustration creation, she can focus more on painting creation to create more high-quality illustration artworks. Complete the creation of at least 3 illustrations. Key result: release at least 3 new illustration NFT templetes on https://eos.atomichub.io/profile/shufan.free#listings |
+| 2. | Media promotion 02 | $1,500 to support media promotion, through daily tweets, article tweets, giveaway and other activities, let more people know what ShuFan NFT is, what it is useful for, how to trade, why choose EOS to publish, etc. Key result: add at least 50 real twitter followers. |
+| 3. | Marketing campaign 02 | $1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 70 EOS. |
 
 ### Milestone 3 - Get funding for the next $50,000 in funding to support more creations and greater marketing
 
