@@ -86,6 +86,7 @@ This application is in response to a New Proposal.
 - Up to now, the [shufan.free collection](https://eos.atomichub.io/explorer/collection/shufan.free) has reached 1270 EOS in sales, [ranking 18th on the entire network](https://eos.atomichub.io/ranking), and it is also the **only** illustration art collection on the list.
 - The recently released popular work is the [panda series](https://eos.atomichub.io/profile/shufan.free#sets-shufan.free-0-0), which includes 4 panda-related illustrations, and refreshed the one mint (100 $EOS) and one selling (150 $EOS) price. 
 - At present, the basic settings of NFT project management, the structure of the media platform, and the IP construction of the ShuFan NFT brand have been completed.
+- The ShuFan NFT project is still in the initial stage, and the community influence is still small.
 - Shu Fan is now constantly creating new artworks and making a series of promotion plans.
 
 ## Development Roadmap
@@ -100,7 +101,7 @@ The first milestone (2 months duration) is to: 1) release at least 6 new illustr
 - **Full-Time Equivalent (FTE):**  2 FTE
 - **Total Costs:** 10,000 USD (for the first milestone. The whole project is long term.)
 
-### Milestone 1 — Prove ShuFan's innovative ability and the market potential of illustration NFTs.
+### Milestone 1 — Prove ShuFan's innovative ability and the market potential of illustration NFTs - The initial stage 01.
 
 - **Estimated duration:** 1 month
 - **FTE:**  2
@@ -109,23 +110,23 @@ The first milestone (2 months duration) is to: 1) release at least 6 new illustr
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1. | Illustration creation | 3,000 to support ShuFan's illustration creation, she can focus more on painting creation to create more high-quality illustration artworks. Release at least 3 new illustrations on EOS |
-| 2. | Media promotion | $1,000 to support media promotion, add at least 50 real twitter followers through giveaway and other activities |
-| 3. | Marketing campaign | $1,000 to support marketing campaign. Cooperate with media on EOS to promote NFT sales through activities such as mystery boxes, articles, etc. NFT sales exceeding 50 EOS. |
+| 1. | Illustration creation 01 | 3,000 to support ShuFan's illustration creation, she can focus more on painting creation to create more high-quality illustration artworks. Complete the creation of at least 3 illustrations. Key result: release at least 3 new illustration NFT templetes on https://eos.atomichub.io/|
+| 2. | Media promotion 01 | $1,000 to support media promotion, through daily tweets, article tweets, giveaway and other activities, let more people know what ShuFan NFT is, what it is useful for, how to trade, why choose EOS to publish, etc. Key result: add at least 30 real twitter followers. |
+| 3. | Marketing campaign 01 | $1,000 to support marketing campaign. Attract more buyers to buy ShuFan NFT works through new NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 50 EOS. |
 
 
-### Milestone 2 — Prove ShuFan's innovative ability and the market potential of illustration NFTs.
+### Milestone 2 — Prove ShuFan's innovative ability and the market potential of illustration NFTs - The initial stage 02.
 
 - **Estimated duration:** 1 month
 - **FTE:**  2
 - **Costs:** 5,000 USD
-- Milestone 1 is creating and marketing oriented and as such there is no code to test.
+- Milestone 2 is creating and marketing oriented and as such there is no code to test.
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1. | Illustration creation | $3,000 to support ShuFan's illustration creation, she can focus more on painting creation to create more high-quality illustration artworks. Release at least 6 new illustrations on EOS |
-| 2. | Media promotion | $1,000 to support media promotion, add at least 50 real twitter followers through giveaway and other activities |
-| 3. | Marketing campaign | $1,000 to support marketing campaign. Cooperate with media on EOS to promote NFT sales through activities such as mystery boxes, articles, etc. NFT sales exceeding 50 EOS. |
+| 1. | Illustration creation 012 | 3,000 to support ShuFan's illustration creation, she can focus more on painting creation to create more high-quality illustration artworks. Complete the creation of at least 3 illustrations. Key result: release at least 3 new illustration NFT templetes on https://eos.atomichub.io/|
+| 2. | Media promotion 02 | $1,000 to support media promotion, through daily tweets, article tweets, giveaway and other activities, let more people know what ShuFan NFT is, what it is useful for, how to trade, why choose EOS to publish, etc. Key result: add at least 50 real twitter followers. |
+| 3. | Marketing campaign 02 | $1,000 to support marketing campaign. Attract more buyers to buy ShuFan NFT works through new NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 70 EOS. |
 
 ### Milestone 3 - Get funding for the next $50,000 in funding to support more creations and greater marketing
 
