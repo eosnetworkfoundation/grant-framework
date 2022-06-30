@@ -37,11 +37,12 @@ This application is in response to a New Proposal.
 - **EOS-themed illustrations**. There are 2 EOS-themed illustrations, “[EOS Renaissance](https://eos.atomichub.io/explorer/template/formynftfans/2907)” and [Eden](https://eos.atomichub.io/explorer/template/shufan.free/4491), and an [interpretation article of Eden illustration](https://shufannft.medium.com/the-creation-story-and-interpretation-behind-eden-nft-9981f4be2fd8).
 - **Current achievements**. Up to now, the [shufan.free collection](https://eos.atomichub.io/explorer/collection/shufan.free) has reached 1270 EOS in sales, [**ranking 18th** on the entire network](https://eos.atomichub.io/ranking), and it is also the **only** illustration art collection on the list.
 - **EOS ecological project**. The Shufan NFT project is designed to inspire ShuFan to create original illustrations, share and promote them through NFT on EOS, become an important ecological project in the EOS community.  And strive to be an important part of the metaverse.
-- **Build a brand**.The current ShuFanNFT project has formed a small team (After discussion by the team, this Level 1 grant plan is applied in the name of ShuFan.), now has its own [official web](https://shufannft.carrd.co/) and other media platforms, committed to building ShuFan NFT as a brand.
+- **Build a brand**. The current ShuFanNFT project has formed a small team (After discussion by the team, this Level 1 grant plan is applied in the name of ShuFan.), now has its own [official web](https://shufannft.carrd.co/) and other media platforms, committed to building ShuFan NFT as a brand.
 
 ### Ecosystem Fit
 
 - **The earliest publishers of artwork NFTs on EOS**. ShuFan is an early explorer in the field of illustration NFTs, one of the earliest publishers of artwork NFTs on EOS, and is currently the highest-selling illustration artist on https://eos.atomichub.io/. 
+- **Rare illustrator on EOS**. At present, there are only [90 collections on eos.atomichub.io](https://eos.atomichub.io/explorer#collections), including the 4 collections released by ShuFan, the total number of illustration NFT collections is less than 10. Compared with other public chains such as ETH and Solana, this is very rare. Therefore, ShuFan is the pioneer and stalwart of NFT on EOS, and is currently the most influential illustrator.
 - **Will enrich the artwork NFT in the EOS ecosystem**. Artwork NFT is different from the popular game NFT on the market, small circulation (even only 1 Mint), high originality requirements, relatively independent between NFT, relatively high creation cost. In addition, because the illustration artwork itself has an independent collection value, the artwork NFT also has asset value, collection value, appreciation value, aesthetic value, and will increase in value over time. Shufan NFT project will inspire ShuFan to create original illustrations and share them through NFT on EOS, which enrich the artwork NFT in the EOS ecosystem. 
 - **Attract more traditional artists**. If ShuFan NFT project is successful on EOS, it will be very beneficial to show the advantages of NFT on EOS (fast, 0 cost, decentralization, user-friendly, etc.), and attract more traditional artists to enter the platform on EOS NFT marketplace.
 - **Target audiences**. NFT enthusiasts on EOS and potential illustration art collectors are target audiences.
@@ -101,19 +102,32 @@ The first milestone (2 months duration) is to: 1) release at least 6 new illustr
 
 ### Milestone 1 — Prove ShuFan's innovative ability and the market potential of illustration NFTs.
 
-- **Estimated duration:** 2 months
+- **Estimated duration:** 1 month
 - **FTE:**  2
-- **Costs:** 10,000 USD
+- **Costs:** 5,000 USD
 - Milestone 1 is creating and marketing oriented and as such there is no code to test.
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1. | Illustration creation | $6,000 to support ShuFan's illustration creation, she can focus more on painting creation to create more high-quality illustration artworks. Release at least 6 new illustrations on EOS |
-| 2. | Media promotion | $2,000 to support media promotion, add at least 100 real twitter followers through giveaway and other activities |
-| 3. | Marketing campaign | $2,000 to support marketing campaign. Cooperate with media on EOS to promote NFT sales through activities such as mystery boxes, articles, etc. NFT sales exceeding 100 EOS. |
+| 1. | Illustration creation | 3,000 to support ShuFan's illustration creation, she can focus more on painting creation to create more high-quality illustration artworks. Release at least 3 new illustrations on EOS |
+| 2. | Media promotion | $1,000 to support media promotion, add at least 50 real twitter followers through giveaway and other activities |
+| 3. | Marketing campaign | $1,000 to support marketing campaign. Cooperate with media on EOS to promote NFT sales through activities such as mystery boxes, articles, etc. NFT sales exceeding 50 EOS. |
 
 
-### Milestone 2 - Get funding for the next $50,000 in funding to support more creations and greater marketing
+### Milestone 2 — Prove ShuFan's innovative ability and the market potential of illustration NFTs.
+
+- **Estimated duration:** 1 month
+- **FTE:**  2
+- **Costs:** 5,000 USD
+- Milestone 1 is creating and marketing oriented and as such there is no code to test.
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | Illustration creation | $3,000 to support ShuFan's illustration creation, she can focus more on painting creation to create more high-quality illustration artworks. Release at least 6 new illustrations on EOS |
+| 2. | Media promotion | $1,000 to support media promotion, add at least 50 real twitter followers through giveaway and other activities |
+| 3. | Marketing campaign | $1,000 to support marketing campaign. Cooperate with media on EOS to promote NFT sales through activities such as mystery boxes, articles, etc. NFT sales exceeding 50 EOS. |
+
+### Milestone 3 - Get funding for the next $50,000 in funding to support more creations and greater marketing
 
 - **Estimated Duration:** TBA in the next grant application
 - **FTE:**  2
