@@ -91,13 +91,13 @@ This application is in response to a New Proposal.
 
 ## Development Roadmap
 
-**Marketing Roadmap**
+**Creation and Marketing Roadmap**
 
 The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrations, 2) add at least 80 twitter followers, 3) NFT sales exceeding 120 EOS.
 
 ### Overview
 
-- **Total Estimated Duration:** 2 months (for the first milestone)
+- **Total Estimated Duration:** 2 months (for the first 2 milestones)
 - **Full-Time Equivalent (FTE):**  2 FTE
 - **Total Costs:** 10,000 USD (for the first 2 milestones. The whole project is long term.)
 
@@ -106,7 +106,7 @@ The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrat
 - **Estimated duration:** 1 month
 - **FTE:**  2
 - **Costs:** 5,000 USD
-- Milestone 1 is creating and marketing oriented and as such there is no code to test.
+- Milestone 1 is creation and marketing oriented and as such there is no code to test.
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -120,7 +120,7 @@ The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrat
 - **Estimated duration:** 1 month
 - **FTE:**  2
 - **Costs:** 5,000 USD
-- Milestone 2 is creating and marketing oriented and as such there is no code to test.
+- Milestone 2 is creation and marketing oriented and as such there is no code to test.
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
