@@ -3,7 +3,7 @@
 - **Project Name:** EO2
 - **Team Name:** EOTWO SAS
 - **EOS Payment Address:** eotwodonacct
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):**  2
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):**  1
 - **Pomelo Grant(s):** N/A
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
@@ -42,7 +42,7 @@ In a nutshell, EO2 is a Token that cryptographically represents a ton of CO2 equ
 From an IT point of view, the project for the grant proposal consists of a boilerplate of an UI that simplify the adoption of EOSIO-based blockchain technology as well as the adoption of non-crypto users considering in app payment system, multi - language characteristics and built-in connection with Anchor and Ledger as authorization providers.  
 
 EOTWO will make open-source the following: 
-Webapp: ReactJS 18 UI Boilerplate with JSS and material-UI for component designs. Account creation on EOSIO-based blockchain, Instruction to connect to the backend using AWS. Sidebar Menu with Dashboard, Assets, Support, and extra buttons for each project-specific development. The webapp will include the integration of external wallet such as ANCHOR and LEDGER. 
+Webapp: ReactJS 18 UI Boilerplate with JSS and material-UI for component designs. Account creation on EOSIO-based blockchain, Sidebar Menu with Dashboard, Assets, Support, and extra buttons for each project-specific development. The webapp will include the integration of external wallet such as ANCHOR and LEDGER. 
 
 EOTWO has already developed the main functions of the webapp and is looking for resources to complete it. In addition, we recently hired an UI designer that will enhance the look of the webapp.
 
@@ -131,16 +131,13 @@ To see first-hand our achievement so far, we kindly invite you to check out the 
 
 - **Total Estimated Duration:** 2 months 
 - **Full-Time Equivalent (FTE):** Eight (8)
-- **Total Costs:** 29,000 USD
-	- **IT Development:** 25,000 USD
-	- **Marketing-related expenses:** 4,000 USD
+- **Total Costs:** 10,000 USD
+	- **IT Development:** 10,000 USD
 
-**Note:** Some of the milestones can possibly overlap and be done in parallel.
-
-### Milestone 1 Users web-app boilerplate
+### Milestone 1 Users web-app basic boilerplate
 - **Estimated duration:** 2 month
 - **FTE:**  4
-- **Costs:** 25,000 USD
+- **Costs:** 10,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -149,20 +146,8 @@ To see first-hand our achievement so far, we kindly invite you to check out the 
 | 0c. | Testing Guide | End to end tests using third-party software providers such as  https://ghostinspector.com/ |
 | 0d. | Video | Provide an introductory video on how to build and set up the boilerplate |
 | 1.  |	Multipage UI| Webapp with multiple pages and essential interaction (login, logout, send, receive, create an account) and multiple modals with QR generator for accounts to be easily scanned and imported with ANCHOR. |
-| 2.  | Language | Multi-language support for the UI |
-| 3. | External UAL | External UAL connection using ANCHOR by Greymass and Ledger hard-wallet. |
-| 4. | UI Components | Reusable interface components |
-
-
-### Milestone 2 Marketing
-- **Estimated duration:** 2 month
-- **FTE:**  4
-- **Costs:** 4,000 USD
-
-| Number | Amount | Specification |
-| -----: | ----------- | ------------- |
-| 1. | 2,000 USD | Incentives to attract leads (1000 Users by the end of the live test and expecting to growth it to 2500 for the STO) |
-| 2.  | 2,000 USD | Educational Videos |
+| 2. | External UAL | External UAL connection using ANCHOR by Greymass and Ledger hard-wallet. |
+| 3. | UI Components | Reusable interface components |
 
 
 
