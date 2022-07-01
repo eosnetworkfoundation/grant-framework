@@ -22,7 +22,7 @@
 
 - **Contact Name:** Chace Kent Eskam
 - **Contact Email:** chaceaeskam@gmail.com 
-- **Website:** [https://yourwebsite.com](https://challengedapp.io)
+- **Website:** https://challengedapp.io
 
 ## Project Overview
 
@@ -64,8 +64,8 @@
 - Name of team member 2 Wilfred Patrick
 - 
 ### Legal Structure
-- **Registered Legal Entity:** 
-- **Registered Address:** 
+- **Registered Legal Entity:**
+- **Registered Address:** San Diego, California
 
 ### Team Experience
 
