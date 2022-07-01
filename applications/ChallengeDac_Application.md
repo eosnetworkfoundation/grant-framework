@@ -104,12 +104,6 @@ Improved Identity Solution, User Support, ChallengeDac Code Audit
 - **FTE:**  2
 - **Costs:** $39,500 worth of EOS
 
-Number  Deliverable  Specification
-0a.  License  MIT / Apache 2.0 / GPLv3 / Unlicense
-0b.  Documentation  We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works.
-0c.  Testing Guide  Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests.
-0d.  Docker  We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone.
-0e.  Article  We will publish an article/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
 1.  Application interface to EOSIO  We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone)
 2.  Front-End / User Interface  We will create a UI that connects to ...
 3.  Caching layer  We will create a caching layer ...
@@ -127,13 +121,6 @@ Release ChallengeDac Version 9 with new “Go Live” Feature
 - **FTE:**  2
 - **Costs:** $86,500 USD
 
-...umber  Deliverable  Specification
-0a.  License  MIT / Apache 2.0 / GPLv3 / Unlicense
-
-0b.  Documentation  We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works.
-0c.  Testing Guide  Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests.
-0d.  Docker  We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone.
-0e.  Article  We will publish an article/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
 1.  Performance Enhancements  We will add functionality to Identity Management Solution: Develop IP register limiter Block Register API abuse: Detecting anomalous API calling sequences, using additional contextual information like device IP Limit reward farming method Block abuse reward from the challenge: Add a captcha to verify users before allowing them to comment to get the reward. Captcha will be limited if users conduct proper actions: create challenges, reward other users, or buy token Increase verify accounts can transfer tokens: each account can transfer to trusted accounts. Each user can have only trusted users, and each user can be trusted user of maximum 2 users. Changing will take many days Limit tipping features: users can only tip 20% of the amount of token they use to reward other users
 Prototype showing Challenge rewards. https://www.figma.com/file/yIdaEp5Wnn1mjWtD8bvIwW/Untitled?node-id=0%3A1
 Support page
