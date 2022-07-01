@@ -104,10 +104,7 @@ Improved Identity Solution, User Support, ChallengeDac Code Audit
 - **FTE:**  2
 - **Costs:** $39,500 worth of EOS
 
-1.  Application interface to EOSIO  We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone)
-2.  Front-End / User Interface  We will create a UI that connects to ...
-3.  Caching layer  We will create a caching layer ...
-4.  API interface to our app  We will create an API that ...
+Improved Identity Solution, User Support, ChallengeDac Code Audit
 
 
 **inline documentation** 
@@ -129,20 +126,6 @@ https://sites.google.com/orgos.net/challengedac/home
 2.  Added UI functionality  
 
 We will add UI functionality to https://www.figma.com/file/tnKoBKNm9HDHIr5VuMbepS/challenge-app-03-01-2022?node-id=0%3A1
-
-3.  Add 3rd Party API integration  We will add 3rd party integration to ...
-... Add more milestones as above as needed ...
-Future Plans
-Please include here:
-•  how you intend to use, enhance, promote and support your project in the short term, and
-•  the team's long-term plans and intentions in relation to it. We will run awareness campaigns to promote our project both offline and online.
-Additional Information
-How did you hear about the Grants Program? EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
-Personal recommendation & Twitter
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-•  Work you have already done.
-•  If there are any other teams who have already contributed (financially) to the project.
-•  Previous grants you may have applied for.
 
 **inline documentation** 
 **tutorial**
