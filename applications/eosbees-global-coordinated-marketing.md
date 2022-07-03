@@ -252,7 +252,7 @@ See our Reports from 2022:
 - [May](https://docs.google.com/spreadsheets/d/1gHbmGmOHJihrUSk8I1sNHkp3LBppz0sS_W_H-heMthM/edit)
 
 
-**Conclusion** 
+## Conclusion
 
 EOS Bees has been dedicated to the EOS community since the idea was first presented in September 2021.
 
