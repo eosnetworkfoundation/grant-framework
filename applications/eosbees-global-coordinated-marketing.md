@@ -223,14 +223,17 @@ We need more volume to explore more edge cases.
 
 **Further steps**
 
-2022 4Q (Phase 2) 
+2022 4Q - 2023 1Q (Phase 2) 
 - Scale Phase 1 if metrics support
-- Richer data for top rated influencers (Step 3 influencer rankings)
-- Build onboarding system
+- Richer data for top rated influencers 
+-   Step 3 influencer rankings
+-   Influencer Pomelo grant
+-   Influencer EDEN membership
+- Onboarding and Referral system MVP
 
-2023 1Q (Phase 3)
+2023 2Q - 4Q (Phase 3)
 - Further Scale Phase 1 if metrics support
-- Finishing onboarding system
+- Finish Onboarding and Referral system
 - Execute first influencer campaign if market conditions are favorable
 
 [See full roadmap](https://drive.google.com/file/d/1PXu0l5XRUB18t_zC0XmGLwm8DLrSxNez/view)
