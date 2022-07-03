@@ -17,7 +17,7 @@ This proposal is for EOS Bees to provide public good marketing services to the E
 
 -   **Name:** EOS Bees 3.0 - provide global coordinated marketing service for EOS ecosystem
 -   **Brief Description:** EOS Bees was created for the purpose of marketing the EOS community and its ecosystem. We adhere to the marketing principle of mutual respect called the Bee Code. We promote the EOS community in a positive way, which allows us to contribute to the growth of the EOS ecosystem. 
--   **Relationship to EOSIO:** 
+-   **Relationship to EOSIO:** Uses EOSIO smart contracts, pays bees in $EOS
 -   **Reason for Interest:** EOS Bees has created a new way to amplify messages and qualify leads (influencers) in multiple languages.
 
 ### Project Details
@@ -67,12 +67,13 @@ Research is done by data mining publicly available information about the influen
 
 3.4 Operations
 
-The languages will take turns translating subtitles + Swarming the content. In Month 1, one language per video will execute the process. In Month 2, two languages per video and in Month 3, three languages per video will translate + Swarm the content. This method is used to save costs and to qualify the languages using benchmarks. The languages that fail to reach them will be deprecated from the EOS Bees organization. 
-
+The languages will take turns translating subtitles + Swarming the content. In Month 1, one language per video will execute the process. In Month 2, two languages per video and in Month 3, three languages per video will translate + Swarm the content. This method is used to save costs and to qualify the languages using benchmarks. The languages that fail to reach them will be deprecated from the EOS Bees organization.
 The suggested benchmarks per month for a 3 month average:
+
 - 500k Twitter impressions per language team
-- 10% of total video watch time in English
-*EOS Bees requests Manager access to ENF’s YouTube account to streamline data mining 
+- 10% of total video watch time in English *EOS Bees requests Manager access to ENF’s YouTube account to streamline data mining
+
+For Yves’ account, we propose to Swarm 2 Tweets per week, selected by Yves, to English, Korean and Chinese influencers. Swarms will initiate 24 hours after we get notified of the Tweet.
 
 [See the Content Calendar](https://loving-cent-cdc.notion.site/f4036fed858341a4b6061e8505030d5c?v=337ba8514ac043cda614e158d8d4f300)
 
@@ -144,76 +145,76 @@ https://www.linkedin.com/in/jesse-jaffe-3aa326144/
 
 ## Development Status
 
-EOS Bees has been working for the past 6 months to build Swarming, an innovative marketing method and a kind of Decentralized Autonomous Organization (autonomous participation, micro-reward, powered by EOSIO smart contract).
+EOS Bees has been working for the past 6 months to build Swarming, an innovative marketing method that is currently in BETA. All functionality including micro-payments for Twitter engagements, NFT membership system,  integrations with the Twitter API and Swarm registration is operational.
 
-We will use our efforts as a stepping stone to take step-by-step steps to provide a true public good to the EOS ecosystem.
+We need more volume to explore more edge cases.
 
 ## Development Roadmap
 
 ### Overview
 
 -   **Total Estimated Duration:** 3 months
--   **Full-Time Equivalent (FTE):** Six (6)
+-   **Full-Time Equivalent (FTE):** n/a
 -   **Total Costs:** $116,000 USD
 
 ### Milestone 1 - completed for Building Swarming System
 
 -   Estimated duration: Up to 1 month until final completion
--   FTE: 6
+-   FTE: n/a
 -   Costs: $65,000 USD
 
 | Number | Deliverable       | Specification                                                                                        |
 | -----: | ----------------- | ---------------------------------------------------------------------------------------------------- |
-|     1. | License           | Completion of micro payment smart contract that can automatically pay rewards according to the specific NFT level.                                                 |
-|    1a. | Documentation     | Creation of NFT Distribution algorithm.             |
-|    1b. | Documentation     | Over 100 NFTs Deployed.                             |
-|     2. | Documentation     | Completion of automatic registration system for Swarm onboarding.                   |
-|    2a. | Bot Primitives    | Swarm onboarding Telegram chatbot creation                                    |
-|    2b. | Bot Primitives    | Implementing a system that can automatically input chatbot information into Google Sheets.           |
-|    2c. | Bot Primitives    | Configuration of push notification system.           |
-|     3. | Documentation     | Onboarding over 100 identified initial Swarming participants.        |
-|    3a. | Documentation     | Completed algorithms and workflows to collect data.         |
-|    3b. | Documentation     | Data mined 100+ influencers to Swarm in our languages.         |
-|     4. | Documentation     | Created a swarming workflow.                         |
+|     1. |         -         | Completion of micro payment smart contract that can automatically pay rewards according to the specific NFT level.                                                 |
+|    1a. | Smart contract    | Creation of NFT Distribution algorithm.             |
+|    1b. | NFT               | Over 100 NFTs Deployed.                             |
+|     2. |         -         | Completion of automatic registration system for Swarm onboarding.                   |
+|    2a. | Chat integration  | Swarm onboarding Telegram chatbot creation                                    |
+|    2b. | Chat integration  | Implementing a system that can automatically input chatbot information into Google Sheets.           |
+|    2c. | Chat integration  | Configuration of push notification system.           |
+|     3. |         -         | Onboarding over 100 identified initial Swarming participants.        |
+|    3a. | Recruitment       | Completed algorithms and workflows to collect data.         |
+|    3b. | Data mining       | Data mined 100+ influencers to Swarm in our languages.         |
+|     4. |         -         | Created a swarming workflow.                         |
 |    4a. | website           | Workspace Creation.         |
 
 ### Milestone 2 - Swarming begins in earnest
 
 -   Estimated duration: 2 month
--   FTE: 6
+-   FTE: n/a
 -   Costs: $25,500 USD
 
 | Number | Deliverable       | Specification                                                                                        |
 | -----: | ----------------- | ---------------------------------------------------------------------------------------------------- |
-|     1. | Documentation     | EOS Critical Video Swarming.                                 |
-|    1a. | Documentation     | Swarming by language by translating EOS video content into 10 languages.             |
-|    1b. | Documentation     | Achieve 24 total swarms.                             |
-|    1c. | Documentation     | Writing and reporting data research and analysis reports through the relevant activities.                   |
-|     2. | Documentation     | Yves' tweet swarm.        |
-|    2a. | Documentation     | Swarm Yves’ important tweets in 3 languages.          |
-|    2b. | Documentation     | Achieve 32 total swarms.         |
-|    2c. | Documentation     | Writing and reporting data research and analysis reports through the relevant activities.                         |
-|     3. | Documentation     | Influencer Step 1 rankings.           |
+|     1. |         -         | EOS Critical Video Swarming.                                 |
+|    1a. | Translation       | Swarming by language by translating EOS video content into 10 languages.             |
+|    1b. | Marketing         | Achieve 24 total swarms.                             |
+|    1c. | Research          | Writing and reporting data research and analysis reports through the relevant activities.                   |
+|     2. |         -         | Yves' tweet swarm.        |
+|    2a. | Translation       | Swarm Yves’ important tweets in 3 languages.          |
+|    2b. | Marketing         | Achieve 32 total swarms.         |
+|    2c. | Research          | Writing and reporting data research and analysis reports through the relevant activities.                         |
+|     3. | Research          | Influencer Step 1 rankings.           |
 
-### Milestone 3 - Finalization of the system and influencer reports
+### Milestone 3 - Finalization of the system, influencer reports and language qualification
 
 -   Estimated duration: 3 months
--   FTE: 6
+-   FTE: n/a
 -   Costs: $25,500 USD
 
 | Number | Deliverable       | Specification                                                                                        |
 | -----: | ----------------- | ---------------------------------------------------------------------------------------------------- |
-|     1. | Documentation     | EOS Critical Video Swarming.                                 |
-|    1a. | Documentation     | Swarming by language by translating EOS video content into 10 languages.             |
-|    1b. | Documentation     | Achieve 72 total swarms.                             |
-|    1c. | Documentation     | Writing and reporting data research and analysis reports through the relevant activities.                   |
-|     2. | Documentation     | Yves' tweet swarm.        |
-|    2a. | Documentation     | Swarm ENF’s important tweets in 3 languages.          |
-|    2b. | Documentation     | Achieve 64 total swarms.         |
-|    2c. | Documentation     | Writing and reporting data research and analysis reports through the relevant activities.                         |
-|     3. | Documentation     | Influencer Step 2 rankings.           |
-|    3a. | Documentation     | Final report creation.                |
-|    3b. | Documentation     | benchmark analysis.                   |
+|     1. |         -         | EOS Critical Video Swarming.                                 |
+|    1a. | Translation       | Swarming by language by translating EOS video content into 10 languages.             |
+|    1b. | Marketing         | Achieve 72 total swarms.                             |
+|    1c. | Research          | Writing and reporting data research and analysis reports through the relevant activities.                   |
+|     2. |         -         | Yves' tweet swarm.        |
+|    2a. | Translation       | Swarm ENF’s important tweets in 3 languages.          |
+|    2b. | Marketing         | Achieve 64 total swarms.         |
+|    2c. | Research          | Writing and reporting data research and analysis reports through the relevant activities.                         |
+|     3. | Research          | Influencer Step 2 rankings.           |
+|    3a. | Research          | Final report creation.                |
+|    3b. | Qualification     | Evaluating whether the Network should support a new language. Benchmark analysis.                  |
 
 
 ## Future Plans
@@ -227,7 +228,7 @@ We will use our efforts as a stepping stone to take step-by-step steps to provid
 2022 4Q (Phase 2) 
 - Scale Phase 1 if metrics support
 - Richer data for top rated influencers (Step 3 influencer rankings)
-Build onboarding system
+- Build onboarding system
 
 2023 1Q (Phase 3)
 - Further Scale Phase 1 if metrics support
@@ -256,4 +257,6 @@ EOS Bees, as a global marketing organization, focused on creating a system to hi
 Now it’s time for EOS Bees to help blossom the flowers of the EOS ecosystem. 
 
 With the support of the EOS Network Foundation, we can confidently say that we can achieve our goals in a shorter time with more efficient processes and members.
+
+Thank you.
 
