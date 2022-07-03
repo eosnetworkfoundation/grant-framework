@@ -251,13 +251,16 @@ See our Reports from 2022:
 - [April](https://docs.google.com/spreadsheets/d/1osuFK4qjVBnc3WxaEoYnr-JjNNUbTKE4NDtBeciursw/edit#gid=0)
 - [May](https://docs.google.com/spreadsheets/d/1gHbmGmOHJihrUSk8I1sNHkp3LBppz0sS_W_H-heMthM/edit)
 
-EOS Bees has put great effort towards the EOS community since the idea was first presented in September 2021.
 
-EOS Bees, as a global marketing organization, focused on creating a system to hire hundreds of members who can move in unison.
+**Conclusion** 
 
-Now it’s time for EOS Bees to help blossom the flowers of the EOS ecosystem. 
+EOS Bees has been dedicated to the EOS community since the idea was first presented in September 2021.
 
-With the support of the EOS Network Foundation, we can confidently say that we can achieve our goals in a shorter time with more efficient processes and members.
+We have finally found our wings; an achievable plan to popularize a positive narrative for EOS. 
+
+It’s time for EOS Bees to fly EOS to the vacant throne of smart contract platforms.
+
+With the support of the EOS Network Foundation, the throne is ours. 
 
 Thank you.
 
