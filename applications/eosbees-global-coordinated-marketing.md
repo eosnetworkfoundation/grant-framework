@@ -261,7 +261,7 @@ See our Reports from 2022:
 
 ## Conclusion
 
-We have finally found our wings; an achievable, detailed, gradual plan to popularize a positive narrative for EOS. 
+EOS Bees has finally found its wings; an achievable, detailed, gradual plan to popularize a positive narrative for EOS. 
 
 It’s time to fly EOS to the vacant throne of smart contract platforms.
 
