@@ -159,7 +159,7 @@ We need more volume to explore more edge cases.
 
 ### Milestone 1 - completed for Building Swarming System
 
--   Estimated duration: Up to 1 month until final completion
+-   Estimated duration: Complete
 -   FTE: n/a
 -   Costs: $65,000 USD
 
@@ -180,7 +180,7 @@ We need more volume to explore more edge cases.
 
 ### Milestone 2 - Swarming begins in earnest
 
--   Estimated duration: 2 month
+-   Estimated duration: 6 weeks
 -   FTE: n/a
 -   Costs: $25,500 USD
 
@@ -198,7 +198,7 @@ We need more volume to explore more edge cases.
 
 ### Milestone 3 - Finalization of the system, influencer reports and language qualification
 
--   Estimated duration: 3 months
+-   Estimated duration: 6 weeks
 -   FTE: n/a
 -   Costs: $25,500 USD
 
@@ -220,10 +220,6 @@ We need more volume to explore more edge cases.
 ## Future Plans
 
 **Further steps**
-2022 3Q (Phase 1)
-- Utilize EOS Bees' Swarming system to prove its global marketing effectiveness.
-- Translate and deliver major video content and news happening on EOS in 10 languages. 
-- Complete the Twitter and YouTube crypto influencer ratings and publish it in a form that the EOS community can use for free. 
 
 2022 4Q (Phase 2) 
 - Scale Phase 1 if metrics support
