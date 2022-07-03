@@ -256,7 +256,7 @@ See our Reports from 2022:
 
 EOS Bees has been dedicated to the EOS community since the idea was first presented in September 2021.
 
-We have finally found our wings; an achievable plan to popularize a positive narrative for EOS. 
+We have finally found our wings; an achievable, detailed, gradual plan to popularize a positive narrative for EOS. 
 
 It’s time for EOS Bees to fly EOS to the vacant throne of smart contract platforms.
 
