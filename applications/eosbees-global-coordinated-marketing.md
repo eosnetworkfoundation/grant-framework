@@ -57,7 +57,7 @@ Working with subtitles is the lowest hanging fruit in the translation space due 
 
 Marketing activities are mainly done using a 'Swarm'. All Bees in all languages work to influence Twitter’s distribution algorithm via like and RT or Quote RT. Depending on the target language/influencer, Bees will reach out via replies and Quote ReTweets while tagging relevant influencers. Coordinating all the languages in one common goal is more influential than conventional social media marketing activities. The content has a greater chance to be adopted by the platform algorithm to create secondary effects. 
 
-[Swarming/Data research Activity flow diagram link](https://drive.google.com/file/d/1al_GxUX9HUeBlMdyzqlZa52N1iqW6HIw/view)
+[Swarm process diagram](https://drive.google.com/file/d/1al_GxUX9HUeBlMdyzqlZa52N1iqW6HIw/view)
 
 3.3 Influencer Research
 
