@@ -30,7 +30,7 @@ To make this possible, we have set the following step-by-step process:
 
 - Step 1. Translate the subtitles of important videos from the EOS community into our 10 languages.
 
-- Step 2. Promote the translated contents of the EOS community in multiple languages on social media.We use an organized social media marketing method called "Swarming", which was built in collaboration with Tipit. 
+- Step 2. Promote the translated contents of the EOS community in multiple languages on social media. We use an organized social media marketing method called "Swarming", which was built in collaboration with Tipit. 
 
 - Step 3. Through Step 1 and 2, we organize the marketing data accumulated by influencer and language, and provide it to the EOS community as an open source asset. The algorithm we developed will rank influencers based on key engagement and qualification metrics, including their response to a Swarm. 
 
