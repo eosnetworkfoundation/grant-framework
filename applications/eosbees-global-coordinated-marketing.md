@@ -18,7 +18,7 @@ This proposal is for EOS Bees to provide public good marketing services to the E
 -   **Name:** EOS Bees 3.0 - provide global coordinated marketing service for EOS ecosystem
 -   **Brief Description:** EOS Bees was created for the purpose of marketing the EOS community and its ecosystem. We adhere to the marketing principle of mutual respect called the Bee Code. We promote the EOS community in a positive way, which allows us to contribute to the growth of the EOS ecosystem. 
 -   **Relationship to EOSIO:** Uses EOSIO smart contracts, pays bees in $EOS
--   **Reason for Interest:** EOS Bees has created a new way to amplify messages and qualify leads (influencers) in multiple languages.
+-   **Reason for Interest:** EOS Bees has created a new way to amplify Tweets and qualify leads (influencers) in multiple languages.
 
 ### Project Details
 
