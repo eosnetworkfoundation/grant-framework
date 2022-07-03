@@ -177,7 +177,7 @@ We need more volume to explore more edge cases.
 |     3. |         -         | Onboarding over 100 identified initial Swarming participants.        |
 |    3a. | Recruitment       | Completed an algorithm to gauge Twitter profile strength.         |
 |    3b. | Data mining       | Data mined 100+ influencers to Swarm in our languages.         |
-|     4. |         -         | Created Swarm logistical, educational and organizational assets.                         |
+|     4. |         -         | Created logistical, educational and organizational Swarm assets.                         |
 |    4a. | Website           | Workspace Creation.         |
 
 ### Milestone 2 - Swarming begins in earnest
