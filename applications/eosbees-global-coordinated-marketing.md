@@ -73,7 +73,7 @@ The suggested benchmarks per month for a 3 month average:
 - 500k Twitter impressions per language team
 - 10% of total video watch time in English *EOS Bees requests Manager access to ENF’s YouTube account to streamline data mining
 
-For Yves’ account, we propose to Swarm 2 Tweets per week, selected by Yves, to English, Korean and Chinese influencers. Swarms will initiate 24 hours after we get notified of the Tweet.
+For Yves’ account, we propose to Swarm 2 Tweets per week, selected by Yves, to English, Korean and Chinese influencers. Swarms will initiate on Monday and Thursday of each week.
 
 [See the Content Calendar](https://loving-cent-cdc.notion.site/f4036fed858341a4b6061e8505030d5c?v=337ba8514ac043cda614e158d8d4f300)
 
