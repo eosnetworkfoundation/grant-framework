@@ -147,7 +147,7 @@ https://www.linkedin.com/in/jesse-jaffe-3aa326144/
 
 ## Development Status
 
-EOS Bees has been working for the past 6 months to build Swarming, an innovative marketing method that is currently in BETA. All functionality including micro-payments for Twitter engagements, NFT membership system,  integrations with the Twitter API and Swarm registration is operational.
+EOS Bees has been working for the past 6 months to create the "Swarm", an innovative marketing method that is currently in BETA. All functionality including micro-payments for Twitter engagements, NFT membership system,  integrations with the Twitter API and Swarm registration is operational.
 
 We need more volume to explore more edge cases.
 
