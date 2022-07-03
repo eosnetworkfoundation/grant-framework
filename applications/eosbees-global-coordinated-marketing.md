@@ -48,21 +48,25 @@ The following EOS videos we propose have the most relevant information for crypt
 **3. Methods**
 
 3.1 Translation
+
 EOS Bees' translations are checked by EOS OG language leaders to ensure their quality. Each language leader also manages translators to help them. Translation in EOS Bees minimizes paraphrasing and instead chooses direct translation so that the content of blockchain technology can be conveyed without misunderstanding. 
 
 Working with subtitles is the lowest hanging fruit in the translation space due to YouTube’s AI voice-to-text proficiency, lack of competition and [behavioral trends.](https://www.forbes.com/sites/tjmccue/2019/07/31/verizon-media-says-69-percent-of-consumers-watching-video-with-sound-off/?sh=73253c3135d8)
 
 3.2 Marketing
+
 Marketing activities are mainly done using a 'Swarm'. All Bees in all languages work to influence Twitter’s distribution algorithm via like and RT or Quote RT. Depending on the target language/influencer, Bees will reach out via replies and Quote ReTweets while tagging relevant influencers. Coordinating all the languages in one common goal is more influential than conventional social media marketing activities. The content has a greater chance to be adopted by the platform algorithm to create secondary effects. 
 
 [Swarming/Data research Activity flow diagram link](https://drive.google.com/file/d/1al_GxUX9HUeBlMdyzqlZa52N1iqW6HIw/view)
 
 3.3 Influencer Research
+
 Research is done by data mining publicly available information about the influencers, including following, engagement and interest metrics. We have developed an algorithm that factors in other variables like Swarm response and conversational reactions. The algorithm is designed to predict the value of the influencer with suggested prices. The influencers are ranked by the best deal, factoring in all the variables. The scope of this Proposal covers Steps 1 and 2 from the diagram below.
 
 [Influencer research process diagram](https://drive.google.com/file/d/1lUIQJKD5sHhzqLBj-JaoAoKhaPnQm2eU/view)
 
 3.4 Operations
+
 The languages will take turns translating subtitles + Swarming the content. In Month 1, one language per video will execute the process. In Month 2, two languages per video and in Month 3, three languages per video will translate + Swarm the content. This method is used to save costs and to qualify the languages using benchmarks. The languages that fail to reach them will be deprecated from the EOS Bees organization. 
 
 The suggested benchmarks per month for a 3 month average:
@@ -73,6 +77,7 @@ The suggested benchmarks per month for a 3 month average:
 [See the Content Calendar](https://loving-cent-cdc.notion.site/f4036fed858341a4b6061e8505030d5c?v=337ba8514ac043cda614e158d8d4f300)
 
 3.5 Macro Benchmark
+
 In order to detect changes in engagement relative to the crypto market, we have compiled a list of average video views across 60+ crypto YouTube influencers for the last 3 months, including the three videos we are proposing to promote. We will continue to track their video views in Q3. If our proposal increases views meaningfully, then the increase in Q3 should be substantially more than the average increase in views across crypto YouTube channels in general. 
 
 [See data sheet](https://docs.google.com/spreadsheets/d/1cYYKV24nSESZsl950CHnAFwkcFQ8b-havv5aEn2cxrI/edit)
