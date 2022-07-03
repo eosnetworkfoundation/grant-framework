@@ -258,7 +258,7 @@ EOS Bees has been dedicated to the EOS community since the idea was first presen
 
 We have finally found our wings; an achievable, detailed, gradual plan to popularize a positive narrative for EOS. 
 
-It’s time for EOS Bees to fly EOS to the vacant throne of smart contract platforms.
+It’s time to fly EOS to the vacant throne of smart contract platforms.
 
 With the support of the EOS Network Foundation, the throne is ours. 
 
