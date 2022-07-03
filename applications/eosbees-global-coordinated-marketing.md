@@ -71,6 +71,7 @@ Research is done by data mining publicly available information about the influen
 See a sample of the variables and their coefficients that are [included in the algorithm](https://docs.google.com/spreadsheets/d/1ZVkMLBou3IGbOIXj5wPO0SD0y3ZZv8mcIQAQpohUfp4/edit?usp=sharing)
 
 
+
 3.4 Operations
 
 The languages will take turns translating subtitles + Swarming the content. In Month 1, one language per video will execute the process. In Month 2, two languages per video and in Month 3, three languages per video will translate + Swarm the content. This method is used to save costs and to qualify the languages using benchmarks. The languages that fail to reach them will be deprecated from the EOS Bees organization.
@@ -127,7 +128,7 @@ We have multiple roles that comprise our full team. Our goal is to recruit thous
 ### Contact
 
 -   **Contact Name:** Jesse Jaffe
--   **Contact Email:** EOSBees@protonmail.com
+-   **Contact Email:** jessethan1990@gmail.com
 -   **Website:** https://loving-cent-cdc.notion.site/EOS-Bees-f1db033476974f43a8ac3fdfa49b3743
 
 ### Legal Structure
@@ -155,9 +156,7 @@ https://www.linkedin.com/in/jesse-jaffe-3aa326144/
 
 ## Development Status
 
-EOS Bees has been working for the past 6 months to create the "Swarm", an innovative marketing method that is currently in BETA. All functionality including micro-payments for Twitter engagements, NFT membership system,  integrations with the Twitter API and Swarm registration is operational.
-
-We need more volume to explore more edge cases.
+EOS Bees has been working for the past 6 months to create the "Swarm", an innovative marketing method that is currently in BETA. All functionality including payments for Twitter engagements, NFT membership system, integrations with the Twitter API and Swarm registration is operational. We need more volume to explore more edge cases.
 
 ## Development Roadmap
 
