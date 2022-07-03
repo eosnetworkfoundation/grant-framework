@@ -167,7 +167,7 @@ We need more volume to explore more edge cases.
 
 | Number | Deliverable       | Specification                                                                                        |
 | -----: | ----------------- | ---------------------------------------------------------------------------------------------------- |
-|     1. |         -         | Consulted on completion of general micro payment smart contract that can automatically pay rewards for Twitter engagements according to the specific NFT level.                                                 |
+|     1. |         -         | Consulted on general micro payment smart contract that can automatically pay rewards for Twitter engagements according to the specific NFT level.                                                 |
 |    1a. | Smart contract    | Checks if Twitter user possesses Bee NFT in order to distribute rewards based on certain engagements and Twitter profile strength         |
 |    1b. | NFT               | Over 100 NFTs distributed.                             |
 |     2. |         -         | Completion of automatic registration system for Swarm onboarding.                   |
