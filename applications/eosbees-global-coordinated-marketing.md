@@ -169,9 +169,9 @@ We need more volume to explore more edge cases.
 |    1a. | Smart contract    | Creation of NFT Distribution algorithm.             |
 |    1b. | NFT               | Over 100 NFTs Deployed.                             |
 |     2. |         -         | Completion of automatic registration system for Swarm onboarding.                   |
-|    2a. | Chat integration  | Swarm onboarding Telegram chatbot creation                                    |
-|    2b. | Chat integration  | Implementing a system that can automatically input chatbot information into Google Sheets.           |
-|    2c. | Chat integration  | Configuration of push notification system.           |
+|    2a. | Manychat integration  | Swarm onboarding Telegram chatbot creation                                    |
+|    2b. | Manychat integration  | Implementing a system that can automatically input chatbot information into Google Sheets.           |
+|    2c. | Manychat integration  | Configuration of push notification system.           |
 |     3. |         -         | Onboarding over 100 identified initial Swarming participants.        |
 |    3a. | Recruitment       | Completed algorithms and workflows to collect data.         |
 |    3b. | Data mining       | Data mined 100+ influencers to Swarm in our languages.         |
