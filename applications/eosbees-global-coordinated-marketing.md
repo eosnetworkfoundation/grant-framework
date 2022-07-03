@@ -167,9 +167,9 @@ We need more volume to explore more edge cases.
 
 | Number | Deliverable       | Specification                                                                                        |
 | -----: | ----------------- | ---------------------------------------------------------------------------------------------------- |
-|     1. |         -         | Completion of micro payment smart contract that can automatically pay rewards according to the specific NFT level.                                                 |
-|    1a. | Smart contract    | Creation of NFT Distribution algorithm.             |
-|    1b. | NFT               | Over 100 NFTs Deployed.                             |
+|     1. |         -         | Completion of micro payment smart contract that can automatically pay rewards for Twitter engagements according to the specific NFT level.                                                 |
+|    1a. | Smart contract    | Checks if Twitter user possesses Bee NFT in order to distribute rewards based on certain engagements and Twitter profile strength         |
+|    1b. | NFT               | Over 100 NFTs distributed.                             |
 |     2. |         -         | Completion of automatic registration system for Swarm onboarding.                   |
 |    2a. | Manychat integration  | Swarm onboarding Telegram chatbot creation                                    |
 |    2b. | Manychat integration  | Implementing a system that can automatically input chatbot information into Google Sheets.           |
