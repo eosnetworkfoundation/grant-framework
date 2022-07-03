@@ -11,13 +11,13 @@
 
 ## Project Overview
 
-This proposal is for EOS Bees to provide public good marketing services to the EOS ecosystem.
+This proposal is for EOS Bees to make EOS video content available to non-English speakers, amplify EOS Tweets and qualify/rank mid-level crypto influencers. This proposal represents Phase 1 of 3; a graudual plan to cement a positive narrative for EOS. 
 
 ### Overview
 
--   **Name:** EOS Bees 3.0 - provide global coordinated marketing service for EOS ecosystem
+-   **Name:** EOS Bees 3.0
 -   **Brief Description:** EOS Bees was created for the purpose of marketing the EOS community and its ecosystem. We adhere to the marketing principle of mutual respect called the Bee Code. We promote the EOS community in a positive way, which allows us to contribute to the growth of the EOS ecosystem. 
--   **Relationship to EOSIO:** Uses EOSIO smart contracts, pays bees in $EOS
+-   **Relationship to EOSIO:** Uses EOSIO smart contracts, ueses $EOS as currency
 -   **Reason for Interest:** EOS Bees has created a new way to amplify Tweets and qualify leads (influencers) in multiple languages.
 
 ### Project Details
@@ -30,15 +30,16 @@ To make this possible, we have set the following step-by-step process:
 
 - Step 1. Translate the subtitles of important videos from the EOS community into our 10 languages.
 
-- Step 2. Promote the translated contents of the EOS community in multiple languages on social media. We use an organized social media marketing method called "Swarming", which was built in collaboration with Tipit. 
+- Step 2. Promote the translated contents of the EOS community in multiple languages on social media. We use an organized social media marketing method called the "Swarm", which is built in collaboration with Tipit. 
 
-- Step 3. Through Step 1 and 2, we organize the marketing data accumulated by influencer and language, and provide it to the EOS community as an open source asset. The algorithm we developed will rank influencers based on key engagement and qualification metrics, including their response to a Swarm. 
+- Step 3. Rank influencers. Step 1 and 2 help inform which influencers are most qualified for EOS. The algorithm we developed will rank influencers based on key engagement and qualification metrics, including their response to a Swarm. 
 
 **2. Targeting**
 
 Firstly, we are targeting the EOS community members who cannot consume English video content. The translation step is critical to increase community engagement. Secondly, Swarming the content will allow us reach mid-level influencers, defined as having a following of approximately 5,000 to 100,000 people. 
 
 Influencers are the most efficient route to reach crypto enthusiasts, in order to eventually convert them to EOS community members. Our main platforms of focus are Twitter and YouTube. Outside of the three primary EOS languages, we can expect the total pool of crypto enthusiasts to be approximately 3,500,000 on Twitter and 50,000,000 on YouTube. 
+
 The following EOS videos we propose have the most relevant information for crypto influencers:
 
 - Fireside Chat : General alpha updates; relevant to influencer depending on topic of update
@@ -53,11 +54,13 @@ EOS Bees' translations are checked by EOS OG language leaders to ensure their qu
 
 Working with subtitles is the lowest hanging fruit in the translation space due to YouTube’s AI voice-to-text proficiency, lack of competition and [behavioral trends.](https://www.forbes.com/sites/tjmccue/2019/07/31/verizon-media-says-69-percent-of-consumers-watching-video-with-sound-off/?sh=73253c3135d8)
 
+
 3.2 Marketing
 
-Marketing activities are mainly done using a 'Swarm'. All Bees in all languages work to influence Twitter’s distribution algorithm via like and RT or Quote RT. Depending on the target language/influencer, Bees will reach out via replies and Quote ReTweets while tagging relevant influencers. Coordinating all the languages in one common goal is more influential than conventional social media marketing activities. The content has a greater chance to be adopted by the platform algorithm to create secondary effects. 
+Marketing activities are mainly done using a 'Swarm'. All Bees in all languages work to influence Twitter’s distribution algorithm via like and RT or Quote RT. Depending on the target language/influencer, Bees will reach out via replies and Quote ReTweets while tagging relevant influencers with professionally written copy. We believe Swarming will elevate the content to be adopted by the platform algorithm to create secondary effects. 
 
 [Swarm process diagram](https://drive.google.com/file/d/1al_GxUX9HUeBlMdyzqlZa52N1iqW6HIw/view)
+
 
 3.3 Influencer Research
 
@@ -65,19 +68,24 @@ Research is done by data mining publicly available information about the influen
 
 [Influencer research process diagram](https://drive.google.com/file/d/1lUIQJKD5sHhzqLBj-JaoAoKhaPnQm2eU/view)
 
+See a sample of the variables and their coefficients that are [included in the algorithm](https://docs.google.com/spreadsheets/d/1ZVkMLBou3IGbOIXj5wPO0SD0y3ZZv8mcIQAQpohUfp4/edit?usp=sharing)
+
+
 3.4 Operations
 
 The languages will take turns translating subtitles + Swarming the content. In Month 1, one language per video will execute the process. In Month 2, two languages per video and in Month 3, three languages per video will translate + Swarm the content. This method is used to save costs and to qualify the languages using benchmarks. The languages that fail to reach them will be deprecated from the EOS Bees organization.
+
 The suggested benchmarks per month for a 3 month average:
 
 - 500k Twitter impressions per language team
-- 10% of total video watch time in English 
+- 10% of total English video watch time 
 
-*EOS Bees requests Manager access to ENF’s YouTube account to streamline data mining
+*EOS Bees requests Manager access to ENF and EOSN's YouTube account to streamline data mining
 
-For Yves’ account, we propose to Swarm 2 Tweets per week, selected by Yves, to English, Korean and Chinese influencers. Swarms will initiate on Monday and Thursday of each week.
+For Yves’ account, we propose to Swarm two Tweets per week, selected by Yves, to English, Korean and Chinese influencers. Swarms will initiate on Monday and Thursday of each week.
 
 [See the Content Calendar](https://loving-cent-cdc.notion.site/f4036fed858341a4b6061e8505030d5c?v=337ba8514ac043cda614e158d8d4f300)
+
 
 3.5 Macro Benchmark
 
