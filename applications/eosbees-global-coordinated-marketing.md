@@ -198,7 +198,7 @@ We need more volume to explore more edge cases.
 |    2c. | Research          | Writing and reporting data research and analysis reports through the relevant activities.                         |
 |     3. | Research          | Influencer Step 1 rankings.           |
 
-### Milestone 3 - Finalization of the system, influencer reports and language qualification
+### Milestone 3 - Finalization of Phase 1: Step 2 influencer rankings and language qualification
 
 -   Estimated duration: 6 weeks
 -   FTE: n/a
