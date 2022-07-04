@@ -169,7 +169,7 @@ EOS Bees has been working for the past 6 months to create the "Swarm", an innova
 -   **Full-Time Equivalent (FTE):** n/a
 -   **Total Costs:** $116,000 USD
 
-### Milestone 1 - completed for Building Swarming System
+### Milestone 1 - completed for Building Swarming System and v0.1 of Influencer Algorithm
 
 -   Estimated duration: Complete
 -   FTE: n/a
@@ -189,6 +189,8 @@ EOS Bees has been working for the past 6 months to create the "Swarm", an innova
 |    3b. | Data mining       | Data mined 100+ influencers to Swarm in our languages.         |
 |     4. |         -         | Created logistical, educational and organizational Swarm assets.                         |
 |    4a. | Website           | Workspace Creation.         |
+|     5. |         -         | Created an algorithm that ranks influencers by the best deal                        |
+|    5a. | Algorithm           | Factors in digital marketing, interest, conversational and prcing metrics.         |
 
 ### Milestone 2 - Swarming begins in earnest
 
