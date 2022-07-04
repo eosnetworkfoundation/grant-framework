@@ -16,7 +16,7 @@ This proposal is for EOS Bees to make EOS video content available to non-English
 ### Overview
 
 -   **Name:** EOS Bees
--   **Brief Description:** EOS Bees was created for the purpose of marketing the EOS community and its ecosystem. We adhere to the marketing principle of mutual respect called the Bee Code. We promote the EOS community in a positive way, which allows us to contribute to the growth of the EOS ecosystem. 
+-   **Brief Description:** EOS Bees was created for the purpose of marketing the EOS community and its ecosystem. We adhere to the principle of mutual respect called the Bee Code. We promote the EOS community in a positive way, which allows us to contribute to the growth of the EOS ecosystem. 
 -   **Relationship to EOSIO:** Uses EOSIO smart contracts, ueses $EOS as currency
 -   **Reason for Interest:** EOS Bees has created a new way to amplify Tweets and qualify leads (influencers) in multiple languages.
 
