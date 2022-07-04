@@ -190,7 +190,7 @@ EOS Bees has been working for the past 6 months to create the "Swarm", an innova
 |     4. |         -         | Created logistical, educational and organizational Swarm assets.                         |
 |    4a. | Website           | Workspace Creation.         |
 |     5. |         -         | Created an algorithm that ranks influencers by the best deal                        |
-|    5a. | Algorithm           | Factors in digital marketing, interest, conversational and prcing metrics.         |
+|    5a. | Algorithm           | Factors in digital marketing, interest, conversational and pricing metrics.         |
 
 ### Milestone 2 - Swarming begins in earnest
 
