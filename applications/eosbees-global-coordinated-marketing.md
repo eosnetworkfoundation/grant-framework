@@ -184,7 +184,7 @@ EOS Bees has been working for the past 6 months to create the "Swarm", an innova
 |    2a. | Manychat integration  | Swarm onboarding Telegram chatbot creation                                    |
 |    2b. | Manychat integration  | Implementing a system that can automatically input chatbot information into Google Sheets.           |
 |    2c. | Manychat integration  | Configuration of push notification system.           |
-|     3. |         -         | Onboarding over 100 identified initial Swarming participants.        |
+|     3. |         -         | Onboarded over 100 identified initial Swarming participants.        |
 |    3a. | Recruitment       | Completed an algorithm to gauge Twitter profile strength.         |
 |    3b. | Data mining       | Data mined 200+ influencers to Swarm in our languages.         |
 |     4. |         -         | Created logistical, educational and organizational Swarm assets.                         |
