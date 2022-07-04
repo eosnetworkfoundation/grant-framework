@@ -169,7 +169,7 @@ EOS Bees has been working for the past 6 months to create the "Swarm", an innova
 -   **Full-Time Equivalent (FTE):** n/a
 -   **Total Costs:** $116,000 USD
 
-### Milestone 1 - completed for Building Swarming System and v0.1 of Influencer Algorithm
+### Milestone 1 - completed for Building v1.0 of Swarming System and v1.0 of Influencer Algorithm
 
 -   Estimated duration: Complete
 -   FTE: n/a
