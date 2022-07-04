@@ -20,6 +20,65 @@ This proposal is for EOS Bees to make EOS video content available to non-English
 -   **Relationship to EOSIO:** Uses EOSIO smart contracts, ueses $EOS as currency
 -   **Reason for Interest:** EOS Bees has created a new way to amplify Tweets and qualify leads (influencers) in multiple languages.
 
+### Ecosystem Fit
+
+**Where and how does your project fit into the ecosystem?**
+
+We aim to amplify content from the EOS ecosystem on Twitter using an innovative method that incentivizes engagement. 
+
+**Who is your target audience?**
+
+Non-English speaking EOS community members and mid-level crypto influencers (5000 - 100000 followers)
+
+**What need(s) does your project meet?**
+
+EOS needs a new, positive narrative in order to gain respect from the broader crypto community. These efforts from the community need to be amplified in order to meaningfully impact the narrative. 
+
+
+## Team
+
+We have multiple roles that comprise our full team. Our goal is to recruit thousands of people whose sole job is to like and ReTweet or Quote ReTweet content from our Swarms. We expect to surpass 500 bees by the conclusion of the proposed timeline. 
+
+### Core Team members
+
+-   EOS Bees
+    -   **Lead:** Jesse Jaffe
+    -   Sangyong Jeong
+    -   Nicolas Davoine
+    -   Kevin Eduardo Damken Guerrero
+    -   Tran Tien Thuc
+
+
+### Contact
+
+-   **Contact Name:** Jesse Jaffe
+-   **Contact Email:** jessethan1990@gmail.com
+-   **Website:** https://loving-cent-cdc.notion.site/EOS-Bees-f1db033476974f43a8ac3fdfa49b3743
+
+### Legal Structure
+
+-   **Registered Legal Entity:** Tortuga Advertising LLC
+-   **Registered Address:** 4000 Towerside Terrace Miami, FL 33138
+
+### Team Experience
+
+Multiple members, including the Team Leader, have 5+ years of experience in the digital marketing space. We have experience since October 2021 building an organizational structure for large teams and incentivizing engagement on social media content. 
+
+### Team Org Repos
+
+**Organization:**
+
+https://github.com/eosbeeswarms/Contracts
+
+### Team Member Repos
+
+n/a
+
+### Team LinkedIn Profiles
+
+https://www.linkedin.com/in/jesse-jaffe-3aa326144/
+
+
 ### Project Details
 
 **1. Goals & Objectives**
@@ -96,63 +155,7 @@ In order to detect changes in engagement relative to the crypto market, we have 
 
 
 
-### Ecosystem Fit
 
-**Where and how does your project fit into the ecosystem?**
-
-We aim to amplify content from the EOS ecosystem on Twitter using an innovative method that incentivizes engagement. 
-
-**Who is your target audience?**
-
-Non-English speaking EOS community members and mid-level crypto influencers (5000 - 100000 followers)
-
-**What need(s) does your project meet?**
-
-EOS needs a new, positive narrative in order to gain respect from the broader crypto community. These efforts from the community need to be amplified in order to meaningfully impact the narrative. 
-
-
-## Team
-
-We have multiple roles that comprise our full team. Our goal is to recruit thousands of people whose sole job is to like and ReTweet or Quote ReTweet content from our Swarms. We expect to surpass 500 bees by the conclusion of the proposed timeline. 
-
-### Core Team members
-
--   EOS Bees
-    -   **Lead:** Jesse Jaffe
-    -   Sangyong Jeong
-    -   Nicolas Davoine
-    -   Kevin Eduardo Damken Guerrero
-    -   Tran Tien Thuc
-
-
-### Contact
-
--   **Contact Name:** Jesse Jaffe
--   **Contact Email:** jessethan1990@gmail.com
--   **Website:** https://loving-cent-cdc.notion.site/EOS-Bees-f1db033476974f43a8ac3fdfa49b3743
-
-### Legal Structure
-
--   **Registered Legal Entity:** Tortuga Advertising LLC
--   **Registered Address:** 4000 Towerside Terrace Miami, FL 33138
-
-### Team Experience
-
-Multiple members, including the Team Leader, have 5+ years of experience in the digital marketing space. We have experience since October 2021 building an organizational structure for large teams and incentivizing engagement on social media content. 
-
-### Team Org Repos
-
-**Organization:**
-
-https://github.com/eosbeeswarms/Contracts
-
-### Team Member Repos
-
-n/a
-
-### Team LinkedIn Profiles
-
-https://www.linkedin.com/in/jesse-jaffe-3aa326144/
 
 ## Development Status
 
