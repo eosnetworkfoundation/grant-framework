@@ -186,7 +186,7 @@ EOS Bees has been working for the past 6 months to create the "Swarm", an innova
 |    2c. | Manychat integration  | Configuration of push notification system.           |
 |     3. |         -         | Onboarding over 100 identified initial Swarming participants.        |
 |    3a. | Recruitment       | Completed an algorithm to gauge Twitter profile strength.         |
-|    3b. | Data mining       | Data mined 100+ influencers to Swarm in our languages.         |
+|    3b. | Data mining       | Data mined 200+ influencers to Swarm in our languages.         |
 |     4. |         -         | Created logistical, educational and organizational Swarm assets.                         |
 |    4a. | Website           | Workspace Creation.         |
 |     5. |         -         | Created an algorithm that ranks influencers by the best deal                        |
