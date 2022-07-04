@@ -123,7 +123,7 @@ Marketing activities are mainly done using a 'Swarm'. All Bees in all languages 
 
 3.3 Influencer Research
 
-Research is done by data mining publicly available information about the influencers, including following, engagement and interest metrics. We have developed an algorithm that factors in other variables like Swarm response and conversational reactions. The algorithm is designed to predict the value of the influencer with suggested prices. The influencers are ranked by the best deal, factoring in all the variables. The scope of this Proposal covers Steps 1 and 2 from the diagram below.
+Research is done by data mining publicly available information about the influencers, including following, engagement and interest metrics. We have developed an algorithm that factors in other variables like Swarm response and conversational reactions. The algorithm is designed to predict the value of the influencer with suggested prices. The influencers are ranked by the best deal, factoring in all the variables given. The scope of this Proposal covers Steps 1 and 2 from the diagram below.
 
 [Influencer research process diagram](https://drive.google.com/file/d/1lUIQJKD5sHhzqLBj-JaoAoKhaPnQm2eU/view)
 
