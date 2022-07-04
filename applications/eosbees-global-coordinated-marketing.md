@@ -200,7 +200,7 @@ EOS Bees has been working for the past 6 months to create the "Swarm", an innova
 
 | Number | Deliverable       | Specification                                                                                        |
 | -----: | ----------------- | ---------------------------------------------------------------------------------------------------- |
-|     1. |         -         | EOS Critical Video Swarming.                                 |
+|     1. |         -         | EOS public good Video Swarming.                                 |
 |    1a. | Translation       | Swarming by language by translating EOS video content into 10 languages.             |
 |    1b. | Marketing         | Achieve 24 total swarms.                             |
 |    1c. | Research          | Writing and reporting data research and analysis reports through the relevant activities.                   |
