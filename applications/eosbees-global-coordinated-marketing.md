@@ -1,12 +1,12 @@
 # EOS Network Foundation Grant Proposal
 
--   **Project Name:** EOS Bees
--   **Team Name:** EOS Bees
--   **EOS Payment Address:** queenhp.gm
--   **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
--   **Project is Open-Source:** Yes
--   **Project was part of Token sale:** No
--   **Repository where Project resides:** https://github.com/eosbeeswarms/Contracts
+- **Project Name:** EOS Bees
+- **Team Name:** EOS Bees
+- **EOS Payment Address:** queenhp.gm
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
+- **Project is Open-Source:** Yes
+- **Project was part of Token sale:** No
+- **Repository where Project resides:** https://github.com/eosbeeswarms/Contracts
 
 
 ## Project Overview
@@ -15,10 +15,10 @@ This proposal is for EOS Bees to make EOS video content available to non-English
 
 ### Overview
 
--   **Name:** EOS Bees
--   **Brief Description:** EOS Bees was created for the purpose of marketing the EOS community and its ecosystem. We adhere to the principle of mutual respect called the Bee Code. We promote the EOS community in a positive way, which allows us to contribute to the growth of the EOS ecosystem. 
--   **Relationship to EOSIO:** Uses EOSIO smart contracts, ueses $EOS as currency
--   **Reason for Interest:** EOS Bees has created a new way to amplify Tweets and qualify leads (influencers) in multiple languages.
+- **Name:** EOS Bees
+- **Brief Description:** EOS Bees was created for the purpose of marketing the EOS community and its ecosystem. We adhere to the principle of mutual respect called the Bee Code. We promote the EOS community in a positive way, which allows us to contribute to the growth of the EOS ecosystem. 
+- **Relationship to EOSIO:** Uses EOSIO smart contracts, ueses $EOS as currency
+- **Reason for Interest:** EOS Bees has created a new way to amplify Tweets and qualify leads (influencers) in multiple languages.
 
 ### Ecosystem Fit
 
@@ -41,24 +41,24 @@ We have multiple roles that comprise our full team. Our goal is to recruit thous
 
 ### Core Team members
 
--   EOS Bees
-    -   **Lead:** Jesse Jaffe
-    -   Sangyong Jeong
-    -   Nicolas Davoine
-    -   Kevin Eduardo Damken Guerrero
-    -   Tran Tien Thuc
+- EOS Bees
+    - **Lead:** Jesse Jaffe
+    - Sangyong Jeong
+    - Nicolas Davoine
+    - Kevin Eduardo Damken Guerrero
+    - Tran Tien Thuc
 
 
 ### Contact
 
--   **Contact Name:** Jesse Jaffe
--   **Contact Email:** jessethan1990@gmail.com
--   **Website:** https://loving-cent-cdc.notion.site/EOS-Bees-f1db033476974f43a8ac3fdfa49b3743
+- **Contact Name:** Jesse Jaffe
+- **Contact Email:** jessethan1990@gmail.com
+- **Website:** https://loving-cent-cdc.notion.site/EOS-Bees-f1db033476974f43a8ac3fdfa49b3743
 
 ### Legal Structure
 
--   **Registered Legal Entity:** Tortuga Advertising LLC
--   **Registered Address:** 4000 Towerside Terrace Miami, FL 33138
+- **Registered Legal Entity:** Tortuga Advertising LLC
+- **Registered Address:** 4000 Towerside Terrace Miami, FL 33138
 
 ### Team Experience
 
@@ -167,15 +167,15 @@ EOS Bees has been working for the past 6 months to create the "Swarm", an innova
 
 ### Overview
 
--   **Total Estimated Duration:** 3 months
--   **Full-Time Equivalent (FTE):** n/a
--   **Total Costs:** $116,000 USD
+- **Total Estimated Duration:** 3 months
+- **Full-Time Equivalent (FTE):** n/a
+- **Total Costs:** $116,000 USD
 
 ### Milestone 1 - completed for Building v1.0 of Swarming System and v1.0 of Influencer Algorithm
 
--   Estimated duration: Complete
--   FTE: n/a
--   Costs: $65,000 USD
+- Estimated duration: Complete
+- FTE: n/a
+- Costs: $65,000 USD
 
 | Number | Deliverable       | Specification                                                                                        |
 | -----: | ----------------- | ---------------------------------------------------------------------------------------------------- |
@@ -196,9 +196,9 @@ EOS Bees has been working for the past 6 months to create the "Swarm", an innova
 
 ### Milestone 2 - Swarming begins in earnest
 
--   Estimated duration: 6 weeks
--   FTE: n/a
--   Costs: $25,500 USD
+- Estimated duration: 6 weeks
+- FTE: n/a
+- Costs: $25,500 USD
 
 | Number | Deliverable       | Specification                                                                                        |
 | -----: | ----------------- | ---------------------------------------------------------------------------------------------------- |
@@ -214,9 +214,9 @@ EOS Bees has been working for the past 6 months to create the "Swarm", an innova
 
 ### Milestone 3 - Finalization of Phase 1: Step 2 influencer rankings and language qualification
 
--   Estimated duration: 6 weeks
--   FTE: n/a
--   Costs: $25,500 USD
+- Estimated duration: 6 weeks
+- FTE: n/a
+- Costs: $25,500 USD
 
 | Number | Deliverable       | Specification                                                                                        |
 | -----: | ----------------- | ---------------------------------------------------------------------------------------------------- |
@@ -240,9 +240,9 @@ EOS Bees has been working for the past 6 months to create the "Swarm", an innova
 2022 4Q - 2023 1Q (Phase 2) 
 - Scale Phase 1 if metrics support
 - Richer data for top rated influencers 
--   Step 3 influencer rankings
--   Influencer Pomelo grant
--   Influencer EDEN membership
+- Step 3 influencer rankings
+- Influencer Pomelo grant
+- Influencer EDEN membership
 - Onboarding and Referral system MVP
 
 2023 2Q - 4Q (Phase 3)
