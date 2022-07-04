@@ -90,7 +90,7 @@ For Yves’ account, we propose to Swarm two Tweets per week, selected by Yves, 
 
 3.5 Macro Benchmark
 
-In order to detect changes in engagement relative to the crypto market, we have compiled a list of average video views across 60+ crypto YouTube influencers for the last 3 months, including the three videos we are proposing to promote. We will continue to track their video views in Q3. If our proposal increases views meaningfully, then the increase in Q3 should be substantially more than the average increase in views across crypto YouTube channels in general. 
+In order to detect changes in engagement relative to the crypto market, we have compiled a list of average video views across 60+ crypto YouTube influencers for the last 3 months, including the three videos we are proposing to promote. We will continue to track their video views in Q3. If our proposal increases views meaningfully, then the increase in Q3 should be substantially more than the average increase in views across crypto YouTube channels.
 
 [See data sheet](https://docs.google.com/spreadsheets/d/1cYYKV24nSESZsl950CHnAFwkcFQ8b-havv5aEn2cxrI/edit)
 
