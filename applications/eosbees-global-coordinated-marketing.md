@@ -201,14 +201,14 @@ EOS Bees has been working for the past 6 months to create the "Swarm", an innova
 | Number | Deliverable       | Specification                                                                                        |
 | -----: | ----------------- | ---------------------------------------------------------------------------------------------------- |
 |     1. |         -         | EOS public good Video Swarming.                                 |
-|    1a. | Translation       | Swarming by language by translating EOS video content into 10 languages.             |
-|    1b. | Marketing         | Achieve 24 total swarms.                             |
-|    1c. | Research          | Writing and reporting data research and analysis reports through the relevant activities.                   |
+|    1a. | Translation       | Translate video subtitles.             |
+|    1b. | Marketing         | Achieve 24 total Swarms.                             |
+|    1c. | Research          | Update influencer algorithm inputting Swarm response variable                  |
 |     2. |         -         | Yves' tweet swarm.        |
 |    2a. | Translation       | Swarm Yves’ important tweets in 3 languages.          |
 |    2b. | Marketing         | Achieve 32 total swarms.         |
-|    2c. | Research          | Writing and reporting data research and analysis reports through the relevant activities.                         |
-|     3. | Research          | Influencer Step 1 rankings.           |
+|    2c. | Research          | Update influencer algorithm inputting Swarm response variable                          |
+|     3. | Research          | Influencer Step 1 ranking report.           |
 
 ### Milestone 3 - Finalization of Phase 1: Step 2 influencer rankings and language qualification
 
@@ -219,14 +219,14 @@ EOS Bees has been working for the past 6 months to create the "Swarm", an innova
 | Number | Deliverable       | Specification                                                                                        |
 | -----: | ----------------- | ---------------------------------------------------------------------------------------------------- |
 |     1. |         -         | EOS Critical Video Swarming.                                 |
-|    1a. | Translation       | Swarming by language by translating EOS video content into 10 languages.             |
+|    1a. | Translation       | Translate video subtitles.             |
 |    1b. | Marketing         | Achieve 72 total swarms.                             |
-|    1c. | Research          | Writing and reporting data research and analysis reports through the relevant activities.                   |
+|    1c. | Research          | Update influencer algorithm inputting Swarm response variable                      |
 |     2. |         -         | Yves' tweet swarm.        |
 |    2a. | Translation       | Swarm ENF’s important tweets in 3 languages.          |
 |    2b. | Marketing         | Achieve 64 total swarms.         |
-|    2c. | Research          | Writing and reporting data research and analysis reports through the relevant activities.                         |
-|     3. | Research          | Influencer Step 2 rankings.           |
+|    2c. | Research          | Update influencer algorithm inputting Swarm response variable                             |
+|     3. | Research          | Influencer Step 2 report.           |
 |    3a. | Research          | Final report creation.                |
 |    3b. | Qualification     | Evaluating whether the Network should support a new language. Benchmark analysis.                  |
 
