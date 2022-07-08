@@ -17,7 +17,7 @@
 | Team | Project Name / Application | Repo | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
 | [Time2Discover](https://time2discover.no/) | [The Lost Diamond](../applications/TheLostDiamond_BjornOmsland.md) | [GitHub](https://github.com/bjornomsland) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [ZeroPass](https://zeropass.io/) | [EOS Cryptography Proposal](../applications/eos-cryptography-proposal.md) | [GitHub](https://github.com/ZeroPass/eosio.ck) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [ZeroPass](https://zeropass.io/) | [EOS Cryptography Proposal](../applications/eos-cryptography-proposal.md) | [GitHub](https://github.com/ZeroPass/eosio.ck) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [GenerEOS Pty Ltd](https://genereos.io/) | [Smart Contract Testing](../applications/genereos-testing-libraries.md) | [GitHub](https://github.com/generEOS) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [CETF](https://github.com/n0umen0n) | [Crypto Exchange Traded Funds](../applications/CETF.md) | [GitHub](https://github.com/n0umen0n) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [TrustSwap](https://trustswap-testnet.web.app/) | [Trust Swap](../applications/trustswap.md) | [GitHub](https://github.com/evm20) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
