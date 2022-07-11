@@ -197,6 +197,8 @@ Additionally, Jack has been independently involved in several relevant prior wor
 
 TODO add something about Suneet
 
+Rebal Alhaqash is our full stack developer. With 2.5 years experience with React and React native, he leads the user facing side of the application. He has previously worked on the [Farm Credibility](https://farmcredibly.com) project creating smart contracts in Solidity and connecting these to the front-end client. He has also worked with server side technologies in JavaScript and nestjs.
+
 ### Team Org Repos
 
 - https://github.com/Tonomy-Foundation
