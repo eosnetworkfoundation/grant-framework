@@ -169,10 +169,10 @@ In addition to the above, we want to make the distinction between Tonomy ID and 
 - Chris Verhoef
 - Mikhail Rusanov
 - Carrie Ann Smith
-- Jordan Fisher
 - Mia Jacobson
 - Suneet Bendre
 - Rebal Alhaqash
+- Stefan Selg
 
 ### Legal Structure
 - **Registered Legal Entity:** [Tonomy Stichting](https://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=86537288)
@@ -223,10 +223,10 @@ Rebal Alhaqash is our full stack developer. With 2.5 years experience with React
 - https://www.linkedin.com/in/christiaanverhoef/
 - https://www.linkedin.com/in/rusanovmp/
 - https://www.linkedin.com/in/carrie-ann-smith-95240899/
-- https://www.linkedin.com/in/jordanelizabethfisher/
 - https://www.linkedin.com/in/mia-jacobson-012218139/
 - https://www.linkedin.com/in/suneet-bendre/
 - https://www.linkedin.com/in/rebal-alhaqash-683b0b174/
+- https://www.linkedin.com/in/stefan-selg-b9347b1b5/
 
 ## Development Status
 
