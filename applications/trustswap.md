@@ -104,14 +104,12 @@ We have a fully functional decentralized exchange working on the Trust EVM testn
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 1. | Swap  | We will deploy a mainnet version of the swap contract. |
 | 2. | Farm | We will deploy a mainnet version of the farming contract.|
-| 3. | Contracts | We will verify that the bytecode of the repository code matches the deployed bytecode |
-| 4. | Frontend | We will deploy and updated frontend design |
-
+| 3. | Contracts | We will verify that the bytecode of the repository code matches the deployed bytecode. |
+| 4. | Frontend | We will deploy and updated frontend design. |
 
 ## Future Plans
 
 - We will be updating our core contracts to Version 3 of Uniswap as soon as the license allows us. There are other several contracts we are working on, they include bridging services and lending. We will be maintaining the core DEFI contracts, wEVM and Multicall.
-
 
 ## Additional Information
 
