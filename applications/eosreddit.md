@@ -195,6 +195,7 @@ For each milestone,
 ## Additional Information
 
 **How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+
 -Twitter
 
 > Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
