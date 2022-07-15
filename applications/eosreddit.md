@@ -36,8 +36,7 @@
 > Please provide the following:
 
 - **Name:** EOS VISION x REDDIT AND FACEBOOK
-- **Brief Description:** Welcome to EOS REDDIT 2.0, the new stage of EOS REDDIT, where we will be able to turn the old, lonely and depressed Reddit into a new way of reading the news and giving constructive opinions. Our trained team prepares to work on 3 Fundamental Pillars, offering a new face to Reddit, as well as providing new alternatives and attention to users with a misconception of EOS.
-- Let's get ready to interact in all of Reddit in a respectful way, not only in the official EOS Reddit, trying to give a good marketing to what is being developed in EOS, reaching other Subreddits informing in a simple way developments, processes, improvements and projects that we have within the ecosystem.
+- **Brief Description:** Welcome to EOS REDDIT 2.0, the new stage of EOS REDDIT, where we will be able to turn the old, lonely and depressed Reddit into a new way of reading the news and giving constructive opinions. Our trained team prepares to work on 3 Fundamental Pillars, offering a new face to Reddit, as well as providing new alternatives and attention to users with a misconception of EOS. Let's get ready to interact in all of Reddit in a respectful way, not only in the official EOS Reddit, trying to give a good marketing to what is being developed in EOS, reaching other Subreddits informing in a simple way developments, processes, improvements and projects that we have within the ecosystem.
 - **Relationship to EOSIO:** We prepare to promote the EOS and EOSIO community in the best possible way, with good marketing, as well as to demonstrate that the work that is done together between the blockchains has borne fruit and momentum to EOSIO. Reddit has an extensive number of users who will not hesitate to look at the information related to EOS AND EOSIO.
 - **Reason for Interest:** EOS VISION proposes to support the EOS community on Reddit, which has 97.7k members, is being one of the largest EOS communities, it is also the one with the most FUD of all EOS, since a couple of years, It has been a bit abandoned, and has been recovering thanks to the team of EOS SUPPORT and EOS BEES. We have seen how necessary and important this social network can be to attract both new users and new projects, so we propose to support Reddit.
 
@@ -45,12 +44,27 @@
 
 > We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
+-Our Mission
+Educate and inform the crypto currency world about the most recent events about EOS and its technological improvements, generate active use of Reddit encouraging the adoption of EOS, promoting the different contents of interest to users on Reddit. 
+-Projects Secondary Objectives:
+Weekly informative bulletins and important information releases.
+Important podcasts with the EOS community.
+General support for the different EOS projects.
+Informative courses for new users in EOS.
+Monthly report of the work done in EOS VISION.
+-Oriented to solve current problems
+Interact and correct misconceptions about EOS on social networks, especially on twitter and Reddit, which have been based on price, as well as respectfully encourage users who make negative comments dedicated to FUD to check the new stage of EOS.
 - Documentation of core components, protocols, architecture, etc. to be deployed
 We intend to use the reports, news, videos and other RELEVANT information found in the EOS COMMUNITY, and thus broadcast it on the social networks of Reddit and Facebook.
 - What your project is _not_ or will _not_ provide or implement
 We will support Reddit, but it will not be owned by us, EOS REDDIT and EOS Facebook is owned by the community and anyone can provide their services.
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+  - 3 PILLARS VISIONS REDDIT.
+1.Make different daily Posts regarding the EOS Ecosystem: Maintaining activity within Reddit is one of the most important ways to eradicate FUD, demonstrating that it is an active community and that good opportunities, good projects are being created and there are new news for read, share and comment at all times.
 
+2. Increase in daily moderation: A moderation of all the SPAM that contains the official EOS reddit will be carried out, as well as the active moderation queue that may exist, it is worth mentioning that the SPAM queue has accumulated in recent months due to the number of bots that enter our Reddit.
+
+3. Reddit-Discord Reward System: Based on the “Tip.cc” Reward system in Discord, and the EOS BEES idea of ​​performing “SWARM PAID” to different important Twitter Posts, we will bring this idea to Reddit, dedicate 2 minutes a day to Vote on our Reddit, check out the “VISIONS REDDIT” channel where we will upload active posts daily, here you can vote and post in our thread that you have voted so that you can earn daily rewards.
 
 ### Ecosystem Fit
 
@@ -68,20 +82,14 @@ A new opportunity for reddit and facebook and using these networks that have man
 - Are there any other projects similar to yours in the EOSIO ecosystem?
   - If so, how is your project different?
   - If not, are there similar projects in related ecosystems?
-  - Yes, currently some of the users within EOS post on Reddit, but not daily, EOS NATION and EOS SUPPORT post important details whenever needed. The difference of our proposal is that we intend to have Reddit active daily, with any relevant information.
+  Yes, currently some of the users within EOS post on Reddit, but not daily, EOS NATION and EOS SUPPORT post important details whenever needed. The difference of our proposal is that we intend to have Reddit active daily, with any relevant information.
 
 ## Team
 
 ### Team members
 
-- **Team Leader:** Verónica Díaz
-  - Founder of Creamy Vanilla the first Smoothies store in EOS. Just like the Vanill Creamy collection on AtomicHub.
-  - Community Manager of EOSTARTER.
-  - Working bee and administrator in EOS BEES in Spanish.
-  - Active Eden member.
-  - Defibox administrator in Spanish.
-  - Ambassador of EOS SUPPORT in Spanish.
-  - And moderator of different channels and social networks (EOS COMMUNITY DISCORD, EOS FACEBOOK, EOS REDDIT, EOS TELEGRAM AND EDEN ON EOS)
+- **Team Leader:** 
+- Verónica Díaz
 - Nelson Aular
 
 ### Legal Structure
@@ -92,13 +100,21 @@ A new opportunity for reddit and facebook and using these networks that have man
 
 > Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
 
+-Verónica Díaz
+  - Founder of Creamy Vanilla the first Smoothies store in EOS. Just like the Vanill Creamy collection on AtomicHub.
+  - Community Manager of EOSTARTER.
+  - Working bee and administrator in EOS BEES in Spanish.
+  - Active Eden member.
+  - Defibox administrator in Spanish.
+  - Ambassador of EOS SUPPORT in Spanish.
+  - Discord Manager of Function Loops Club (International Producer.)
+  - And moderator of different channels and social networks (EOS COMMUNITY DISCORD, EOS FACEBOOK, EOS REDDIT, EOS TELEGRAM AND EDEN ON EOS)
+
 > If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
 
 ### Team Org Repos
 
-- https://github.com/<your_organization>
-- https://github.com/<your_organization>/<project_1>
-- https://github.com/<your_organization>/<project_2>
+- [https://github.com/<your_organization>](https://github.com/eosvision1)
 
 > Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
@@ -115,11 +131,7 @@ A new opportunity for reddit and facebook and using these networks that have man
 
 > If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+-We keep creating content for the EOS community on a daily basis, we haven't wasted a single day developing good content for other outreach, bringing back Reddit is our main plan, we have already started posting daily. We hope to implement a method similar to that of EOS BEES, using discord.
 
 ## Development Roadmap
 
@@ -157,39 +169,34 @@ For each milestone,
 > - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
 > - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
 
-### Milestone 1 Example — Implement EOSIO Application
+### Milestone 1 — Interaction with Users, publications and VISIONS REDDIT.
 
-- **Estimated duration:** 4 Month
-- **FTE:**  2
-- **Costs:** 5,000 USD
+- **Estimated duration:** 5 Month
+- **FTE:**  
+- **Costs:** 6,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
+| 0a. | Integration of new users to Reddit.
 | 0b. | Documentation | We will provide online documentation of the development through reports of the statistics on reddit and the progress and weekly reports on youtube in Spanish, supporting the weekly reports that are released on Mondays through the ENF
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Application interface to EOSIO | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
-| 3. | Caching layer | We will create a caching layer ... |  
-| 4. | API interface to our app | We will create an API that ... |  
-
+| 0c. | User attention. |Support and Attention through EOS SUPPORT. With guides, articles and more.|
+| 0d. | General and Spam Moderation | Mod Queue Cleanup, Delete Spam Reports (New and Accumulated.) Daily posts on important topics related to EOS. Interact respectfully with different users who leave Negative Comments (FUD.) about EOS. Special interaction on other Subreddits regarding EOS. |
+| 0e. | Daily Posts |Encourage the growing marketing and development found in EOS, with the most important news, "approving posts." and giving labels for a better user experience.
+| 1. | Statistics and Development | Quarterly report of Reddit statistics, as well as its use, number of publications and increase in users. |  
 
 ## Future Plans
 
 > Please include here:
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
-
+- -Streaming Fireside Chat on Reddit.
+-Incentivize an official ENF profile for Reddit and Facebook.
+-Development of customer service for Reddit (Automatically redirect to EOS SUPPORT.)
+-Incentives for Publications on Reddit and Facebook.
 
 ## Additional Information
 
 **How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+-Twitter
 
 > Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+We hope that by focusing on these three general ideas, EOS VISION can help bring back your Reddit, we promise to do a clean, organized and constructive job. EOS VISION seeks the opportunity to attract new users to EOS from all over the world, using tools that are already at our disposal, from the use of the most important news, to the opportunity to support different projects so that they have more visits, we focus on carrying out a broad and active ecosystem day by day, where new information is always found, necessary for the attraction and education of future new users. Ensuring that each person receives the correct information from trusted sources within the EOS ecosystem.
+We expect EOS VISION to go hand in hand with EOS SUPPORT and EOS BEES at all times, to bring the information that everyone needs to know about EOS and its Blockchain.
