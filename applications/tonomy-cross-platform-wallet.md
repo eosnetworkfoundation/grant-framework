@@ -195,7 +195,11 @@ Additionally, Jack has been independently involved in several relevant prior wor
 - Organising and running many [EOSIO workshops](https://theblockstalk.medium.com/the-eosio-blockchain-developer-workshop-now-available-on-youtube-ddeba54f0d94) - in person and online - and writing education and practical EOSIO material on [Medium](https://theblockstalk.medium.com/), [Github](https://github.com/theblockstalk) and [Twitter](https://twitter.com/theblockstalk).
 - Jack has been technically involved in blockchain since 2016 learning from Matthew Di Ferrente and Nick Johnson (core Ethereum Foundation developers) as a developer, auditor, educator and technical influencer. He has worked on many blockchain protocols and dApp architectures.
 
-TODO add something about Suneet
+Suneet Bendre is an experienced developer working in blockchain and self sovereign identity for the past three years. His experience includes:
+- Development of the SSI framework and micro-services and microservics of [Gaia-X](https://gaia-x.eu/what-is-gaia-x), an EU federated data sharing and exchange platform.
+- Contributing to the [EOSIO Privacy report](https://eos.io/news/blockchain-privacy/) with Jack Tanner.
+- Technical consulting for the Indian government's blockchain incubation project [Apiary](https://apiary.stpi.in) including market research, problem solvin and story telling.
+- Other experience includes backend development with [Robustwealth](https://www.thewealthmosaic.com/vendors/robustwealth) wealth trading platform and [Mastercard](https://www.mastercard.com).
 
 Rebal Alhaqash is our full stack developer. With 2.5 years experience with React and React native, he leads the user facing side of the application. He has previously worked on the [Farm Credibility](https://farmcredibly.com) project creating smart contracts in Solidity and connecting these to the front-end client. He has also worked with server side technologies in JavaScript and nestjs.
 
