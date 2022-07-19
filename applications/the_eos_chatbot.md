@@ -1,41 +1,27 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Please do not remove any of the mandatory lines that start with **bold labels** or as headlines! Your application will be rejected!
-> Lines starting with a `>` (such as this one) should be removed.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-> 
-> Please note that this application will be **automatically parsed**.  Please only put the data required in the fields following the bolded labels.
->
-> Deleting lines that start with **Bold Labels** will cause your grant to be rejected! Please fill this out carefully if you want to be approved!
-
-- **Project Name:** Name of your project (e.g. Anchor Wallet)
-- **Team Name:** Legal name of your team (e.g. Greymass, Inc.)
-- **EOS Payment Address:** EOS payment address
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
-- **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
-- **Project is Open-Source:** Yes/No
-- **Project was part of Token sale:** Yes/No
-- **Repository where Project resides:** https://github.com/<your_organisation>/<project_repo>
-> Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
+- **Project Name:** The EOS Chatbot
+- **Team Name:** Mutual Marketing
+- **EOS Payment Address:** thisismutual
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
+- **Pomelo Grant(s):** https://pomelo.io/grants/theoschatbot
+- **Project is Open-Source:** Yes
+- **Project was part of Token sale:** No
+- **Repository where Project resides:** https://docs.google.com/document/d/1BuFhTabU1u_KB38QNFSu8kcAki5TxItsg0SXD1WY_yo/edit?usp=sharing
 
 ## Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** myemail@mycompany.com
-- **Website:** https://yourwebsite.com
-
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
+- **Contact Name:** Kevin Eduardo Damken Guerrero
+- **Contact Email:** hello@thisismutual.com
+- **Website:** https://www.thisismutual.com/
 
 ## Project Overview
-
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
 
 ### Overview
 
 > Please provide the following:
 
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
+- **Name:** The EOS Chatbot deveopment & optimization
 - **Brief Description:** A brief description of your project.
 - **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
 - **Reason for Interest:** An indication of why your team is interested in creating this project.
