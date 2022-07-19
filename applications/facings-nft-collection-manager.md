@@ -205,7 +205,7 @@ Some initial interface designs are included in the project details above. Beyond
 | 0c. | Testing Guide | Documentation for a walkthrough of the UI as described and the intended outcome of each subset will be provided along with expected feedback results. FACINGS UI standards including visibility of system status, user control and freedom, consistency, error prevention, recognition over recall, flexibility and efficiency, minimalistic design, error recovery and documentation will all be implemented. |
 | 0d. | Docker | We will provide a Dockerfile that can be used to launch a UI instance and test all the functionality delivered with this milestone. |
 | 0e. | Article | We will publish an article describing the work we performed as part of the grant, introduce our app, and highlight the features which make it valuable. |
-| 1. | Collection Manager | Handle fundamental operations: (1) Create/Edit Collections, (2) Create/Extend Schemas, (3) Create Templates, (4) Create Assets |  
+| 1. | Collection Manager | Handle fundamental operations: (1) Create/Edit Collections, (2) Create/Extend Schemas, (3) Create Templates, (4) Create Assets, (5) Airdrop assets to list of accounts |  
 | 2. | Additional functions | Lock template, burn asset |  
 | 3. | Deployment | We will host the UI and it will be privately available for alpha testing. |  
 
