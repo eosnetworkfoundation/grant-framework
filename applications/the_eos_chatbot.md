@@ -19,16 +19,12 @@
 
 ### Overview
 
-> Please provide the following:
-
-- **Name:** The EOS Chatbot deveopment & optimization
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+- **Name:** The EOS Chatbot - User Onboarding & Semi-Automated Support
+- **Brief Description:** Traditional digital marketing funnels look something like this, Lead Magnet > Landing Page > Follow-Up > Sales. The premise is as follows, have a juicy incentive (lead magnet) that attracts leads to a website (landing page) in which the objective is to convert to sale or to collect user data like email and phone to provide valuable follow up via email or SMS marketing to convert leads into customers (users). Our objective is to build a user onboarding funnel with utilizing a conversational interface (The EOS Chatbot) which is proven to have higher conversion rates than traditional funnels.
+- **Relationship to EOSIO:** The EOS Chatbot is built specifically for the EOS blockchain which is built using the EOSIO software
+- **Reason for Interest:** I'm a genesis EOS user, I love EOS and want to build cool stuff that provides value to the EOS community and it's ecosystem.
 
 ### Project Details
-
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 - Mock-ups/designs of any UI components
 - Data models of the core functionality
