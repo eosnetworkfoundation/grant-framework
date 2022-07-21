@@ -40,9 +40,12 @@ This grant aims to fulfill the needs outlined in the SSI section of the CORE+ pa
 
 For an introduction to SSI, check out [Core+ paper (section 8)](https://drive.google.com/file/d/1UVnGDzwp76YUoQnnFWgMDwEYTPmWw_fT/view) or the links in the [Awesome SSI](https://github.com/animo/awesome-self-sovereign-identity) resource list.
 
-This is an example showing how you can use this library to issue a Verifiable Credential signed by the &quot;active&quot; key of an EOSIO account.
+This is an _example_ showing how you can use this library to issue a Verifiable Credential signed by the &quot;active&quot; key of an EOSIO account.
 
 ```js
+const { JsSignatureProvider } = require('eosjs/dist/eosjs-jssig');  // development only
+const { Credentials } = require('@Tonomy/Credentials');
+
 const myId = "did:eosio:telos:mytelosaccount";
 const universityId = "did:eosio:telos:exampleuniversity";
 const universityVerificationMethod = "did:eosio:telos:exampleuniversity#active";
@@ -63,7 +66,8 @@ const credential = {
 };
 
 const credentials = new Credentials();
-const signedCredential = await credentials.issue(universityVerificationMethod, credential);
+const signatureProvider = new JsSignatureProvider(universityActivePrivateKey);
+const signedCredential = await credentials.issue(universityVerificationMethod, signatureProvider, credential);
 console.log(signedCredential);
 // credential {
 //   ...
