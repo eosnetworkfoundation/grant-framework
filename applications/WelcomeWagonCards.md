@@ -62,29 +62,13 @@ There are concerns with the security of 7-digit abreviated URLs against brute fo
 extremely low-value claim links, and because we are still unknown. In the future though, especially with the permanent cards, or with cards that contain backed NFTs
 (eg.'Claim this NFT backed by 10 EOS') the danger could be mitigated in several ways, such as SMS confirmation. 
 
-- Mock-ups/designs of any UI components
-- Data models of the core functionality
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
-
 ### Ecosystem Fit
 
 Welcomewagon.ai is 'the smart engagement solution for your web3 destination'.
-Our mission is to make the EOS experience easy and fun for all users. By intentifying our users' profiles and offering them a journey tailored to their level of experience, 
-we hope to quickly make an impact in the EOS and EOSIO ecosystems. We hope that by offering the simplest of interactions with our newly onboarded users, they will 
-come back to welcomewagon to learn more about the network. Dapps and other destinations will want to partner with us to direct the new users their way. If this model is successful, 
-networks will wish to partner with us to enhance their general ecosystem. 
-We hope to very quickly have a large collection of concise e-learning materials, which will be free for anyone to view (only welcomewagon members will be rewarded with NFTs
-for watching the material.)
+Our mission is to make the EOS experience easy and fun for all users. By intentifying our users' profiles and offering them a journey tailored to their level of experience, we hope to quickly make an impact in the EOS and EOSIO ecosystems. We hope that by offering the simplest of interactions with our newly onboarded users, they will come back to welcomewagon to learn more about the network. Dapps and other destinations will want to partner with us to direct the new users their way. If this model is successful, networks will wish to partner with us to enhance their general ecosystem. 
+We hope to very quickly have a large collection of concise e-learning materials, which will be free for anyone to view (only welcomewagon members will be rewarded with NFTs for watching the material.)
 
-In the meantime though, we want to focus on the production of our QR cards as we move into trade-show season, as colleges and universities resume, and as social movements like
-Hu-Fi and Eden gain traction. The onboarding potential is massive, if these cards are put into the right hands. Distributors who order batches of the cards will be able to customize
-them with their own NFT, and will be forever linked to the account that they helped to onboard. The sybil defence to this system is built in: We can offer free or subsidized accounts
-because they only way they can be claimed is with a physical card, distributed by a real person. 
+In the meantime though, we want to focus on the production of our QR cards as we move into trade-show season, as colleges and universities resume, and as social movements like Hu-Fi and Eden gain traction. The onboarding potential is massive, if these cards are put into the right hands. Distributors who order batches of the cards will be able to customize them with their own NFT, and will be forever linked to the account that they helped to onboard. The sybil defence to this system is built in: We can offer free or subsidized accounts because they only way they can be claimed is with a physical card, distributed by a real person. 
 
 We are not aware of any other EOSIO project that is doing what we are building: Simple onboarding + incentivized e-learning. Several projects are doing one or the other.. 
 Wombat wallet offers free accounts (via socials login) and then promotes specific dapps and destinations, but does not offer concerted e-learning. We know of no other product across 
