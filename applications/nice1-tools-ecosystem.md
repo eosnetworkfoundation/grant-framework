@@ -6,7 +6,7 @@
 - **Level** 2
 - **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
 - **Project is Open-Source:** Yes
-- **Project was part of Token sale:** YES
+- **Project was part of Token sale:** NO
 - **Repository where Project resides:** https://github.com/nice1-blockchain   
 
  
