@@ -78,13 +78,6 @@ On other networks, these types of blockchain interactions are very difficult to 
 https://www.vechain.org/vechain-powers-canadian-company-micromations-saas-platform-truestoryteller-enabling-quick-onboarding-of-clients-to-blockchain/
 VeChain has been using blockchain-linked QR codes for several years now, and it now has a nft marketplace... 
 
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the EOSIO ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
-
 ## Team
 
 ### Team members
