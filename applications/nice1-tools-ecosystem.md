@@ -183,7 +183,7 @@ Note: Some of the milestones can possibly overlap and be done in parallel.
 | 0c. | Unit tests | Unit tests for the plugin. |
 | 1. | Webview | Develop a webview plugin to call anchor-link functions. |  
 | 2. | C# Anchor-Link | Analyze the problem to develop a c# Anchor-link SDK. |  
-| 3. | Platform | Mac, Android and iOS version.|  
+| 3. | Platform | Mac, Windows, Linux, Android and iOS version.|  
 
 ### Milestone 2 - Nice1 Plugin Unreal
 - Estimated duration: 2 months
@@ -196,7 +196,7 @@ Note: Some of the milestones can possibly overlap and be done in parallel.
 | 0b. | Documentation | Documentation for Unreal developers |
 | 0c. | Unit tests | Unit tests for the plugin. |
 | 1. | Unreal Plugin | First plugin version running in Unreal.|    
-| 2. | Platform | Mac, Android and iOS version.|  
+| 2. | Platform | Mac, Windows, Linux, Android and iOS version.|  
 
 
 ### Milestone 3 - Nice1 Plugin Functionalities
@@ -233,7 +233,7 @@ Note: Some of the milestones can possibly overlap and be done in parallel.
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 1. | SC Staking | Contracts for staking both nfts and nice1 tokens and get tokens or nfts in exchange. |  
-| 2. | Nice JS tools | Javascript tools and components for easy nice1 integration in websites. |  
+| 2. | Nice JS tools | Javascript tools (developed with typescript) and components for easy nice1 integration in websites. |  
 
 
 ### Milestone 6 - Nice1 Link (Lvl3)
