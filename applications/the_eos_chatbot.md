@@ -36,14 +36,17 @@
     NA
     
 - An overview of the technology stack to be used
-  ManyChat: Manychat is our main technology tool. It is used to create the conversational interface with the user (chatbot) and integrates with other platforms to transfer data and execute certain actions.
-  Zapier: Zapier is an integration tool, it connects apps with other apps.
-  Google Suite: Google Suite tools like Google Sheet, Google Drive
-  Telegram: Main conversational channel for The EOS Chatbot
-  WhatsApp: Secondary conversation channel for The EOS Chatbot.
+    ManyChat: Manychat is our main technology tool. It is used to create the conversational interface with the user (chatbot) and integrates with other platforms to transfer data and execute certain actions.
+    Zapier: Zapier is an integration tool, it connects apps with other apps.
+    Google Suite: Google Suite tools like Google Sheet, Google Drive
+    Telegram: Main conversational channel for The EOS Chatbot
+    WhatsApp: Secondary conversation channel for The EOS Chatbot.
   
 - Documentation of core components, protocols, architecture, etc. to be deployed
+
 - PoC/MVP or other relevant prior work or research on the topic
+    The EOS Chatbot MVP - [Link](https://docs.google.com/document/d/1BuFhTabU1u_KB38QNFSu8kcAki5TxItsg0SXD1WY_yo/edit)
+
 - What your project is _not_ or will _not_ provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
