@@ -27,9 +27,21 @@
 ### Project Details
 
 - Mock-ups/designs of any UI components
+    You can currently test out The EOS Chatbot here http://t.me/theeoschatbot
+    
 - Data models of the core functionality
+    NA
+    
 - API specifications of the core functionality
+    NA
+    
 - An overview of the technology stack to be used
+  ManyChat: Manychat is our main technology tool. It is used to create the conversational interface with the user (chatbot) and integrates with other platforms to transfer data and execute certain actions.
+  Zapier: Zapier is an integration tool, it connects apps with other apps.
+  Google Suite: Google Suite tools like Google Sheet, Google Drive
+  Telegram: Main conversational channel for The EOS Chatbot
+  WhatsApp: Secondary conversation channel for The EOS Chatbot.
+  
 - Documentation of core components, protocols, architecture, etc. to be deployed
 - PoC/MVP or other relevant prior work or research on the topic
 - What your project is _not_ or will _not_ provide or implement
