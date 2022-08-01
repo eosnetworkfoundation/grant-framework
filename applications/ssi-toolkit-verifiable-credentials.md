@@ -318,7 +318,7 @@ This project is the next and most important step in this SSI journey for EOSIO (
 
 - Total Estimated Duration: 2 months
 - Full-Time Equivalent (FTE): 0.8 FTE
-- Total Costs: $36,000 USD
+- Total Costs: $36,000 USD (rounded down from $36,541 - see below)
 
 We use our aligned consuling rate of €130 / hour. Our aligned consulting rate is used when the technology we build aligns with the Tonomy Foundation&#39;s vision (we use a rate of €200 when it doesn&#39;t). It reflects our at-cost rate which includes a buffer to cover risks and unknowns in operating costs. We are a non-for-profit foundation. If we make any profit it goes back into our operation budget which goes towards open-source societal technologies.
 
@@ -331,7 +331,7 @@ Calculation:
 | € 130 / hour | Aligned consulting rate |
 | € **35,776 EUR** | **Total cost** |
 | **$ 36,541 USD** |
- |
+
 
 ### Milestone 1 Verifiable Credential issue()
 
