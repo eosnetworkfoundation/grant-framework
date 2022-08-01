@@ -2,20 +2,20 @@
 
 # **EOS Network Foundation Grant Proposal**
 
-- Project Name: Verifiable Credentials for the EOSIO SSI Toolkit
-- Team Name: Tonomy Foundation
-- EOS Payment Address: tonomyaccou1
-- [Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels): 2 (Active Pomelo grant [here](https://pomelo.io/grants/recovery))
-- Pomelo Grant(s): N/A
-- Project is Open-Source: Yes
-- Project was part of Token sale: No
-- Repository where Project resides: [https://github.com/Tonomy-Foundation/EOSIO-SSI-Toolkit](https://github.com/Tonomy-Foundation/EOSIO-SSI-Toolkit)
+- **Project Name:** Verifiable Credentials for the EOSIO SSI Toolkit
+- **Team Name:** Tonomy Foundation
+- **EOS Payment Address:** tonomyaccou1
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
+- **Pomelo Grant(s):** https://pomelo.io/grants/recovery
+- **Project is Open-Source:** Yes
+- **Project was part of Token sale:** No
+- **Repository where Project resides:** [https://github.com/Tonomy-Foundation/EOSIO-SSI-Toolkit](https://github.com/Tonomy-Foundation/EOSIO-SSI-Toolkit)
 
 ## **Contact**
 
-- Contact Name: Jack Tanner
-- Contact Email: jack@tonomy.foundation
-- Website: [https://tonomy.foundation](https://tonomy.foundation/)
+- **Contact Name:** Jack Tanner
+- **Contact Email:** jack@tonomy.foundation
+- **Website:** [https://tonomy.foundation](https://tonomy.foundation/)
 
 ## **Project Overview**
 
@@ -106,17 +106,17 @@ To add to what is already written in Core+, SSI brings a number of strong advant
 
 ### **Project Details**
 
-#### **Data models of the core functionality**
+#### Data models of the core functionality
 
 DID data model: [https://w3c.github.io/did-core/](https://w3c.github.io/did-core/)
 
 Verifiable Credentials data model: [https://www.w3.org/TR/vc-data-model/#core-data-model](https://www.w3.org/TR/vc-data-model/#core-data-model)
 
-#### **API specifications of the core functionality**
+#### API specifications of the core functionality
 
 Verifiable Credentials API: [https://github.com/Tonomy-Foundation/EOSIO-SSI-Toolkit/blob/master/src/credentials.ts#L31](https://github.com/Tonomy-Foundation/EOSIO-SSI-Toolkit/blob/master/src/credentials.ts#L31)
 
-#### **An overview of the technology stack to be used**
+#### An overview of the technology stack to be used
 
 We will create a typescript library that can be consumed in web apps, nodejs servers and React Native applications allowing them to create and verify VCs.
 
@@ -132,17 +132,17 @@ Several VC libraries exist, and we will choose the best library for the purpose 
 - [https://github.com/Sphereon-Opensource/rn-vc-js](https://github.com/Sphereon-Opensource/rn-vc-js)
 - [https://github.com/transmute-industries/verifiable-data](https://github.com/transmute-industries/verifiable-data)
 
-#### **PoC/MVP or other relevant prior work or research on the topic**
+#### PoC/MVP or other relevant prior work or research on the topic
 
 Jack Tanner was the lead engineer for the EOSIO DID. He worked with the Decentralised Identity Foundation (DIF) and the W3C Credentialled Community Group (W3C CCG), creating the W3C Verifiable Conditions standard used in several blockchains including EOSIO.
 
-#### **What your project is _not_ or will _not_ provide or implement**
+#### What your project is _not_ or will _not_ provide or implement
 
 We will not implement a library for DIDComm or Verifiable Presentations, yet.
 
 ### **Ecosystem Fit**
 
-#### **Where and how does your project fit into the ecosystem?**
+#### Where and how does your project fit into the ecosystem?
 
 The SSI toolkit is used by EOSIO wallets and by dapps.
 
@@ -156,13 +156,13 @@ Dapps do not need you to interact with a wallet to be able to use verifiable cre
 - A peer-to-peer marketplace where users can buy and sell second-hand cars. Each cars is a credential that is shared directly from the buyer to the seller for final verification before the sale is made.
 - A logistics app, tracking shipping containers of bananas. A credential is created for the crate of bananas and signed as an event each time it is moved from a location. It is sent from the person who currently has custody of the container to the new custodian of the banana crate.
 
-#### **Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp&#39;s userbase, yourself)?**
+#### Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp&#39;s userbase, yourself)?
 
 Our target audience is existing EOSIO wallets, as well as EOSIO dapps to use these wallets and use the VC libraries themselves.
 
 Tonomy Foundation also plans to integrate this library into their identity wallet (see [overview here](https://github.com/Tonomy-Foundation/EOS-network-foundation-grant-framework/blob/main/applications/tonomy-cross-platform-wallet.md)), to be deployed on the public EOSIO blockchains - Telos, EOS and/or WAX.
 
-#### **What need(s) does your project meet?**
+#### What need(s) does your project meet?
 
 This project solves several issues currently encountered by decentralised applications on EOSIO:
 
@@ -197,7 +197,7 @@ To give an example of what this could mean, if Korea were to adopt SSI as their 
 
 **Scaleability** - Sharing credential data directly from one EOSIO account to another, without a third party service to verify that data, requires less infrastructure and scales better. Several dapps use the blockchain or IPFS to store third-party data, or servers to store and validate such. With Verifiable Credentials, this data can be stored directly on the user&#39;s device and sent directly to other users when and only when it is needed, without creating the such infrastructure. This reduces the infrastructure burden on projects and EOSIO chains and allows them to scale higher.
 
-#### **Are there any other projects similar to yours in the EOSIO ecosystem?**
+#### Are there any other projects similar to yours in the EOSIO ecosystem?
 
 There are no other projects that allow for Verifiable Credentials based on any EOSIO account.
 
@@ -316,9 +316,9 @@ This project is the next and most important step in this SSI journey for EOSIO (
 
 ### Overview
 
-- Total Estimated Duration: 2 months
-- Full-Time Equivalent (FTE): 0.8 FTE
-- Total Costs: $36,000 USD (rounded down from $36,541 - see below)
+- **Total Estimated Duration:** 2 months
+- **Full-Time Equivalent (FTE):** 0.8 FTE
+- **Total Costs:** $36,000 USD (rounded down from $36,541 - see below)
 
 We use our aligned consuling rate of €130 / hour. Our aligned consulting rate is used when the technology we build aligns with the Tonomy Foundation&#39;s vision (we use a rate of €200 when it doesn&#39;t). It reflects our at-cost rate which includes a buffer to cover risks and unknowns in operating costs. We are a non-for-profit foundation. If we make any profit it goes back into our operation budget which goes towards open-source societal technologies.
 
@@ -335,9 +335,9 @@ Calculation:
 
 ### Milestone 1 Verifiable Credential issue()
 
-- Estimated duration: 1 month
-- FTE: 0.8
-- Costs: $18,000 USD
+- **Estimated duration:** 1 month
+- **FTE:** 0.8
+- **Costs:** $18,000 USD
 
 | **Number** | **Deliverable** | **Specification** |
 | --- | --- | --- |
@@ -351,9 +351,9 @@ Calculation:
 
 ### Milestone 2 Verifiable Credential verify()
 
-- Estimated Duration: 1 month
-- FTE: 0.8
-- Costs: $18,000 USD
+- **Estimated Duration:** 1 month
+- **FTE:** 0.8
+- **Costs:** $18,000 USD
 
 | **Number** | **Deliverable** | **Specification** |
 | --- | --- | --- |
