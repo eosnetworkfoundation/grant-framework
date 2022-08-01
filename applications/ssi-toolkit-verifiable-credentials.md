@@ -254,6 +254,12 @@ Additionally, Jack has been independently involved in several relevant prior wor
 - Organising and running many [EOSIO workshops](https://theblockstalk.medium.com/the-eosio-blockchain-developer-workshop-now-available-on-youtube-ddeba54f0d94) - in person and online - and writing education and practical EOSIO material on [Medium](https://theblockstalk.medium.com/), [Github](https://github.com/theblockstalk) and [Twitter](https://twitter.com/theblockstalk).
 - Jack has been technically involved in blockchain since 2016 learning from Matthew Di Ferrente and Nick Johnson (core Ethereum Foundation developers) as a developer, auditor, educator and technical influencer. He has worked on many blockchain protocols and dApp architectures.
 
+Our co-founder and board member Chris Verhoef has experience as a director of research development at Farm Credibly, a community development manager at the New Fork, and Scrum Master for Tonomy. His natural ability to combine leadership and collaboration is an asset to all! 
+
+Our board member Mikhail Rusanov has experience as a deputy director of Public Relations in NGO Irma, CEO in Directional Drilling Services, and international engineering endeavors. Mikhail’s critical thinking, attention to detail, and commitment to providing high-quality results 
+
+Our director of technology Carrie Ann Smith has experience with the design, development, and deployment of many hardware and software projects. Some examples include humanitarian deployment of cellular-enabled power systems in Africa, leading projects for life-saving medical devices at Stryker, and many leadership positions. Her critical thinking, planning/organization, and desire to generate high-quality results are an advantage to the project!
+
 Suneet Bendre is an experienced developer working in blockchain and self sovereign identity for the past three years. His experience includes:
 
 - Development of the SSI framework and micro-services and microservics of [Gaia-X](https://gaia-x.eu/what-is-gaia-x), an EU federated data sharing and exchange platform.
@@ -262,6 +268,8 @@ Suneet Bendre is an experienced developer working in blockchain and self soverei
 - Other experience includes backend development with [Robustwealth](https://www.thewealthmosaic.com/vendors/robustwealth) wealth trading platform and [Mastercard](https://www.mastercard.com/).
 
 Rebal Alhaqash is our full stack developer. With 2.5 years experience with React and React native, he leads the user facing side of the application. He has previously worked on the [Farm Credibility](https://farmcredibly.com/) project creating smart contracts in Solidity and connecting these to the front-end client. He has also worked with server side technologies in JavaScript and nestjs.
+
+Stefan Selg & Mia Jacobson comprise our marketing and public relations team. They are both active in the community and are graduates of marketing, content, and growth programs. Their dedication and experience will certainly aid in our success!
 
 ### **Team Org Repos**
 
