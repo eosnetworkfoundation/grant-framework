@@ -232,9 +232,9 @@ Infra Blockchain (powered by EOSIO) has created a DID method. It is DID-core sta
 
 ### **Legal Structure**
 
-- Registered Legal Entity: [Tonomy Stichting](https://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=86537288)
-- Registered Legal Country: Netherlands
-- Registered Address: Thorbecke Laan, Baarn, Utrecht 3741TR, Netherlands
+- **Registered Legal Entity:** [Tonomy Stichting](https://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=86537288)
+- **Registered Legal Country:** Netherlands
+- **Registered Address:** Thorbecke Laan, Baarn, Utrecht 3741TR, Netherlands
 
 ### **Team Experience**
 
