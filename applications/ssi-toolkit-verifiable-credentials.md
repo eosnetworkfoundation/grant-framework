@@ -5,7 +5,7 @@
 - Project Name: Verifiable Credentials for the EOSIO SSI Toolkit
 - Team Name: Tonomy Foundation
 - EOS Payment Address: tonomyaccou1
-- [Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels): 1 / 2 (Pomelo grant sent)
+- [Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels): 1 (Active Pomelo grant [here](https://pomelo.io/grants/recovery))
 - Pomelo Grant(s): N/A
 - Project is Open-Source: Yes
 - Project was part of Token sale: No
