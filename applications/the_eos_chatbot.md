@@ -42,31 +42,38 @@
     Telegram: Main conversational channel for The EOS Chatbot
     WhatsApp: Secondary conversation channel for The EOS Chatbot.
   
-- Documentation of core components, protocols, architecture, etc. to be deployed
+- Documentation of core components, protocols, architecture, etc. to be deployed The EOS Cahtbot Q3 Development Roadmap - [Link](https://docs.google.com/document/d/1WiZmFGuPpmAfnSHhdyPavWyrVkvOjC_hYIptquoWoUw/edit?usp=sharing)
 
 - PoC/MVP or other relevant prior work or research on the topic
     The EOS Chatbot MVP - [Link](https://docs.google.com/document/d/1BuFhTabU1u_KB38QNFSu8kcAki5TxItsg0SXD1WY_yo/edit)
 
 - What your project is _not_ or will _not_ provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+NA
 
 ### Ecosystem Fit
 
 > Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
+The EOS Chatbot fits as the #1 virtual assistant for the EOS Network. Helping with different areas, responding to frequently asked questions, helping with project discovery, giving users access to resources and tools, boosting the efficiency of different marketing campaigns.
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+Our target audience are the users from the EOS network, primarily focusing on the average new user on EOS.
 - What need(s) does your project meet?
+Quick and efficient automated support and accessibility to community resources, project discovery and extra opportunities.
 - Are there any other projects similar to yours in the EOSIO ecosystem?
+The EOS Chatbot is currently the only conversational marketing interface within the EOSIO ecosystem.
   - If so, how is your project different?
+ 
   - If not, are there similar projects in related ecosystems?
+Similar projects are the CreateEOSAccount_Bot - [Telegram](https://t.me/CreateEOSAccount_Bot) [Pomelo](https://pomelo.io/grants/eosaccountcr) and the Bot for Eden - [Pomelo](https://pomelo.io/grants/bot4eden)  
 
 ## Team
 
 ### Team members
 
-- **Team Leader:** Name of team leader
-- Name of team member 1
+- **Team Leader:** Kevin Damken, Chatbot Master
+- Nelson I. Amaro, Graphic Designer Magician
 - Name of team member 2
 - Name of team member 3, etc.
 
