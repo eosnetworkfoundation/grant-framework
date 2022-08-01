@@ -6,7 +6,7 @@
 > 
 > Please do not remove any of the mandatory lines that start with **bold labels** or as headlines! Your application will be rejected!
 >
-> Please do not remove the bolding of labels (such as **Team Name:**) as it is needed by the automated parsers - that includes the bolding on lines starting with a bullet as part of a list.
+> Please do not remove the bolding of labels (such as **Team Name:** ) as it is needed by the automated parsers - that includes the bolding on lines starting with a bullet as part of a list.
 > 
 > Please note that this application will be **automatically parsed**.  Please only put the data required in the fields following the bolded labels (such as **Team Name:**.
 >
