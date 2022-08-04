@@ -53,14 +53,12 @@ NA
 
 ### Ecosystem Fit
 
-> Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
-
 - Where and how does your project fit into the ecosystem?
 The EOS Chatbot fits as the #1 virtual assistant for the EOS Network. Helping with different areas, responding to frequently asked questions, helping with project discovery, giving users access to resources and tools, boosting the efficiency of different marketing campaigns.
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 Our target audience are the users from the EOS network, primarily focusing on the average new user on EOS.
 - What need(s) does your project meet?
-Quick and efficient automated support and accessibility to community resources, project discovery and extra opportunities.
+Quick and efficient automated support and accessibility to community resources, project discovery and earning opportunities.
 - Are there any other projects similar to yours in the EOSIO ecosystem?
 The EOS Chatbot is currently the only conversational marketing interface within the EOSIO ecosystem.
   - If so, how is your project different?
@@ -78,14 +76,12 @@ Similar projects are the CreateEOSAccount_Bot - [Telegram](https://t.me/CreateEO
 - Name of team member 3, etc.
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity. (e.g. Greymass, Inc.)
-- **Registered Address:** Address of your registered legal entity. Please keep it in a single line. (e.g. 123 Main Street, London LK1 234, UK)
+- **Registered Legal Entity:** Nelson I. Amaro DBA Mutual Marketing
+- **Registered Address:** 6675 Pine Creek Dr, Brownsville, Tx, 78526, USA
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
-
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+Our team has been doing chatbot development for more than 2 years for different clients in different niches. Restaurants, lawyers, musicians, massive festival events. We applied for Pomelo season 1 and re applied for Pomelo season 3 looking to develop a chatbot for the EOS ecosystem using our past experience to develop the most powerful chatbot for the EOS network.
 
 ### Team Org Repos
 
@@ -93,11 +89,9 @@ Similar projects are the CreateEOSAccount_Bot - [Telegram](https://t.me/CreateEO
 - https://github.com/<your_organization>/<project_1>
 - https://github.com/<your_organization>/<project_2>
 
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
-
 ### Team Member Repos
 
-- https://github.com/<team_member_1>
+- https://github.com/chevsofficial
 - https://github.com/<team_member_2>
 
 ### Team LinkedIn Profiles (if available)
@@ -106,8 +100,6 @@ Similar projects are the CreateEOSAccount_Bot - [Telegram](https://t.me/CreateEO
 - https://www.linkedin.com/<person_2>
 
 ## Development Status
-
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
 - links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
 - academic publications relevant to the problem,
