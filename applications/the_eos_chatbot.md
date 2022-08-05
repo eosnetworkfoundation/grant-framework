@@ -26,45 +26,51 @@
 
 ### Project Details
 
-- Mock-ups/designs of any UI components
-    You can currently test out The EOS Chatbot here http://t.me/theeoschatbot
-    
-- Data models of the core functionality
-    NA
-    
+- Mock-ups/designs of any UI components    
+- Data models of the core functionality    
 - API specifications of the core functionality
-    NA
-    
-- An overview of the technology stack to be used
-    ManyChat: Manychat is our main technology tool. It is used to create the conversational interface with the user (chatbot) and integrates with other platforms to transfer data and execute certain actions.
-    Zapier: Zapier is an integration tool, it connects apps with other apps.
-    Google Suite: Google Suite tools like Google Sheet, Google Drive
-    Telegram: Main conversational channel for The EOS Chatbot
-    WhatsApp: Secondary conversation channel for The EOS Chatbot.
-  
-- Documentation of core components, protocols, architecture, etc. to be deployed The EOS Cahtbot Q3 Development Roadmap - [Link](https://docs.google.com/document/d/1WiZmFGuPpmAfnSHhdyPavWyrVkvOjC_hYIptquoWoUw/edit?usp=sharing)
-
+- An overview of the technology stack to be used  
+- Documentation of core components, protocols, architecture, etc. to be deployed 
 - PoC/MVP or other relevant prior work or research on the topic
-    The EOS Chatbot MVP - [Link](https://docs.google.com/document/d/1BuFhTabU1u_KB38QNFSu8kcAki5TxItsg0SXD1WY_yo/edit)
-
 - What your project is _not_ or will _not_ provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
-NA
+
+You can currently talk to The EOS Chatbot here http://t.me/theeoschatbot
+
+**Technology Stack**
+**ManyChat**: Manychat is our main technology tool. It is used to create the conversational interface with the user (chatbot) and integrates with other platforms to transfer data and execute certain actions.
+**Zapier**: Zapier is an integration tool, it connects apps with other apps.
+**Google Suite**: Google Suite tools like Google Sheet, Google Drive
+**Telegram**: Main conversational channel for The EOS Chatbot
+**WhatsApp**: Secondary conversation channel for The EOS Chatbot.
+
+The EOS Cahtbot Q3 Development Roadmap - [Link](https://docs.google.com/document/d/1WiZmFGuPpmAfnSHhdyPavWyrVkvOjC_hYIptquoWoUw/edit?usp=sharing)
+The EOS Chatbot MVP - [Link](https://docs.google.com/document/d/1BuFhTabU1u_KB38QNFSu8kcAki5TxItsg0SXD1WY_yo/edit)
 
 ### Ecosystem Fit
 
 - Where and how does your project fit into the ecosystem?
-The EOS Chatbot fits as the #1 virtual assistant for the EOS Network. Helping with different areas, responding to frequently asked questions, helping with project discovery, giving users access to resources and tools, boosting the efficiency of different marketing campaigns.
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-Our target audience are the users from the EOS network, primarily focusing on the average new user on EOS.
 - What need(s) does your project meet?
-Quick and efficient automated support and accessibility to community resources, project discovery and earning opportunities.
 - Are there any other projects similar to yours in the EOSIO ecosystem?
-The EOS Chatbot is currently the only conversational marketing interface within the EOSIO ecosystem.
   - If so, how is your project different?
- 
-  - If not, are there similar projects in related ecosystems?
-Similar projects are the CreateEOSAccount_Bot - [Telegram](https://t.me/CreateEOSAccount_Bot) [Pomelo](https://pomelo.io/grants/eosaccountcr) and the Bot for Eden - [Pomelo](https://pomelo.io/grants/bot4eden)  
+  - If not, are there similar projects in related ecosystems?  
+
+**Ecosystem Fit**
+The EOS Chatbot fits as the #1 virtual assistant for the EOS Network. Helping with different areas, responding to frequently asked questions, helping with project discovery, giving users access to resources and tools, boosting the efficiency of different marketing campaigns.
+
+**Tartget Audience**
+Our target audience are the users from the EOS network, primarily focusing on the average new user on EOS.
+
+**Need(s) Project Meets**
+Quick and efficient automated support and accessibility to community resources, project discovery and earning opportunities.
+
+**Similar Projects**
+The EOS Chatbot is currently the only conversational marketing interface within the EOSIO ecosystem.
+
+Similar projects are the CreateEOSAccount_Bot - [Telegram](https://t.me/CreateEOSAccount_Bot) [Pomelo](https://pomelo.io/grants/eosaccountcr) and the Bot for Eden - [Pomelo](https://pomelo.io/grants/bot4eden)
+
+
 
 ## Team
 
@@ -106,6 +112,8 @@ Our team has been doing chatbot development for more than 2 years for different 
 - links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
 - references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
 - previous interface iterations, such as mock-ups and wireframes. The EOS Chatbot [MVP](https://docs.google.com/document/d/1BuFhTabU1u_KB38QNFSu8kcAki5TxItsg0SXD1WY_yo/edit?usp=sharing)
+
+25 Top Chatbot Statistics For 2022: Usage, Demographics, Trends -[Link](https://startupbonsai.com/chatbot-statistics/)
 
 ## Development Roadmap
 
@@ -157,8 +165,7 @@ Use: The EOS Chatbot as the #1 automated virtual assistant for the EOS network
 Enhance: Added features and flows to The EOS Chatbot
 Promote: Twitter content sharing
 Support: Pomelo funding, ENF Grant Framework funding
-
-Long Term Plan: To build a robust chatbot capable of giving support to milions of users, helping with project discovery, 
+Long Term Plan: To build a robust chatbot capable of giving automated support to milions of users, helping with project discovery, and connecting dapps with our database of engaged users.
 
 ## Additional Information
 
