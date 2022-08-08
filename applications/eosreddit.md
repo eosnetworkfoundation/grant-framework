@@ -46,7 +46,7 @@ We will support Reddit, but it will not be owned by us, EOS REDDIT and EOS Faceb
 
 2. Increase in daily moderation: A moderation of all the SPAM that contains the official EOS reddit will be carried out, as well as the active moderation queue that may exist, it is worth mentioning that the SPAM queue has accumulated in recent months due to the number of bots that enter our Reddit.
 
-3. Reddit-Discord Reward System: Based on the “Tip.cc” Reward system in Discord, and the EOS BEES idea of ​​performing “SWARM PAID” to different important Twitter Posts, we will bring this idea to Reddit, dedicate 2 minutes a day to Vote on our Reddit, check out the “VISIONS REDDIT” channel where we will upload active posts daily, here you can vote and post in our thread that you have voted so that you can earn daily rewards.
+3. Incentivize an official ENF profile for Reddit and Facebook. Which contains the Official news of the EOS Network Foundation, this for a greater reach to users, as well as showing the development of the ecosystem.
 
 ### Ecosystem Fit
 
@@ -141,9 +141,9 @@ For each milestone,
 ## Future Plans
 
 - Streaming Fireside Chat on Reddit.
-- Incentivize an official ENF profile for Reddit and Facebook.
 - Development of customer service for Reddit (Automatically redirect to EOS SUPPORT.)
 - Incentives for Publications on Reddit and Facebook.
+- Reddit-Discord Reward System: Based on the “Tip.cc” Reward system in Discord, and the EOS BEES idea of ​​performing “SWARM PAID” to different important Twitter Posts, we will bring this idea to Reddit, dedicate 2 minutes a day to Vote on our Reddit, check out the “VISIONS REDDIT” channel where we will upload active posts daily, here you can vote and post in our thread that you have voted so that you can earn daily rewards.
 
 ## Additional Information
 
