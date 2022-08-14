@@ -69,7 +69,7 @@ jobs:
             Best,<br/>
             ENF Operations Team
           to: ${{inputs.app_email}}
-          from: grants@eosn.foundation
-          reply_to: grants@eosn.foundation
-          bcc: grants@eosn.foundation
+          from: grants@eosnetwork.com
+          reply_to: grants@eosnetwork.com
+          bcc: grants@eosnetwork.com,enf@eosnetwork.com
 
