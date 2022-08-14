@@ -106,7 +106,9 @@ Eventually in Phase 3 it would be possible to create a single token that encompa
 
 ### Legal Structure
 
-- **Registered Legal Entity:** No legal entity for CETF. Since we are citizens of Estonia, should there be a need it is a matter of minutes to set up a new entity.
+- **Registered Legal Entity:** Asynchronous OÜ (LLC)
+- **Registered Address:** Estonia, Lääne-Viru maakond, Rakvere linn, Kungla tn 6-6, 44308
+- https://ariregister.rik.ee/eng/company/16532294/Asynchronous-O%C3%9C?active_tab=register
 
 ### Team Experience
 
