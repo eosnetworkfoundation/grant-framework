@@ -139,7 +139,7 @@ We have also secured a bulk printing deal with our printer, for a flat discount 
 
 - **Total Estimated Duration:** 7 weeks
 - **Full-Time Equivalent (FTE):** 1 FTE
-- **Total Costs:** 
+- **Total Costs:** $3,415.57
 
 ### Milestone 1 — Production of First Batch of 25 Cards
 
@@ -167,13 +167,13 @@ We have also secured a bulk printing deal with our printer, for a flat discount 
 | 0a. | License | None |
 | 0b. | Documentation | There will be a comprehensive step-by-step guide on welcomewagon.ai/help to walk users through the process.   
 | 0c. | Testing Guide | We will provide a detailed step-by-step walkthrough of the process. We recommend testing several cards from the bulk order in the same manner as for Milestone 1.
-| 1. | Delivered Product | 1000+ Onboarding & Engagement Cards. Each card will have 2 unique URLs, and bear the image & design of the ENF's choice.  
+| 1. | Delivered Product | 1000 Onboarding & Engagement Cards. Each card will have 2 unique URLs, and bear the image & design of the ENF's choice.  
 
 ### Milestone 3 - Full Report on Card Clicks and Success Rate
 
 - **Estimated Duration:** 2 weeks
 - **FTE:**  1
-- **Costs:** Dependant on success rate of Milestone 2 cards: 10%+ success=$474.90, 20%+=$964.65, 30%+=$1,484.08
+- **Costs:** $1,484.08
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -182,6 +182,8 @@ We have also secured a bulk printing deal with our printer, for a flat discount 
 | 0c. | Testing Guide | The card success rate shall be determined by dividing the number of NFTs claimed from the batch by the number of cards distributed, after determining whether any accounts had claimed more than one NFT. (Any accounts that claim more than one NFT shall count as 1 successful card)
 | 0e. | Article | We will publish an **article** that explains to the public what the cards are, what they can ideally accomplish, and a report on their success rate in their first iteration.
 | 1. | Report | The report to the ENF will be a .pdf with summaries of all the data collected from the cards and recommendations on how we can improve their success rates for future distributions.
+ 
+
 
 ## Future Plans
 
