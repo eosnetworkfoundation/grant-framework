@@ -7,7 +7,7 @@
 - **Pomelo Grant(s):** https://pomelo.io/grants/eospyo
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
-- **Repository where Project resides:** https://github.com/FACINGS/nft-collections-manager
+- **Repository where Project resides:** https://github.com/FACINGS/collection-manager
 
 
 ## Contact
