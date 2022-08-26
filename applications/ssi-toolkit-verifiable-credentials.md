@@ -6,7 +6,7 @@
 - **Team Name:** Tonomy Foundation
 - **EOS Payment Address:** tonomyaccou1
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
-- **Pomelo Grant(s):** https://pomelo.io/grants/recovery
+- **Pomelo Grant(s):** <https://pomelo.io/grants/recovery>
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** [https://github.com/Tonomy-Foundation/EOSIO-SSI-Toolkit](https://github.com/Tonomy-Foundation/EOSIO-SSI-Toolkit)
@@ -254,9 +254,9 @@ Additionally, Jack has been independently involved in several relevant prior wor
 - Organising and running many [EOSIO workshops](https://theblockstalk.medium.com/the-eosio-blockchain-developer-workshop-now-available-on-youtube-ddeba54f0d94) - in person and online - and writing education and practical EOSIO material on [Medium](https://theblockstalk.medium.com/), [Github](https://github.com/theblockstalk) and [Twitter](https://twitter.com/theblockstalk).
 - Jack has been technically involved in blockchain since 2016 learning from Matthew Di Ferrente and Nick Johnson (core Ethereum Foundation developers) as a developer, auditor, educator and technical influencer. He has worked on many blockchain protocols and dApp architectures.
 
-Our co-founder and board member Chris Verhoef has experience as a director of research development at Farm Credibly, a community development manager at the New Fork, and Scrum Master for Tonomy. His natural ability to combine leadership and collaboration is an asset to all! 
+Our co-founder and board member Chris Verhoef has experience as a director of research development at Farm Credibly, a community development manager at the New Fork, and Scrum Master for Tonomy. His natural ability to combine leadership and collaboration is an asset to all!
 
-Our board member Mikhail Rusanov has experience as a deputy director of Public Relations in NGO Irma, CEO in Directional Drilling Services, and international engineering endeavors. Mikhail’s critical thinking, attention to detail, and commitment to providing high-quality results 
+Our board member Mikhail Rusanov has experience as a deputy director of Public Relations in NGO Irma, CEO in Directional Drilling Services, and international engineering endeavors. Mikhail’s critical thinking, attention to detail, and commitment to providing high-quality results
 
 Our director of technology Carrie Ann Smith has experience with the design, development, and deployment of many hardware and software projects. Some examples include humanitarian deployment of cellular-enabled power systems in Africa, leading projects for life-saving medical devices at Stryker, and many leadership positions. Her critical thinking, planning/organization, and desire to generate high-quality results are an advantage to the project!
 
@@ -332,7 +332,6 @@ Calculation:
 | € **35,776 EUR** | **Total cost** |
 | **$ 36,541 USD** |
 
-
 ### Milestone 1 Verifiable Credential issue()
 
 - **Estimated duration:** 1 month
@@ -362,7 +361,7 @@ Calculation:
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the README.md, we will describe how to run these tests. |
 | 0d. | npm | We will publish the resulting library to npmjs.com for ease of use by the community. This will show an example flow of how to use it. |
 | 0e. | Article | We will publish an article what the library does, why and how to use it. |
-| 1. | Implementation of issue() function | We will implement the verify() function that verifies that the signature of a VC is valid for the EOSIO account and the chosen permission used to authorize it. |
+| 1. | Implementation of verify() function | We will implement the verify() function that verifies that the signature of a VC is valid for the EOSIO account and the chosen permission used to authorize it. |
 | 2. | Documentation and publish | We will finalise the documentation and publish this to npmjs.com. We will then write our article and distribute this in relevant EOSIO Telegram, Twitter and Discord channels and SSI channels (for the Verifiable Conditions). |
 
 ## **Future Plans**
