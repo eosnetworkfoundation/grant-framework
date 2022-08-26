@@ -31,7 +31,7 @@ Allow any EOSIO account to issue, hold and verify Verifiable Credentials signed 
 
 The self-sovereign identity (SSI) toolkit allows software developers to use self-sovereign identity in their EOSIO applications. This open-source typescript library can be used on public or private EOSIO chains and is consumed by wallets and front-end clients to provide SSI functions with EOSIO [DIDs](https://w3c.github.io/did-core/). The kit aims to have two main components:
 
-1. Verifiable credentials - this allows any EOSIO account to create, hold and [verifiable credentials](https://www.w3.org/TR/vc-data-model) (VC). This can be used with personal information, medical records, certificates or any other data. It can be used and verified with another account.
+1. Verifiable credentials - this allows any EOSIO account to create, hold and verify [verifiable credentials](https://www.w3.org/TR/vc-data-model) (VC). This can be used with personal information, medical records, certificates or any other data. It can be used and verified with another account.
 2. [DIDComm](https://identity.foundation/didcomm-messaging/spec/) - A standardised transport between any EOSIO account and any other account, privately and securely.
 
 **This grant proposal focuses on building the first component of the toolkit - verifiable credentials**. We will build the typescript library allowing application developers to use Verifiable Credentials on EOSIO identities. DIDComm will be built later. The Verifiable Credentials library is currently the most important part of the EOSIO SSI Toolkit.
