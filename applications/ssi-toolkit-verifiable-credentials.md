@@ -349,6 +349,12 @@ Calculation:
 | 3. | Implementation of W3C Vrifiable Condition | This will require us to create a plug-in to the verifiable credential library so that it can support the W3C verifiable conditions Standard as part of the Antelope DID - allowing the VC to be signed by any permission inside an Antelope account. |
 | 4. | Implementation of issue() function | We will implement the issue() function that signs a VC with the chosen permission of the Antelope account. It can be signed by one key, several keys, or a delegated permission. |
 
+**Definition of done for issue()**
+
+- [ ] the issued VC contains a proof object that complies to the W3C standard
+- [ ] this object contains a valid signature that encapsulates the data from the VC
+- [ ] 2x unit test showing the above two tasks
+
 ### Milestone 2 Verifiable Credential verify()
 
 - **Estimated Duration:** 1 month
@@ -364,6 +370,14 @@ Calculation:
 | 0e. | Article | We will publish an article what the library does, why and how to use it. |
 | 1. | Implementation of verify() function | We will implement the verify() function that verifies that the signature of a VC is valid for the Antelope account and the chosen permission used to authorize it. |
 | 2. | Documentation and publish | We will finalise the documentation and publish this to npmjs.com. We will then write our article and distribute this in relevant Antelope Telegram, Twitter and Discord channels and SSI channels (for the Verifiable Conditions). |
+
+**Definition of done for verify()**
+
+- [ ] the verify function from the chosen VC library sucessfully validates a VC from an Antelope account with permission of 1 key
+- [ ] the verify function from the chosen VC library sucessfully validates a VC from an Antelope account with permission of 1 account delegation
+- [ ] the verify function from the chosen VC library sucessfully validates a VC from an Antelope account with permission of 2 threshold, 3 keys
+- [ ] the verify function from the chosen VC library sucessfully validates a VC from an Antelope account with permission of 3 threshold, 2 keys and 2 account delegations
+- [ ] 4x unit test showing the above tasks
 
 ## **Future Plans**
 
