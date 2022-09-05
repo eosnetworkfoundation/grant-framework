@@ -60,7 +60,7 @@ The EOS Chatbot MVP - [Link](https://docs.google.com/document/d/1BuFhTabU1u_KB38
 The EOS Chatbot fits as the #1 virtual assistant of the EOS Network. Helping in different areas, responding to frequently asked questions, facilitating project discovery, providing resources and tools, boosting the efficiency of different marketing campaigns and onboarding activities.
 
 **Tartget Audience**
-Our primary audience are crypto users that outside of the EOS ecosystem.
+Our primary audience are crypto users that are outside of the EOS ecosystem.
 
 **Need(s) Project Meets**
 Quick and efficient automated support and accessibility to community resources, project discovery and earning opportunities.
