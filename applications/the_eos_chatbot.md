@@ -5,7 +5,7 @@
 - **EOS Payment Address:** thisismutual
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 - **Pomelo Grant(s):** https://pomelo.io/grants/theoschatbot
-- **Project is Open-Source:** Yes
+- **Project is Open-Source:** No
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** https://docs.google.com/document/d/1BuFhTabU1u_KB38QNFSu8kcAki5TxItsg0SXD1WY_yo/edit?usp=sharing
 
@@ -19,10 +19,10 @@
 
 ### Overview
 
-- **Name:** The EOS Chatbot - User Onboarding & Semi-Automated Support
-- **Brief Description:** Traditional digital marketing funnels look something like this, Lead Magnet > Landing Page > Follow-Up > Sales. The premise is as follows, have a juicy incentive (lead magnet) that attracts leads to a website (landing page) in which the objective is to convert to sale or to collect user data like email and phone to provide valuable follow up via email or SMS marketing to convert leads into customers (users). Our objective is to build a user onboarding funnel with utilizing a conversational interface (The EOS Chatbot) which is proven to have higher conversion rates than traditional funnels.
-- **Relationship to EOSIO:** The EOS Chatbot is built specifically for the EOS blockchain which is built using the EOSIO software
-- **Reason for Interest:** I'm a genesis EOS user, I love EOS and want to build cool stuff that provides value to the EOS community and it's ecosystem.
+- **Name:** The EOS Chatbot - Automated Onboarding & Support
+- **Brief Description:** The EOS Chatbot is the most popular en helpful virtual assistant of the EOS Network. If you are looking for a quick and automated response to all your EOS related questions, The EOS Chatbot is the go-to bot to talk to.
+- **Relationship to EOSIO:** The EOS Chatbot is specifically built to respond to EOS FAQs and to onboard, guide and educate new users about the EOS ecosystem in an automatic way. EOS is built on EOSIO.
+- **Reason for Interest:** Chatbots are proven to increase user satisfaction by 80% and help automate up to 90% of customer support inquiries. By having this  conversational tool available for FREE to the wider crypto community we can deliver a high quality chat experience and increased conversion rates that will help onboard more users, developers, entrepreneurs and investors into the EOS ecosystem.
 
 ### Project Details
 
@@ -42,7 +42,7 @@ You can currently talk to The EOS Chatbot here http://t.me/theeoschatbot
 **Zapier**: Zapier is an integration tool, it connects apps with other apps.
 **Google Suite**: Google Suite tools like Google Sheet, Google Drive
 **Telegram**: Main conversational channel for The EOS Chatbot
-**WhatsApp**: Secondary conversation channel for The EOS Chatbot.
+
 
 The EOS Cahtbot Q3 Development Roadmap - [Link](https://docs.google.com/document/d/1WiZmFGuPpmAfnSHhdyPavWyrVkvOjC_hYIptquoWoUw/edit?usp=sharing)
 The EOS Chatbot MVP - [Link](https://docs.google.com/document/d/1BuFhTabU1u_KB38QNFSu8kcAki5TxItsg0SXD1WY_yo/edit)
@@ -57,10 +57,10 @@ The EOS Chatbot MVP - [Link](https://docs.google.com/document/d/1BuFhTabU1u_KB38
   - If not, are there similar projects in related ecosystems?  
 
 **Ecosystem Fit**
-The EOS Chatbot fits as the #1 virtual assistant for the EOS Network. Helping with different areas, responding to frequently asked questions, helping with project discovery, giving users access to resources and tools, boosting the efficiency of different marketing campaigns.
+The EOS Chatbot fits as the #1 virtual assistant of the EOS Network. Helping in different areas, responding to frequently asked questions, facilitating project discovery, providing resources and tools, boosting the efficiency of different marketing campaigns and onboarding activities.
 
 **Tartget Audience**
-Our target audience are the users from the EOS network, primarily focusing on the average new user on EOS.
+Our primary audience are crypto users that outside of the EOS ecosystem.
 
 **Need(s) Project Meets**
 Quick and efficient automated support and accessibility to community resources, project discovery and earning opportunities.
@@ -68,7 +68,7 @@ Quick and efficient automated support and accessibility to community resources, 
 **Similar Projects**
 The EOS Chatbot is currently the only conversational marketing interface within the EOSIO ecosystem.
 
-Similar projects are the CreateEOSAccount_Bot - [Telegram](https://t.me/CreateEOSAccount_Bot) [Pomelo](https://pomelo.io/grants/eosaccountcr) and the Bot for Eden - [Pomelo](https://pomelo.io/grants/bot4eden)
+Similar bot projects are the CreateEOSAccount_Bot - [Telegram](https://t.me/CreateEOSAccount_Bot) [Pomelo](https://pomelo.io/grants/eosaccountcr) and the Bot for Eden - [Pomelo](https://pomelo.io/grants/bot4eden)
 
 
 
@@ -87,7 +87,7 @@ Similar projects are the CreateEOSAccount_Bot - [Telegram](https://t.me/CreateEO
 
 ### Team Experience
 
-Our team has been doing chatbot development for more than 2 years for different clients in different niches. Restaurants, lawyers, musicians, massive festival events. We applied for Pomelo season 1 and re applied for Pomelo season 3 looking to develop a chatbot for the EOS ecosystem using our past experience to develop the most powerful chatbot for the EOS network.
+Our team has been doing chatbot development for more than 2 years for different clients in different niches. Restaurants, lawyers, musicians, massive festival events. We applied for Pomelo season 1 and re applied for Pomelo season 3 looking to further develop a chatbot for the EOS ecosystem using our past experience to create the most powerful and helpful virtual assistant of the EOS network.
 
 ### Team Org Repos
 
@@ -137,7 +137,7 @@ For each milestone,
 - **Full-Time Equivalent (FTE):** 1 FTE
 - **Total Costs:** 4,000 USD
 
-### Milestone 1 Chatbot Flows and Resources 
+### Milestone 1 - Chatbot Flows and Resources 
 
 - **Estimated duration:** 1 month
 - **FTE:**  1
@@ -175,4 +175,6 @@ Long Term Plan: To build a robust chatbot capable of giving automated support to
 - If there are any other teams who have already contributed (financially) to the project.
 - Previous grants you may have applied for.
 
-So far we have built out The EOS Chatbot MVB (Minimum Viable Bot) which you can find [here](https://docs.google.com/document/d/1BuFhTabU1u_KB38QNFSu8kcAki5TxItsg0SXD1WY_yo/edit) or chat directly [here](https://t.me/theeoschatbot). We are also actively collaborating with the EOS Bees. The EOS Chatbot handles the registration process for new bees, the Swarm Notification System and soon to finish a Swarm Scheduling and Sales System for EOS Bees clients and sales team.
+So far we've built out The EOS Chatbot MVB (Minimum Viable Bot). You can find and download the MVB flow template [here](https://docs.google.com/document/d/1BuFhTabU1u_KB38QNFSu8kcAki5TxItsg0SXD1WY_yo/edit) or chat directly with the chatbot [here](https://t.me/theeoschatbot). We are also actively collaborating with the EOS Bees. The EOS Chatbot automates key operational processes like the registration process for new bees and the Active Swarm Notification process.
+
+More than 400+ users have succesully registered to participate on EOS Bees Swarms and more than 5000+ messages have been sent through The EOS Chatbot.
