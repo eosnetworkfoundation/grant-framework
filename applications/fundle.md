@@ -26,9 +26,9 @@
 
 ## Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** myemail@mycompany.com
-- **Website:** https://yourwebsite.com
+- **Contact Name:** Wiebe Hendriks
+- **Contact Email:** wiebe.hendriks@wefundle.com
+- **Website:** https://wefundle.com
 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -40,10 +40,10 @@
 
 > Please provide the following:
 
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
+- **Name:** Fundle
 - **Brief Description:** A brief description of your project.
 - **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+- **Reason for Interest:** We truly believe in the added value of EOSIO, so we would like to enjoy the benefits of a high throughput and low transaction costs for our users. 
 
 ### Project Details
 
@@ -73,10 +73,9 @@
 
 ### Team members
 
-- **Team Leader:** Name of team leader
-- Name of team member 1
-- Name of team member 2
-- Name of team member 3, etc.
+- **Team Leader:** 
+- Wiebe Hendriks
+- Niels Snakenborg
 
 ### Legal Structure
 - **Registered Legal Entity:** Name of your registered legal entity. (e.g. Greymass, Inc.)
@@ -103,8 +102,8 @@
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/wiebe-hendriks/
+- https://www.linkedin.com/in/niels-snakenborg-05a07661/
 
 ## Development Status
 
