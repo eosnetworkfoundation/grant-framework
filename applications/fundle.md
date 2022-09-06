@@ -73,8 +73,8 @@
 
 ### Team members
 
-- **Team Leader:** 
-- Wiebe Hendriks
+- **Team Leader:** Wiebe Hendriks
+
 - Niels Snakenborg
 
 ### Legal Structure
