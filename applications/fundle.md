@@ -43,7 +43,7 @@
 - **Name:** Fundle
 - **Brief Description:** A brief description of your project.
 - **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
-- **Reason for Interest:** We truly believe in the added value of EOSIO, so we would like to enjoy the benefits of a high throughput and low transaction costs for our users. 
+- **Reason for Interest:** We truly believe in the added value of EOSIO, so we would like to utilize the benefits of a high throughput and low transaction costs for our users. 
 
 ### Project Details
 
