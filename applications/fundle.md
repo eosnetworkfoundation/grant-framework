@@ -14,13 +14,13 @@
 >
 > All lines starting with a `>` (such as this one and the ones above and below) should be removed.
 
-- **Project Name:** Name of your project (e.g. Anchor Wallet)
+- **Project Name:** Fundle
 - **Team Name:** Legal name of your team (e.g. Greymass, Inc.)
 - **EOS Payment Address:** EOS payment address
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
-- **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
+- **Pomelo Grant(s):**  N/A 
 - **Project is Open-Source:** Yes/No
-- **Project was part of Token sale:** Yes/No
+- **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/<your_organisation>/<project_repo>
 > Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
 
@@ -41,14 +41,19 @@
 > Please provide the following:
 
 - **Name:** Fundle
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
+- **Brief Description:** 
+Fundle is a platform where businesses can build tokenized communities to increase customer engagement! The platform allows businesses to build strong long term relationships, offer new customer experiences and gain more out of your community. 
+
+Each business has its own community token to raise funds and build a personal brand. In fact its own digital economy. Holders of that token (members) can unlock specific rewards, experiences or involvement. Each business decides how members are involved and rewarded.
+
+- **Relationship to EOSIO:** We are planning to run the token bonding curve mechanism and AMM on the EOSIO blockchain!
 - **Reason for Interest:** We truly believe in the added value of EOSIO, so we would like to utilize the benefits of a high throughput and low transaction costs for our users. 
 
 ### Project Details
 
 > We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
+The non blockchain part of the application is already finished. Please visit: dev.wefundle.com
 - Mock-ups/designs of any UI components
 - Data models of the core functionality
 - API specifications of the core functionality
@@ -63,8 +68,22 @@
 > Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
+Our platform will run on the EOSIO ecosystem, this brings lots of new users who will interact with the EOSIO blockchain. 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+We see that large brands are already experimenting with NFTs to create new customer experiences. For example Adidas, Nike, Budweiser, Pepsi and Lamborghini. Our focus is on innovative and creative businesses with existing communities who like to have better interaction with their fanbase or startups who want to build a community. 
 - What need(s) does your project meet?
+
+For members:
+- Untill now, members cannot really be "part of" and there is little interaction
+- Both business and members can have fair benefits (social and economical)
+- Involvement in the business
+- Freelance possibility
+- Exclusive membership with access to special perks and experiences
+
+For businesses:
+- We allow businesses to build stronger and intenser communities, which has a positive effect on the profit and success of their business. 
+- Access to skills of a whole community
+
 - Are there any other projects similar to yours in the EOSIO ecosystem?
   - If so, how is your project different?
   - If not, are there similar projects in related ecosystems?
@@ -202,7 +221,7 @@ For each milestone,
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** Personal recommendation
 
 > Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
