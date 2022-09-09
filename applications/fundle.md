@@ -55,6 +55,12 @@
 > We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 The non blockchain part of the application is already finished. Please visit: dev.wefundle.com
+
+
+![image](https://user-images.githubusercontent.com/54183058/189411070-94221e66-b297-4c08-b66f-4494be9c6e1b.png)
+
+
+
 - Mock-ups/designs of any UI components
 - Data models of the core functionality
 - API specifications of the core functionality
