@@ -57,8 +57,6 @@
 The non blockchain part of the application is already finished. Please visit: dev.wefundle.com
 
 
-![image](https://user-images.githubusercontent.com/54183058/189411070-94221e66-b297-4c08-b66f-4494be9c6e1b.png)
-
 
 
 - Mock-ups/designs of any UI components
@@ -110,8 +108,6 @@ For businesses:
 ### Team Experience
 
 > Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
-
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
 
 ### Team Org Repos
 
