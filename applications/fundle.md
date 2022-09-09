@@ -42,12 +42,13 @@
 
 - **Name:** Fundle
 - **Brief Description:** 
-Fundle is a platform where businesses can build tokenized communities to increase customer engagement! The platform allows businesses to build strong long term relationships, offer new customer experiences and gain more out of your community. 
 
-Each business has its own community token to raise funds and build a personal brand. In fact its own digital economy. Holders of that token (members) can unlock specific rewards, experiences or involvement. Each business decides how members are involved and rewarded.
+- Fundle is a platform where businesses can build tokenized communities to increase customer engagement! The platform allows businesses to build strong long term relationships, offer new customer experiences and gain more out of a community. 
+
+- Each business has its own community token to raise funds and build a personal brand. In fact its own digital economy. Holders of that token (members) can unlock specific rewards, experiences or involvement. Each business decides how members are involved and rewarded.
 
 - **Relationship to EOSIO:** We are planning to run the token bonding curve mechanism and AMM on the EOSIO blockchain!
-- **Reason for Interest:** We truly believe in the added value of EOSIO, so we would like to utilize the benefits of a high throughput and low transaction costs for our users. 
+- **Reason for Interest:** We truly believe in the added value of EOSIO, so we would like to utilize the benefits of a high throughput and low transaction costs for our users. With the entrance of the ENF we see that there are many good developments going on and therefore we have trust in EOSIO for the future!
 
 ### Project Details
 
