@@ -73,9 +73,14 @@ The non blockchain part of the application is already finished. Please visit: de
 > Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
-Our platform will run on the EOSIO ecosystem, this brings lots of new users who will interact with the EOSIO blockchain. 
+
+Our platform will run on the EOSIO blockchain and so EOSIO ecosystem, this brings lots of new users (also non/new crypto users) who will interact and get to know the EOSIO blockchain. So our dApp will be build on the TrustEVM and so EOSIO network. Fundle shows others what possibilities EOSIO has and that it is possible to build these platforms on the EOSIO blockchain! In the next phases we will extend and build further. For example a democratic fundraising mechanism, these protocols will fit into the EOSIO ecosystem!
+
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-We see that large brands are already experimenting with NFTs to create new customer experiences. For example Adidas, Nike, Budweiser, Pepsi and Lamborghini. Our focus is on innovative and creative businesses with existing communities who like to have better interaction with their fanbase or startups who want to build a community. 
+
+We see that large brands are already experimenting with NFTs to create new customer experiences. For example Adidas, Nike, Budweiser, Pepsi and Lamborghini. Our focus is on innovative and creative businesses with existing communities who like to have better interaction with their fanbase or startups who want to build a community. On the other site we have members, we are targetting also on members who have never used blockchain before (therefore payment accesibility with fiat on ramps is important for us). In our future plans when people can work for communities we will also be targetting creatives/freelancers. So, it is a platform that is useful and interesting for a wide range of people.
+
+
 - What need(s) does your project meet?
 
 For members:
