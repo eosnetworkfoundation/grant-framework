@@ -98,10 +98,10 @@ Much more can be gained from a community (skills, opinions, etc.). An involved a
 
 Therefore, Fundle offers:
 - Stronger and intenser community building thanks to the community token model. 
--- Incentivize members to engage and promote the business more than ever because members have economic & social incentives to help the business succeed.
---	Stimulates members to participate and think actively.
+  - Incentivize members to engage and promote the business more than ever because members have economic & social incentives to help the business succeed.
+  - Stimulates members to participate and think actively.
 -	Access to the skills of a whole community to help grow and improve the business.
---	The system enables to unlock new forms of product creation and working, namely together with members.
+  - The system enables to unlock new forms of product creation and working, namely together with members.
 -	Building of a digital economy. The market cap of the tokens gives a good representation of the value that the community is worth. Community will grow not only by its members but also in value.
 -	Flexible funding with multiple funding rounds and direct access to part of the funds. (Mechanism will be included in the future)
 
