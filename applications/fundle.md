@@ -83,20 +83,38 @@ We see that large brands are already experimenting with NFTs to create new custo
 
 - What need(s) does your project meet?
 
-For members:
-- Untill now, members cannot really be "part of" and there is little interaction
-- Both business and members can have fair benefits (social and economical)
-- Involvement in the business
-- Freelance possibility
-- Exclusive membership with access to special perks and experiences
+#### For members:
+Current platforms lack real community involvement. Members cannot really be "part of" and there is little interaction. Furthermore both business and members cannot always have fair benefits (social and/or economical).
 
-For businesses:
-- We allow businesses to build stronger and intenser communities, which has a positive effect on the profit and success of their business. 
-- Access to skills of a whole community
+Therefore, Fundle offers:
+•	Exclusive membership with access to special perks, experiences, and more benefits of the community. Members are proud token holders of the community.
+•	Involvement and interaction with the business. Members won't simply support the business financial.
+•	More members entering the community can lead to an increase in personal token value owned.
+•	Creatives can work for the community in exchange for community tokens. For example, website or logo design, (social media) marketing, video or picture creation/editing, etc.
+•	Democratic fundraising mechanism in which members have control over the collected money. (Mechanism will be included in the future)
+![image](https://user-images.githubusercontent.com/54183058/189477550-4d0a368f-b285-4e81-a73f-976cce947463.png)
+
+#### For businesses:
+Much more can be gained from a community (skills, opinions, etc.). An involved and active community will result in happy, returning customers that increase brand awareness and trust. This will have a positive effect on the profit and success of the business. 
+
+Therefore, Fundle offers:
+•	Stronger and intenser community building thanks to the community token model. 
+o	Incentivize members to engage and promote the business more than ever because members have economic & social incentives to help the business succeed.
+o	Stimulates members to participate and think actively.
+•	Access to the skills of a whole community to help grow and improve the business.
+o	The system enables to unlock new forms of product creation and working, namely together with members.
+•	Building of a digital economy. The market cap of the tokens gives a good representation of the value that the community is worth. Community will grow not only by its members but also in value.
+•	Flexible funding with multiple funding rounds and direct access to part of the funds. (Mechanism will be included in the future)
+![image](https://user-images.githubusercontent.com/54183058/189477559-64007ace-3eda-48f0-8c61-6e0c72e806ae.png)
+
+
+
 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
   - If so, how is your project different?
   - If not, are there similar projects in related ecosystems?
+
+As far as we know not, there is only rally and deso who are applying a token bonding curve mechanism for community building of influencers. 
 
 ## Team
 
@@ -113,6 +131,8 @@ For businesses:
 ### Team Experience
 
 > Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
+
+We are now almost 2 year in development. 
 
 ### Team Org Repos
 
@@ -226,13 +246,9 @@ For each milestone,
 - how you intend to use, enhance, promote and support your project in the short term, and
 - the team's long-term plans and intentions in relation to it.
 
+We see many expansion options for the Fundle platform and we will stay commited to it. We really believe in full tokenization and digital economies, but this is too soon for the world for now. In the coming years we will slowly adopt it. 
 
 ## Additional Information
 
 **How did you hear about the Grants Program?** Personal recommendation
 
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
