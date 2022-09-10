@@ -145,7 +145,7 @@ We are now almost 2 year in development.
 - https://github.com/<team_member_1>
 - https://github.com/<team_member_2>
 
-### Team LinkedIn Profiles (if available)
+### Team LinkedIn Profiles
 
 - https://www.linkedin.com/in/wiebe-hendriks/
 - https://www.linkedin.com/in/niels-snakenborg-05a07661/
