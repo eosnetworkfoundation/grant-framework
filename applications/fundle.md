@@ -87,25 +87,23 @@ We see that large brands are already experimenting with NFTs to create new custo
 Current platforms lack real community involvement. Members cannot really be "part of" and there is little interaction. Furthermore both business and members cannot always have fair benefits (social and/or economical).
 
 Therefore, Fundle offers:
-•	Exclusive membership with access to special perks, experiences, and more benefits of the community. Members are proud token holders of the community.
-•	Involvement and interaction with the business. Members won't simply support the business financial.
-•	More members entering the community can lead to an increase in personal token value owned.
-•	Creatives can work for the community in exchange for community tokens. For example, website or logo design, (social media) marketing, video or picture creation/editing, etc.
-•	Democratic fundraising mechanism in which members have control over the collected money. (Mechanism will be included in the future)
-![image](https://user-images.githubusercontent.com/54183058/189477550-4d0a368f-b285-4e81-a73f-976cce947463.png)
+- Exclusive membership with access to special perks, experiences, and more benefits of the community. Members are proud token holders of the community.
+- Involvement and interaction with the business. Members won't simply support the business financial.
+- More members entering the community can lead to an increase in personal token value owned.
+- Creatives can work for the community in exchange for community tokens. For example, website or logo design, (social media) marketing, video or picture creation/editing, etc.
+- Democratic fundraising mechanism in which members have control over the collected money. (Mechanism will be included in the future)
 
 #### For businesses:
 Much more can be gained from a community (skills, opinions, etc.). An involved and active community will result in happy, returning customers that increase brand awareness and trust. This will have a positive effect on the profit and success of the business. 
 
 Therefore, Fundle offers:
-•	Stronger and intenser community building thanks to the community token model. 
-o	Incentivize members to engage and promote the business more than ever because members have economic & social incentives to help the business succeed.
-o	Stimulates members to participate and think actively.
-•	Access to the skills of a whole community to help grow and improve the business.
-o	The system enables to unlock new forms of product creation and working, namely together with members.
-•	Building of a digital economy. The market cap of the tokens gives a good representation of the value that the community is worth. Community will grow not only by its members but also in value.
-•	Flexible funding with multiple funding rounds and direct access to part of the funds. (Mechanism will be included in the future)
-![image](https://user-images.githubusercontent.com/54183058/189477559-64007ace-3eda-48f0-8c61-6e0c72e806ae.png)
+- Stronger and intenser community building thanks to the community token model. 
+-- Incentivize members to engage and promote the business more than ever because members have economic & social incentives to help the business succeed.
+--	Stimulates members to participate and think actively.
+-	Access to the skills of a whole community to help grow and improve the business.
+--	The system enables to unlock new forms of product creation and working, namely together with members.
+-	Building of a digital economy. The market cap of the tokens gives a good representation of the value that the community is worth. Community will grow not only by its members but also in value.
+-	Flexible funding with multiple funding rounds and direct access to part of the funds. (Mechanism will be included in the future)
 
 
 
