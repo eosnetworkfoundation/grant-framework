@@ -106,7 +106,7 @@ Therefore, Fundle offers:
 -	Flexible funding with multiple funding rounds and direct access to part of the funds. (Mechanism will be included in the future)
 
 
-
+__________________________________________________________________________________________________________________________________________________________
 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
   - If so, how is your project different?
