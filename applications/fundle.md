@@ -112,7 +112,7 @@ ________________________________________________________________________________
   - If so, how is your project different?
   - If not, are there similar projects in related ecosystems?
 
-As far as we know not, there is only rally and deso who are applying a token bonding curve mechanism for community building of influencers. 
+To the best of our knowledge not, there is only rally and deso who are applying a token bonding curve mechanism for community building of influencers. 
 
 ## Team
 
