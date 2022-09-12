@@ -17,7 +17,7 @@
 - **Project Name:** Fundle
 - **Team Name:** Legal name of your team (e.g. Greymass, Inc.)
 - **EOS Payment Address:** EOS payment address
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 - **Pomelo Grant(s):**  N/A 
 - **Project is Open-Source:** Yes/No
 - **Project was part of Token sale:** No
@@ -255,6 +255,39 @@ For each milestone,
 | 2. | Front-End / User Interface | We will create a UI that connects to ... |  
 | 3. | Caching layer | We will create a caching layer ... |  
 | 4. | API interface to our app | We will create an API that ... |  
+
+
+The plan is to use this grant for the last phase of our development before we can launch. Namely the token bonding curve mechanism. We will use, customize and integrate the open source Balancer protocol. 
+
+### Milestone 1 - Balancer Protocol integration
+
+The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. For the first step we will use USDT as the reserve token. Per community USDT will be bonded to the community token. When users send USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
+
+- **Estimated Duration:** 1 month
+- **FTE:**  2
+- **Costs:** 4,000 USD
+
+### Milestone 2 - Wallet and Fiat On Ramp Payment Integration
+Users can join communities bij sending USDC. They have 2 options to pay.
+- Connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) 
+- Fiat via payment gateways (for ex. Moonpay, ramp, onramper, mercuryo)
+
+
+- **Estimated Duration:** 1 month
+- **FTE:**  2
+- **Costs:** 4,000 USD
+
+### Milestone 3 - Testing & Security
+We need to test the blockchain part of the application. Furthermore the whole application needs to be checked on security.
+
+- **Estimated Duration:** 1 month
+- **FTE:**  2
+- **Costs:** 4,000 USD
+
+
+
+
+
 
 
 
