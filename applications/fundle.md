@@ -43,12 +43,34 @@
 - **Name:** Fundle
 - **Brief Description:** 
 
-- Fundle is a platform where businesses can build tokenized communities to increase customer engagement! The platform allows businesses to build strong long term relationships, offer new customer experiences and gain more out of a community. 
+Fundle is a platform where businesses can build tokenized communities to increase customer engagement! We allow businesses to build strong long-term relationships, offer new customer experiences and gain more out of a community.
 
-- Each business has its own community token to raise funds and build a personal brand. In fact its own digital economy. Holders of that token (members) can unlock specific rewards, experiences or involvement. Each business decides how members are involved and rewarded.
+
+Each business has its own token to build a community and digital economy. Holders of that token (members) can unlock specific rewards, experiences, or involvement. Every community is unique since it has different types of rewards or involvements.
+
+**Story behind**
+Current community building and crowdfunding platforms lack real community involvement. Members cannot really be "part of" and there is little interaction. Furthermore, members cannot always have fair benefits (social and/or economical).
+
+From business perspective, much more can be gained from a community (skills, opinions, etc.). An involved and active community will result in happy, returning customers that increase brand awareness and trust. This will positively affect the profit and success of the business.
+
+The way of community building and fundraising needs to be redeveloped to let it reach its maximum potential. We believe that building long-term relationships is essential for this. With community tokens businesses can offer new types of customer experiences, involvement, and interaction.
+
+Together with Fundle building and managing communities becomes easier!
+
+**Tokenized Communities and Economies**
+
+Each business can create its own token to build a community and digital economy. Community tokens are a form of tokens linked to a specific business or community. Holders of that token are part of the community and can unlock specific rewards, experiences, or involvement.
+
+Community tokens allow businesses to engage with their community more closely than ever before. The community is rewarded for the value they help creating the business. Members will have social & economic incentives to help the business succeed and the community will grow not only by its members but also in economic value. The tokens stimulate active participation and promotion of the business.
+
+Fundle unlocks new forms of product creation and working. Namely together with people that truly support and believe in the business. Members can even have an active role in the business.
+
+
+
 
 - **Relationship to EOSIO:** We are planning to run the token bonding curve mechanism and AMM on the EOSIO blockchain!
-- **Reason for Interest:** We truly believe in the added value of EOSIO, so we would like to utilize the benefits of a high throughput and low transaction costs for our users. With the entrance of the ENF we see that there are many good developments going on and therefore we have trust in EOSIO for the future!
+- **Reason for Interest:** Blockchain allows us to revolutionize and strengthen the position of the community. We truly believe in the added value of Antelope, so we would like to utilize the benefits of high throughput and low transaction costs for our users. With the entrance of the ENF, we see that many good developments are going on, and therefore we have trust in Antelope for the future!
+
 
 ### Project Details
 
@@ -74,7 +96,7 @@ The non blockchain part of the application is already finished. Please visit: de
 
 - Where and how does your project fit into the ecosystem?
 
-Our platform will run on the EOSIO blockchain and so EOSIO ecosystem, this brings lots of new users (also non/new crypto users) who will interact and get to know the EOSIO blockchain. So our dApp will be build on the TrustEVM and so EOSIO network. Fundle shows others what possibilities EOSIO has and that it is possible to build these platforms on the EOSIO blockchain! In the next phases we will extend and build further. For example a democratic fundraising mechanism, these protocols will fit into the EOSIO ecosystem!
+Our platform will run on the Antelope blockchain and so Antelope ecosystem, this brings lots of new users (also non/new crypto users) who will interact and get to know the Antelope blockchain. So our dApp will be build on the TrustEVM and so Antelope network. Fundle shows others what possibilities Antelope has and that it is possible to build these platforms on the Antelope blockchain! In the next phases we will extend and build further. For example a democratic fundraising mechanism, these protocols will fit into the Antelope ecosystem!
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
@@ -84,35 +106,32 @@ We see that large brands are already experimenting with NFTs to create new custo
 - What need(s) does your project meet?
 
 #### For members:
-Current platforms lack real community involvement. Members cannot really be "part of" and there is little interaction. Furthermore both business and members cannot always have fair benefits (social and/or economical).
+Current community building and crowdfunding platforms lack real community involvement. Members cannot really be "part of" and there is little interaction. Furthermore, both business and members cannot always have fair benefits (social and/or economical).
 
 Therefore, Fundle offers:
-- Exclusive membership with access to special perks, experiences, and more benefits of the community. Members are proud token holders of the community.
-- Involvement and interaction with the business. Members won't simply support the business financial.
-- More members entering the community can lead to an increase in personal token value owned.
+- Exclusive membership with access to special perks, experiences, and more community benefits. Members are proud token holders of the community.
+- Involvement and interaction with the business. Members won't simply support the business financially but can be involved in the design process for example.
+- More members entering the community can lead to an increase in personal token value.
 - Creatives can work for the community in exchange for community tokens. For example, website or logo design, (social media) marketing, video or picture creation/editing, etc.
 - Democratic fundraising mechanism in which members have control over the collected money. (Mechanism will be included in the future)
 
 #### For businesses:
-Much more can be gained from a community (skills, opinions, etc.). An involved and active community will result in happy, returning customers that increase brand awareness and trust. This will have a positive effect on the profit and success of the business. 
+From business perspective, much more can be gained from a community (skills, opinions, etc.). An involved and active community will result in happy, returning customers that increase brand awareness and trust. This will positively affect the profit and success of the business.
 
 Therefore, Fundle offers:
 - Stronger and intenser community building thanks to the community token model. 
   - Incentivize members to engage and promote the business more than ever because members have economic & social incentives to help the business succeed.
   - Stimulates members to participate and think actively.
--	Access to the skills of a whole community to help grow and improve the business.
+- Access to the skills of a whole community to help grow and improve the business.
   - The system enables to unlock new forms of product creation and working, namely together with members.
--	Building of a digital economy. The market cap of the tokens gives a good representation of the value that the community is worth. Community will grow not only by its members but also in value.
--	Flexible funding with multiple funding rounds and direct access to part of the funds. (Mechanism will be included in the future)
+- Building of a digital economy. The market cap of the tokens gives a good representation of the value that the community is worth. Community will grow not only by its members but also in value.
+- Flexible funding with multiple funding rounds and direct access to part of the funds. (Mechanism will be included in the future)
 
 
 __________________________________________________________________________________________________________________________________________________________
 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
-
-To the best of our knowledge not, there is only rally and deso who are applying a token bonding curve mechanism for community building of influencers. 
+To the best of our knowledge there are no similar projects in the EOSIO or related ecosystems, there is only rally and deso who are applying a token bonding curve mechanism for community building of influencers. 
 
 ## Team
 
@@ -130,7 +149,21 @@ To the best of our knowledge not, there is only rally and deso who are applying 
 
 > Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
 
-We are now almost 2 year in development. 
+For the last 2 years we've together build the application.
+**Wiebe**
+Roles:
+- General management tasks, Software Development (Front-end, Blockchain), Marketing and Financial
+Background:
+- Industrial Engineering and Management at Eindhoven University of Technology
+
+**Niels**
+Software Developer
+Roles:
+- Software Development (Back-end, Blockchain) 
+Background:
+- Informatics
+- iOS & Web developer at Shareforce
+
 
 ### Team Org Repos
 
@@ -142,8 +175,8 @@ We are now almost 2 year in development.
 
 ### Team Member Repos
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- https://github.com/WiebeHendriks
+- https://github.com/Niels-Snakenborg
 
 ### Team LinkedIn Profiles
 
@@ -151,6 +184,13 @@ We are now almost 2 year in development.
 - https://www.linkedin.com/in/niels-snakenborg-05a07661/
 
 ## Development Status
+
+The application (non blockchain part) is tested right now with users on usability and bugs. 
+
+Application Access
+URL: https://demo.wefundle.com/ 
+Please email to: wiebe.hendriks@wefundle.com for the login details to get access!
+
 
 > If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
@@ -244,7 +284,12 @@ For each milestone,
 - how you intend to use, enhance, promote and support your project in the short term, and
 - the team's long-term plans and intentions in relation to it.
 
-We see many expansion options for the Fundle platform and we will stay commited to it. We really believe in full tokenization and digital economies, but this is too soon for the world for now. In the coming years we will slowly adopt it. 
+We see many expansion options for the Fundle platform and we will stay commited to it. We really believe in full tokenization and digital economies. In the coming years we will slowly move towards the adoption of digital economies.
+
+<img width="1435" alt="image" src="https://user-images.githubusercontent.com/54183058/189649676-14aa6444-441f-4b74-88a2-59106da86d8f.png">
+<img width="1435" alt="image" src="https://user-images.githubusercontent.com/54183058/189649713-d9425437-915a-4e72-89da-16154a709768.png">
+<img width="1435" alt="image" src="https://user-images.githubusercontent.com/54183058/189649742-fde0466b-28e8-46b9-8d77-e3844fa875a9.png">
+
 
 ## Additional Information
 
