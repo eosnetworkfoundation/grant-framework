@@ -151,13 +151,16 @@ To the best of our knowledge there are no similar projects in the EOSIO or relat
 > Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
 
 For the last 2 years we've together build the application.
+
 **Wiebe**
+
 Roles:
 - General management tasks, Software Development (Front-end, Blockchain), Marketing and Financial
 Background:
 - Industrial Engineering and Management at Eindhoven University of Technology
 
 **Niels**
+
 Software Developer
 Roles:
 - Software Development (Back-end, Blockchain) 
