@@ -77,11 +77,6 @@ Fundle unlocks new forms of product creation and working. Namely together with p
 
 > We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-The non blockchain part of the application is already finished. Please visit: dev.wefundle.com
-
-
-
-
 - Mock-ups/designs of any UI components
 - Data models of the core functionality
 - API specifications of the core functionality
@@ -192,7 +187,7 @@ Background:
 
 ## Development Status
 
-The application (non blockchain part) is tested right now with users on usability and bugs. 
+The application (non blockchain part) is tested right now with users on usability and bugs. It shows exactly how the first phase of the platform will work and look like. 
 
 Application Access
 URL: https://demo.wefundle.com/ 
