@@ -49,6 +49,7 @@ Fundle is a platform where businesses can build tokenized communities to increas
 Each business has its own token to build a community and digital economy. Holders of that token (members) can unlock specific rewards, experiences, or involvement. Every community is unique since it has different types of rewards or involvements.
 
 **Story behind**
+
 Current community building and crowdfunding platforms lack real community involvement. Members cannot really be "part of" and there is little interaction. Furthermore, members cannot always have fair benefits (social and/or economical).
 
 From business perspective, much more can be gained from a community (skills, opinions, etc.). An involved and active community will result in happy, returning customers that increase brand awareness and trust. This will positively affect the profit and success of the business.
