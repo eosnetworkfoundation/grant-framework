@@ -161,7 +161,6 @@ Background:
 
 **Niels**
 
-Software Developer
 Roles:
 - Software Development (Back-end, Blockchain) 
 Background:
