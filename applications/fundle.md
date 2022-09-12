@@ -156,6 +156,8 @@ For the last 2 years we've together build the application.
 
 Roles:
 - General management tasks, Software Development (Front-end, Blockchain), Marketing and Financial
+
+
 Background:
 - Industrial Engineering and Management at Eindhoven University of Technology
 
@@ -163,6 +165,8 @@ Background:
 
 Roles:
 - Software Development (Back-end, Blockchain) 
+
+
 Background:
 - Informatics
 - iOS & Web developer at Shareforce
