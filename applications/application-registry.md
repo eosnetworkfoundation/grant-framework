@@ -131,7 +131,7 @@ The Rewired.one team has been involved with EOSIO since its founding in 2018. We
 - **Total Estimated Duration:** 16 weeks 
 - **Full-Time Equivalent (FTE):**  2.4 FTE
 - **Total Costs:** 229,000 USD
-- 
+
 
 ### Milestone 1 — Initiate Project & Agree on governance structure and Application Registry metadata
 
@@ -143,11 +143,7 @@ The Rewired.one team has been involved with EOSIO since its founding in 2018. We
 | -----: | ----------- | ------------- |
 | 1. | License | MIT |
 | 2. | Project Governance setup | Team setup, governance setup, stakeholder mapping complete. |
-| 3. | Governance agreement | Agreement on how the EOS Mainnet will provide governance on how Application developers can register their applications into the Application Registry. This includes a list of validators who will ensure that apps are following the defined rules.
-This also defines the rules that apps have to comply with, what metrics they have to support/report and how the app can be updated or deleted.
-Part of the governance will also consider user input based on their experience with apps. If an app is not behaving as per guidelines, it can be reported.
-We propose to use a 3/5 multisig with a dedicated governing body. We suggest these are the following entities: greymass, tokenpocket, ENF, ultra and rewired.
-Part of this deliverable we will also define the application data standards, such as title, description, category, icon, URL, app manifest, etc. |
+| 3. | Governance agreement | Agreement on how the EOS Mainnet will provide governance on how Application developers can register their applications into the Application Registry. This includes a list of validators who will ensure that apps are following the defined rules. This also defines the rules that apps have to comply with, what metrics they have to support/report and how the app can be updated or deleted. Part of the governance will also consider user input based on their experience with apps. If an app is not behaving as per guidelines, it can be reported. We propose to use a 3/5 multisig with a dedicated governing body. We suggest these are the following entities: greymass, tokenpocket, ENF, ultra and rewired. Part of this deliverable we will also define the application data standards, such as title, description, category, icon, URL, app manifest, etc. |
 
 
 ### Milestone 2 — Build Application Registry
@@ -163,7 +159,7 @@ Part of this deliverable we will also define the application data standards, suc
 | 0c. | Testing Guide | We will provide automated Smart Contract test cases using DUNE. |
 | 1. | Application Registry (Smart Contract) | The Smart Contract will be built in such a way that it considers the governance as defined in an earlier step and will allow the Application metadata to be stored on-chain. The Smart Contract will be designed to be deployed on any EOSIO chain. |  
 
-* Additional sub-milestones may be required to support effective cash flow for the project team
+ * Additional sub-milestones may be required to support effective cash flow for the project team
 
 
 ### Milestone 3 — Build Application Registry
@@ -184,7 +180,7 @@ Part of this deliverable we will also define the application data standards, suc
 
 - **Estimated Duration:** 9 weeks
 - **FTE:**  1.4
-- **Costs:** 81,115 USD
+- **Costs:** 81,115 USD *
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -192,6 +188,8 @@ Part of this deliverable we will also define the application data standards, suc
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how the various functions of the Frontend work for each user type. These user types are app developers, validators, end users and administrators. |
 | 0c. | Testing Guide | We will provide test procedures on how to verify that all functionality is working as expected. |
 | 1. | Application Registry Web Frontend | This is the Web Portal where users can browse the Application Registry. Application developers will be able to register their applications and will be able to make changes to existing Application Registry entries. Validators and Administrators will be able to validate Application Registry requests. Users are also able to “report” applications that are not behaving as they should, in order for a Validator to take the necessary action, which could be to warn the Application developer about this unwanted behavior or to remove the Application from the Registry completely. |  
+
+ * Additional sub-milestones may be required to support effective cash flow for the project team
 
 
 ## Future Plans
