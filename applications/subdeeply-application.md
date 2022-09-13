@@ -141,6 +141,7 @@ Subdeeply team has experience with more than 4 years in content creation, staff 
 - https://www.linkedin.com/in/owocki/
 
 ## Development Status
+I have mentioned the project to direct members of the ENF such as Yves, Zack Gall and Natah James.
 
 Our team designed the web and responsive platform, it can be found in the following figma file:
 
@@ -152,10 +153,7 @@ We have started to develop and adapt the platform to a mobile application for iO
 
 ## Development Roadmap
 
-
-
 ### Milestone Summary
-
 
 - **Total Estimated Duration:** 4 months 
 - **Full-Time Equivalent (FTE):** 2 FTE
@@ -175,38 +173,69 @@ We have started to develop and adapt the platform to a mobile application for iO
 | 2. | User Interface | Create a UI that connects to the web application |  
 | 3. | Layer Pages | We will create layers of pages that show the features of the platform (e.g. Sign Up, Posts, home page). |
 
-### Milestone 2 Web / Desktop App Develompment - Back-end
+### Milestone 2 Web / Desktop App Develompment - Front-end
 
-- **Estimated Duration:** 1 month
+- **Estimated Duration:** 1-2 months
 - **FTE:**  2
-- **Costs:** 4,000 USD
+- **Costs:** 15,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
+| 0a. | License | GPLv3
+| 0b. | Documentation | We will provide documentation of the code and a tutorial explaining how a user can make use of the framework and create their own local application in Next.js and React. |
+| 0c. | Testing Guide | The main features will be fully functional and tested to ensure functionality and robustness. In the guide, we will describe how to run an app. |
 | 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Added UI functionality | We will add UI functionality to... |  
-| 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
+| 2. | Add UI functionality | We will add user interface functionality to page layers |  
+| 3. | API integration | We will add APIs to the platform, create internal APIs for the operation and monitoring of the platform, and third-party APIs to deploy functions such as user login, authentication, etc. |  
+
+### Milestone 3 Web / Desktop App Develompment - Back-end
+
+- **Estimated Duration:** 1-2 months
+- **FTE:**  2
+- **Costs:** 15,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | MIT
+| 0b. | Documentation | This milestone is focused on the logic area, server and databases, we will add getting started guides for the frameworks used (Python, Django, MongoDB, and Ngix). |
+| 0c. | Testing Guide | N/A |
+| 1. | Add UI functionality | We will add user interface functionality to page layers |  
+| 2. | API integration | We will add APIs to the platform, internal apis for the operation and monitoring of the platform, and third-party apis to deploy functions such as user login, authentication, etc. |
+| 3. | Deployment | Deploy the use of the platform on cloud servers. |
+
+### Milestone 3 Web / Desktop App Launch
+
+- **Estimated Duration:** 1 months
+- **FTE:**  1
+- **Costs:** 3,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | Marketing | Use of funds to create campaigns and ads to publicize the launch of the platform and create a user base funnel. |
+
+### Milestone 4 Web / Desktop App Launch
+
+- **Estimated Duration:** 3 months
+- **FTE:**  3
+- **Costs:** 5,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | Platform Support | Monitor the platform, fix bugs, update and release new versions. |
 
 
 ## Future Plans
 
-> Please include here:
+Subdeeply aims to build a platform that helps drive blockchain education towards web3, offering a service for global communities and integrating tools for users to identify and learn about the uses and services of EOSIO based blockchains.
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+We focus on creating a platform that drives the adoption of services in EOSIO blockchain ecosystems such as EOS, WAX, Telos, UX. Attract investors and potential users. In the short term we will prioritize the development of the platform so that it does not present any kind of difficulties and affect the user experience on the platform.
+
+In the longer term, we will implement a business model based on advertising or premium features, some of these features include subscriptions or plans, or a native ecosystem itself. These market strategies are sustainable, we believe that blockchain education is continuously evolving and in the future there will be more services like subdeeply, we want to incorporate features to support the adoption of eosio based blockchain ecosystems.
 
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** EOS Network Foundation Twitter post and blog.
 
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+
