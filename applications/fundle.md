@@ -34,8 +34,8 @@
 
 ## Project Overview
 
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
-
+This grant will fund the integration of TrustEVM and the customization of the Balancer protocol into the Fundle application. This functionality will allow users to buy/sell tokens per community according to a token bonding curve mechanism. 
+  
 ### Overview
 
 > Please provide the following:
@@ -96,7 +96,7 @@ Our platform will run on the Antelope blockchain and so Antelope ecosystem, this
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
-We see that large brands are already experimenting with NFTs to create new customer experiences. For example Adidas, Nike, Budweiser, Pepsi and Lamborghini. Our focus is on innovative and creative businesses with existing communities who like to have better interaction with their fanbase or startups who want to build a community. On the other site we have members, we are targetting also on members who have never used blockchain before (therefore payment accesibility with fiat on ramps is important for us). In our future plans when people can work for communities we will also be targetting creatives/freelancers. So, it is a platform that is useful and interesting for a wide range of people.
+We see that large brands are already experimenting with NFTs to create new customer experiences. For example Adidas, Nike, Budweiser, Pepsi and Lamborghini. Our focus is on innovative and creative businesses with existing communities who like to have better interaction with their fanbase or startups who want to build a community. On the other site we have members, we are targetting also on members who have never used blockchain before (therefore payment accesibility with fiat on ramps is important for us). The systems needs to be easy understandable and customer friendly. In our future plans when people can work for communities we will also be targetting creatives/freelancers. So, it is a platform that is useful and interesting for a wide range of people.
 
 
 - What need(s) does your project meet?
@@ -138,8 +138,8 @@ To the best of our knowledge there are no similar projects in the EOSIO or relat
 - Niels Snakenborg
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity. (e.g. Greymass, Inc.)
-- **Registered Address:** Address of your registered legal entity. Please keep it in a single line. (e.g. 123 Main Street, London LK1 234, UK)
+- **Registered Legal Entity:** We are in the initial process of registration
+- **Registered Address:** N/A
 
 ### Team Experience
 
