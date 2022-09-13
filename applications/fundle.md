@@ -45,31 +45,11 @@ This grant will fund the integration of TrustEVM and the customization of the Ba
 
 Fundle is a platform where businesses can build tokenized communities to increase customer engagement! We allow businesses to build strong long-term relationships, offer new customer experiences and gain more out of a community.
 
-
 Each business has its own token to build a community and digital economy. Holders of that token (members) can unlock specific rewards, experiences, or involvement. Every community is unique since it has different types of rewards or involvements.
 
-**Story behind**
+For a detailed explanation please visit: https://wefundle.com/ and https://wefundle.com/about
 
-Current community building and crowdfunding platforms lack real community involvement. Members cannot really be "part of" and there is little interaction. Furthermore, members cannot always have fair benefits (social and/or economical).
-
-From business perspective, much more can be gained from a community (skills, opinions, etc.). An involved and active community will result in happy, returning customers that increase brand awareness and trust. This will positively affect the profit and success of the business.
-
-The way of community building and fundraising needs to be redeveloped to let it reach its maximum potential. We believe that building long-term relationships is essential for this. With community tokens businesses can offer new types of customer experiences, involvement, and interaction.
-
-Together with Fundle building and managing communities becomes easier!
-
-**Tokenized Communities and Economies**
-
-Each business can create its own token to build a community and digital economy. Community tokens are a form of tokens linked to a specific business or community. Holders of that token are part of the community and can unlock specific rewards, experiences, or involvement.
-
-Community tokens allow businesses to engage with their community more closely than ever before. The community is rewarded for the value they help creating the business. Members will have social & economic incentives to help the business succeed and the community will grow not only by its members but also in economic value. The tokens stimulate active participation and promotion of the business.
-
-Fundle unlocks new forms of product creation and working. Namely together with people that truly support and believe in the business. Members can even have an active role in the business.
-
-
-
-
-- **Relationship to EOSIO:** We are planning to run the token bonding curve mechanism and AMM on the EOSIO blockchain!
+- **Relationship to EOSIO:** We are planning to run the token bonding curve mechanism and AMM on the TrustEVM blockchain!
 - **Reason for Interest:** Blockchain allows us to revolutionize and strengthen the position of the community. We truly believe in the added value of Antelope, so we would like to utilize the benefits of high throughput and low transaction costs for our users. With the entrance of the ENF, we see that many good developments are going on, and therefore we have trust in Antelope for the future!
 
 
@@ -96,7 +76,7 @@ Our platform will run on the Antelope blockchain and so Antelope ecosystem, this
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
-We see that large brands are already experimenting with NFTs to create new customer experiences. For example Adidas, Nike, Budweiser, Pepsi and Lamborghini. Our focus is on innovative and creative businesses with existing communities who like to have better interaction with their fanbase or startups who want to build a community. On the other site we have members, we are targetting also on members who have never used blockchain before (therefore payment accesibility with fiat on ramps is important for us). The systems needs to be easy understandable and customer friendly. In our future plans when people can work for communities we will also be targetting creatives/freelancers. So, it is a platform that is useful and interesting for a wide range of people.
+Our focus is on innovative and creative businesses with existing communities who like to have more interaction with their fanbase or startups who want to build a community. On the other site we have members, we are targetting also on members who have never used blockchain before (therefore payment accesibility with fiat on ramps is important for us). The systems needs to be easy understandable and customer friendly. In our future plans when people can work for communities we will also be targetting creatives/freelancers. So, it is a platform that is useful and interesting for a wide range of people.
 
 
 - What need(s) does your project meet?
@@ -127,7 +107,7 @@ Therefore, Fundle offers:
 __________________________________________________________________________________________________________________________________________________________
 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
-To the best of our knowledge there are no similar projects in the EOSIO or related ecosystems, there is only rally and deso who are applying a token bonding curve mechanism for community building of influencers. 
+To the best of our knowledge there are no similar projects in the Antelope or related ecosystems, there is only rally and deso who are applying a token bonding curve mechanism for community building of influencers. 
 
 ## Team
 
@@ -262,6 +242,19 @@ The plan is to use this grant for the last phase of our development before we ca
 ### Milestone 1 - Balancer Protocol integration
 
 The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. For the first step we will use USDT as the reserve token. Per community USDT will be bonded to the community token. When users send USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** which will show how the new functionality works. |
+| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
+| 1. | Application interface to EOSIO | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
+| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
+| 3. | Caching layer | We will create a caching layer ... |  
+| 4. | API interface to our app | We will create an API that ... |  
+
 
 - **Estimated Duration:** 1 month
 - **FTE:**  2
