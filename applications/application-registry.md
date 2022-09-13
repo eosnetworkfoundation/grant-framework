@@ -159,7 +159,7 @@ The Rewired.one team has been involved with EOSIO since its founding in 2018. We
 | 0c. | Testing Guide | We will provide automated Smart Contract test cases using DUNE. |
 | 1. | Application Registry (Smart Contract) | The Smart Contract will be built in such a way that it considers the governance as defined in an earlier step and will allow the Application metadata to be stored on-chain. The Smart Contract will be designed to be deployed on any EOSIO chain. |  
 
- * Additional sub-milestones may be required to support effective cash flow for the project team
+\* Additional sub-milestones may be required to support effective cash flow for the project team
 
 
 ### Milestone 3 — Build Application Registry
@@ -189,7 +189,7 @@ The Rewired.one team has been involved with EOSIO since its founding in 2018. We
 | 0c. | Testing Guide | We will provide test procedures on how to verify that all functionality is working as expected. |
 | 1. | Application Registry Web Frontend | This is the Web Portal where users can browse the Application Registry. Application developers will be able to register their applications and will be able to make changes to existing Application Registry entries. Validators and Administrators will be able to validate Application Registry requests. Users are also able to “report” applications that are not behaving as they should, in order for a Validator to take the necessary action, which could be to warn the Application developer about this unwanted behavior or to remove the Application from the Registry completely. |  
 
- * Additional sub-milestones may be required to support effective cash flow for the project team
+\* Additional sub-milestones may be required to support effective cash flow for the project team
 
 
 ## Future Plans
