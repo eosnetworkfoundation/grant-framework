@@ -1,120 +1,154 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-> 
-> Please do not remove any of the mandatory lines that start with **bold labels** or as headlines! Your application will be rejected!
->
-> Please do not remove the bolding of labels (such as **Team Name:** ) as it is needed by the automated parsers - that includes the bolding on lines starting with a bullet as part of a list.
-> 
-> Please note that this application will be **automatically parsed**.  Please only put the data required in the fields following the bolded labels (such as **Team Name:**.
->
-> Deleting lines that start with **Bold Labels:** will cause your grant to be rejected! Please fill this out carefully if you want to be approved!
->
-> All lines starting with a `>` (such as this one and the ones above and below) should be removed.
-
-- **Project Name:** Name of your project (e.g. Anchor Wallet)
-- **Team Name:** Legal name of your team (e.g. Greymass, Inc.)
-- **EOS Payment Address:** EOS payment address
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
-- **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
-- **Project is Open-Source:** Yes/No
-- **Project was part of Token sale:** Yes/No
-- **Repository where Project resides:** https://github.com/<your_organisation>/<project_repo>
-> Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
+- **Project Name:** Subdeeply Platform
+- **Team Name:** Subdeeply LLC
+- **EOS Payment Address:** [subdeeplyeos](https://bloks.io/account/subdeeplyeos)
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
+- **Pomelo Grant(s):** https://pomelo.io/grants/subdeeplyla
+- **Project is Open-Source:** Yes
+- **Project was part of Token sale:** No
+- **Repository where Project resides:** https://github.com/subdeeply
 
 ## Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** myemail@mycompany.com
-- **Website:** https://yourwebsite.com
-
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
+- **Contact Name:** Cristhian Andres Rincon Rojas
+- **Contact Email:** thian@subdeeply.com
+- **Website:** https://subdeeply.com
 
 ## Project Overview
 
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
-
 ### Overview
 
-> Please provide the following:
-
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+- **Name:** Subdeeply Platform
+- **Brief Description:** Subdeeply is a decentralized educational service/platform that will allow the community and
+users to access information, guides, podcast episodes and resources on each of the
+EOSIO based chains including, EOS, TLOS, WAX and UX.
+- **Relationship to EOSIO:** We are integrated into EOSIO as a service and a tool for accessing information resources on the different chains based on EOSIO.
+- **Reason for Interest:** Subdeeply is focused on increasing the adoption of new and potential users towards EOSIO based blockchains, the adoption and use of their services, our goal is to create a platform to support users in identifying the different services and use cases, implement and provide information about the blockchains with the objective that users get involved in the blockchains and their technology, learn about the different services they offer, learn how to use them and subsequently boost the blockchain ecosystem through more active users.
 
 ### Project Details
 
 > We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-- Mock-ups/designs of any UI components
-- Data models of the core functionality
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+- UI components
+
+![Subdeeply Home](https://user-images.githubusercontent.com/94427218/189781356-e2feb128-7d34-4a70-af10-13e336a27a47.png)
+
+Complete elements and components in the figma file: https://www.figma.com/file/VyB5mKlQRSJTPHyeoXkrEA/Subdeeply-Web-App?node-id=3901%3A55572
+
+- API specifications
+
+  Internal APIs: allows access to back-end information and application functionality.
+  
+  Django Rest Framework: powerful and flexible toolkit for building Web APIs.
+  
+  OAuth 2.0: authorization framework protocol.
+  
+  Rabbit MQ: open source messaging software that functions as a messaging middleware.
+  
+  Cloud APIs by Google: to automate workflows.
+  
+  Google Cloud SDKs: execute services and interact with google cloud platform services.
+  
+  Amazon API Gateway: to maintenance, monitoring and protection of internal APIs.
+  
+
+- technology stack to be used
+
+[Python](https://www.python.org/)
+
+[Google Cloud](https://cloud.google.com/)
+
+[MongoDB](https://www.mongodb.com/)
+
+[Ngix](https://www.nginx.com/)
+
+[Fivetran](https://www.fivetran.com/)
+
+[Django](https://www.djangoproject.com/)
+
+[.NET](https://dotnet.microsoft.com/en-us/)
+
+[React](https://reactjs.org/)
+
+[Google Apigee](https://cloud.google.com/apigee)
+
+[Heap.io](https://heap.io/)
+
+- Core components and functionality
+
+![web app dataflow](https://user-images.githubusercontent.com/94427218/189780665-d926be6f-26a7-41d4-8de5-e9d00a9d5937.png)
+
+
+- Relevant prior work or research on the topic
+
+Subdeeply is a scalable project, and may become profitable in the future. There is nothing similar to Subdeeply, the only direct competition would be the conventional media, but they only publish information related to news, not education. Subdeeply is not intended to be a conventional media, the goal is to apply blockchain technology to education, and apply decentralized education as a framework towards the Web3 future. Blockchain education is still in its early stages
 
 ### Ecosystem Fit
 
-> Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
+
+The project fits into global communities, investors and users by offering users access to information media and educational resources allowing users to identify the different types of uses and services of EOSIO-based networks.
+
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+
+Investors, communities, developers, gamers and all communities.
 - What need(s) does your project meet?
-- Are there any other projects similar to yours in the EOSIO ecosystem?
+- Are there any other projects similar to yours in the EOSIO ecosystem? None, not even a similar one with the same focus and objectives.
   - If so, how is your project different?
+
+Blockchain education is still in its early stages, there are no services or platform like Saubdeeply. As a general idea, it is good to have educational hubs, and subdeeply aims to provide the gateway to impact blockchain education, and drive adoption in EOSIO-based blockchains.
   - If not, are there similar projects in related ecosystems?
 
 ## Team
 
 ### Team members
 
-- **Team Leader:** Name of team leader
-- Name of team member 1
-- Name of team member 2
-- Name of team member 3, etc.
+- **Team Leader:** Cristhian Andres Rincon Rojas
+- U.N. Owen (Bielwenass)
+- Payjoe93
+- Eric Petersen
+- DhruvJain
+
+Advisors:
+
+- Kevin Owocki
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity. (e.g. Greymass, Inc.)
-- **Registered Address:** Address of your registered legal entity. Please keep it in a single line. (e.g. 123 Main Street, London LK1 234, UK)
+- **Registered Legal Entity:** Subdeeply LLC
+- **Registered Address:** 548 Market Street PMB 72296, San Francisco, CA 94104
 
 ### Team Experience
-
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
-
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+Subdeeply team has experience with more than 4 years in content creation, staff productivity, promotion strategies, marketing and advertising campaigns and smart contract development on EOS, Front-end development experience. The leader has worked for companies such as Anchor by Spotify, is a technology and blockchain analyst. Degree in Administration, Marketing and Digital Business from the Universidad del Rosario in Bogotá, Colombia. Our team is experienced in developing EOS smart contracts, and smart contracts in Vue, Solidity and javascript. Use and management of frameworks and libraries such as VujeJS and development of projects such as self-generated art, fractals and 3d spaces. Experienced in graphic design, Motion Graphic, Illustration and advanced experience in 2d and 3d design tools. One of the members is an award-winning illustrator with works in Communication Arts, Society of Illustrators, and 3×3. His work appears in Juxtapoz and Hi-Fructose.
 
 ### Team Org Repos
-
-- https://github.com/<your_organization>
-- https://github.com/<your_organization>/<project_1>
-- https://github.com/<your_organization>/<project_2>
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+- https://github.com/subdeeply
 
 ### Team Member Repos
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- https://github.com/thiangm
+- https://github.com/Bielwenass
+- https://github.com/payjoe93
+- https://github.com/DhruvJain1122
+- https://github.com/owocki
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/company/subdeeply
+- https://www.linkedin.com/in/thianandre/
+- https://www.linkedin.com/in/ericpetersen/
+- https://www.linkedin.com/in/owocki/
 
 ## Development Status
 
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
+Our team designed the web and responsive platform, it can be found in the following figma file:
 
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+- https://www.figma.com/file/VyB5mKlQRSJTPHyeoXkrEA/Subdeeply-Web-App?node-id=3901%3A36637
+
+We have started to develop and adapt the platform to a mobile application for iOS and Android users:
+
+- https://www.figma.com/file/a13ZUFxrgJeLGWXHRnUga3/Subdeeply-mobile-app?node-id=0%3A1
 
 ## Development Roadmap
 
