@@ -239,7 +239,7 @@ For each milestone,
 
 The plan is to use this grant for the last phase of our development before we can launch. Namely the token bonding curve mechanism. We will use, customize and integrate the open source Balancer protocol. 
 
-### Milestone 1 - Balancer Protocol integration
+### Milestone 1 - Balancer Protocol customization & integration with Fundle and TrustEVM
 
 The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. For the first step we will use USDT as the reserve token. Per community USDT will be bonded to the community token. When users send USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
 
