@@ -72,11 +72,11 @@ For a detailed explanation please visit: https://wefundle.com/ and https://wefun
 
 - Where and how does your project fit into the ecosystem?
 
-Our platform will run on the Antelope blockchain and so Antelope ecosystem, this brings lots of new users (also non/new crypto users) who will interact and get to know the Antelope blockchain. So our dApp will be build on the TrustEVM and so Antelope network. Fundle shows others what possibilities Antelope has and that it is possible to build these platforms on the Antelope blockchain! In the next phases we will extend and build further. For example a democratic fundraising mechanism, these protocols will fit into the Antelope ecosystem! We will show that building these kind of platforms is possible on Antelope!
+Our platform will run on the Antelope blockchain and so Antelope ecosystem, this brings lots of new users (also non/new crypto users) who will interact and get to know the Antelope blockchain. So our dApp will be build on the TrustEVM and so Antelope network. Fundle shows others what possibilities Antelope has and that it is possible to build these platforms on the Antelope blockchain! In the next phases we will extend and build the system further out. For example a democratic fundraising mechanism, these protocols will fit into the Antelope ecosystem! 
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
-Our focus is on innovative and creative businesses with existing communities who like to have more interaction with their fanbase or startups who want to build a community. On the other site we have members, we are targetting also on members who have never used blockchain before (therefore payment accesibility with fiat on ramps is important for us). The systems needs to be easy understandable and customer friendly. In our future plans when people can work for communities we will also be targetting creatives/freelancers. So, it is a platform that is useful and interesting for a wide range of people.
+Our focus is on innovative and creative businesses with existing communities who like to have more interaction with their fanbase or startups who want to build a community. On the other side we have members, we are targetting also on members who have never used blockchain before (therefore payment accesibility with fiat on ramps is important for us). The systems is going to be easy understandable and customer friendly. In our future plans when people can work for communities we will also be targetting creatives/freelancers. So, it is a platform that is useful and interesting for a wide range of people.
 
 
 - What need(s) does your project meet?
