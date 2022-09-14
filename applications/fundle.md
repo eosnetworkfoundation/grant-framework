@@ -49,7 +49,7 @@ Each business has its own token to build a community and digital economy. Holder
 
 For a detailed explanation please visit: https://wefundle.com/ and https://wefundle.com/about
 
-- **Relationship to EOSIO:** We are planning to run the token bonding curve mechanism and AMM on the TrustEVM blockchain!
+- **Relationship to EOSIO:** We are planning to run the token bonding curve mechanism and AMM on TrustEVM!
 - **Reason for Interest:** Blockchain allows us to revolutionize and strengthen the position of the community. We truly believe in the added value of Antelope, so we would like to utilize the benefits of high throughput and low transaction costs for our users. With the entrance of the ENF, we see that many good developments are going on, and therefore we have trust in Antelope for the future!
 
 
