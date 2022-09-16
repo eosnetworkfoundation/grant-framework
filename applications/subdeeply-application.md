@@ -203,7 +203,7 @@ We have started to develop and adapt the platform to a mobile application for iO
 | 2. | API integration | We will add APIs to the platform, internal apis for the operation and monitoring of the platform, and third-party apis to deploy functions such as user login, authentication, etc. |
 | 3. | Deployment | Deploy the use of the platform on cloud servers. |
 
-### Milestone 3 Web / Desktop App Launch
+### Milestone 4 Web / Desktop App Launch
 
 - **Estimated Duration:** 1 months
 - **FTE:**  1
@@ -213,7 +213,7 @@ We have started to develop and adapt the platform to a mobile application for iO
 | -----: | ----------- | ------------- |
 | 1. | Marketing | Use of funds to create campaigns and ads to publicize the launch of the platform and create a user base funnel. |
 
-### Milestone 4 Support/Maintenance
+### Milestone 5 Support/Maintenance
 
 - **Estimated Duration:** 3 months
 - **FTE:**  3
