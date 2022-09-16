@@ -213,7 +213,7 @@ We have started to develop and adapt the platform to a mobile application for iO
 | -----: | ----------- | ------------- |
 | 1. | Marketing | Use of funds to create campaigns and ads to publicize the launch of the platform and create a user base funnel. |
 
-### Milestone 4 Web / Desktop App Launch
+### Milestone 4 Support/Maintenance
 
 - **Estimated Duration:** 3 months
 - **FTE:**  3
