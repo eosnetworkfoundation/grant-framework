@@ -19,6 +19,10 @@
 
 ### Overview
 
+We had already submitted an application that was rejected by the ENF Grants Committee and during the last few months after the rejection, we have taken a turn in the direction of the product. As we have been made aware in the comments of the previous application.
+
+We submitted the application clearer. As well as being clearer about what we are going to do and how we are will achieve it.
+
 - **Name:** Subdeeply Platform
 - **Brief Description:** Subdeeply is a decentralized educational service/platform that will allow the community and
 users to access information, guides, podcast episodes and resources on each of the
@@ -27,8 +31,6 @@ EOSIO based chains including, EOS, TLOS, WAX and UX.
 - **Reason for Interest:** Subdeeply is focused on increasing the adoption of new and potential users towards EOSIO based blockchains, the adoption and use of their services, our goal is to create a platform to support users in identifying the different services and use cases, implement and provide information about the blockchains with the objective that users get involved in the blockchains and their technology, learn about the different services they offer, learn how to use them and subsequently boost the blockchain ecosystem through more active users.
 
 ### Project Details
-
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 - UI components
 
