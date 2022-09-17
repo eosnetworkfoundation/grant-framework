@@ -17,11 +17,14 @@
 
 ## Project Overview
 
-### Overview
-
 We had already submitted an application that was rejected by the ENF Grants Committee and during the last few months after the rejection, we have taken a turn in the direction of the product. As we have been made aware in the comments of the previous application.
-
 We submitted the application clearer. As well as being clearer about what we are going to do and how we are will achieve it.
+- We have more clarity in the project summary.
+- We have added information in the project details. Core components and functionality, technology and research topics.
+- Clearer details in the ecosystem fit paragraph.
+- Updates on the development ostatus. Previously we added simple mockups and graphics, now we add full access to platform files and features.
+
+### Overview
 
 - **Name:** Subdeeply Platform
 - **Brief Description:** Subdeeply is a decentralized educational service/platform that will allow the community and
