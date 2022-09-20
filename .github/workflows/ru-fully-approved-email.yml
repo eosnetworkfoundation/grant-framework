@@ -71,5 +71,5 @@ jobs:
           to: ${{inputs.app_email}}
           from: grants@eosnetwork.com
           reply_to: grants@eosnetwork.com
-          bcc: grants@eosnetwork.com,enf@eosnetwork.com
+          bcc: grants@eosnetwork.com,grant-fully-approved@eosnetwork.com
 
