@@ -314,5 +314,5 @@ We see many expansion options for the Fundle platform and we will stay commited 
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** Personal recommendation
+**How did you hear about the Grants Program?** Recommendation from Zaisan
 
