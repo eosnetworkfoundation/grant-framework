@@ -15,7 +15,7 @@
 > All lines starting with a `>` (such as this one and the ones above and below) should be removed.
 
 - **Project Name:** Fundle
-- **Team Name:** Legal name of your team (e.g. Greymass, Inc.)
+- **Team Name:** Fundle
 - **EOS Payment Address:** EOS payment address
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 - **Pomelo Grant(s):**  N/A 
@@ -169,18 +169,11 @@ Background:
 
 The application (non blockchain part) is tested right now with users on usability and bugs. It shows exactly how the first phase of the platform will work and look like. 
 
+On our website (https://wefundle.com) a platform video can be found on the homepage (red play button)
+
 Application Access
-URL: https://demo.wefundle.com/ 
+URL: https://dev.wefundle.com/ 
 Please email to: wiebe.hendriks@wefundle.com for the login details to get access!
-
-
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
 
 ## Development Roadmap
 
