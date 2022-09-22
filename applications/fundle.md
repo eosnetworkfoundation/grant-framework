@@ -114,25 +114,33 @@ To the best of our knowledge there are no similar projects in the Antelope or re
 ### Team Experience
 
 **Wiebe Hendriks**
+
 Roles:
 - General management tasks, Software Development (Front-end, Blockchain), Marketing and Financial
+
 Background:
 - Industrial Engineering and Management at Eindhoven University of Technology
 
 **Niels Snakenborg**
+
 Roles:
 - Software Development (Back-end, Blockchain) 
+
 Background:
 - Informatics
 - iOS & Web developer at Shareforce
 
 **Leo Frehe**
+
 Roles:
 - Business Advisor 
+
 Background:
 - TODO
 
 **Zaisan**
+Zaisan has been around in EOSIO ecosystem for several years, formally known as Europechain BV. The company is founded by several European block producers, and is focusing on software projects and business consultancy. The company has previously taken the task of writing the EOSIO Core+ Blue Paper on request of ENF.
+
 
 ### Team Org Repos
 
@@ -189,12 +197,12 @@ The protocol will allow users to buy/sell tokens per community according to a to
 - **FTE:**  2
 - **Costs:** 4,000 USD
 
-### Milestone 1 - Balancer protocol integration with application and TrustEVM
+### Milestone 2 - Balancer protocol integration with application and TrustEVM
 - **Estimated Duration:** 1 month
 - **FTE:**  2
 - **Costs:** 4,000 USD
 
-### Milestone 2 - Wallet and Fiat On Ramp Payment Integration
+### Milestone 3 - Wallet and Fiat On Ramp Payment Integration
 Users can join communities bij sending USDC. They have 2 options to pay.
 - Connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) 
 - Fiat via payment gateways (for ex. Moonpay, ramp, onramper, mercuryo)
@@ -204,7 +212,7 @@ Users can join communities bij sending USDC. They have 2 options to pay.
 - **FTE:**  2
 - **Costs:** 4,000 USD
 
-### Milestone 3 - Testing & Security
+### Milestone 4 - Testing & Security
 We need to test the blockchain part of the application. Furthermore the whole application needs to be checked on security.
 
 - **Estimated Duration:** 1 month
@@ -212,7 +220,7 @@ We need to test the blockchain part of the application. Furthermore the whole ap
 - **Costs:** 4,000 USD
 
 
-### Milestone 3 - Marketing/Sales
+### Milestone 5 - Marketing/Sales
 We made a marketing strategy with our marketing advisor about the go to market strategy!
 
 - **Estimated Duration:** 1 month
