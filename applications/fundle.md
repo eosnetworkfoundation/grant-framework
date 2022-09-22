@@ -82,7 +82,7 @@ On our website (https://wefundle.com) a platform video can be found on the homep
 
 - Where and how does your project fit into the ecosystem?
 
-Our platform will run on the Antelope blockchain and so Antelope ecosystem, this brings lots of new users (also non/new crypto users) who will interact and get to know the Antelope blockchain. So our dApp will be build on the TrustEVM and so Antelope network. Fundle shows others what possibilities Antelope has and that it is possible to build these platforms on the Antelope blockchain! In the next phases we will extend and build the system further out. For example a democratic fundraising mechanism, these protocols will fit into the Antelope ecosystem! 
+Our platform will run on the Antelope blockchain and so Antelope ecosystem, this brings lots of new users (also non/new crypto users) who will interact and get to know the Antelope blockchain. So our dApp will be build on the TrustEVM and so Antelope network. Fundle shows others what possibilities Antelope has and that it is possible to build these platforms on the Antelope blockchain! We can be an use case for TrustEVM. In the next phases we will extend and build the system further out. For example a democratic fundraising mechanism, these protocols will fit into the Antelope ecosystem! 
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
