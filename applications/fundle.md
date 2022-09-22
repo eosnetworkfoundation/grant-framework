@@ -1,19 +1,5 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-> 
-> Please do not remove any of the mandatory lines that start with **bold labels** or as headlines! Your application will be rejected!
->
-> Please do not remove the bolding of labels (such as **Team Name:** ) as it is needed by the automated parsers - that includes the bolding on lines starting with a bullet as part of a list.
-> 
-> Please note that this application will be **automatically parsed**.  Please only put the data required in the fields following the bolded labels (such as **Team Name:**.
->
-> Deleting lines that start with **Bold Labels:** will cause your grant to be rejected! Please fill this out carefully if you want to be approved!
->
-> All lines starting with a `>` (such as this one and the ones above and below) should be removed.
-
 - **Project Name:** Fundle
 - **Team Name:** Fundle
 - **EOS Payment Address:** EOS payment address
@@ -30,15 +16,11 @@
 - **Contact Email:** wiebe.hendriks@wefundle.com
 - **Website:** https://wefundle.com
 
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
-
 ## Project Overview
 
 This grant will fund the integration of TrustEVM and the customization of the Balancer protocol into the Fundle application. This functionality will allow users to buy/sell tokens per community according to a token bonding curve mechanism. 
   
 ### Overview
-
-> Please provide the following:
 
 - **Name:** Fundle
 - **Brief Description:** 
@@ -54,8 +36,6 @@ For a detailed explanation please visit: https://wefundle.com/ and https://wefun
 
 
 ### Project Details
-
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 On our website (https://wefundle.com) a platform video can be found on the homepage (red play button). This video will show how the application will look like and how it works!
 
@@ -77,8 +57,6 @@ On our website (https://wefundle.com) a platform video can be found on the homep
 - PoC/MVP or other relevant prior work or research on the topic
 
 ### Ecosystem Fit
-
-> Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
 
@@ -135,43 +113,32 @@ To the best of our knowledge there are no similar projects in the Antelope or re
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
-
-For the last 2 years we've together build the application.
-
 **Wiebe Hendriks**
-
 Roles:
 - General management tasks, Software Development (Front-end, Blockchain), Marketing and Financial
-
 Background:
 - Industrial Engineering and Management at Eindhoven University of Technology
 
 **Niels Snakenborg**
-
 Roles:
 - Software Development (Back-end, Blockchain) 
-
 Background:
 - Informatics
 - iOS & Web developer at Shareforce
 
 **Leo Frehe**
-
 Roles:
 - Business Advisor 
-
 Background:
 - TODO
 
+**Zaisan**
 
 ### Team Org Repos
 
 - https://github.com/<your_organization>
 - https://github.com/<your_organization>/<project_1>
 - https://github.com/<your_organization>/<project_2>
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
 ### Team Member Repos
 
@@ -188,24 +155,9 @@ Background:
 
 The application (non blockchain part) is tested right now with users on usability and bugs. It shows exactly how the first phase of the platform will work and look like. The blockchain integration is the last part to finish the application. 
 
-
 ## Development Roadmap
 
 This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to the EOS ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> :zap: If any of your deliverables is based on someone else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Milestone Summary
 
@@ -216,7 +168,7 @@ For each milestone,
 The plan is to use this grant for the last phase of our development before we can launch. Namely the token bonding curve mechanism. We will use, customize and integrate the open source Balancer protocol. With this budget Fundle can finish the platform (blockchain + security), create brand awareness, build the team, launch the platform and further develop/improve features.
 
 
-### Milestone 1 - Balancer Protocol customization & integration with application and TrustEVM
+### Milestone 1 - Balancer protocol customization
 
 The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. For the first step we will use USDT as the reserve token. Per community USDT will be bonded to the community token. When users send USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
 
@@ -233,6 +185,11 @@ The protocol will allow users to buy/sell tokens per community according to a to
 | 4. | API interface to our app | We will create an API that ... |  
 
 
+- **Estimated Duration:** 1 month
+- **FTE:**  2
+- **Costs:** 4,000 USD
+
+### Milestone 1 - Balancer protocol integration with application and TrustEVM
 - **Estimated Duration:** 1 month
 - **FTE:**  2
 - **Costs:** 4,000 USD
@@ -262,40 +219,7 @@ We made a marketing strategy with our marketing advisor about the go to market s
 - **FTE:**  2
 - **Costs:** 4,000 USD
 
-
-
-
-
-
-
-
-### Milestone 2 Example — Additional features
-
-- **Estimated Duration:** 1 month
-- **FTE:**  2
-- **Costs:** 4,000 USD
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Added UI functionality | We will add UI functionality to... |  
-| 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
-
-
-... Add more milestones as above as needed ...
-
-
 ## Future Plans
-
-> Please include here:
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
 
 We see many expansion options for the Fundle platform and we will stay commited to it. We really believe in full tokenization and digital economies. In the coming years we will slowly move towards the adoption of digital economies. The roadmap can be found at:  https://wefundle.com/roadmap
 
