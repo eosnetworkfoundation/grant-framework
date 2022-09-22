@@ -156,7 +156,7 @@ Background:
 - Informatics
 - iOS & Web developer at Shareforce
 
-**Leo Frehe **
+**Leo Frehe**
 
 Roles:
 - Business Advisor 
