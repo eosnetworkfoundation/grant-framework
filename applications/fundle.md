@@ -24,11 +24,11 @@ This grant will be used to fund the integration of TrustEVM, to customize the Ba
 - **Name:** Fundle
 - **Brief Description:** 
 
-Fundle is a platform where businesses can build tokenized communities to increase customer engagement! We allow businesses to build strong long-term relationships, offer new customer experiences and gain more out of a community.
+  Fundle is a platform where businesses can build tokenized communities to increase customer engagement! We allow businesses to build strong long-term       relationships, offer new customer experiences and gain more out of a community.
 
-Each business has its own token to build a community and digital economy. Holders of that token (members) can unlock specific rewards, experiences, or involvement. Every community is unique since it has different types of rewards or involvements.
+  Each business has its own token to build a community and digital economy. Holders of that token (members) can unlock specific rewards, experiences, or     involvement. Every community is unique since it has different types of rewards or involvements.
 
-For a detailed explanation please visit: https://wefundle.com/ and https://wefundle.com/about
+  For a detailed explanation please visit: https://wefundle.com/ and https://wefundle.com/about
 
 - **Relationship to EOSIO:** We are planning to run the token bonding curve mechanism and AMM on TrustEVM!
 - **Reason for Interest:** Blockchain allows us to revolutionize and strengthen the position of the community. We truly believe in the added value of Antelope, so we would like to utilize the benefits of high throughput and low transaction costs for our users. With the entrance of the ENF, we see that many good developments are going on, and therefore we have trust in Antelope for the future!
