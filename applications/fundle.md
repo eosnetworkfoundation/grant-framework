@@ -8,7 +8,6 @@
 - **Project is Open-Source:** Yes/No
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/<your_organisation>/<project_repo>
-> Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
 
 ## Contact
 
@@ -18,7 +17,7 @@
 
 ## Project Overview
 
-This grant will fund the integration of TrustEVM and the customization of the Balancer protocol into the Fundle application. This functionality will allow users to buy/sell tokens per community according to a token bonding curve mechanism. 
+This grant will be used to fund the integration of TrustEVM, to customize the Balancer protocol and to launch the platform. 
   
 ### Overview
 
@@ -42,7 +41,7 @@ On our website (https://wefundle.com) a platform video can be found on the homep
 #### Link to pitchdeck 
 
 #### Application architecture 
-<img width="1197" alt="image" src="https://user-images.githubusercontent.com/54183058/191704724-0d1d76bc-19a1-4494-b156-6b4fc9a114b3.png">
+<img width="597" alt="image" src="https://user-images.githubusercontent.com/54183058/191704724-0d1d76bc-19a1-4494-b156-6b4fc9a114b3.png">
 
 
 #### Application UI 
@@ -98,7 +97,6 @@ ________________________________________________________________________________
 To the best of our knowledge there are no similar projects in the Antelope or related ecosystems, there is only rally and deso who are applying a token bonding curve mechanism for community building of influencers. 
 
 ## Team
-
 ### Team members
 
 - **Team Leader:** Wiebe Hendriks
@@ -161,11 +159,9 @@ Zaisan has been around in EOSIO ecosystem for several years, formally known as E
 
 ## Development Status
 
-The application (non blockchain part) is tested right now with users on usability and bugs. It shows exactly how the first phase of the platform will work and look like. The blockchain integration is the last part to finish the application. 
+The application (non blockchain part) is tested right now with users on usability and bugs. It shows exactly how the first phase of the platform will work and look like. The blockchain integration is the last development part to finish the application. 
 
 ## Development Roadmap
-
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
 
 ### Milestone Summary
 
@@ -173,8 +169,7 @@ This section should break the development roadmap down into milestones and deliv
 - **Full-Time Equivalent (FTE):** 2 FTE
 - **Total Costs:** 250,000 USD
 
-The plan is to use this grant for the last phase of our development before we can launch. Namely the token bonding curve mechanism. We will use, customize and integrate the open source Balancer protocol. With this budget Fundle can finish the platform (blockchain + security), create brand awareness, build the team, launch the platform and further develop/improve features.
-
+The plan is to use this grant for the last phase before we can launch. Namely the token bonding curve mechanism. We will use, customize and integrate the open source Balancer protocol. With this budget Fundle can finish the platform (blockchain + security), create brand awareness, build the team, launch the platform and further develop/improve features.
 
 ### Milestone 1 - Balancer protocol customization
 
