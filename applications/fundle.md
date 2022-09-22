@@ -57,14 +57,19 @@ For a detailed explanation please visit: https://wefundle.com/ and https://wefun
 
 > We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
+On our website (https://wefundle.com) a platform video can be found on the homepage (red play button). This video will show how the application will look like and how it works!
+
+#### Link to pitchdeck 
+
+#### Application architecture 
+<img width="1197" alt="image" src="https://user-images.githubusercontent.com/54183058/191704724-0d1d76bc-19a1-4494-b156-6b4fc9a114b3.png">
+
 - Mock-ups/designs of any UI components
 - Data models of the core functionality
 - API specifications of the core functionality
 - An overview of the technology stack to be used
 - Documentation of core components, protocols, architecture, etc. to be deployed
 - PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
 ### Ecosystem Fit
 
@@ -116,6 +121,8 @@ To the best of our knowledge there are no similar projects in the Antelope or re
 - **Team Leader:** Wiebe Hendriks
 
 - Niels Snakenborg
+- Leo Frehe
+- Zaisan
 
 ### Legal Structure
 - **Registered Legal Entity:** We are in the initial process of registration
@@ -127,24 +134,30 @@ To the best of our knowledge there are no similar projects in the Antelope or re
 
 For the last 2 years we've together build the application.
 
-**Wiebe**
+**Wiebe Hendriks**
 
 Roles:
 - General management tasks, Software Development (Front-end, Blockchain), Marketing and Financial
 
-
 Background:
 - Industrial Engineering and Management at Eindhoven University of Technology
 
-**Niels**
+**Niels Snakenborg**
 
 Roles:
 - Software Development (Back-end, Blockchain) 
 
-
 Background:
 - Informatics
 - iOS & Web developer at Shareforce
+
+**Leo Frehe **
+
+Roles:
+- Business Advisor 
+
+Background:
+- TODO
 
 
 ### Team Org Repos
@@ -164,16 +177,12 @@ Background:
 
 - https://www.linkedin.com/in/wiebe-hendriks/
 - https://www.linkedin.com/in/niels-snakenborg-05a07661/
+- https://www.linkedin.com/in/leo-frehe-9433811/
 
 ## Development Status
 
-The application (non blockchain part) is tested right now with users on usability and bugs. It shows exactly how the first phase of the platform will work and look like. 
+The application (non blockchain part) is tested right now with users on usability and bugs. It shows exactly how the first phase of the platform will work and look like. The blockchain integration is the last part to finish the application. 
 
-On our website (https://wefundle.com) a platform video can be found on the homepage (red play button)
-
-Application Access
-URL: https://dev.wefundle.com/ 
-Please email to: wiebe.hendriks@wefundle.com for the login details to get access!
 
 ## Development Roadmap
 
@@ -195,44 +204,14 @@ For each milestone,
 
 ### Milestone Summary
 
-> Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
-> You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
-> of all of your Milestones.
-- **Total Estimated Duration:** 2 months 
+- **Total Estimated Duration:** 4 months 
 - **Full-Time Equivalent (FTE):** 2 FTE
-- **Total Costs:** 12,000 USD
+- **Total Costs:** 250,000 USD
 
-> Please note that this application is automatically parsed.<br/>
-> For the above fields, please only put the answer on that line.  If you want to add more information, please put it below these instructions.<br/>
-> Please remember to delete all lines that start with `>` as they are just instructions and not needed in the application submission.<br/>
-> 
-> Notes on above fields:
-> - Total Estimated Duration: Duration of the whole project (example: 2 months or 7 weeks)
-> - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
-> - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
-
-### Milestone 1 Example — Implement EOSIO Application
-
-- **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 8,000 USD
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Application interface to EOSIO | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
-| 3. | Caching layer | We will create a caching layer ... |  
-| 4. | API interface to our app | We will create an API that ... |  
+The plan is to use this grant for the last phase of our development before we can launch. Namely the token bonding curve mechanism. We will use, customize and integrate the open source Balancer protocol. With this budget Fundle can finish the platform (blockchain + security), create brand awareness, build the team, launch the platform and further develop/improve features.
 
 
-The plan is to use this grant for the last phase of our development before we can launch. Namely the token bonding curve mechanism. We will use, customize and integrate the open source Balancer protocol. 
-
-### Milestone 1 - Balancer Protocol customization & integration with Fundle and TrustEVM
+### Milestone 1 - Balancer Protocol customization & integration with application and TrustEVM
 
 The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. For the first step we will use USDT as the reserve token. Per community USDT will be bonded to the community token. When users send USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
 
@@ -265,6 +244,14 @@ Users can join communities bij sending USDC. They have 2 options to pay.
 
 ### Milestone 3 - Testing & Security
 We need to test the blockchain part of the application. Furthermore the whole application needs to be checked on security.
+
+- **Estimated Duration:** 1 month
+- **FTE:**  2
+- **Costs:** 4,000 USD
+
+
+### Milestone 3 - Marketing/Sales
+We made a marketing strategy with our marketing advisor about the go to market strategy!
 
 - **Estimated Duration:** 1 month
 - **FTE:**  2
@@ -305,12 +292,7 @@ We need to test the blockchain part of the application. Furthermore the whole ap
 - how you intend to use, enhance, promote and support your project in the short term, and
 - the team's long-term plans and intentions in relation to it.
 
-We see many expansion options for the Fundle platform and we will stay commited to it. We really believe in full tokenization and digital economies. In the coming years we will slowly move towards the adoption of digital economies.
-
-<img width="1435" alt="image" src="https://user-images.githubusercontent.com/54183058/189649676-14aa6444-441f-4b74-88a2-59106da86d8f.png">
-<img width="1435" alt="image" src="https://user-images.githubusercontent.com/54183058/189649713-d9425437-915a-4e72-89da-16154a709768.png">
-<img width="1435" alt="image" src="https://user-images.githubusercontent.com/54183058/189649742-fde0466b-28e8-46b9-8d77-e3844fa875a9.png">
-
+We see many expansion options for the Fundle platform and we will stay commited to it. We really believe in full tokenization and digital economies. In the coming years we will slowly move towards the adoption of digital economies. The roadmap can be found at:  https://wefundle.com/roadmap
 
 ## Additional Information
 
