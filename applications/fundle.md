@@ -174,7 +174,7 @@ The plan is to use this grant for the last phase before we can launch. Namely th
 
 ### Milestone 1 - Balancer protocol customization
 
-The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. For the first step we will use USDT as the reserve token. Per community USDT will be bonded to the community token. When users send USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
+The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. For the first step we will use USDC/USDT as the reserve token. Per community USDC/USDT will be bonded to the community token. When users send USDC/USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
 
 
 Documentation of how it works. This is the part that will be open source in our system!
