@@ -47,6 +47,10 @@ On our website (https://wefundle.com) a platform video can be found on the homep
 #### Application UI 
 <img width="1296" alt="image" src="https://user-images.githubusercontent.com/54183058/191728363-99844410-721e-4e51-ae91-471825e49806.png">
 
+#### Technical details
+
+Framework: Laravel (PHP)
+
 
 - Data models of the core functionality
 - API specifications of the core functionality
@@ -224,7 +228,7 @@ We would like to have a linear relationship between the price and supply of the 
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1. | Application interface to TrustEVM | We will create an integration layer (PHP wrapper) that integrates Trust EVM with our Laravel application. |  
+| 1. | Application interface to TrustEVM | We will create an integration layer (PHP RPC wrapper) that integrates Trust EVM with our Laravel application. This will be open source so that every Laravel application can integrate with TrustEVM |  
 
 
 ### Milestone 3 - Wallet and Fiat On Ramp Payment Integration
