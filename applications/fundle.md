@@ -161,6 +161,32 @@ Zaisan has been around in EOSIO ecosystem for several years, formally known as E
 
 The application (non blockchain part) is tested right now with users on usability and bugs. It shows exactly how the first phase of the platform will work and look like. The blockchain integration is the last development part to finish the application. 
 
+
+#### Articles
+
+Some relevant literature and articles about tokenized communities, community building and token bonding curves! 
+**Community building importance for businesses **
+
+https://peerboard.com/resources/online-community-statistics#engagement
+https://tribe.so/blog/30-online-community-stats-you-must-know-in-2019/
+https://www.linkedin.com/pulse/online-community-statistics-50-stats-know-2021-peerboard/
+
+**Tokenized Communities**
+
+https://www.thetilt.com/revenue/community-tokens-business-model
+https://coinvise.substack.com/p/crowdfunding-projects-through-social?s=r
+
+**Token bonding curves**
+
+https://medium.com/linum-labs/intro-to-bonding-curves-and-shapes-bf326bc4e11a
+https://billyrennekamp.medium.com/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5
+https://yos.io/2018/11/10/bonding-curves/
+https://www.linumlabs.com/articles/bonding-curves-the-what-why-and-shapes-behind-it
+https://medium.com/molecule-blog/token-bonding-curve-design-parameters-95d365cbec4f
+https://tokeneconomy.co/dynamic-token-bonding-curves-41d36e43befa
+
+
+
 ## Development Roadmap
 
 ### Milestone Summary
@@ -175,6 +201,7 @@ The plan is to use this grant for the last phase before we can launch. Namely th
 
 The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. For the first step we will use USDC/USDT as the reserve token. Per community USDC/USDT will be bonded to the community token. When users send USDC/USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
 
+We would like to have a linear relationship between the price and supply of the token. So, a reserve ratio = 0.5. Research showed that a linear curve is the best for long term organic growth. 
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
