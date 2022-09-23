@@ -48,7 +48,6 @@ On our website (https://wefundle.com) a platform video can be found on the homep
 <img width="1296" alt="image" src="https://user-images.githubusercontent.com/54183058/191728363-99844410-721e-4e51-ae91-471825e49806.png">
 
 
-- Mock-ups/designs of any UI components
 - Data models of the core functionality
 - API specifications of the core functionality
 - An overview of the technology stack to be used
@@ -177,19 +176,12 @@ The plan is to use this grant for the last phase before we can launch. Namely th
 The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. For the first step we will use USDC/USDT as the reserve token. Per community USDC/USDT will be bonded to the community token. When users send USDC/USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
 
 
-Documentation of how it works. This is the part that will be open source in our system!
-
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** which will show how the new functionality works. |
+| 0b. | Documentation | We will provide both **inline documentation** of the code. This part of the application will be open source |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Application interface to EOSIO | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
-| 3. | Caching layer | We will create a caching layer ... |  
-| 4. | API interface to our app | We will create an API that ... |  
 
 
 - **Estimated Duration:** 1 month
@@ -201,8 +193,14 @@ Documentation of how it works. This is the part that will be open source in our 
 - **FTE:**  2
 - **Costs:** 4,000 USD
 
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | Application interface to TrustEVM | We will create an integration layer (PHP wrapper) that integrates Trust EVM with our Laravel application. |  
+
+
 ### Milestone 3 - Wallet and Fiat On Ramp Payment Integration
-Users can join communities bij sending USDC. They have 2 options to pay.
+Users can join communities bij sending USDC/USDT. They have 2 options to pay.
 - Connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) 
 - Fiat via payment gateways (for ex. Moonpay, ramp, onramper, mercuryo)
 
