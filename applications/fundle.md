@@ -33,7 +33,6 @@ This grant will be used to fund the integration of TrustEVM, to customize the Ba
 - **Relationship to EOSIO:** We are planning to run the token bonding curve mechanism/AMM on TrustEVM!
 - **Reason for Interest:** Blockchain allows us to revolutionize and strengthen the position of the community. We truly believe in the added value of Antelope, so we would like to utilize the benefits of high throughput and low transaction costs for our users. With the entrance of the ENF, we see that many good developments are going on, and therefore we have trust in Antelope for the future!
 
-
 ### Project Details
 
 On our website (https://wefundle.com) a platform video can be found on the homepage (red play button). This video will show how the application will look like and how it works!
@@ -205,7 +204,9 @@ The plan is to use this grant for the last phase before we can launch. Namely th
 
 The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. For the first step we will use USDC/USDT as the reserve token. Per community USDC/USDT will be bonded to the community token. When users send USDC/USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
 
-We would like to have a linear relationship between the price and supply of the token. So, a reserve ratio = 0.5. Research showed that a linear curve is the best for long term organic growth. 
+We want to bridge to Antelope (via Trust EVM) because of the benefits (transaction speed, low costs etc.). However, we would like to use an Ethereum protocol because of better integration with popular wallets (coinbase, metamask) and with fiat gateways. Payment accessibility is of high importance for our platform.
+
+Link to Balancer customization: 
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
