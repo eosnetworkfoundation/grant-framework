@@ -165,7 +165,8 @@ The application (non blockchain part) is tested right now with users on usabilit
 #### Articles
 
 Some relevant literature and articles about tokenized communities, community building and token bonding curves! 
-**Community building importance for businesses **
+
+**Community building importance for businesses**
 
 - https://peerboard.com/resources/online-community-statistics#engagement
 - https://tribe.so/blog/30-online-community-stats-you-must-know-in-2019/
