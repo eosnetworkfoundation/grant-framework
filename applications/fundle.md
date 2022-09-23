@@ -30,7 +30,7 @@ This grant will be used to fund the integration of TrustEVM, to customize the Ba
 
   For a detailed explanation please visit: https://wefundle.com/ and https://wefundle.com/about
 
-- **Relationship to EOSIO:** We are planning to run the token bonding curve mechanism and AMM on TrustEVM!
+- **Relationship to EOSIO:** We are planning to run the token bonding curve mechanism/AMM on TrustEVM!
 - **Reason for Interest:** Blockchain allows us to revolutionize and strengthen the position of the community. We truly believe in the added value of Antelope, so we would like to utilize the benefits of high throughput and low transaction costs for our users. With the entrance of the ENF, we see that many good developments are going on, and therefore we have trust in Antelope for the future!
 
 
@@ -167,23 +167,23 @@ The application (non blockchain part) is tested right now with users on usabilit
 Some relevant literature and articles about tokenized communities, community building and token bonding curves! 
 **Community building importance for businesses **
 
-https://peerboard.com/resources/online-community-statistics#engagement
-https://tribe.so/blog/30-online-community-stats-you-must-know-in-2019/
-https://www.linkedin.com/pulse/online-community-statistics-50-stats-know-2021-peerboard/
+- https://peerboard.com/resources/online-community-statistics#engagement
+- https://tribe.so/blog/30-online-community-stats-you-must-know-in-2019/
+- https://www.linkedin.com/pulse/online-community-statistics-50-stats-know-2021-peerboard/
 
 **Tokenized Communities**
 
-https://www.thetilt.com/revenue/community-tokens-business-model
-https://coinvise.substack.com/p/crowdfunding-projects-through-social?s=r
+- https://www.thetilt.com/revenue/community-tokens-business-model
+- https://coinvise.substack.com/p/crowdfunding-projects-through-social?s=r
 
 **Token bonding curves**
 
-https://medium.com/linum-labs/intro-to-bonding-curves-and-shapes-bf326bc4e11a
-https://billyrennekamp.medium.com/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5
-https://yos.io/2018/11/10/bonding-curves/
-https://www.linumlabs.com/articles/bonding-curves-the-what-why-and-shapes-behind-it
-https://medium.com/molecule-blog/token-bonding-curve-design-parameters-95d365cbec4f
-https://tokeneconomy.co/dynamic-token-bonding-curves-41d36e43befa
+- https://medium.com/linum-labs/intro-to-bonding-curves-and-shapes-bf326bc4e11a
+- https://billyrennekamp.medium.com/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5
+- https://yos.io/2018/11/10/bonding-curves/
+- https://www.linumlabs.com/articles/bonding-curves-the-what-why-and-shapes-behind-it
+- https://medium.com/molecule-blog/token-bonding-curve-design-parameters-95d365cbec4f
+- https://tokeneconomy.co/dynamic-token-bonding-curves-41d36e43befa
 
 
 
