@@ -41,7 +41,7 @@ On our website (https://wefundle.com) a platform video can be found on the homep
 #### Link to pitchdeck 
 
 #### Application architecture 
-![image](https://user-images.githubusercontent.com/54183058/191967057-c9a479ec-080b-4449-af3f-3846bbe6e62d.png)
+<img width="596" alt="image" src="https://user-images.githubusercontent.com/54183058/191967057-c9a479ec-080b-4449-af3f-3846bbe6e62d.png">
 
 #### Application UI 
 <img width="1296" alt="image" src="https://user-images.githubusercontent.com/54183058/191728363-99844410-721e-4e51-ae91-471825e49806.png">
