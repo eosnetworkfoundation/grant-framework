@@ -131,11 +131,10 @@ Background:
 
 **Leo Frehe**
 
-Roles:
+Role:
 - Business Advisor 
 
-Background:
-- TODO
+Over 20 years proven track record in senior/executive roles within both IT and business consultancy. From Professional- and Software Services to Manages Services and IP Solutions. Leading Sales and Delivery teams. With a passion for driving demonstrable results through leadership and teamwork. I have high energy and passion for business, business technology & innovation.
 
 **Zaisan**
 
