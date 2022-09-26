@@ -42,7 +42,7 @@ Our team has an ambitious long-term commitment to make Fundle the most popular a
 
 We see an interesting opportunity in the crowdfunding and community-building market. In these markets involvement and interaction are essential for success. With the entrance of web3, we can strengthen and improve these factors. 
 
-21 million users, $6,8 billion dollars pledged, and 227,000 projects funded. These are Kickstarter's stats and represent only 21.21% of the crowdfunding market. Over the last years this market has proven to be a successful formula for funding products. However, there is little involvement, interaction, and control for backers. The success rate of crowdfunding can be improved by intensive community building and working together. 
+21 million users, $6,8 billion dollars pledged, and 227,000 projects funded. These are Kickstarter's stats and represent only 21.21% of the crowdfunding market. Over the last years this market has proven to be a successful formula for funding products. However, there is little involvement, interaction, and control for backers. Furthermore the success rate of crowdfunding can be improved by intensive community building and working together. 
 
 For businesses, the top 3 benefits of an online community are customer loyalty, reduction in support costs and branding and awareness. 70% of communities positively affect the brand and company culture. Companies with online communities are 60% more profitable than companies that don’t focus on online communities.
 
