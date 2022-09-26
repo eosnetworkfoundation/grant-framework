@@ -80,7 +80,7 @@ Framework: Laravel (PHP)
   - Democratic fundraising mechanism where members have control over the collected money. (Mechanism will be included in the future)
 
   #### For businesses:
-  From business perspective, much more can be gained from a community (skills, opinions, etc.). An involved and active community will result in loyal customers, a reduction in support costs and an increase in brand awareness and trust. This will positively affect the profit and success of the business.
+  Research showed that for large businesses, active participation, involvement and engagement remains difficult and for small businesses building and       managing communities remains difficult and a barrier. From believe that from business perspective, much more can be gained from a community (skills,       opinions, etc.). An involved and active community will result in loyal customers, a reduction in support costs and an increase in brand awareness and     trust. This will positively affect the profit and success of the business.
 
   Therefore, Fundle offers:
   - Stronger and intenser community building thanks to the community token model. 
