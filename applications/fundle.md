@@ -37,12 +37,11 @@ https://fundlecontent.ams3.digitaloceanspaces.com/website/Videos/Promo%20Video%2
 
 ### Project Details
 
-
 Our team has an ambitious long-term commitment to make Fundle the most popular all-in-one platform for community building, managing, and crowdfunding. 
 
 We see an interesting opportunity in the crowdfunding and community-building market. In these markets involvement and interaction are essential for success. With the entrance of web3, we can strengthen and improve these factors. 
 
-21 million users, $6,8 billion dollars pledged, and 227,000 projects funded. These are Kickstarter's stats and represent only 21.21% of the crowdfunding market. Over the last years this market has proven to be a successful formula for funding products. However, there is little involvement, interaction, and control for backers. Furthermore the success rate of crowdfunding can be improved by intensive community building and working together. 
+21 million users, $6,8 billion dollars pledged, and 227,000 projects funded. These are Kickstarter's stats and represent only 21.21% of the crowdfunding market, this means a total of 100 million users. Over the last years this market has proven to be a successful formula for funding products. However, there is little involvement, interaction, and control for backers. Furthermore the success rate of crowdfunding can be improved by intensive community building and working together. 
 
 For businesses, the top 3 benefits of an online community are customer loyalty, reduction in support costs and branding and awareness. 70% of communities positively affect the brand and company culture. Companies with online communities are 60% more profitable than companies that do not focus on online communities.
 
@@ -50,7 +49,7 @@ An average member contributes $67 of worth yearly to the community. 33% of organ
 
 Active participation, involvement, and engagement remains difficult for large businesses. 55% of community professionals find it difficult to consistently engage members when running online communities.  For small businesses building and managing communities remains challenging and a barrier.
 
-These market trends and opportunities form the basis of the Fundle platform. We can revolutionize this landscape by combining the benefits of these markets and blockchain. The way of community building and fundraising needs to be redeveloped to let it reach its maximum potential. We believe that building long-term relationships is essential for this. Our community token model allows businesses to reward members and engage with them more closely than before. Gaining more value from the community for both business and members is what Fundle stands for.
+These market trends and opportunities form the basis of the Fundle platform. We can revolutionize this landscape by combining the benefits of these markets and blockchain. The way of community building and fundraising needs to be redeveloped to let it reach its maximum potential. We believe that building long-term relationships is essential for this. Our community token model allows businesses to reward members and engage with them more closely than before. We will move towards a heavily interactive environment based on open business participation. The community can help tackling issues and be paid out in tokens. Gaining more value from the community for both business and members is what Fundle stands for.
 
 #### Link to pitchdeck 
 
@@ -228,36 +227,28 @@ We want to bridge to Antelope (via Trust EVM) because of the benefits (transacti
 
 - **Estimated Duration:** 1 month
 - **FTE:**  1
-- **Costs:** 4,000 USD
+- **Costs:** 10,000 USD
 
 ### Milestone 2 - Balancer protocol integration with application and TrustEVM
 - **Estimated Duration:** 1 month
 - **FTE:**  2
-- **Costs:** 4,000 USD
+- **Costs:** 10,000 USD
 
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1. | Application interface to TrustEVM | We will create an integration layer (PHP RPC wrapper) that integrates Trust EVM with our Laravel application. This will be open source so that every Laravel application can integrate with TrustEVM |  
+| 1a. | Application interface to TrustEVM | We will create an integration layer (PHP RPC wrapper) that integrates Trust EVM with our Laravel application. This will be open source so that every Laravel application can integrate with TrustEVM |  
+| 1b. | Integration | Users can join communities bij sending USDC/USDT. They have 2 options to pay: Connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) or with fiat gateways (for ex. Moonpay, mercuryo)  |
 
 
-### Milestone 3 - Wallet and Fiat On Ramp Payment Integration
-Users can join communities bij sending USDC/USDT. They have 2 options to pay.
-- Connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) 
-- Fiat via payment gateways (for ex. Moonpay, ramp, onramper, mercuryo)
-
-- **Estimated Duration:** 1 month
-- **FTE:**  2
-- **Costs:** 4,000 USD
-
-### Milestone 4 - Testing & Security
-We need to test the blockchain part of the application. Furthermore the whole application needs to be checked on security.
+### Milestone 3 - Application, Testing & Security
+We need to test the blockchain part of the application. Furthermore the whole application needs to be checked on security. We will improve our features so that users can have more interaction (and so more transactions on the Antelope Blockchain).
 
 - **Estimated Duration:** 1 month
 - **FTE:**  2
-- **Costs:** 10,000 USD
+- **Costs:** 25,000 USD
 
-### Milestone 5 - Marketing/Sales
+### Milestone 4 - Marketing/Sales
 We made a marketing strategy with our marketing advisor about the go to market strategy! This includes total costs for the promotion of the platform and hiring of working students as (digital) marketer/communication and business developer/sales. Some details of the sales/marketing plan can be found in the pitchdeck.
 
 - **Estimated Duration:** 12 months
