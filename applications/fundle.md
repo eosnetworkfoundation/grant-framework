@@ -18,7 +18,11 @@
 ## Project Overview
 
 This grant will be used to fund the integration of TrustEVM, to customize the Balancer protocol and to launch the platform. 
-  
+
+#### Platform video 
+This video will show how the application will look like and how Fundle works!
+https://fundlecontent.ams3.digitaloceanspaces.com/website/Videos/Promo%20Video%20Fundle.mp4
+
 ### Overview
 
 - **Name:** Fundle
@@ -33,9 +37,6 @@ This grant will be used to fund the integration of TrustEVM, to customize the Ba
 
 ### Project Details
 
-#### Platform video 
-This video will show how the application will look like and how Fundle works!
-https://fundlecontent.ams3.digitaloceanspaces.com/website/Videos/Promo%20Video%20Fundle.mp4
 
 Our team has an ambitious long-term commitment to make Fundle the most popular all-in-one platform for community building, managing, and crowdfunding. 
 
