@@ -69,28 +69,28 @@ Framework: Laravel (PHP)
 
 - What need(s) does your project meet?
 
-#### For members:
-Current platforms lack real community involvement and interaction. Members cannot really be "part of" and there is little interaction. Furthermore, both business and members cannot always have fair benefits (social and/or economical).
+  #### For members:
+  Current platforms lack real community involvement and interaction. Members cannot really be "part of" and there is little interaction. Furthermore, both business and members cannot always have fair benefits (social and/or economical).
 
-Therefore, Fundle offers:
-- Exclusive membership with access to special perks and experiences. Members are proud token holders of the community.
-- Involvement and interaction with the business. 
-- More members entering the community can lead to an increase in personal token value.
-- Creatives can work for the community in exchange for community tokens. For example, website or logo design, (social media) marketing, video or picture creation/editing, etc.
-- Democratic fundraising mechanism where members have control over the collected money. (Mechanism will be included in the future)
+  Therefore, Fundle offers:
+  - Exclusive membership with access to special perks and experiences. Members are proud token holders of the community.
+  - Involvement and interaction with the business. 
+  - More members entering the community can lead to an increase in personal token value.
+  - Creatives can work for the community in exchange for community tokens. For example, website or logo design, (social media) marketing, video or picture creation/editing, etc.
+  - Democratic fundraising mechanism where members have control over the collected money. (Mechanism will be included in the future)
 
-#### For businesses:
-From business perspective, much more can be gained from a community (skills, opinions, etc.). An involved and active community will result in loyal customers, a reduction in support costs and an increase in brand awareness and trust. This will positively affect the profit and success of the business.
+  #### For businesses:
+  From business perspective, much more can be gained from a community (skills, opinions, etc.). An involved and active community will result in loyal customers, a reduction in support costs and an increase in brand awareness and trust. This will positively affect the profit and success of the business.
 
-Therefore, Fundle offers:
-- Stronger and intenser community building thanks to the community token model. 
-  - Incentivize members to engage and promote the business more than ever because members have economic & social incentives to help the business succeed.     This makes it a very effective marketing tool.
-  - Stimulates members to participate and think actively.
-  - Offering new types of rewards.
-- Access to the skills and opinions of a whole community to help grow and improve the business and product.
-  - The system enables to unlock new forms of product creation and working, namely together with members.
-- Building of a digital economy. The market cap of the tokens gives a good representation of the value that the community is worth. Community will grow not only by its members but also in value.
-- Flexible funding with multiple funding rounds and direct access to part of the funds. (Mechanism will be included in the future)
+  Therefore, Fundle offers:
+  - Stronger and intenser community building thanks to the community token model. 
+    - Incentivize members to engage and promote the business more than ever because members have economic & social incentives to help the business              succeed. This makes it a very effective marketing tool.
+    - Stimulates members to participate and think actively.
+    - Offering new types of rewards.
+  - Access to the skills and opinions of a whole community to help grow and improve the business and product.
+    - The system enables to unlock new forms of product creation and working, namely together with members.
+  - Building of a digital economy. The market cap of the tokens gives a good representation of the value that the community is worth. Community will grow not only by its members but also in value.
+  - Flexible funding with multiple funding rounds and direct access to part of the funds. (Mechanism will be included in the future)
 
 __________________________________________________________________________________________________________________________________________________________
 
