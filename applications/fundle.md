@@ -28,14 +28,15 @@ This grant will be used to fund the integration of TrustEVM, to customize the Ba
 
   For a detailed explanation please visit: https://wefundle.com/ and https://wefundle.com/about
   
-  #### Platform video 
-  This video will show how the application will look like and how Fundle works!
-  https://fundlecontent.ams3.digitaloceanspaces.com/website/Videos/Promo%20Video%20Fundle.mp4
-
 - **Relationship to EOSIO:** We are planning to run the token bonding curve mechanism/AMM on TrustEVM!
 - **Reason for Interest:** Blockchain allows us to revolutionize and strengthen the position of the community. We truly believe in the added value of Antelope, so we would like to utilize the benefits of high throughput and low transaction costs for our users. With the entrance of the ENF, we see that many good developments are going on, and therefore we have trust in Antelope for the future!
 
 ### Project Details
+
+#### Platform video 
+This video will show how the application will look like and how Fundle works!
+https://fundlecontent.ams3.digitaloceanspaces.com/website/Videos/Promo%20Video%20Fundle.mp4
+
 Our team has an ambitious long-term commitment to make Fundle the most popular all-in-one platform for community building, managing, and crowdfunding. 
 
 We see an interesting opportunity in the crowdfunding and community-building market. In these markets involvement and interaction are essential for success. With the entrance of web3, we can strengthen and improve these factors. 
