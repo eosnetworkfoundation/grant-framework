@@ -86,7 +86,7 @@ Framework: Laravel (PHP)
   - Stronger and intenser community building thanks to the community token model. 
     - Incentivize members to engage and promote the business more than ever because members have economic & social incentives to help the business              succeed. This makes it a very effective marketing tool.
     - Stimulates members to participate and think actively.
-    - Offering new types of rewards.
+    - Offering new types of rewards (digital assets or experiences).
   - Access to the skills and opinions of a whole community to help grow and improve the business and product.
     - The system enables to unlock new forms of product creation and working, namely together with members.
   - Building of a digital economy. The market cap of the tokens gives a good representation of the value that the community is worth. Community will grow not only by its members but also in value.
