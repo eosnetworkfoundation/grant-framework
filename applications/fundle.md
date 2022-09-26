@@ -24,9 +24,7 @@ This grant will be used to fund the integration of TrustEVM, to customize the Ba
 - **Name:** Fundle
 - **Brief Description:** 
 
-  Fundle is a platform where businesses can build tokenized communities to increase customer engagement! We allow businesses to build strong long-term       relationships, offer new customer experiences and gain more out of a community.
-
-  Each business has its own token to build a community and digital economy. Holders of that token (members) can unlock specific rewards, experiences, or     involvement. Every community is unique since it has different types of rewards or involvements.
+  Fundle is a platform where businesses can build and manage tokenized communities to increase customer engagement! We allow businesses to build stronger   long-term relationships, offer new customer experiences and gain more out of a community. Businesses can offer a broader set of rewards to its  most       loyal customers while gaining promotion and feedback from them. Each business has its own token to build a digital community and economy. Holders of       that token (members) can unlock specific rewards, experiences, interaction or involvement. The model allows the community to be rewarded for the value     they’re helping create in the business.
 
   For a detailed explanation please visit: https://wefundle.com/ and https://wefundle.com/about
 
@@ -35,7 +33,7 @@ This grant will be used to fund the integration of TrustEVM, to customize the Ba
 
 ### Project Details
 
-On our website (https://wefundle.com) a platform video can be found on the homepage (red play button). This video will show how the application will look like and how it works!
+On our website (https://wefundle.com) a platform video can be found at the homepage (red play button). This video will show how the application will look like and how Fundle works!
 
 #### Link to pitchdeck 
 
@@ -60,42 +58,44 @@ Framework: Laravel (PHP)
 
 - Where and how does your project fit into the ecosystem?
 
-Our platform will run on the Antelope blockchain, this brings lots of new users (also non/new crypto users) who will interact and get to know the Antelope blockchain. The contracts of Fundle will be deployed on the TrustEVM and so Antelope network. Fundle shows others what possibilities TrustEVM/Antelope has and that it is possible to build these platforms on the Antelope blockchain! We can be an use case for TrustEVM. In the next phases we will extend and build the system further out with new features such as curve customization. 
+  Our platform will run on the Antelope blockchain, this brings lots of new users (also non/new crypto users) who will interact and get to know the         Antelope blockchain. The contracts of Fundle will be deployed on the TrustEVM and so Antelope network. Fundle shows others what possibilities             TrustEVM/Antelope has and that it is possible to build these platforms on the Antelope blockchain! We can be a perfect use case for TrustEVM. 
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
-Our focus is on innovative and creative businesses with existing communities who like to have more interaction with their fanbase or startups who want to build a community. On the other side we have members, we are targetting also on members who have never used blockchain before (therefore payment accesibility with fiat on ramps is important for us). The system is going to be easy understandable and customer friendly. In our future plans when people can work for communities we will also be targetting creatives/freelancers. So, it is a platform that is useful and interesting for a wide range of people.
+  Our focus is on two types of customers. Innovative and creative businesses with existing communities who like to have more interaction with their         fanbase to gain more (value) from their community or offer new customer experiences. Or startups who want to build, grow and manage their                 community/business. 
+
+  On the other side we have members, we are targetting also on members who have never used blockchain before (therefore payment accesibility with fiat on   ramps is important for us). The system is going to be easy understandable and customer friendly. In our future plans when people can work for             communities we will also be targetting creatives/freelancers. So, it is a platform that is useful and interesting for a wide range of people.
 
 
 - What need(s) does your project meet?
 
 #### For members:
-Current community building and crowdfunding platforms lack real community involvement. Members cannot really be "part of" and there is little interaction. Furthermore, both business and members cannot always have fair benefits (social and/or economical).
+Current platforms lack real community involvement and interaction. Members cannot really be "part of" and there is little interaction. Furthermore, both business and members cannot always have fair benefits (social and/or economical).
 
 Therefore, Fundle offers:
-- Exclusive membership with access to special perks, experiences, and more community benefits. Members are proud token holders of the community.
-- Involvement and interaction with the business. Members won't simply support the business financially but can be involved in the design process for example.
+- Exclusive membership with access to special perks and experiences. Members are proud token holders of the community.
+- Involvement and interaction with the business. 
 - More members entering the community can lead to an increase in personal token value.
 - Creatives can work for the community in exchange for community tokens. For example, website or logo design, (social media) marketing, video or picture creation/editing, etc.
-- Democratic fundraising mechanism in which members have control over the collected money. (Mechanism will be included in the future)
+- Democratic fundraising mechanism where members have control over the collected money. (Mechanism will be included in the future)
 
 #### For businesses:
-From business perspective, much more can be gained from a community (skills, opinions, etc.). An involved and active community will result in happy, returning customers that increase brand awareness and trust. This will positively affect the profit and success of the business.
+From business perspective, much more can be gained from a community (skills, opinions, etc.). An involved and active community will result in loyal customers, a reduction in support costs and an increase in brand awareness and trust. This will positively affect the profit and success of the business.
 
 Therefore, Fundle offers:
 - Stronger and intenser community building thanks to the community token model. 
-  - Incentivize members to engage and promote the business more than ever because members have economic & social incentives to help the business succeed.
+  - Incentivize members to engage and promote the business more than ever because members have economic & social incentives to help the business succeed.     This makes it a very effective marketing tool.
   - Stimulates members to participate and think actively.
-- Access to the skills of a whole community to help grow and improve the business.
+  - Offering new types of rewards.
+- Access to the skills and opinions of a whole community to help grow and improve the business and product.
   - The system enables to unlock new forms of product creation and working, namely together with members.
 - Building of a digital economy. The market cap of the tokens gives a good representation of the value that the community is worth. Community will grow not only by its members but also in value.
 - Flexible funding with multiple funding rounds and direct access to part of the funds. (Mechanism will be included in the future)
 
-
 __________________________________________________________________________________________________________________________________________________________
 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
-To the best of our knowledge there are no similar projects in the Antelope or related ecosystems, there is only rally and deso who are applying a token bonding curve mechanism for community building of influencers. 
+  To the best of our knowledge there are no similar projects in the Antelope or related ecosystems.
 
 ## Team
 ### Team members
@@ -113,17 +113,12 @@ To the best of our knowledge there are no similar projects in the Antelope or re
 ### Team Experience
 
 **Wiebe Hendriks**
-
-Roles:
-- General management tasks, Software Development (Front-end, Blockchain), Marketing and Financial
-
-Background:
-- Industrial Engineering and Management at Eindhoven University of Technology
+Role: CEO
+An ambitious and enthusiastic person with an entrepreneurial and problem-solving mindset. Strong affinity with innovation and IT. Likes to go the extra mile. I have a background in Industrial Engineering and Management at Eindhoven University of Technology. Within Fundle I am focusing on general tasks (strategy, product design), Software Development (Front-end, Blockchain), Marketing and Financial.
 
 **Niels Snakenborg**
 
-Roles:
-- Software Development (Back-end, Blockchain) 
+Role: Software Developer 
 
 Background:
 - Informatics
@@ -131,8 +126,7 @@ Background:
 
 **Leo Frehe**
 
-Role:
-- Business Advisor 
+Role: Business Advisor 
 
 Over 20 years proven track record in senior/executive roles within both IT and business consultancy. From Professional- and Software Services to Manages Services and IP Solutions. Leading Sales and Delivery teams. With a passion for driving demonstrable results through leadership and teamwork. I have high energy and passion for business, business technology & innovation.
 
@@ -162,7 +156,6 @@ Zaisan has been around in EOSIO ecosystem for several years, formally known as E
 
 The application (non blockchain part) is tested right now with users on usability and bugs. It shows exactly how the first phase of the platform will work and look like. The blockchain integration is the last development part to finish the application. 
 
-
 #### Articles
 
 Some relevant literature and articles about tokenized communities, community building and token bonding curves! 
@@ -188,7 +181,6 @@ Some relevant literature and articles about tokenized communities, community bui
 - https://tokeneconomy.co/dynamic-token-bonding-curves-41d36e43befa
 
 
-
 ## Development Roadmap
 
 ### Milestone Summary
@@ -197,11 +189,11 @@ Some relevant literature and articles about tokenized communities, community bui
 - **Full-Time Equivalent (FTE):** 2 FTE
 - **Total Costs:** 250,000 USD
 
-The plan is to use this grant for the last phase before we can launch. Namely the token bonding curve mechanism. We will use, customize and integrate the open source Balancer protocol. With this budget Fundle can finish the platform (blockchain + security), create brand awareness, build the team, launch the platform and further develop/improve features.
+The plan is to use this grant for the last phase before we can launch. We will use, customize and integrate the open source Balancer protocol. With this budget Fundle can finish the platform (blockchain + security), create brand awareness, build the team, launch the platform and further develop/improve features.
 
 ### Milestone 1 - Balancer protocol customization
 
-The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. For the first step we will use USDC/USDT as the reserve token. Per community USDC/USDT will be bonded to the community token. When users send USDC/USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
+The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. USDC/USDT will be the reserve token so per community USDC/USDT will be bonded to the community token. When users send USDC/USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
 
 We want to bridge to Antelope (via Trust EVM) because of the benefits (transaction speed, low costs etc.). However, we would like to use an Ethereum protocol because of better integration with popular wallets (coinbase, metamask) and with fiat gateways. Payment accessibility is of high importance for our platform.
 
@@ -216,7 +208,7 @@ Link to Balancer customization:
 
 
 - **Estimated Duration:** 1 month
-- **FTE:**  2
+- **FTE:**  1
 - **Costs:** 4,000 USD
 
 ### Milestone 2 - Balancer protocol integration with application and TrustEVM
@@ -246,7 +238,6 @@ We need to test the blockchain part of the application. Furthermore the whole ap
 - **Estimated Duration:** 1 month
 - **FTE:**  2
 - **Costs:** 4,000 USD
-
 
 ### Milestone 5 - Marketing/Sales
 We made a marketing strategy with our marketing advisor about the go to market strategy!
