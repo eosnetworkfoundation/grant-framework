@@ -27,15 +27,28 @@ This grant will be used to fund the integration of TrustEVM, to customize the Ba
   Fundle is a platform where businesses can build and manage tokenized communities to increase customer engagement! We allow businesses to build stronger   long-term relationships, offer new customer experiences and gain more out of a community. Businesses can offer a broader set of rewards to its  most       loyal customers while gaining promotion and feedback from them. Each business has its own token to build a digital community and economy. Holders of       that token (members) can unlock specific rewards, experiences, interaction or involvement. The model allows the community to be rewarded for the value     they’re helping create in the business.
 
   For a detailed explanation please visit: https://wefundle.com/ and https://wefundle.com/about
+  
+  #### Platform video 
+  This video will show how the application will look like and how Fundle works!
+  https://fundlecontent.ams3.digitaloceanspaces.com/website/Videos/Promo%20Video%20Fundle.mp4
 
 - **Relationship to EOSIO:** We are planning to run the token bonding curve mechanism/AMM on TrustEVM!
 - **Reason for Interest:** Blockchain allows us to revolutionize and strengthen the position of the community. We truly believe in the added value of Antelope, so we would like to utilize the benefits of high throughput and low transaction costs for our users. With the entrance of the ENF, we see that many good developments are going on, and therefore we have trust in Antelope for the future!
 
 ### Project Details
+Our team has an ambitious long-term commitment to make Fundle the most popular all-in-one platform for community building, managing, and crowdfunding. 
 
-#### Platform video 
-This video will show how the application will look like and how Fundle works!
-https://fundlecontent.ams3.digitaloceanspaces.com/website/Videos/Promo%20Video%20Fundle.mp4
+We see an interesting opportunity in the crowdfunding and community-building market. In these markets involvement and interaction are essential for success. With the entrance of web3, we can strengthen and improve these factors. 
+
+21 million users, $6,8 billion dollars pledged, and 227000 projects funded. These are Kickstarter's stats and represent only 21.21% of the crowdfunding market. Over the last years this market has proven to be a successful formula for funding products. However, there is little involvement, interaction, and control for backers. The success rate of crowdfunding can be improved by intensive community building and working together. 
+
+For businesses, the top 3 benefits of an online community are customer loyalty, reduction in support costs and branding and awareness. 70% of communities positively affect the brand and company culture. Companies with online communities are 60% more profitable than companies that don’t focus on online communities.
+
+An average member contributes $67 of worth yearly to the community. 33% of organizations with an online community have 10,000 or more members. In the coming years, the social business market will potentially grow with a CAGR of 30.8% to 7 trillion by 2030. Community building is becoming an increasingly important topic for businesses. 
+
+Active participation, involvement, and engagement remains difficult for large businesses. 55% of community professionals find it difficult to consistently engage members when running online communities.  For small businesses building and managing communities remains challenging and a barrier.
+
+These markets and opportunity form the basis of the Fundle platform. We can revolutionize this landscape by combining the benefits of these markets and blockchain. Our community token model allows businesses to reward members and engage with them more closely than before. Gaining more value from the community for both business and members is what Fundle stands for.
 
 #### Link to pitchdeck 
 
