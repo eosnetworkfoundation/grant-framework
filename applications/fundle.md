@@ -49,7 +49,6 @@ https://fundlecontent.ams3.digitaloceanspaces.com/website/Videos/Promo%20Video%2
 
 Framework: Laravel (PHP)
 
-
 - Data models of the core functionality
 - API specifications of the core functionality
 - An overview of the technology stack to be used
@@ -82,7 +81,7 @@ Framework: Laravel (PHP)
   - Democratic fundraising mechanism where members have control over the collected money. (Mechanism will be included in the future)
 
   #### For businesses:
-  Research showed that for large businesses, active participation, involvement and engagement remains difficult and for small businesses building and       managing communities remains difficult and a barrier. From believe that from business perspective, much more can be gained from a community (skills,       opinions, etc.). An involved and active community will result in loyal customers, a reduction in support costs and an increase in brand awareness and     trust. This will positively affect the profit and success of the business.
+  From business perspective, much more can be gained from a community (skills,       opinions, etc.). An involved and active community will result in loyal customers, a reduction in support costs and an increase in brand awareness and     trust. This will positively affect the profit and success of the business.
 
   Therefore, Fundle offers:
   - Stronger and intenser community building thanks to the community token model. 
@@ -204,8 +203,6 @@ The protocol will allow users to buy/sell tokens per community according to a to
 
 We want to bridge to Antelope (via Trust EVM) because of the benefits (transaction speed, low costs etc.). However, we would like to use an Ethereum protocol because of better integration with popular wallets (coinbase, metamask) and with fiat gateways. Payment accessibility is of high importance for our platform.
 
-Link to Balancer customization: 
-
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
@@ -233,7 +230,6 @@ Link to Balancer customization:
 Users can join communities bij sending USDC/USDT. They have 2 options to pay.
 - Connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) 
 - Fiat via payment gateways (for ex. Moonpay, ramp, onramper, mercuryo)
-
 
 - **Estimated Duration:** 1 month
 - **FTE:**  2
