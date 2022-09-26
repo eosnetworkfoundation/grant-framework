@@ -116,7 +116,7 @@ ________________________________________________________________________________
 
 Role: CEO
 
-An ambitious and enthusiastic person with an entrepreneurial and problem-solving mindset. Strong affinity with innovation and IT. Likes to go the extra mile. I have a background in Industrial Engineering and Management at Eindhoven University of Technology. Within Fundle I am focusing on general tasks (strategy, product design), Software Development (Front-end, Blockchain), Marketing and Financial.
+An ambitious and enthusiastic person with an entrepreneurial and problem-solving mindset. Strong affinity with innovation and IT. Likes to go the extra mile. I have a background in Industrial Engineering and Management at Eindhoven University of Technology. Within Fundle I am focusing on general tasks (strategy, product design/functionalities), Software Development (Front-end, Blockchain), Marketing and Financial.
 
 **Niels Snakenborg**
 
