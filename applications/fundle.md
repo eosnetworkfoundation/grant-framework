@@ -238,7 +238,7 @@ We want to bridge to Antelope (via Trust EVM) because of the benefits (transacti
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 1a. | Application interface to TrustEVM | We will create an integration layer (PHP RPC wrapper) that integrates Trust EVM with our Laravel application. This will be open source so that every Laravel application can integrate with TrustEVM |  
-| 1b. | Integration | Users can join communities bij sending USDC/USDT. They have 2 options to pay: Connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) or with fiat gateways (for ex. Moonpay, mercuryo)  |
+| 1b. | Payment integration | Users can join communities bij sending USDC/USDT. They have 2 options to pay: Connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) or with fiat gateways (for ex. Moonpay, mercuryo)  |
 
 
 ### Milestone 3 - Application, Testing & Security
