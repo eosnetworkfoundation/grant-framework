@@ -33,7 +33,7 @@ https://fundlecontent.ams3.digitaloceanspaces.com/website/Videos/Promo%20Video%2
   For a detailed explanation please visit: https://wefundle.com/ and https://wefundle.com/about
   
 - **Relationship to EOSIO:** We are planning to run the token bonding curve mechanism/AMM on TrustEVM!
-- **Reason for Interest:** Blockchain allows us to revolutionize and strengthen the position of the community. We truly believe in the added value of Antelope, so we would like to utilize the benefits of high throughput and low transaction costs for our users. With the entrance of the ENF, we see that many good developments are going on, and therefore we have trust in Antelope for the future!
+- **Reason for Interest:** Blockchain allows us to revolutionize and strengthen the position of the community. We truly believe in the added value of Antelope, we would like to utilize the benefits of high throughput and low transaction costs for our users. These aspects are crucial for the success of our platform. With the entrance of the ENF, we see that many good developments are going on, and therefore we have trust in Antelope for the future!
 
 ### Project Details
 
