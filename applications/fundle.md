@@ -211,7 +211,7 @@ Some relevant literature and articles about tokenized communities, community bui
 
 The plan is to use this grant for the last phase before we can launch. We will use, customize and integrate the open source Balancer protocol. With this budget Fundle can finish the platform (blockchain + security), create brand awareness, build the team, launch the platform and further develop/improve features.
 
-### Milestone 1 - Balancer protocol customization
+### Milestone 1 - Balancer protocol customization and integration with application via TrustEVM
 
 The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. USDC/USDT will be the reserve token so per community USDC/USDT will be bonded to the community token. When users send USDC/USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
 
@@ -223,32 +223,21 @@ We want to bridge to Antelope (via Trust EVM) because of the benefits (transacti
 | 0b. | Documentation | We will provide both **inline documentation** of the code. This part of the application will be open source |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-
-
-- **Estimated Duration:** 1 month
-- **FTE:**  1
-- **Costs:** 10,000 USD
-
-### Milestone 2 - Balancer protocol integration with application and TrustEVM
-- **Estimated Duration:** 1 month
-- **FTE:**  2
-- **Costs:** 10,000 USD
-
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
 | 1a. | Application interface to TrustEVM | We will create an integration layer (PHP RPC wrapper) that integrates Trust EVM with our Laravel application. This will be open source so that every Laravel application can integrate with TrustEVM |  
 | 1b. | Payment integration | Users can join communities bij sending USDC/USDT. They have 2 options to pay: Connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) or with fiat gateways (for ex. Moonpay, mercuryo)  |
 
+- **Estimated Duration:** 1 month
+- **FTE:**  2
+- **Costs:** 50,000 USD
 
-### Milestone 3 - Application, Testing & Security
+### Milestone 2 - Application, Testing & Security
 We need to test the blockchain part of the application. Furthermore the whole application needs to be checked on security. We will improve our features so that users can have more interaction (and so more transactions on the Antelope Blockchain).
 
 - **Estimated Duration:** 1 month
 - **FTE:**  2
 - **Costs:** 25,000 USD
 
-### Milestone 4 - Marketing/Sales
+### Milestone 3 - Marketing/Sales
 We made a marketing strategy with our marketing advisor about the go to market strategy! This includes total costs for the promotion of the platform and hiring of working students as (digital) marketer/communication and business developer/sales. 
 <!-- 
 With this team we can create brand awareness. The plan is to finetune the product first in the Netherlands. After that we will move with our promotion to Germany, United Kingdom and France since these countries have the highest transaction value in Europe for crowdfunding. The big market (and most potential customers) are based in the United States. When the product has been finetuned we want to move our marketing strategy there.    
