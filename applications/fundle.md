@@ -74,7 +74,7 @@ Framework: Laravel (PHP)
 
 - Where and how does your project fit into the ecosystem?
 
-  Our platform will run on the Antelope blockchain, this brings lots of new users (also non/new crypto users) who will interact and get to know the         Antelope blockchain. The contracts of Fundle will be deployed on the TrustEVM and so Antelope network. Fundle shows others what possibilities             TrustEVM/Antelope has and that it is possible to build these platforms on the Antelope blockchain! We can be a perfect use case for TrustEVM. 
+  Our platform will run on the Antelope blockchain, this brings lots of new users (also non/new crypto users) who will interact and get to know the         Antelope blockchain. The contracts of Fundle will be deployed on the TrustEVM and so Antelope network. Fundle shows others what possibilities             TrustEVM/Antelope has and that it is possible to build these platforms on the Antelope blockchain! We can be a perfect use case for TrustEVM. The         purpose of Fundle is to have lots of interaction between members and the business. This results in many transactions on the Antelope Blockchain. 
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
