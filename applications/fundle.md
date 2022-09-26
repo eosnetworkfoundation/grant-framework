@@ -33,7 +33,9 @@ This grant will be used to fund the integration of TrustEVM, to customize the Ba
 
 ### Project Details
 
-On our website (https://wefundle.com) a platform video can be found at the homepage (red play button). This video will show how the application will look like and how Fundle works!
+#### Platform video 
+This video will show how the application will look like and how Fundle works!
+https://fundlecontent.ams3.digitaloceanspaces.com/website/Videos/Promo%20Video%20Fundle.mp4
 
 #### Link to pitchdeck 
 
