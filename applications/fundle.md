@@ -258,7 +258,7 @@ The focus will be on:
 
 - New businesses/startups. They experience that building, growing and managing communities is challenging and forms a barrier. A characteristic of them can be that they did a crowdfunding and are familiar with the added value of community building. Examples are projects from kickstarter/indiegogo or projects from startup communities. 
 
-We will create a network of publicity around the Fundle platform which ensures that lots of different people will get to know Fundle. This will be done with 6 pillars. The communities will mostly do their own marketing since they often have a small fanbase of customers already. 
+We will create a network of publicity around the Fundle platform which ensures that lots of different people will get to know Fundle. This will be done via 6 pillars. The communities will mostly do their own marketing since they often have a small fanbase of customers already. 
 
 -->
 
