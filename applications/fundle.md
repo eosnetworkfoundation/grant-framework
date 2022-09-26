@@ -106,8 +106,8 @@ ________________________________________________________________________________
 - Leo Frehe
 - Zaisan
 
-- Gerton Knipping
-- Thomasz Sorobka
+- (Gerton Knipping)
+- (Thomasz Sorobka)
 
 ### Legal Structure
 - **Registered Legal Entity:** We are in the initial process of registration
