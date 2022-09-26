@@ -50,7 +50,7 @@ An average member contributes $67 of worth yearly to the community. 33% of organ
 
 Active participation, involvement, and engagement remains difficult for large businesses. 55% of community professionals find it difficult to consistently engage members when running online communities.  For small businesses building and managing communities remains challenging and a barrier.
 
-These markets and opportunity form the basis of the Fundle platform. We can revolutionize this landscape by combining the benefits of these markets and blockchain. Our community token model allows businesses to reward members and engage with them more closely than before. Gaining more value from the community for both business and members is what Fundle stands for.
+These market trends and opportunities form the basis of the Fundle platform. We can revolutionize this landscape by combining the benefits of these markets and blockchain. Our community token model allows businesses to reward members and engage with them more closely than before. Gaining more value from the community for both business and members is what Fundle stands for.
 
 #### Link to pitchdeck 
 
