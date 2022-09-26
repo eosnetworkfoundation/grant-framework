@@ -258,7 +258,7 @@ The focus will be on:
 
 - New businesses/startups. They experience that building, growing and managing communities is challenging and forms a barrier. A characteristic of them can be that they did a crowdfunding and are familiar with the added value of community building. Examples are projects from kickstarter/indiegogo or projects from startup communities. 
 
-The communities will mostly do their own marketing since they often have a small fanbase and customers already. We will create a network of publicity around the Fundle platform which ensures that lots of different people will get to know Fundle. -->
+The communities will mostly do their own marketing since they often have a small fanbase and customers already. We will create a network of publicity around the Fundle platform which ensures that lots of different people will get to know Fundle. See slide 27 of the pitchdeck!-->
 
 - **Estimated Duration:** 12 months
 - **FTE:**  2.5
