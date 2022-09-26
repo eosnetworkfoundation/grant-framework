@@ -64,7 +64,7 @@ Framework: Laravel (PHP)
 
   Our focus is on two types of customers. Innovative and creative businesses with existing communities who like to have more interaction with their         fanbase to gain more (value) from their community or offer new customer experiences. Or startups who want to build, grow and manage their                 community/business. 
 
-  On the other side we have members, we are also targetting on members who have never used blockchain before (therefore payment accesibility with fiat on   ramps is important for us). The system is going to be easy understandable and customer friendly. In our future plans when people can work for             communities we will also be targetting creatives/freelancers. So, it is a platform that is useful and interesting for a wide range of people.
+  On the other side we have members. They buy tokens because they want to become part of the digital community to enjoy the benefits. We are also           targetting on members who have never used blockchain before (therefore payment accesibility with fiat on   ramps is important for us). The system is       going to be easy understandable and customer friendly. In our future plans when people can work for communities we will also be targetting                 creatives/freelancers. So, it is a platform that is useful and interesting for a wide range of people.
 
 
 - What need(s) does your project meet?
