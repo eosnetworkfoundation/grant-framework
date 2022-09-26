@@ -156,7 +156,7 @@ Zaisan has been around in EOSIO ecosystem for several years, formally known as E
 
 ## Development Status
 
-The application (non blockchain part) is tested right now with users on usability and bugs. It shows exactly how the first phase of the platform will work and look like. The blockchain integration is the last development part to finish the application. 
+The application (non blockchain part) is tested right now with users on usability and bugs. This version shows exactly how the first phase of the platform will work and look like. The blockchain integration is the last development part to finish the application. 
 
 #### Articles
 
@@ -239,14 +239,14 @@ We need to test the blockchain part of the application. Furthermore the whole ap
 
 - **Estimated Duration:** 1 month
 - **FTE:**  2
-- **Costs:** 4,000 USD
+- **Costs:** 10,000 USD
 
 ### Milestone 5 - Marketing/Sales
-We made a marketing strategy with our marketing advisor about the go to market strategy!
+We made a marketing strategy with our marketing advisor about the go to market strategy! This includes total costs for the promotion of the platform and hiring of working students as (digital) marketer/communication and business developer/sales. Some details of the sales/marketing plan can be found in the pitchdeck.
 
-- **Estimated Duration:** 1 month
-- **FTE:**  2
-- **Costs:** 4,000 USD
+- **Estimated Duration:** 12 months
+- **FTE:**  2.5
+- **Costs:** 65,844 USD
 
 ## Future Plans
 
