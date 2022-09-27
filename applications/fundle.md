@@ -51,8 +51,6 @@ Active participation, involvement, and engagement remains difficult for large bu
 
 These market trends and opportunities form the basis of the Fundle platform. We can revolutionize this landscape by combining the benefits of these markets and blockchain. The way of community building and fundraising needs to be redeveloped to let it reach its maximum potential. We believe that building long-term relationships is essential for this. Our community token model allows businesses to reward members and engage with them more closely than before. We will move towards a heavily interactive environment based on open business participation. The community can help tackling issues and be paid out in tokens. Gaining more value from the community for both business and members is what Fundle stands for.
 
-#### Link to pitchdeck 
-
 #### Application architecture 
 <img width="596" alt="image" src="https://user-images.githubusercontent.com/54183058/191967057-c9a479ec-080b-4449-af3f-3846bbe6e62d.png">
 
