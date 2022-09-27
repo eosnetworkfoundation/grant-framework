@@ -207,11 +207,10 @@ Some relevant literature and articles about tokenized communities, community bui
 - **Full-Time Equivalent (FTE):** 2 FTE
 - **Total Costs:** 199,534 USD
 
-The plan is to use this grant for the last phase before we can launch. We will use, customize and integrate the open source Balancer protocol. With this budget Fundle can finish the platform (blockchain + security), create brand awareness, build the team, launch the platform and further develop/improve features.
+The plan is to use this grant to finish the platform (blockchain + security), create brand awareness, build the team, launch the platform and further develop/improve features.  
 
 ### Milestone 1 - Balancer protocol customization and integration with application via TrustEVM
-
-The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. USDC/USDT will be the reserve token so per community USDC/USDT will be bonded to the community token. When users send USDC/USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
+We will use, customize and integrate the open source Balancer protocol. The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. USDC/USDT will be the reserve token so per community USDC/USDT will be bonded to the community token. When users send USDC/USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
 
 ![image](https://user-images.githubusercontent.com/54183058/192519022-f4373bfa-8e93-47bc-a0f3-731db8dd27c7.png)
 
