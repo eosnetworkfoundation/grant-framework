@@ -220,14 +220,15 @@ We want to bridge to Antelope (via Trust EVM) because of the benefits (transacti
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
+| 0c. | Smart Contracts | The Balancer contracts will be customized to the Fundle platform these contracts will be open source. |
 | 0b. | Documentation | We will provide both **inline documentation** of the code. This part of the application will be open source |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| 0c. | Testing | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests for the customized contracts. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
 | 1a. | Application interface to TrustEVM | We will create an integration layer (PHP RPC wrapper) that integrates Trust EVM with our Laravel application. This will be open source so that every Laravel application can integrate with TrustEVM |  
-| 1b. | Payment integration | Users can join communities bij sending USDC/USDT. They have 2 options to pay: Connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) or with fiat gateways (for ex. Moonpay, mercuryo)  |
-| 2. | Application security audit | The application will be audited on security vulnerabilities, we will provide a report with the results and improvements.   |
+| 2. | Payment and TrustEVM integration | Users can join communities bij sending USDC/USDT. They have 2 options to pay: connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) or with fiat gateways (for ex. Moonpay, mercuryo)  |
+| 3. | Application security audit | The application will be audited on security vulnerabilities, we will provide a report with the results and improvements to the ENF.   |
 
-- **Estimated Duration:** 1 month
+- **Estimated Duration:** 2 months
 - **FTE:**  2
 - **Costs:** 115,000 USD
 
