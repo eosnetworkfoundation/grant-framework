@@ -23,15 +23,16 @@ We submitted the application clearer. As well as being clearer about what we are
 - We have added information in the project details. Core components and functionality, technology and research topics.
 - Clearer details in the ecosystem fit paragraph.
 - Updates on the development ostatus. Previously we added simple mockups and graphics, now we add full access to platform files and features.
+- We have updated the proposal information with the recent Antelope Leap so that it can be understood that our proposal has focused on Antelope based chains, formerly EOSIO.
 
 ### Overview
 
 - **Name:** Subdeeply Platform
 - **Brief Description:** Subdeeply is a decentralized educational service/platform that will allow the community and
 users to access information, guides, podcast episodes and resources on each of the
-EOSIO based chains including, EOS, TLOS, WAX and UX.
-- **Relationship to EOSIO:** We are integrated into EOSIO as a service and a tool for accessing information resources on the different chains based on EOSIO.
-- **Reason for Interest:** Subdeeply is focused on increasing the adoption of new and potential users towards EOSIO based blockchains, the adoption and use of their services, our goal is to create a platform to support users in identifying the different services and use cases, implement and provide information about the blockchains with the objective that users get involved in the blockchains and their technology, learn about the different services they offer, learn how to use them and subsequently boost the blockchain ecosystem through more active users.
+EOSIO (Antelope) chains including, EOS, TLOS, WAX and UX.
+- **Relationship to EOSIO:** We are integrated into EOSIO (Antelope) as a service and a tool for accessing information resources on the different chains based on EOSIO (Antelope).
+- **Reason for Interest:** Subdeeply is focused on increasing the adoption of new and potential users towards EOSIO (Antelope) based blockchains, the adoption and use of their services, our goal is to create a platform to support users in identifying the different services and use cases, implement and provide information about the blockchains with the objective that users get involved in the blockchains and their technology, learn about the different services they offer, learn how to use them and subsequently boost the blockchain ecosystem through more active users.
 
 ### Project Details
 
@@ -94,7 +95,7 @@ Subdeeply is a scalable project, and may become profitable in the future. There 
 
 - Where and how does your project fit into the ecosystem?
 
-The project fits into global communities, investors and users by offering users access to information media and educational resources allowing users to identify the different types of uses and services of EOSIO-based networks.
+The project fits into global communities, investors and users by offering users access to information media and educational resources allowing users to identify the different types of uses and services of EOSIO (Antelope) based chains.
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
@@ -103,7 +104,7 @@ Investors, communities, developers, gamers and all communities.
 - Are there any other projects similar to yours in the EOSIO ecosystem? None, not even a similar one with the same focus and objectives.
   - If so, how is your project different?
 
-Blockchain education is still in its early stages, there are no services or platform like Saubdeeply. As a general idea, it is good to have educational hubs, and subdeeply aims to provide the gateway to impact blockchain education, and drive adoption in EOSIO-based blockchains.
+Blockchain education is still in its early stages, there are no services or platform like Saubdeeply. As a general idea, it is good to have educational hubs, and subdeeply aims to provide the gateway to impact blockchain education, and drive adoption in EOSIO (Antelope) based chains.
   - If not, are there similar projects in related ecosystems?
 
 ## Team
