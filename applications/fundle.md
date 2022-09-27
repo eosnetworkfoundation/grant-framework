@@ -120,7 +120,7 @@ ________________________________________________________________________________
 - Zaisan
 
 - (Gerton Knipping)
-- (Thomasz Sorobka)
+- (Thomasz Sorobka, is trained to become software developer)
 
 ### Legal Structure
 - **Registered Legal Entity:** We are in the initial process of registration
