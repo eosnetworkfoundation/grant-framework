@@ -212,7 +212,7 @@ The plan is to use this grant to finish the platform (blockchain + security), cr
 ### Milestone 1 - Balancer protocol customization and integration with application via TrustEVM
 We will use, customize and integrate the open source Balancer protocol. The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. USDC/USDT will be the reserve token so per community USDC/USDT will be bonded to the community token. When users send USDC/USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
 
-![image](https://user-images.githubusercontent.com/54183058/192519022-f4373bfa-8e93-47bc-a0f3-731db8dd27c7.png)
+![image](https://user-images.githubusercontent.com/54183058/192522908-9860309e-95ab-4e48-b71e-b5ef81312bb3.png)
 
 We want to bridge to Antelope (via Trust EVM) because of the benefits (transaction speed, low costs etc.). However, we would like to use an Ethereum protocol because of better integration with popular wallets (coinbase, metamask) and with fiat gateways. Payment accessibility is of high importance for our platform.
 
