@@ -203,9 +203,9 @@ Some relevant literature and articles about tokenized communities, community bui
 
 ### Milestone Summary
 
-- **Total Estimated Duration:** 4 months 
+- **Total Estimated Duration:** 12 months 
 - **Full-Time Equivalent (FTE):** 2 FTE
-- **Total Costs:** 250,000 USD
+- **Total Costs:** 199,534 USD
 
 The plan is to use this grant for the last phase before we can launch. We will use, customize and integrate the open source Balancer protocol. With this budget Fundle can finish the platform (blockchain + security), create brand awareness, build the team, launch the platform and further develop/improve features.
 
@@ -213,22 +213,23 @@ The plan is to use this grant for the last phase before we can launch. We will u
 
 The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. USDC/USDT will be the reserve token so per community USDC/USDT will be bonded to the community token. When users send USDC/USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
 
+![image](https://user-images.githubusercontent.com/54183058/192519022-f4373bfa-8e93-47bc-a0f3-731db8dd27c7.png)
+
 We want to bridge to Antelope (via Trust EVM) because of the benefits (transaction speed, low costs etc.). However, we would like to use an Ethereum protocol because of better integration with popular wallets (coinbase, metamask) and with fiat gateways. Payment accessibility is of high importance for our platform.
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0c. | Smart Contracts | The Balancer contracts will be customized to the Fundle platform these contracts will be open source. |
+| 0c. | Smart Contracts | The Balancer protocol will be forked and the contracts will be customized for the Fundle platform. |
 | 0b. | Documentation | We will provide both **inline documentation** of the code. This part of the application will be open source |
 | 0c. | Testing | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests for the customized contracts. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 1a. | Application interface to TrustEVM | We will create an integration layer (PHP RPC wrapper) that integrates Trust EVM with our Laravel application. This will be open source so that every Laravel application can integrate with TrustEVM |  
-| 2. | Payment and TrustEVM integration | Users can join communities bij sending USDC/USDT. They have 2 options to pay: connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) or with fiat gateways (for ex. Moonpay, mercuryo)  |
-| 3. | Application security audit | The application will be audited on security vulnerabilities, we will provide a report with the results and improvements to the ENF.   |
+| 1. | TrustEVM Integration Layer | We will create an integration layer (PHP RPC wrapper) that integrates Trust EVM with our Laravel application. This will be open source so that every Laravel application can integrate with TrustEVM |  
+| 2. | Payment and TrustEVM integration | Users can join communities bij sending USDC/USDT. They have 2 options to pay: connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) or with fiat gateways (for ex. Moonpay, mercuryo). This part covers steps for the necessary payment architecture of the system including deployment on TrustEVM.  |
+| 3. | Application security audit | The application will be audited on security vulnerabilities.   |
 
-- **Estimated Duration:** 2 months
-- **FTE:**  2
-- **Costs:** 115,000 USD
+- **Estimated Duration:** 2-4 months
+- **FTE:**  3
+- **Costs:** 123,090 USD
 
 ### Milestone 2 - Marketing/Sales & Application development
 We made a marketing strategy with a marketing advisor about the go to market strategy! This includes total costs for the promotion of the platform and hiring of working students as (digital) marketer/communication and business developer/sales. 
@@ -246,7 +247,7 @@ On the application side we will improve our features so that users can have more
 
 - **Estimated Duration:** 12 months
 - **FTE:**  2.5
-- **Costs:** 85,844 USD
+- **Costs:** 76,444 USD
 
 
 ## Future Plans
