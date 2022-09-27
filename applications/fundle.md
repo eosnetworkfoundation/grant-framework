@@ -225,21 +225,15 @@ We want to bridge to Antelope (via Trust EVM) because of the benefits (transacti
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
 | 1a. | Application interface to TrustEVM | We will create an integration layer (PHP RPC wrapper) that integrates Trust EVM with our Laravel application. This will be open source so that every Laravel application can integrate with TrustEVM |  
 | 1b. | Payment integration | Users can join communities bij sending USDC/USDT. They have 2 options to pay: Connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) or with fiat gateways (for ex. Moonpay, mercuryo)  |
+| 2. | Application security audit | The application will be audited on security vulnerabilities, we will provide a report with the results and improvements.   |
 
 - **Estimated Duration:** 1 month
 - **FTE:**  2
-- **Costs:** 50,000 USD
+- **Costs:** 115,000 USD
 
-### Milestone 2 - Application, Testing & Security
-We need to test the blockchain part of the application. Furthermore the whole application needs to be checked on security. We will improve our features so that users can have more interaction (and so more transactions on the Antelope Blockchain).
+### Milestone 2 - Marketing/Sales & Application development
+We made a marketing strategy with a marketing advisor about the go to market strategy! This includes total costs for the promotion of the platform and hiring of working students as (digital) marketer/communication and business developer/sales. 
 
-- **Estimated Duration:** 1 month
-- **FTE:**  2
-- **Costs:** 25,000 USD
-
-### Milestone 3 - Marketing/Sales
-We made a marketing strategy with our marketing advisor about the go to market strategy! This includes total costs for the promotion of the platform and hiring of working students as (digital) marketer/communication and business developer/sales. 
-<!-- 
 With this team we can create brand awareness. The plan is to finetune the product first in the Netherlands. After that we will move with our promotion to Germany, United Kingdom and France since these countries have the highest transaction value in Europe for crowdfunding. The big market (and most potential customers) are based in the United States. When the product has been finetuned we want to move our marketing strategy there.    
 
 The focus will be on:
@@ -247,13 +241,14 @@ The focus will be on:
 
 - New businesses/startups. They experience that building, growing and managing communities is challenging and forms a barrier. A characteristic of them can be that they did a crowdfunding and are familiar with the added value of community building. Examples are projects from kickstarter/indiegogo or projects from startup communities. 
 
-We will create a network of publicity around the Fundle platform which ensures that lots of different people will get to know Fundle. This will be done via 6 pillars. The communities will mostly do their own marketing since they often have a small fanbase of customers already. 
+We will create a network of publicity around the Fundle platform which ensures that lots of different people will get to know Fundle. This will be done via 6 pillars. 
 
--->
+On the application side we will improve our features so that users can have more interaction (so more transactions on the Antelope Blockchain) and better experiences. See "Future Plans" for the plans we have! 
 
 - **Estimated Duration:** 12 months
 - **FTE:**  2.5
-- **Costs:** 65,844 USD
+- **Costs:** 85,844 USD
+
 
 ## Future Plans
 
