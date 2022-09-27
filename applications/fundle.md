@@ -172,7 +172,7 @@ Zaisan has been around in EOSIO ecosystem for several years, formally known as E
 
 ## Development Status
 
-The application (non blockchain part) is tested right now with users on usability and bugs. This version shows exactly how the first phase of the platform will work and look like. The blockchain integration is the last development part to finish the application. 
+The application (non blockchain part) is tested right now with users on usability and bugs. This version shows exactly how the first phase of the platform will work and look like. 
 
 #### Articles
 
