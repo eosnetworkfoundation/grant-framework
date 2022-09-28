@@ -213,8 +213,7 @@ The plan is to use this grant to finish the platform (blockchain + security), cr
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0c. | Smart Contracts | The Balancer protocol will be forked and the contracts will be customized for the Fundle platform. (Open Source) |
+| 0a. | Smart Contracts | The Balancer protocol will be forked and the contracts will be customized for the Fundle platform. (Open Source) |
 | 0b. | Documentation | We will provide both **inline documentation** of the code. This part of the application will be open source |
 | 0c. | Testing | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests for the customized contracts. |
 | 1. | TrustEVM application integration | We will integrate Trust EVM with our Laravel application with the following web3 php client: https://github.com/web3p/web3.php. |  
