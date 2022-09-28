@@ -220,7 +220,7 @@ We want to bridge to Antelope (via Trust EVM) because of the benefits (transacti
 | 0c. | Smart Contracts | The Balancer protocol will be forked and the contracts will be customized for the Fundle platform. |
 | 0b. | Documentation | We will provide both **inline documentation** of the code. This part of the application will be open source |
 | 0c. | Testing | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests for the customized contracts. |
-| 1. | TrustEVM Integration Layer | We will create an integration layer (PHP RPC wrapper) that integrates Trust EVM with our Laravel application. This will be open source so that every Laravel application can integrate with TrustEVM |  
+| 1. | TrustEVM application integration | We will integrate Trust EVM with our Laravel application with the following web3 php client: https://github.com/web3p/web3.php. |  
 | 2. | Payment and TrustEVM integration | Users can join communities bij sending USDC/USDT. They have 2 options to pay: connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) or with fiat gateways (for ex. Moonpay, mercuryo). This part covers steps for the necessary payment architecture of the system including deployment on TrustEVM.  |
 | 3. | Application security audit | The application will be audited on security vulnerabilities.   |
 
