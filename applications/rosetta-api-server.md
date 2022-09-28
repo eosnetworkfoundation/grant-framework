@@ -17,30 +17,31 @@
 ### Overview
 
 - **Name:** Build Rosetta API service
-- **Brief Description:** Parsing actions, matching data in Rosetta API standard, and make other Antelope integration developer be comfortable
-- **Relationship to EOSIO:**  This integration would hugely help of other developers (especially in exchanges) to integrate with, and wish to make broaden EOSIO ecosystem
-- **Reason for Interest:** We want to contribute in non-token area, like infrastructure. Among items, this item would fit us, which is full of backend developers
+- **Brief Description:** Parsing actions and matching data in Rosetta API standard for other Antelope integration developers' convenience.
+- **Relationship to EOSIO:**  This integration would hugely help other engineers (especially in exchanges) to build dApps, and the Antelope ecosystem to be broaden
+- **Reason for Interest:** We want to contribute to the infrastructure building field, and Rosetta API support is the best fit for us, full of backend developers
 
 ### Project Details
 
-- Build collector, parser on EOSIO's txs and store our dedicated RDB with keeping txs' history
-  - Many API support historical data lookup, then offchain RDB processing is inevitable.
-  - Please check our similar work. (Stated in Additional information)
-  - We can cover both available in gRPC or REST connection (prefer gRPC)
+- Build a collector and parser for Antelope's transactions and store our dedicated RDB with keeping txs' history
+  - Allow many APIs to support historical data lookup, which off-chain RDB processing is inevitable.
+  - We can cover both gRPC and REST connection (prefer gRPC)
 - Data source
   - Build from public snapshots of the data depot
-  - Use public endpoint of BPs'
-- Implement Rosetta server following its API specification
+  - Use the public endpoint of BPs'.
+- Implement the Rosetta server following its API specification
   - Language: Golang on [`rosetta-sdk-go`](https://github.com/coinbase/rosetta-sdk-go)
 - Maintain the infrastructure for operation. (Publicize our API server & endpoint)
 - Documentation & developer support
 
+Please check our similar works stated in Additional information.
+
 ### Ecosystem Fit
 
-- Make lower barrier to developers
-  - Who: Who don't have to know the knowledge of Antelope but needs some information of the Antelope (e.g. )
-  - How: Provide the APIs which they already know and have integrated before. Don't have to learn Antelope-specific API.
-  - Where would be good: Exchange developer, Blockchain statistics application (CoinGecko, CMC, etc), Multichain bridging project, etc
+- Lowering the barrier to entry for developers
+  - Who: Anyone who does not have to know the whole specification of Antelope
+  - How: Provide the APIs they already know and have integrated before, eliminating the need to learn Antelope-specific API.
+  - Where would be good: Exchange developer, Blockchain statistics application (CoinGecko, CMC, etc.), Multichain bridging project, etc.
 
 ## Team
 
@@ -56,11 +57,11 @@
 ### Team Experience
 
 - Before blockchain, well experience in OS & emulator development (Tizen)
-- Much experience in validating Cosmos SDK based projects & ETH layer 2 blockchains
+- Much experience in validating Cosmos SDK-based projects & ETH layer 2 blockchains
 - Experience in blockchain core development (connect between Tendermint & WASM execution engine)
 - 1st dApp on Terra(now Terra classic): Terraswap - enough experience of WASM-based smart contract development & action processing
 - Mainnet technical partner of Xpla (former C2X)
-- EOSIO based project building experience (Polaris of Chain Partners, mentor & participant of EOSIO hackathon)
+- EOSIO-based project-building experience (Polaris of Chain Partners, mentor & participant of EOSIO hackathon)
 
 ### Team Org Repos
 
@@ -89,9 +90,9 @@
 
 ## Development Status
 
-7 developers (1 FE, 1 data, 5 BE & system) and 1 product designer are working in DELIGHT LABS. We had full experience in Cosmos SDK projects - both of validation & dApp building. Especially, we validate 10+ projects including Terra classic, Terra 2.0, ORBS, Xpla, Oasis protocol, Fetch.ai, Findora, Casperlabs, SSV, Rizon, Medibloc, and so on, and we build & operate 1st dApp and AMM DEX - Terraswap on both of Terra classic & 2.0.
+7 developers (1 FE, 1 data, 5 BE & system) and 1 product designer are working at DELIGHT LABS. We have full experience in Cosmos SDK projects - both validation & dApp building. Especially, we validate 10+ projects, including Terra classic, Terra 2.0, ORBS, Xpla, Oasis protocol, Fetch.ai, Findora, Casperlabs, SSV, Rizon, Medibloc, and so on, and we build & operate 1st dApp and AMM DEX - Terraswap on both of Terra classic & 2.0.
 
-As like mentioned above, our team has enough experience in blochchain industry, and now we start to expand our area to Antelope(and come back to our homeland). With not only our blockchain core experience but also enough knowledge in CS background, we will contribute and build strong basis on Antelope ecosystem.
+As mentioned above, we have enough experience in the blockchain industry, and now we have started to expand our area to Antelope, which is our homeland. With not only our blockchain core experience but also enough knowledge in CS background, we will contribute to and build a strong basis on the Antelope ecosystem.
 
 - Twitter: [https://twitter.com/delightlabs_io](https://twitter.com/delightlabs_io)
 
@@ -99,7 +100,7 @@ As like mentioned above, our team has enough experience in blochchain industry, 
 
 ### Overview
 
-- **Total Estimated Duration:** 28 weeks development + 1 year support after deploy
+- **Total Estimated Duration:** 28 weeks development + 1-year support after deploy
 
 ### Milestone 1 - Spec survey & architecting
 
@@ -108,14 +109,14 @@ As like mentioned above, our team has enough experience in blochchain industry, 
 - Make meetings and gather their demands on API
 - Research how to import data from the data depot and decide how to import
 - List expected unit tests
-- Integrate Github action & Makefile
+- Integrate GitHub action & Makefile
 
 #### Expected outcome
 
 - Module-level documentation inside the code repo & README outline
   - Including comments above the expected methods
   - Including data importing plan
-- Github action config in the code repo
+- GitHub action config in the code repo
 - Meeting notes if there is any talk from demanding sides
 - Makefile script
 
@@ -123,11 +124,11 @@ As like mentioned above, our team has enough experience in blochchain industry, 
 - **FTE:** 1
 - **Costs:** USD 25K
 
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License |  MIT  |
-| 0b. | Documentation | Module level documentation & README outline |
-| 0c. | CI test | No working unit test but make the code be ready on Makefile & Github action |
+| Number | Deliverable   | Specification                                                               |
+|-------:|---------------|-----------------------------------------------------------------------------|
+|    0a. | License       | MIT                                                                         |
+|    0b. | Documentation | Module level documentation & README outline                                 |
+|    0c. | CI test       | No working unit test but make the code ready on Makefile & Github action |
 
 ### Milestone 2 - Data API & Construction API
 
@@ -151,12 +152,12 @@ As like mentioned above, our team has enough experience in blochchain industry, 
 - **FTE:** 2
 - **Costs:** USD 50K
 
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License |  MIT  |
-| 0b. | API server | HTTPS wrapped API server. The endpoints stated above should work |
-| 0c. | Code | Ready-to-build state |
-| 0d. | CI test | Unit test coverage >= 70% |
+| Number | Deliverable | Specification                                                    |
+|-------:|-------------|------------------------------------------------------------------|
+|    0a. | License     | MIT                                                              |
+|    0b. | API server  | HTTPS wrapped API server. The endpoints stated above should work |
+|    0c. | Code        | Ready-to-build state                                             |
+|    0d. | CI test     | Unit test coverage >= 70%                                        |
 
 ### Milestone 3 - Indexer API
 
@@ -180,26 +181,26 @@ As like mentioned above, our team has enough experience in blochchain industry, 
 - **FTE:** 2
 - **Costs:** USD 75K
 
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License |  MIT  |
-| 0b. | API server | HTTPS wrapped API server. Historical lookup is also supported |
-| 0c. | Code | Ready-to-build state |
-| 0d. | CI test | Unit test coverage >= 70% |
+| Number | Deliverable | Specification                                                 |
+|-------:|-------------|---------------------------------------------------------------|
+|    0a. | License     | MIT                                                           |
+|    0b. | API server  | HTTPS wrapped API server. Historical lookup is also supported |
+|    0c. | Code        | Ready-to-build state                                          |
+|    0d. | CI test     | Unit test coverage >= 70%                                     |
 
 ### Milestone 4 - Documentation & its development
 
 #### Action items
 
 - Detailing MD documentation and improving its quality
-- Doc service (Hugo, Gitbook, etc) & Swagger
+- Doc service (Hugo, Gitbook, etc.) & Swagger
   - JSON RPC schema of each endpoint
   - Build instruction
-- Add some CLI interfaces if needed or any demand comes
+- Add some CLI interfaces if needed or if any demand comes
 
 #### Expected outcome
 
-- Improved Github MD documentation
+- Improved GitHub MD documentation
 - Document service page
 - Swagger
 
@@ -207,11 +208,11 @@ As like mentioned above, our team has enough experience in blochchain industry, 
 - **FTE:** 1
 - **Costs:** USD 7.5K
 
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License |  MIT  |
-| 0b. | Docs service | Docs web application which is accesible at like rosetta-docs.antelope.delightlabs.io |
-| 0c. | Swagger | Ready-to-build state |
+| Number | Deliverable  | Specification                                                                         |
+|-------:|--------------|---------------------------------------------------------------------------------------|
+|    0a. | License      | MIT                                                                                   |
+|    0b. | Docs service | Docs web application which is accessible at like rosetta-docs.antelope.delightlabs.io |
+|    0c. | Swagger      | Ready-to-build state                                                                  |
 
 ### Milestone 5 - Code audit & Developer / exchange support
 
@@ -222,7 +223,7 @@ As like mentioned above, our team has enough experience in blochchain industry, 
 - Continuous developer & exchange support
 - Keep operating API server
   - With data processor to RDB
-  - Communicating one of Antelope-based blockchain
+  - Communicating one of the Antelope-based blockchains
 
 #### Expected outcome
 
@@ -234,26 +235,26 @@ As like mentioned above, our team has enough experience in blochchain industry, 
 - **FTE:** 1
 - **Costs:** USD 22.5K + Audit cost (expected around USD 50K)
 
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | MIT |
-| 0b. | API server | HTTPS wrapped API server. Historical lookup is also supported |
-| 0c. | Audit report | Audit from reliable orgs. Get a `safe` remark |
+| Number | Deliverable  | Specification                                                 |
+|-------:|--------------|---------------------------------------------------------------|
+|    0a. | License      | MIT                                                           |
+|    0b. | API server   | HTTPS wrapped API server. Historical lookup is also supported |
+|    0c. | Audit report | Audit from reliable orgs. Get a `safe` remark                 |
 
 ## Future Plans
 
-- Once the API server is deployed, we will operate at least a year with code upgrade. Moreover, we will support bugfix with enough years.
-- Currently, very few EOSIO-based tokens are listed on CEXes. But we wish that many Antelope-based tokens would be easily listed, easy like ERC20. Not only network token like EOS, but also other tokens would be supported equally on `/account/balance`.
-- We will also influence our works and give many helps to relayers from/to Antelope to check Tx state tracking.
+- Once the API server is deployed, we will operate with code upgrade for at least a year. Moreover, we will support bugfix for enough years.
+- Currently, very few EOSIO-based tokens are listed on CEXes. But we hope many Antelope-based tokens would be listed as easily as ERC20. Native tokens as well as others would be supported equally on `/account/balance`.
+- We will also influence our works and give much help to relayers from/to Antelope to check Tx state tracking.
 
 ## Additional Information
 
-- Our similar reference - [Cosmwasm-ETL](https://github.com/DELIGHT-LABS/cosmwasm-etl) (private, now in development)
-  - For unifying data processing codes to cover all DELIGH LABS' DEXes built on Cosmwasm-based projects
+- Our similar reference - [Cosmwasm-ETL](https://github.com/DELIGHT-LABS/cosmwasm-etl) (private, building)
+  - For unifying data processing codes to cover all DELIGHT LABS' DEXes built on Cosmwasm-based projects
   - Collector: Tx stores on AWS S3
   - Parser: JSON tx parsing into DTO, and store into DB
   - Aggregator: process RDB for providing personal stats
   - Provide data service on Graphql
   - UI implementation: [Terraswap dashboard on Terra classic](https://app-classic.terraswap.io/)
 
-**How did you hear about the Grants Program?** From one member of the committee, and had a F2F meeting
+**How did you hear about the Grants Program?** From one member of the committee and had a F2F meeting
