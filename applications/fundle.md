@@ -51,21 +51,23 @@ Active participation, involvement, and engagement remains difficult for large bu
 
 These market trends and opportunities form the basis of the Fundle platform. We can revolutionize this landscape by combining the benefits of these markets and blockchain. The way of community building and fundraising needs to be redeveloped to let it reach its maximum potential. We believe that building long-term relationships is essential for this. Our community token model allows businesses to reward members and engage with them more closely than before. We will move towards a heavily interactive environment based on open business participation. The community can help tackling issues and be paid out in tokens. Gaining more value from the community for both business and members is what Fundle stands for.
 
-#### Application architecture 
-<img width="596" alt="image" src="https://user-images.githubusercontent.com/54183058/192746492-934554e8-797d-4c38-a89f-393a9b152b15.png">
-
 #### Application UI 
 <img width="1296" alt="image" src="https://user-images.githubusercontent.com/54183058/191728363-99844410-721e-4e51-ae91-471825e49806.png">
 
-#### Technical details
+#### Application architecture 
+<img width="596" alt="image" src="https://user-images.githubusercontent.com/54183058/192746492-934554e8-797d-4c38-a89f-393a9b152b15.png">
 
-Framework: Laravel (PHP)
+Framework used for application and API: Laravel (PHP)
 
-- Data models of the core functionality
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
+#### Blockchain Mechanism
+We will use, customize and integrate the open source Balancer protocol. The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. USDC/USDT will be the reserve token so per community USDC/USDT will be bonded to the community token. When users send USDC/USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
+
+![image](https://user-images.githubusercontent.com/54183058/192522908-9860309e-95ab-4e48-b71e-b5ef81312bb3.png)
+
+The structure of the community tokens will be the following:
+<img width="584" alt="image" src="https://user-images.githubusercontent.com/54183058/192855088-b0474ed6-9b17-43a9-9d1a-4c8bfc0a661a.png">
+
+We want to bridge to Antelope (via Trust EVM) because of the benefits (transaction speed, low costs etc.). However, we would like to use an Ethereum protocol because of better integration with popular wallets (coinbase, metamask) and with fiat gateways. Payment accessibility is of high importance for our platform.
 
 ### Ecosystem Fit
 
@@ -206,14 +208,6 @@ Some relevant literature and articles about tokenized communities, community bui
 The plan is to use this grant to finish the platform (blockchain + security), create brand awareness, build the team, launch the platform and further develop/improve features.  
 
 ### Milestone 1 - Balancer protocol customization and integration with application via TrustEVM
-We will use, customize and integrate the open source Balancer protocol. The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. USDC/USDT will be the reserve token so per community USDC/USDT will be bonded to the community token. When users send USDC/USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply.
-
-![image](https://user-images.githubusercontent.com/54183058/192522908-9860309e-95ab-4e48-b71e-b5ef81312bb3.png)
-
-The structure of the community tokens will be the following:
-<img width="584" alt="image" src="https://user-images.githubusercontent.com/54183058/192855088-b0474ed6-9b17-43a9-9d1a-4c8bfc0a661a.png">
-
-We want to bridge to Antelope (via Trust EVM) because of the benefits (transaction speed, low costs etc.). However, we would like to use an Ethereum protocol because of better integration with popular wallets (coinbase, metamask) and with fiat gateways. Payment accessibility is of high importance for our platform.
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
