@@ -7,7 +7,7 @@
 - **Pomelo Grant(s):**  N/A 
 - **Project is Open-Source:** No (except blockchain part)
 - **Project was part of Token sale:** No
-- **Repository where Project resides:** https://github.com/<your_organisation>/<project_repo>
+- **Repository where Project resides:** BitBucket private repository
 
 ## Contact
 
