@@ -28,7 +28,7 @@ https://fundlecontent.ams3.digitaloceanspaces.com/website/Videos/Promo%20Video%2
 - **Name:** Fundle
 - **Brief Description:** 
 
-  Fundle is a platform where businesses can build and manage tokenized communities to increase customer engagement! We allow businesses to build stronger   long-term relationships, offer new customer experiences and gain more out of a community. Businesses can offer a broader set of rewards to its  most       loyal customers while gaining promotion and feedback from them. Each business has its own token to build a digital community and economy. Holders of       that token (members) can unlock specific rewards, experiences, interaction or involvement. The model allows the community to be rewarded for the value     they’re helping create in the business.
+  Fundle is a platform where businesses can build and manage tokenized communities to increase customer engagement! We allow businesses to build stronger   long-term relationships, offer new customer experiences and gain more out of a community. Businesses can offer a broader set of rewards to its  most       loyal customers while gaining promotion and feedback from them. Each business has its own token to build a digital community and economy. Holders of       that token (members) can unlock specific rewards, experiences, interaction or involvement. The model allows the community to be rewarded for the value     they’re helping create in the business. Gaining more value from the community for both business and members is what Fundle stands for.
 
   For a detailed explanation please visit: https://wefundle.com/ and https://wefundle.com/about
   
@@ -49,7 +49,7 @@ An average member contributes $67 of worth yearly to the community. 33% of organ
 
 Active participation, involvement, and engagement remains difficult for large businesses. 55% of community professionals find it difficult to consistently engage members when running online communities.  For small businesses building and managing communities remains challenging and a barrier.
 
-These market trends and opportunities form the basis of the Fundle platform. We can revolutionize this landscape by combining the benefits of these markets and blockchain. The way of community building and fundraising needs to be redeveloped to let it reach its maximum potential. We believe that building long-term relationships is essential for this. Our community token model allows businesses to reward members and engage with them more closely than before. We will move towards a heavily interactive environment based on open business participation. The community can help tackling issues and be paid out in tokens. Gaining more value from the community for both business and members is what Fundle stands for.
+These market trends and opportunities form the basis of the Fundle platform. We can revolutionize this landscape by combining the benefits of these markets and blockchain. The way of community building and fundraising needs to be redeveloped to let it reach its maximum potential. We believe that building long-term relationships is essential for this. Our community token model allows businesses to reward members and engage with them more closely than before. We will move towards a heavily interactive environment based on open business participation. The community can help tackling issues and be paid out in tokens. 
 
 #### Application UI 
 <img width="1296" alt="image" src="https://user-images.githubusercontent.com/54183058/191728363-99844410-721e-4e51-ae91-471825e49806.png">
