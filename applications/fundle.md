@@ -155,7 +155,7 @@ Zaisan has been around in EOSIO ecosystem for several years, formally known as E
 
 ### Team Org Repos
 
-- https://github.com/<your_organization>
+- Our code is privately hosted in a BitBucket repository
 
 ### Team Member Repos
 
