@@ -201,7 +201,7 @@ Some relevant literature and articles about tokenized communities, community bui
 ### Milestone Summary
 
 - **Total Estimated Duration:** 12 months 
-- **Full-Time Equivalent (FTE):** 2 FTE
+- **Full-Time Equivalent (FTE):** 2-4 FTE
 - **Total Costs:** 199,534 USD
 
 The plan is to use this grant to finish the platform (blockchain + security), create brand awareness, build the team, launch the platform and further develop/improve features.  
@@ -218,7 +218,7 @@ The plan is to use this grant to finish the platform (blockchain + security), cr
 | 3. | Application security audit | The application will be audited on security vulnerabilities. |
 
 - **Estimated Duration:** 2-4 months
-- **FTE:**  3
+- **FTE:**  3-4
 - **Costs:** 123,090 USD
 
 ### Milestone 2 - Marketing/Sales & Application development
@@ -236,7 +236,7 @@ We will create a network of publicity around the Fundle platform which ensures t
 On the application side we will improve our features so that users can have more interaction (so more transactions on the Antelope Blockchain) and better experiences. See "Future Plans" for the plans we have! 
 
 - **Estimated Duration:** 12 months
-- **FTE:**  2.5
+- **FTE:**  2-4
 - **Costs:** 76,444 USD
 
 
