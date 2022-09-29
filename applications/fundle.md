@@ -120,7 +120,6 @@ ________________________________________________________________________________
 - Niels Snakenborg
 - Leo Frehe
 - Zaisan
-- (Thomasz Sorobka, in training to become software developer)
 
 ### Legal Structure
 - **Registered Legal Entity:** We are in the initial process of registration
