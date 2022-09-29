@@ -150,7 +150,7 @@ Over 20 years proven track record in senior/executive roles within both IT and b
 
 Role: Marketing & Brand Advisor 
 
-Founder of branding and positioning agencies with over 25 years of experience. Colleagues, clients and project teams consider me as a positive-critical, enthusiastic person with a practical approach. I have always been a generalist with a sharp focus on details who was responsible for the clear translations from strategy to creation. Passion for the profession and solving problems; complex or simple, always with the highest attainable end result.
+Founder of branding and positioning agencies with over 25 years of experience. Colleagues, clients and project teams consider me as a positive-critical person with a practical approach. I have always been a generalist with a sharp focus on details who was responsible for the clear translations from strategy to creation. Passion for solving problems; complex or simple, always with the highest attainable end result.
 
 
 **Zaisan**
