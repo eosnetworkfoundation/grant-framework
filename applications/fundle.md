@@ -3,7 +3,7 @@
 - **Project Name:** Fundle
 - **Team Name:** Fundle
 - **EOS Payment Address:** EOS payment address
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Pomelo Grant(s):**  N/A 
 - **Project is Open-Source:** No (except blockchain part)
 - **Project was part of Token sale:** No
