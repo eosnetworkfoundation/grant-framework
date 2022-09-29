@@ -155,7 +155,7 @@ Founder of branding and positioning agencies with over 25 years of experience. C
 
 **Zaisan**
 
-Role: Business and development support 
+Role: Business and blockchain development support 
 
 Zaisan has been around in EOSIO ecosystem for several years, formally known as Europechain BV. The company is founded by several European block producers, and is focusing on software projects and business consultancy. The company has previously taken the task of writing the EOSIO Core+ Blue Paper on request of ENF.
 
