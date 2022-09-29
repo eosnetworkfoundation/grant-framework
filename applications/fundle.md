@@ -120,8 +120,6 @@ ________________________________________________________________________________
 - Niels Snakenborg
 - Leo Frehe
 - Zaisan
-
-- (Gerton Knipping)
 - (Thomasz Sorobka, in training to become software developer)
 
 ### Legal Structure
