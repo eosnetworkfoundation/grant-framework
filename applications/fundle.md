@@ -120,6 +120,7 @@ ________________________________________________________________________________
 - Niels Snakenborg
 - Leo Frehe
 - Gerton Knipping
+- Rhett Oudkerk Pool
 - Zaisan
 
 ### Legal Structure
@@ -152,6 +153,11 @@ Role: Marketing & Brand Advisor
 
 Founder of branding and positioning agencies with over 25 years of experience. Colleagues, clients and project teams consider me as a positive-critical person with a practical approach. I have always been a generalist with a sharp focus on details who was responsible for the clear translations from strategy to creation. Passion for solving problems; complex or simple, always with the highest attainable end result.
 
+**Rhett Oudkerk Pool**
+
+Role: Business/Web3 Advisor 
+
+CEO and founder of Zaisan, Europechain and previously Kahuna. A passionate entrepreneur, business leader, consultant, public speaker, and investor in Cyber Security & Web3 Companies. Always left of the chasm. Helping innovative companies and entrepreneurs create next-generation business models utilizing blockchain technology, to be part of the Internet of Value. 
 
 **Zaisan**
 
