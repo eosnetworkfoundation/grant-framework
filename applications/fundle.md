@@ -210,7 +210,7 @@ Some relevant literature and articles about tokenized communities, community bui
 
 - **Total Estimated Duration:** 12 months 
 - **Full-Time Equivalent (FTE):** 2-4 FTE
-- **Total Costs:** 199,534 USD
+- **Total Costs:** 200,000 USD
 
 The plan is to use this grant to finish the platform (blockchain + security), create brand awareness, build the team, launch the platform and further develop/improve features.  
 
@@ -227,7 +227,7 @@ The plan is to use this grant to finish the platform (blockchain + security), cr
 
 - **Estimated Duration:** 2-4 months
 - **FTE:**  3-4
-- **Costs:** 123,090 USD
+- **Costs:** 120,000 USD
 
 ### Milestone 2 - Marketing/Sales & Application development
 We made a marketing strategy with a marketing advisor about the go to market strategy! This includes total costs for the promotion of the platform and hiring of working students as (digital) marketer/communication and business developer/sales. 
@@ -245,7 +245,7 @@ On the application side we will improve our features so that users can have more
 
 - **Estimated Duration:** 12 months
 - **FTE:**  2-4
-- **Costs:** 76,444 USD
+- **Costs:** 80,000 USD
 
 
 ## Future Plans
