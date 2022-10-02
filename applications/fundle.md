@@ -241,7 +241,7 @@ With this team we can create brand awareness. The plan is to finetune the produc
 The focus will be on:
 - Businesses with established existing community. Their problem is that active and intensive participation, involvement and engagement remains difficult. Therefore they want to have more interaction to gain more (value) out of their community or offer new customer experiences. These are often innovative companies who did for example a NFT launch already. 
 
-- New businesses/startups. They experience that building, growing and managing communities is challenging and forms a barrier. A characteristic of them can be that they did a crowdfunding and are familiar with the added value of community building. Examples are projects from kickstarter/indiegogo or projects from startup communities. 
+- New businesses/startups. They experience that building, growing and managing communities is challenging and forms a barrier. A characteristic of them can be that they did a crowdfunding and are familiar with the added value of community building. 
 
 We will create a network of publicity around the Fundle platform which ensures that lots of different people will get to know Fundle. This will be done via 6 pillars. Existing startups communities, company, online marketing, communities existing fanbase, affiliates and the freelance hub.
 
