@@ -55,7 +55,7 @@ These market trends and opportunities form the basis of the Fundle platform. We 
 <img width="1296" alt="image" src="https://user-images.githubusercontent.com/54183058/191728363-99844410-721e-4e51-ae91-471825e49806.png">
 
 #### Application architecture 
-<img width="596" alt="image" src="https://user-images.githubusercontent.com/54183058/192746492-934554e8-797d-4c38-a89f-393a9b152b15.png">
+<img width="637" alt="image" src="https://user-images.githubusercontent.com/54183058/193469553-1f083355-a2b3-4512-90d7-9cd5f76e5330.png">
 
 Framework used for application and API: Laravel (PHP). The blue parts are already finished, these parts won't be open source since it is custom made for the Fundle platform!
 
