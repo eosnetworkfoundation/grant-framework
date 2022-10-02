@@ -245,7 +245,7 @@ The focus will be on:
 
 We will create a network of publicity around the Fundle platform which ensures that lots of different people will get to know Fundle. This will be done via 6 pillars. Existing startups communities, company, online marketing, communities existing fanbase, affiliates and the freelance hub.
 
-On the application side we will improve our features so that users can have more interaction (so more transactions on the Antelope Blockchain) and better experiences. See "Future Plans" for the plans we have! 
+On the application side we will improve our features so that users can have more interaction (so more transactions on the EOS Blockchain) and better experiences. See "Future Plans" for the plans we have! 
 
 - **Estimated Duration:** 12 months
 - **FTE:**  2-4
