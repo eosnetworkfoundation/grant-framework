@@ -67,7 +67,7 @@ We will use, customize and integrate the open source Balancer protocol. The prot
 The structure of the community tokens will be the following:
 <img width="584" alt="image" src="https://user-images.githubusercontent.com/54183058/192855088-b0474ed6-9b17-43a9-9d1a-4c8bfc0a661a.png">
 
-We want to bridge to EOS (via Trust EVM) because of the benefits (transaction speed, low costs etc.). However, we would like to use an Ethereum protocol because of better integration with popular wallets (coinbase, metamask) and with fiat gateways. Payment accessibility is of high importance for our platform.
+We want to use EOS (via Trust EVM) because of the benefits (transaction speed, low costs etc.). However, we would like to use an Ethereum protocol because of better integration with popular wallets (coinbase, metamask) and with fiat gateways. Payment accessibility is of high importance for our platform.
 
 ### Ecosystem Fit
 
