@@ -28,7 +28,7 @@ https://fundlecontent.ams3.digitaloceanspaces.com/website/Videos/Promo%20Video%2
 - **Name:** Fundle
 - **Brief Description:** 
 
-  Fundle is a platform where businesses can build and manage tokenized communities to increase customer engagement! We allow businesses to build stronger   long-term relationships, offer new customer experiences and gain more out of a community. Businesses can offer a broader set of rewards to its  most       loyal customers while gaining promotion and feedback from them. Each business has its own token to build a digital community and economy. Holders of       that token (members) can unlock specific rewards, experiences, interaction or involvement. The model allows the community to be rewarded for the value     they’re helping create in the business. Gaining more value from the community for both business and members is what Fundle stands for.
+  Fundle is a platform where businesses can raise funds and build / manage tokenized communities to increase customer engagement! We allow businesses to build stronger   long-term relationships, offer new customer experiences and gain more out of a community. Businesses can offer a broader set of rewards to its  most       loyal customers while gaining promotion and feedback from them. Each business has its own token to build a digital community and economy. Holders of       that token (members) can unlock specific rewards, experiences, interaction or involvement. The model allows the community to be rewarded for the value     they’re helping create in the business. Gaining more value from the community for both business and members is what Fundle stands for.
 
   For a detailed explanation please visit: https://wefundle.com/ and https://wefundle.com/about
   
