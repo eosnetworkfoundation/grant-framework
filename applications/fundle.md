@@ -33,7 +33,7 @@ https://fundlecontent.ams3.digitaloceanspaces.com/website/Videos/Promo%20Video%2
   For a detailed explanation please visit: https://wefundle.com/ and https://wefundle.com/about
   
 - **Relationship to EOSIO:** We are planning to run the token bonding curve mechanism/AMM on TrustEVM!
-- **Reason for Interest:** Blockchain allows us to revolutionize and strengthen the position of the community. We truly believe in the added value of Antelope, we would like to utilize the benefits of high throughput and low transaction costs for our users. These aspects are crucial for the success of our platform. With the entrance of the ENF, we see that many good developments are going on, and therefore we have trust in Antelope for the future!
+- **Reason for Interest:** Blockchain allows us to revolutionize and strengthen the position of the community. We truly believe in the added value of EOS, we would like to utilize the benefits of high throughput and low transaction costs for our users. These aspects are crucial for the success of our platform. With the entrance of the ENF, we see that many good developments are going on, and therefore we have trust in EOS for the future!
 
 ### Project Details
 
@@ -57,7 +57,7 @@ These market trends and opportunities form the basis of the Fundle platform. We 
 #### Application architecture 
 <img width="596" alt="image" src="https://user-images.githubusercontent.com/54183058/192746492-934554e8-797d-4c38-a89f-393a9b152b15.png">
 
-Framework used for application and API: Laravel (PHP)
+Framework used for application and API: Laravel (PHP). The blue parts are already finished!
 
 #### Blockchain mechanism
 We will use, customize and integrate the open source Balancer protocol. The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. USDC/USDT will be the reserve token so per community USDC/USDT will be bonded to the community token. When users send USDC/USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply. The price of a community token will be determined by the $community supply and the holding patterns of token holders.
@@ -67,20 +67,19 @@ We will use, customize and integrate the open source Balancer protocol. The prot
 The structure of the community tokens will be the following:
 <img width="584" alt="image" src="https://user-images.githubusercontent.com/54183058/192855088-b0474ed6-9b17-43a9-9d1a-4c8bfc0a661a.png">
 
-We want to bridge to Antelope (via Trust EVM) because of the benefits (transaction speed, low costs etc.). However, we would like to use an Ethereum protocol because of better integration with popular wallets (coinbase, metamask) and with fiat gateways. Payment accessibility is of high importance for our platform.
+We want to bridge to EOS (via Trust EVM) because of the benefits (transaction speed, low costs etc.). However, we would like to use an Ethereum protocol because of better integration with popular wallets (coinbase, metamask) and with fiat gateways. Payment accessibility is of high importance for our platform.
 
 ### Ecosystem Fit
 
 - Where and how does your project fit into the ecosystem?
 
-  Our platform will run on the Antelope blockchain, this brings lots of new users (also non/new crypto users) who will interact and get to know the         Antelope blockchain. The contracts of Fundle will be deployed on the TrustEVM/Antelope network. Fundle shows others what possibilities             TrustEVM/Antelope has and that it is possible to build these platforms on the Antelope blockchain! We can be a perfect use case for TrustEVM. The         purpose of Fundle is to have lots of interaction between members and the business. This results in many transactions on the Antelope Blockchain. 
+  Our platform will run on the EOS blockchain, this brings lots of new users (also non/new crypto users) who will interact and get to know EOS. The contracts of Fundle will be deployed on TrustEVM. Fundle shows others what possibilities TrustEVM has and that it is possible to build these platforms on the EOS blockchain! We can be a perfect use case for TrustEVM. The purpose of Fundle is to have lots of interaction between members and the business. This results in many transactions on the EOS Blockchain. 
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
   Our focus is on two types of businesses. Innovative and creative businesses with existing communities who like to have more interaction with their         fanbase to gain more (value) from their community or offer new customer experiences. Or startups who want to build, grow and manage their                 community/business. 
 
   On the other side we have members. They buy tokens because they want to become part of the digital community to enjoy the benefits. We are also           targetting on members who have never used blockchain before (therefore payment accesibility with fiat on   ramps is important for us). The system is       going to be easy understandable and customer friendly. In our future plans when people can work for communities we will also be targetting                 creatives/freelancers. So, it is a platform that is useful and interesting for a wide range of people.
-
 
 - What need(s) does your project meet?
 
@@ -110,7 +109,7 @@ We want to bridge to Antelope (via Trust EVM) because of the benefits (transacti
 __________________________________________________________________________________________________________________________________________________________
 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
-  To the best of our knowledge there are no similar projects in the Antelope or related ecosystems.
+  To the best of our knowledge there are no similar projects in the EOS or related ecosystems.
 
 ## Team
 ### Team members
@@ -182,8 +181,7 @@ Zaisan has been around in EOSIO ecosystem for several years, formally known as E
 - https://www.linkedin.com/in/leo-frehe-9433811/
 
 ## Development Status
-
-The application (non blockchain part) is tested right now with users on usability and bugs. This version shows exactly how the first phase of the platform will work and look like. 
+The platform is already far in development. The non-blockchain part is finished and tested right now with users on usability and bugs. This version shows exactly how the first phase of the platform will work and look like. The missing piece before we can go live is the blockchain mechanism.
 
 #### Articles
 
@@ -225,7 +223,7 @@ The plan is to use this grant to finish the platform (blockchain + security), cr
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | Smart Contracts | The Balancer protocol will be forked and the contracts will be customized for the Fundle platform. (Open Source) |
-| 0b. | Documentation | We will provide both **inline documentation** of the code. This part of the application will be open source |
+| 0b. | Documentation | We will provide both **inline documentation** of the code. This part of the application will be open source. |
 | 0c. | Testing | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests for the customized contracts. |
 | 1. | TrustEVM application integration | We will integrate Trust EVM with our Laravel application with the following web3 php client: https://github.com/web3p/web3.php. |  
 | 2. | Payment integration | Users can join communities bij sending USDC/USDT. They have 2 options to pay: connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) or with fiat gateways (for ex. Moonpay, mercuryo). This part covers steps for the necessary payment architecture of the system including deployment on TrustEVM.  |
