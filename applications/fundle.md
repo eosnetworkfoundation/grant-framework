@@ -223,7 +223,7 @@ The plan is to use this grant to finish the platform (blockchain + security), cr
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | Smart Contracts | The Balancer protocol will be forked and the contracts will be customized for the Fundle platform. This part of the application will be open source. |
-| 0b. | Documentation | We will provide both **inline documentation** of the code. |
+| 0b. | Documentation | We will provide **inline documentation** of the code. |
 | 0c. | Testing | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests for the customized contracts. |
 | 1. | TrustEVM application integration | We will integrate Trust EVM with our Laravel application with the following web3 php client: https://github.com/web3p/web3.php. |  
 | 2. | Payment integration | Users can join communities bij sending USDC/USDT. They have 2 options to pay: connect their own wallet (Metamask, wallet connect, coinbase wallet etc.) or with fiat gateways (for ex. Moonpay, mercuryo). This part covers steps for the necessary payment architecture of the system including deployment on TrustEVM.  |
