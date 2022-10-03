@@ -73,7 +73,7 @@ We want to use EOS (via Trust EVM) because of the benefits (transaction speed, l
 
 - Where and how does your project fit into the ecosystem?
 
-  Our platform will run on the EOS blockchain, this brings lots of new users (also non/new crypto users) who will interact and get to know EOS. The contracts of Fundle will be deployed on TrustEVM. Fundle shows others what possibilities TrustEVM has and that it is possible to build these platforms on the EOS blockchain! We can be a perfect use case for TrustEVM. The purpose of Fundle is to have lots of interaction between members and the business. This results in many transactions on the EOS Blockchain. 
+  Our platform will run on the EOS blockchain, this brings lots of new users (also non/new crypto users) who will interact and get to know EOS. The contracts of Fundle will be deployed on TrustEVM. Fundle shows others what possibilities TrustEVM has and that it is possible to build these platforms on the EOS blockchain! We can be a perfect use case for TrustEVM. The purpose of Fundle is to have lots of interaction between members and the business. This will result in many transactions on the EOS Blockchain. 
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
