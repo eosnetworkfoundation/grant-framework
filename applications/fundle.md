@@ -235,7 +235,7 @@ The plan is to use this grant to finish the platform (blockchain + security), cr
 - **Costs:** 120,000 USD
 
 ### Milestone 2 - Marketing/Sales & Application development
-We made a marketing strategy with a marketing advisor about the go to market strategy! This includes total costs for the promotion of the platform and hiring of working students as (digital) marketer/communication and business developer/sales. 
+We made a marketing strategy with our marketing advisor about the go to market strategy! This includes total costs for the promotion of the platform and hiring of working students as (digital) marketer/communication and business developer/sales. 
 
 With this team we can create brand awareness. The plan is to finetune the product first in the Netherlands. After that we will move with our promotion to Germany, United Kingdom and France since these countries have the highest transaction value in Europe for crowdfunding. The big market (and most potential customers) are based in the United States. When the product has been finetuned we want to move our marketing strategy there.    
 
