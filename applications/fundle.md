@@ -43,7 +43,7 @@ We see an interesting opportunity in the crowdfunding and community-building mar
 
 21 million users, $6,8 billion dollars pledged, and 227,000 projects funded. These are Kickstarter's stats and represent only 21.21% of the crowdfunding market, this means a total of 100 million users. Over the last years this market has proven to be a successful formula for funding products. However, there is little involvement, interaction, and control for backers. Furthermore the success rate of crowdfunding can be improved by intensive community building and working together. 
 
-For businesses, the top 3 benefits of an online community are customer loyalty, reduction in support costs and brand awareness. 70% of communities positively affect the brand and company culture. Companies with online communities are 60% more profitable than companies that do not focus on online communities.
+For businesses, the top 3 benefits of an online community are customer loyalty, reduction in support costs and brand awareness. 70% of communities positively affect the brand and company culture. Companies with online communities are 60% more profitable than companies which do not focus on online communities.
 
 An average member contributes $67 of worth yearly to the community. 33% of organizations with an online community have 10,000 or more members. In the coming years, the social business market will potentially grow with a CAGR of 30.8% to 7 trillion by 2030. Community building is becoming an increasingly important topic for businesses. 
 
