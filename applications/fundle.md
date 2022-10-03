@@ -239,7 +239,7 @@ We made a marketing strategy with a marketing advisor about the go to market str
 With this team we can create brand awareness. The plan is to finetune the product first in the Netherlands. After that we will move with our promotion to Germany, United Kingdom and France since these countries have the highest transaction value in Europe for crowdfunding. The big market (and most potential customers) are based in the United States. When the product has been finetuned we want to move our marketing strategy there.    
 
 The focus will be on:
-- Businesses with established existing community. Their problem is that active and intensive participation, involvement and engagement remains difficult. Therefore they want to have more interaction to gain more (value) out of their community or offer new customer experiences. These are often innovative companies who did for example a NFT launch already. 
+- Businesses with an established existing community. Their problem is that active and intensive participation, involvement and engagement remains difficult. Therefore they want to have more interaction to gain more (value) out of their community or offer new customer experiences. These are often innovative companies who did for example a NFT launch already. 
 
 - New businesses/startups. They experience that building, growing and managing communities is challenging and forms a barrier. A characteristic of them can be that they did a crowdfunding and are familiar with the added value of community building. 
 
