@@ -138,7 +138,7 @@ An ambitious and enthusiastic person with an entrepreneurial and problem-solving
 
 Role: Software Developer 
 
-A senior software developer that loves to work with people, new technologies and innovations. Designed, build en deployed several solutions for big companies in the past 7 years and uses this experience for Fundle and as a iOS and web developer. I get energy from working with like minded people and I am responsible for the backend development.
+A senior software developer that loves to work with people, new technologies and innovations. Designed, build en deployed several solutions for big companies in the past 7 years and uses this experience for Fundle and as an iOS and web developer. I get energy from working with like minded people and I am responsible for the backend development.
 
 **Leo Frehe**
 
