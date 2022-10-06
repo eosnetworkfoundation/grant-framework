@@ -73,17 +73,17 @@ This implementation allows Antelope to extend one more contract language, Rust, 
 [https://github.com/DELIGHT-LABS](https://github.com/DELIGHT-LABS)
 
 - Terraswap
-  - [Frontend](https://github.com/terraswap/terraswap-web-app)
-  - [Offchain backend service](https://github.com/terraswap/terraswap-service)
-  - [Contract - Terra classic](https://github.com/terraswap/classic-terraswap)
-  - [Contract - Terra 2.0](https://github.com/terraswap/terraswap)
+    - [Frontend](https://github.com/terraswap/terraswap-web-app)
+    - [Offchain backend service](https://github.com/terraswap/terraswap-service)
+    - [Contract - Terra classic](https://github.com/terraswap/classic-terraswap)
+    - [Contract - Terra 2.0](https://github.com/terraswap/terraswap)
 - XPLA chain
-  - [Mainnet code](https://github.com/xpladev/xpla)
-  - [Token migration frontend (Terra classic -> mainnet)](https://github.com/xpladev/token-migration-web-app)
-  - [Token migration relayer (Terra classic -> mainnet)](https://github.com/xpladev/warp-relayer)
+    - [Mainnet code](https://github.com/xpladev/xpla)
+    - [Token migration frontend (Terra classic -> mainnet)](https://github.com/xpladev/token-migration-web-app)
+    - [Token migration relayer (Terra classic -> mainnet)](https://github.com/xpladev/warp-relayer)
 - Data API service
-  - [Terraswap on Terra classic](https://github.com/DELIGHT-LABS/terraswap-graph)
-  - [Unified service for Cosmos-SDK based chain](https://github.com/DELIGHT-LABS/cosmwasm-etl) (Private, in development, I'll add you if you need to check it)
+    - [Terraswap on Terra classic](https://github.com/DELIGHT-LABS/terraswap-graph)
+    - [Unified service for Cosmos-SDK based chain](https://github.com/DELIGHT-LABS/cosmwasm-etl) (Private, in development, I'll add you if you need to check it)
 
 ### Team Member Repos
 
@@ -132,18 +132,18 @@ NOTE: There is no official general Rust LLVM. [This standardization project](htt
 
 1. If `IR ≅ IR'` and `API ≅ API'`
     - We can directly start from Wasmer's implementation
-      - Implement Antelope-specific data structure and API of `eosio.cdt` (Like table, vector, etc)
+        - Implement Antelope-specific data structure and API of `eosio.cdt` (Like table, vector, etc.)
 1. Else if `IR ≅ IR'` and `API != API'`
-    - Implement a compiler first, which works for adjusting WASM API interface from Wasmer spec to EOSVM spec
-    - After then, do (1)
+    - Implement a compiler, which works for adjusting WASM API interface from Wasmer spec to EOSVM spec
+    - After then, start (1)
 1. Else (`IR != IR'` and `API != API'`)
-    - Mounting Wasmer on Antelope would be the cheapest
-    - Mounting Wasmer with the existing state DB compatibilization, and do (1)
+    - Mount Wasmer on Antelope would be the cheapest
+    - Mount Wasmer, make compatible with the existing state DB, and work on (1)
     - [Draft proposal of this case](https://github.com/DELIGHT-LABS/grant-framework/blob/docs/wasmer-integration/applications/wasmer-integration.md)
 
 ### Why Wasmer?
 
-Performance is placed in the top tier. [benchmark 2021](https://00f.net/2021/02/22/webassembly-runtimes-benchmarks/) And it has the biggest ecosystem among WASM VM. This project supports many languages accordingly.
+Performance of Wasmer is placed in the top tier. See [benchmark 2021](https://00f.net/2021/02/22/webassembly-runtimes-benchmarks/). Also, it has the biggest ecosystem among WASM VM and supports many languages accordingly.
 
 ## Development Roadmap
 
@@ -159,14 +159,14 @@ Performance is placed in the top tier. [benchmark 2021](https://00f.net/2021/02/
 - **FTE:**  2
 - **Costs:** 10,000 USD
 
-| ID | Deliverable | Specification |
-| ----- | ----------- | ------------- |
-| 0a. | License | MIT |
-| 1 | Research report | Will check and deliver its result of comparison language-LLVM compiling spec and WASM API spec of EOSVM and Wasmer<br/>A report and following proposal will be provided |
+| ID  | Deliverable     | Specification                                                                                                            |
+|-----|-----------------|--------------------------------------------------------------------------------------------------------------------------|
+| 0a. | License         | MIT                                                                                                                      |
+| 1   | Research report | Comparison of language-LLVM compilation spec and WASM API spec of EOSVM and Wasmer<br/>A report and a follow-up proposal |
 
 ## Future Plans
 
-Following proposal will be provided according to this research result.
+There will be a follow-up proposal for supporting Rust CDT according to this research result.
 
 ## Additional Information
 
