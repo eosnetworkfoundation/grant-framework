@@ -124,9 +124,9 @@ This implementation allows Antelope to extend one more contract language, Rust, 
 └──────────────┘             └──────────────┘            └─────────────────┘
 ```
 
-NOTE: There is no official general Rust LLVM. [This standardization project](https://rust-lang.github.io/compiler-team/working-groups/llvm/) is still in incubation status.
+NOTE: There is no official general Rust LLVM. This standardization project is still in incubation status.
 
-**Assumptions**: For cost-effective building, we want to build from the many works of [Wasmer](https://github.com/wasmerio/wasmer), although Antelope doesn't need to mount Wamser.
+Assumptions: For cost-effective building, we want to build from the many works of Wasmer, although Antelope doesn't need to mount Wamser.
 
 #### Cases
 
