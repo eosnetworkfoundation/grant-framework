@@ -162,7 +162,7 @@ The Rewired.one team has been involved with EOSIO since its founding in 2018. We
 \* Additional sub-milestones may be required to support effective cash flow for the project team
 
 
-### Milestone 3 — Build Application Registry
+### Milestone 3 — Indexing Service
 
 - **Estimated Duration:** 7 weeks
 - **FTE:**  0.5
@@ -173,7 +173,8 @@ The Rewired.one team has been involved with EOSIO since its founding in 2018. We
 | 0a. | License | MIT |
 | 0b. | Documentation | We will provide documentation on the available indexes and what data is being represented. |
 | 0c. | Testing Guide | We will provide test scripts that can verify that the indexes are populated and return results. |
-| 1. | Application Registry (Smart Contract) | The Smart Contract will be built in such a way that it considers the governance as defined in an earlier step and will allow the Application metadata to be stored on-chain. The Smart Contract will be designed to be deployed on any EOSIO chain. |  
+| 1. | Application Registry Indexing Service | This service will provide a variety of insights of the Application Registry smart contract data. This will serve both the Web interface (see next deliverable), but also other applications or wallets that might want to make use of this data.
+The indexing service will be configured so that it can support other EOSIO chains in the future. |  
 
 
 ### Milestone 4 — Application Registry Web Frontend
