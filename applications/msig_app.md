@@ -1,14 +1,14 @@
 # EOS Network Foundation Grant Proposal
 
 
-- **Project Name:** Msig.app
+- **Project Name:** Msig.app  Note, this is a Partial open-source project. Everything is open sourced, including smart-contract calls from FE extracted as a separate module at npmjs for easy reusage by other projects. Only the design of UI is a Closed Source.
 - **Team Name:** Fire Labs Limited
 - **EOS Payment Address:** cryptolions1
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
 - **Pomelo Grant(s):** https://pomelo.io/grants/msig.app
-- **Project is Open-Source:** Yes
+- **Project is Open-Source:** Partial. All is open-sourced, except the design of the UI, which is closed-source
 - **Project was part of Token sale:** No
-- **Repository where Project resides:** https://github.com/orgs/CryptoLions/repositories (private)
+- **Repository where Project resides:** https://github.com/CryptoLions/MSIG_tool (public) https://github.com/orgs/CryptoLions/repositories (private, only design of the UI)
 
 ## Contact
 
@@ -24,7 +24,8 @@
 
 
 - **Name:** Msig.app - simplify multisig for novice and expert
-- **Brief Description:** It is too complicated for a novice to manage multi signatures. We will solve this! And for experts - we have templates that make your daily multisig transactions easy. Save your time for more important things! Blockchain gives us a new sense of personal ownership. Now we also move into group ownership, DAO, cooperation, making decisions together with somebody, etc. We are developing MSIG app (https://msig.app/jungle), which helps both new and pro users to manage multi-signature transactions.
+- **Brief Description:** It is too complicated for a novice to manage multi signatures. We will solve this! And for experts - we have templates that make your daily multisig transactions easy. Save your time for more important things! Blockchain gives us a new sense of personal ownership. Now we also move into group ownership, DAO, cooperation, making decisions together with somebody, etc. We are developing MSIG app (https://msig.app/jungle), which helps both new and pro users to manage multi-signature transactions. 
+Note, this is a Partial open-source project. Everything is open sourced, including smart-contract calls from FE extracted as a separate module at npmjs for easy reusage by other projects. Only the design of UI is a Closed Source.
 - **Relationship to EOSIO:** It uses EOSIO system contracts. It is intended for daily usage by each EOSIO user who needs multi signatures, and this number of users is growing because of DAO and other collective-usage use cases.
 - **Reason for Interest:** We are well-known experts in msig topic, creating dozens of complex msigs including starting a few EOSIO blockchains and the famous Jungle. So we saw the intersection of our expertise and the user's needs. In addition, we partnered with a great user-experience expert to make it look nice and simple to use.
 
