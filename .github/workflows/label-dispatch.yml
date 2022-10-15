@@ -1,0 +1,62 @@
+# Label Dispatcher - check the label and dispatch to the next yaml file
+# This drives the workflow through labeling.  Workflow includes: sending emails, adding to Gsheet, adding/moving project cards
+# Ted Cahall 2022-05-23
+
+name: Label Dispatcher
+on:
+  pull_request_target:
+    types: labeled
+  
+jobs:
+  get_filename:
+    runs-on: ubuntu-latest
+    outputs:
+      filename: ${{ steps.files.outputs.added }}
+    steps:
+      - name: Get grant application file name
+        id: 'files'
+        uses: Ana06/get-changed-files@v2.0.0
+        with:
+          filter: 'applications/*.md'
+          
+  checklabel:
+    needs: get_filename
+    if: needs.get_filename.outputs.filename
+    runs-on: ubuntu-latest
+    steps:
+    - name: Grant Received
+      id: grant-received
+      if: github.event.label.name == 'Grant Received'
+      run: echo "Grant Received label was added to application file ${{ needs.get_filename.outputs.filename }}"
+    
+    - name: Grant Translated
+      id: grant-translated
+      if: github.event.label.name == 'Grant Translated'
+      run: echo "Grant Translated label was added to application file ${{ needs.get_filename.outputs.filename }}"
+      
+    - name: Grant Committee Approved
+      id: grant-committee-approved
+      if: github.event.label.name == 'Grant Committee Approved'
+      run: echo "Grant Committee Approved label was added to application file ${{ needs.get_filename.outputs.filename }}"
+      
+    - name: Grant Fully Approved
+      id: grant-fully-approved
+      if: github.event.label.name == 'Grant Fully Approved'
+      run: echo "Grant Fully Approved label was added to application file ${{ needs.get_filename.outputs.filename }}"
+      
+    - name: Grant Rejected
+      id: grant-rejected
+      if: github.event.label.name == 'Grant Rejected'
+      run: echo "Grant Rejected label was added to application file ${{ needs.get_filename.outputs.filename }}"
+      
+
+  alwaysrun:
+    needs: checklabel
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    steps:
+    - name: alwaysrunthis
+      id: in-case-no-labels-matched
+      run: echo "Not a label we are interested in ${{ github.event.label.name }}"
+  
+   

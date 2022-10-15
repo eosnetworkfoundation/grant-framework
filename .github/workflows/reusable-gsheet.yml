@@ -1,0 +1,27 @@
+name: Reusable Gsheet Update
+on:
+  workflow_call:
+    inputs:
+      project_name:
+        required: true
+        type: string
+    secrets:
+      gsheet_private_key:
+        required: true
+  
+jobs:
+  appendrow:
+    runs-on: ubuntu-latest
+    steps:
+      - id: 'update_worksheet'
+        uses: jroehl/gsheet.action@v1.2.0
+        with:
+          spreadsheetId: 1FsNUKcfAJAorZGHpEzbRKLVYWbpZ_93Ts-R-JTpRK_A 
+          commands: |
+            [
+              { "command": "appendData", "args": { "data": [["${{ inputs.project_name }}", "B2", "B3"]], "worksheetTitle": "Grants", "minCol": 1 }},
+              { "command": "appendData", "args": { "data": [["C2", "C3", "C4"]], "worksheetTitle": "Grants", "minCol": 1 }}
+            ]
+        env:
+          GSHEET_CLIENT_EMAIL: enf-grant-service-account@sonorous-haven-350712.iam.gserviceaccount.com
+          GSHEET_PRIVATE_KEY: ${{ secrets.gsheet_private_key }}

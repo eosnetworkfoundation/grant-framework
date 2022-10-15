@@ -1,0 +1,69 @@
+# ENF Grant Framework - The Evaluators approved the Grant
+# 1) Parse the grant 
+# 2) Email the grantee the notice
+#
+# grant-fully-approved.yml
+#
+# Ted Cahall 28May2022
+
+name: Grant Fully Approved
+
+on:
+  pull_request_target:
+    types: labeled
+
+jobs:
+  check_label:
+    if: github.event.label.name == 'Grant Fully Approved'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Good Label
+        run: echo "Good label ${{ github.event.label.name }}"
+
+  get_filename:
+    needs: check_label
+    runs-on: ubuntu-latest
+    outputs:
+      filename: ${{ steps.files.outputs.added }}
+    steps:
+      - name: Get application file name
+        id: 'files'
+        uses: Ana06/get-changed-files@v2.0.0
+        with:
+          filter: 'applications/*.md'
+
+  call_parser:
+    needs: get_filename
+    if: needs.get_filename.outputs.filename
+    uses: ./.github/workflows/reusable-parser.yml
+    with:
+      filename: ${{ needs.get_filename.outputs.filename }}
+
+  # This is for debugging and can be removed later to make file shorter
+  echo-the-returned-fields:
+    runs-on: ubuntu-latest
+    needs: call_parser
+    steps:
+      - id: echo1
+        run: echo "project name ${{ needs.call_parser.outputs.project_name }} "
+      - id: echo2
+        run: echo "contact name ${{ needs.call_parser.outputs.contact_name }}"
+      - id: echo3
+        run: echo "team name ${{ needs.call_parser.outputs.team_name }}"
+      - id: echo4
+        run: echo "app_email ${{ needs.call_parser.outputs.app_email }}"
+      - id: echo5
+        run: echo "total cost ${{ needs.call_parser.outputs.total_cost }}"
+
+  send_email:
+    needs: [get_filename, call_parser]
+    uses: ./.github/workflows/ru-fully-approved-email.yml
+    with:
+      app_email: ${{ needs.call_parser.outputs.app_email }}
+      contact_name: ${{ needs.call_parser.outputs.contact_name }}
+      project_name: ${{ needs.call_parser.outputs.project_name }}
+      team_name: ${{ needs.call_parser.outputs.team_name }}
+      total_cost: ${{ needs.call_parser.outputs.total_cost }}
+      repo_account: ${{ github.event.pull_request.head.repo.owner.login }}
+    secrets:
+      gmail_password: ${{ secrets.ENFMAILBOT_PASSWORD }}

@@ -1,0 +1,29 @@
+# Test workflow to write a few rows to a Google Sheet.  Triggered from Github UI.
+# Ted Cahall 19May2022
+
+name: Test Append Gsheet
+on:
+  workflow_dispatch:
+  
+jobs:
+  appendrow:
+    runs-on: ubuntu-latest
+    steps:
+      - id: 'update_worksheet'
+        uses: jroehl/gsheet.action@v1.2.0
+        with:
+          spreadsheetId: 1FsNUKcfAJAorZGHpEzbRKLVYWbpZ_93Ts-R-JTpRK_A 
+          commands: |
+            [
+              { "command": "appendData", "args": { "data": [["Ted", "B2", "B3"]], "worksheetTitle": "Grants", "minCol": 1 }},
+              { "command": "appendData", "args": { "data": [["Test", "C3", "C4"]], "worksheetTitle": "Grants", "minCol": 1 }}
+            ]
+        env:
+          GSHEET_CLIENT_EMAIL: enf-grant-service-account@sonorous-haven-350712.iam.gserviceaccount.com
+          GSHEET_PRIVATE_KEY: ${{ secrets.GHSEET_API_KEY }}
+      - name: dump results
+        env:
+          RESULTS: ${{ steps.update_worksheet.outputs.results }}
+        run: echo "$RESULTS"
+
+# { "command": "addWorksheet", "args": { "worksheetTitle": "FHorseTest2" }},
