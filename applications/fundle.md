@@ -57,7 +57,7 @@ These market trends and opportunities form the basis of the Fundle platform. We 
 #### Application architecture 
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/54183058/193469553-1f083355-a2b3-4512-90d7-9cd5f76e5330.png">
 
-Framework used for application and API: Laravel (PHP). The blue parts are already finished, these parts won't be open source since it is custom made for the Fundle platform!
+Framework used for application and API: Laravel (PHP). The blue parts are already finished, these parts won't be open source since it is custom made for the Fundle platform! 
 
 #### Blockchain mechanism
 We will use, customize and integrate the open source Balancer protocol. The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. USDC/USDT will be the reserve token so per community USDC/USDT will be bonded to the community token. When users send USDC/USDT, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply. The price of a community token will be determined by the $community supply and the holding patterns of token holders.
