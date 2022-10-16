@@ -5,7 +5,7 @@
 - **EOS Payment Address:** fundle.gm
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Pomelo Grant(s):**  N/A 
-- **Project is Open-Source:** No (except blockchain part)
+- **Project is Open-Source:** Partly
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** BitBucket private repository
 
@@ -59,7 +59,7 @@ These market trends and opportunities form the basis of the Fundle platform. We 
 
 Framework used for application and API: Laravel (PHP). The blue parts are already finished, these parts won't be open source since it is custom made for the Fundle platform! This part has no value for the community to be open source. The token bonding curve mechanism will be open source and usable for the EOS community.
 
-#### Blockchain mechanism
+#### Token Bonding Curve mechanism
 With this grant we will build the token bonding curve mechanism which will thereafter be used for the Fundle application. We will build further up on the Balancer protocol. The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. The reserve token will be a stablecoin (e.g. USDC,USDT). Per community the stablecoin will be bonded to the community token. When users send the stablecoin, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply. The price of a community token will be determined by the $community supply and the holding patterns of token holders.
  
 <img width="1433" alt="image" src="https://user-images.githubusercontent.com/54183058/196049946-824c72bb-c950-401c-8e65-4ba71e8534c3.png">
