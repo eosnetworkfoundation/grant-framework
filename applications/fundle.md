@@ -21,8 +21,7 @@ This grant will be used to build a token bonding curve mechanism, integrate with
 
 #### Platform video 
 This video will show how the application will look like and how Fundle works!
-[https://fundlecontent.ams3.digitaloceanspaces.com/website/Videos/Promo%20Video%20Fundle.mp4
-](https://vimeo.com/759605041)
+https://vimeo.com/759605041
 ### Overview
 
 - **Name:** Fundle
