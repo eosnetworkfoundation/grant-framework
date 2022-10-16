@@ -17,7 +17,7 @@
 
 ## Project Overview
 
-This grant will be used to fund the integration of TrustEVM, to customize the Balancer protocol and to launch the platform. 
+This grant will be used to build a token bonding curve mechanism, integrate with TrustEVM and launch the platform. 
 
 #### Platform video 
 This video will show how the application will look like and how Fundle works!
