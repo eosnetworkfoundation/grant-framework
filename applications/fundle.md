@@ -62,7 +62,7 @@ Framework used for application and API: Laravel (PHP). The blue parts are alread
 #### Blockchain mechanism
 With this grant we will build the token bonding curve mechanism which will thereafter be used for the Fundle application. We will build further up on the Balancer protocol. The protocol will allow users to buy/sell tokens per community according to a token bonding curve mechanism. So each community has its own token which is created when business create their community on Fundle. The reserve token will be a stablecoin (e.g. USDC,USDT). Per community the stablecoin will be bonded to the community token. When users send the stablecoin, the community token will be mint according to the current price and supply and when users want to sell their tokens the tokens are burned according to the current price and supply. The price of a community token will be determined by the $community supply and the holding patterns of token holders.
  
-<img width="1433" alt="image" src="https://user-images.githubusercontent.com/54183058/196049868-4abd7a15-dd90-4ab7-b509-92dbd53fa78c.png">
+<img width="1433" alt="image" src="https://user-images.githubusercontent.com/54183058/196049946-824c72bb-c950-401c-8e65-4ba71e8534c3.png">
 
 The structure of the community tokens will be the following:
 <img width="584" alt="image" src="https://user-images.githubusercontent.com/54183058/192855088-b0474ed6-9b17-43a9-9d1a-4c8bfc0a661a.png">
