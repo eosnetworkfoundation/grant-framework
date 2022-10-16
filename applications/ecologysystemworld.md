@@ -1,179 +1,176 @@
-# EOS Network Foundation Grant Proposal
+# EOS Network Foundation Grant Proposal	
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-
-- **Project Name:** EcologySystemWorld
-- **Team Name:** ESW
+- **Project Name:** Ecology System World
+- **Team Name:** Ecology System World, Sagl
 - **EOS Payment Address:** eswbankvault
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
+- **Pomelo Grant(s):** https://pomelo.io/grants/esw
+- **Project is Open-Source:** No
+- **Project was part of Token sale:** No
+- **Repository where Project resides:** https://github.com/ecologysystemworld/ecologysystemworld.io
 
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
+
+## Contact
+
+- **Contact Name:** De Fazio Moreno 
+- **Contact Email:** moreno-g@live.it
+- **Website:** https://ecologysystemworld.io
+
+
 
 ## Project Overview
 
-> If this application is in response to an RFP, please indicate this on the first line of this section.
 
 ### Overview
 
-> Please provide the following:
 
-- **Name:** EcologySystemWorld.
-- **Brief Description:** ESW is a project of a food supply chain. Its goal is to track and certify the provenance of the food and make sure that the food you put on your table wasn't adulterated. With ESW you'll scan the label and get the history of the product.
-- **Relationship to EOSIO:** We want to use EOSIO thanks to its speed, power and reliability.
-- **Reason for Interest:** We want to eliminate adulteration from products to be able to be sure of what you are buying and its origin.
+- **Name:** Ecology System World
+- **Brief Description:**  ESW is a project of a food supply chain. Its goal is to track and certify the provenance of the food and make sure that the food you put on your table wasn't adulterated. With ESW you'll scan the label and get the history of the product.
+- **Relationship to EOSIO:** ESW protocol can be used on any EOSIO based blcokcahin
+- **Reason for Interest:**  Our mission is to eliminate counterfeiting in the world leveragin on blockchain technology,
 
 ### Project Details
 
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
-
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+![supplychain](https://github.com/ecologysystemworld/grant-img/blob/main/supplychain.jpg)
+- Video
+[<img src="https://github.com/ecologysystemworld/grant-img/blob/main/logo512.png" width="50%">](https://youtu.be/QElvOAlHCTU "ESW video")
 
 ### Ecosystem Fit
 
 > Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
 
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
+- Where and how does your project fit into the ecosystem? The project will define a new protocol that could be use on the whole EOSIO ecosystem.
+- Who is your target audience? Producers, manufacturers, retailers, transporters, Fairtrade organizations, consumers.
+- What need(s) does your project meet? ESW takes care of eliminating counterfeiting from the world and therefore making people distinguish what is original from what is false even if the product or food is practically identical.
 - Are there any other projects similar to yours in the EOSIO ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+  - Currently there are no other projects delivering similar products in the EOSIO ecosystem. Looking outside the EOSIO ecosystem there are projects working in this direction but struggling with the constrains imposed by the other low performance blockchain.
 
 ## Team
 
 ### Team members
 
-- Name of team leader
-  - De Fazio Moreno
-- Names of team members
-  - Andriotto Mauro  
-  - Colliva Nicola
-  - De Sifone Frank
-  - Ginestrini Simone
-  - Otri Fabrizio
-  - Trun Tony
+- **Team Leader:** Moreno De Fazio
+- Simone Ginestrini
+- Mauro Andriotto
+- Frank del Sifone
+- Nicola Colliva
+- Aneta Karbowiak
+- Tony Tran
+- Fabrizio Foti
 
 
-### Contact
-
-- **Contact Name:** De Fazio Moreno 
-- **Contact Email:** admin@ecologysystemworld.io
-- **Website:** www.ecologysystemworld.io
 
 ### Legal Structure
-- **Registered Legal Entity:** Ecology System World Sagl
-- **Registered Address:** Via al Parco 13, 6817 Maroggia, CH
-
+- **Registered Legal Entity:** Ecology System World, Sagl
+- **Registered Address:** Via al Parco 13, 6817 Maroggia, Switzerland
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
+Nicola and Simone work as developers for ESW and have proven experience as EOSIO developers, their project includes betnow.io (who both partecipated to the B1 Beyond blockchain hackathon and Pomelo) and eosmessage.com (who has been receiving funding from Pomelo
+Tony Tran works as an advisor for ESW and is the CTO of Mythic Markets, a platform for fractional ownership of collectables. Prior to Mythic Markets, Tony was the co-founder and CTO of Beenest (Bee Token)
 
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
 
 ### Team Org Repos
 
-- https://github.com/ecologysystemworld
 - https://github.com/ecologysystemworld/ecologysystemworld.io
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
 ### Team Member Repos
 
 - https://github.com/ecologysystemworld
-- https://github.com/MORENO96EOS
+- https://github.com/MORENO96EOS						   
 - https://github.com/ncolliva
 - https://github.com/sginestrini
 
-### Team LinkedIn Profiles
+### Team LinkedIn Profiles (if available)
 
 - https://www.linkedin.com/in/moreno-de-fazio-b54145113/
+- https://www.linkedin.com/in/totran/
 - https://www.linkedin.com/in/mauro-andriotto/
+- https://www.linkedin.com/in/nicola-colliva-9440aab0/
+- https://www.linkedin.com/in/simone-ginestrini-5a3830137/
 
 ## Development Status
 
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+White paper has been publish ![whitepaper](https://www.ecologysystemworld.io/#/whitePaper) and we started building the website.
 
 ## Development Roadmap
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
+### Milestone Summary
 
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to the EOS ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
+- **Total Estimated Duration:** 18 months 
+- **Full-Time Equivalent (FTE):** 0.5 FTE
+- **Total Costs:** 50,000 USD
 
-For each milestone,
+### Milestone 1 — Develop basic utility token smart contract
 
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
+- **Estimated duration:** 1.5 months
+- **FTE:**  0.5
+- **Costs:** 5,000 USD
 
-> :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
-
-### Overview
-
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
-
-### Milestone 1 Example — Implement EOSIO Sub-module
-
-- **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 8,000 USD
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
+| 0b. | Documentation | 
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | EOSIO Sub-module: X | We will create a EOSIO module that will... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | EOSIO Sub-module: Y | We will create a EOSIO module that will... |  
-| 3. | EOSIO Sub-module: Z | We will create a EOSIO module that will... |  
-| 4. | EOSIO chain | Sub-modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
+| 0d. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
+| 1. | Airdrop | We will release the utility token ESW and airdrop 5% of the supply to all active EOS users |  
+| 2. | Front-End / User Interface | We will add a new functionality to ecologyssytemworld.io to allow users to sign up for the airdrop and check their balances |  
+
+### Milestone 2 — Develop basic smart contract tracking functionality
+
+- **Estimated duration:**  6 months
+- **FTE:**  0.5
+- **Costs:** 20,000 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a certified user can mint a new tracking NFT and report its change of status through the supply chain interacting with our smart contract | 
+| 0d. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
+| 1. | Application interface to EOSIO | We will release new functionality to allow users to mint a tracking NFT, report its change of status and burn it to redeem its value at the end of the chain|  
+| 5. | Deploy | We will deploy on testnet the MVP smart contract to be able to work on the next Milestone |
 
 
-### Milestone 2 Example — Additional features
+### Milestone 3 — Basic frontend development
 
-- **Estimated Duration:** 1 month
-- **FTE:**  1
-- **Costs:** 4,000 USD
+- **Estimated Duration:** 4 month
+- **FTE:**  2
+- **Costs:** 10,000 USD
 
-...
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how how a certified user can mint a new tracking NFT and report its change of status through the supply chain interacting with our frontend |
+| 0d. | Article | We will publish an **article** on Medium that explains what was done/achieved as part of the grant and link to our documentation page so that users can test our product|
+| 1. | Create UI | We will create a React dashboard and admin UI to interact with the smart contract new functionalities as per previous milestone |
+
+### Milestone 4 — User UI and mainnet deployment
+
+- **Estimated Duration:** 5 months
+- **FTE:**  2
+- **Costs:** 15,000 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a consumer user can burn a trakcing NFT to redeem its value at the end of the supply chain interacting with with our website |
+| 0d. | Article | We will publish an **article** on Medium that explains what was done/achieved as part of the grant and link to our documentation page so that users can try our product|
+| 1. | Create UI | We will finalize our React dashboard to allow users (both consumers and certified users) to interact with the smart contract|
+| 5. | Deploy | We will deploy on EOS mainnet |
+
+... Add more milestones as above as needed ...
 
 
 ## Future Plans
 
-> Please include here
+- Our mission is to define a standard for tracking NFTs. 
+- The team will deploy ESW smart contract into main EOSIO sidechain icluding WAX and TELOS eventually expanding also to TRUST EVM to allow IBC.
+- We will start by tracking high quality european goods including Italian and French wines exported around the world and later on expand to commodities as the adoption raises.
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
 
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** EOS Network Foundation Website and social media account.
 
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+- We are already in contact with some local Italian companies/producers interested into using our protocol to certify their goods.
