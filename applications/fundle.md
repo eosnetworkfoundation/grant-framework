@@ -217,7 +217,7 @@ Some relevant literature and articles about tokenized communities, community bui
 - **Full-Time Equivalent (FTE):** 2-4 FTE
 - **Total Costs:** 200,000 USD
 
-The plan is to use this grant to finish the platform (blockchain + security), create brand awareness, build the team, launch the platform and further develop/improve features.  
+The plan is to use this grant to finish the platform (token bonding curve mechanism + security), create brand awareness, build the team, launch the platform and further develop/improve features.  
 
 ### Milestone 1 - Balancer protocol customization and integration with application via TrustEVM
 
