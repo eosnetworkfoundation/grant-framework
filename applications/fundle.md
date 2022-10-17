@@ -182,7 +182,7 @@ Zaisan has been around in EOSIO ecosystem for several years, formally known as E
 - https://www.linkedin.com/in/rhettoudkerkpool/
 
 ## Development Status
-The platform is already far in development. The non-blockchain part is finished and tested right now with users on usability and bugs. This version shows exactly how the first phase of the platform will work and look like. The missing piece before we can go live is the blockchain mechanism.
+The platform is already far in development. The non-blockchain part is finished and tested right now with users on usability and bugs. This version shows exactly how the first phase of the platform will work and look like. The missing piece before we can go live is the token bonding curve mechanism.
 
 #### Articles
 
