@@ -5,7 +5,7 @@
 - **EOS Payment Address:** fundle.gm
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Pomelo Grant(s):**  N/A 
-- **Project is Open-Source:** Partly
+- **Project is Open-Source:** Partly (see "Open source" section)
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** BitBucket private repository
 
