@@ -198,11 +198,6 @@ Some relevant literature and articles about tokenized communities, community bui
 - https://tribe.so/blog/30-online-community-stats-you-must-know-in-2019/
 - https://www.linkedin.com/pulse/online-community-statistics-50-stats-know-2021-peerboard/
 
-**Tokenized Communities**
-
-- https://www.thetilt.com/revenue/community-tokens-business-model
-- https://coinvise.substack.com/p/crowdfunding-projects-through-social?s=r
-
 **Token bonding curves**
 
 - https://medium.com/linum-labs/intro-to-bonding-curves-and-shapes-bf326bc4e11a
