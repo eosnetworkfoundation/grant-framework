@@ -86,6 +86,7 @@ We want to use EOS (via Trust EVM) because of transaction speed, lower costs, in
 
 - What need(s) does your project meet?
 
+The community token model creates new ways of interaction between businesses and members and so new benefits!
   #### For members:
   Current platforms lack real community involvement and interaction. Members cannot really be "part of" and there is little interaction. Furthermore, both business and members cannot always have fair benefits (social and/or economical).
 
