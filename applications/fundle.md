@@ -241,7 +241,7 @@ With this team we can create brand awareness. We will create a network of public
 The focus will be on:
 - Businesses with an established existing community. Their problem is that active and intensive participation, involvement and engagement remains difficult. Therefore they want to have more interaction to gain more (value) out of their community or offer new customer experiences. These are often innovative companies who did for example a NFT launch already. 
 
-- New businesses/startups. They experience that building, growing and managing communities is challenging and forms a barrier. A characteristic of them can be that they did a crowdfunding and are familiar with the added value of community building. 
+- New businesses/startups with innovative products. They experience that building, growing and managing communities is challenging and forms a barrier. A characteristic of them can be that they did a crowdfunding and are familiar with the added value of community building. 
 
 On the application side we will improve our features so that users can have more interaction (so more transactions on the EOS Blockchain) and better experiences. See "Future Plans" for the plans we have! 
 
