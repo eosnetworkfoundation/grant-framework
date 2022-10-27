@@ -127,8 +127,8 @@ ________________________________________________________________________________
 - Zaisan
 
 ### Legal Structure
-- **Registered Legal Entity:** We are in the initial process of registration
-- **Registered Address:** N/A
+- **Registered Legal Entity:** Fundle
+- **Registered Address:** Het Kranenveld 12 TU/e Innovation Space 5612AZ Eindhoven
 
 ### Team Experience
 
