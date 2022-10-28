@@ -7,7 +7,7 @@
 - **Pomelo Grant(s):**  N/A 
 - **Project is Open-Source:** Partly (see "Open source" section)
 - **Project was part of Token sale:** No
-- **Repository where Project resides:** BitBucket private repository
+- **Repository where Project resides:** https://github.com/wefundle/fundle-contracts
 
 ## Contact
 
@@ -171,7 +171,7 @@ Zaisan has been around in EOSIO ecosystem for several years, formally known as E
 
 ### Team Org Repos
 
-- Our code is privately hosted in a BitBucket repository
+- https://github.com/wefundle/fundle-contracts
 
 ### Team Member Repos
 
