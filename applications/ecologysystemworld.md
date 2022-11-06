@@ -109,7 +109,7 @@ White paper has been publish ![whitepaper](https://www.ecologysystemworld.io/#/w
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
+| 0a. | License | MIT |
 | 0b. | Documentation | 
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
@@ -124,7 +124,7 @@ White paper has been publish ![whitepaper](https://www.ecologysystemworld.io/#/w
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
+| 0a. | License | MIT |
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a certified user can mint a new tracking NFT and report its change of status through the supply chain interacting with our smart contract | 
 | 0d. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
 | 1. | Application interface to EOSIO | We will release new functionality to allow users to mint a tracking NFT, report its change of status and burn it to redeem its value at the end of the chain|  
