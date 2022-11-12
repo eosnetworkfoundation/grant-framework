@@ -9,6 +9,9 @@ on:
       #environment:
         #type: environment
         #description: Select the environment
+      string2:
+        type: string
+        description: Please enter the second string here
       boolean:
         type: boolean
         description: True or False
