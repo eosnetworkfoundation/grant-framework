@@ -3,7 +3,7 @@
 - **Project Name:** Ted Cahall Test Project
 - **Team Name:** Cahall Labs, Inc.
 - **EOS Payment Address:** tedcahall.gm
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
 - **Pomelo Grant(s):** N/A
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
