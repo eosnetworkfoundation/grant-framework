@@ -1,5 +1,7 @@
 # Parse the ENF Grant Framework Application and return the important parts
 # Ted Cahall 25May2022 - modified 30June2022 to scrape more fields.
+# 12Nov2022 - Added more fields for the Big Scrape and made a new file from old one
+#             File may be called from a PR or with a filename passed in (not associated with a PR)
 #
 name: Reusable Application Parser
 on:
@@ -23,14 +25,16 @@ on:
         value: ${{ jobs.parse.outputs.legal_entity }}
       legal_addr:
         value: ${{ jobs.parse.outputs.legal_addr }}
-      github_repo:
-        value: ${{ jobs.parse.outputs.github_repo }}
-      pr_no:
-        value: ${{ jobs.parse.outputs.pr_no }}
       level:
         value: ${{ jobs.parse.outputs.level }}
       eos_addr:
         value: ${{ jobs.parse.outputs.eos_addr }}
+      repo_owner:
+        value: ${{ jobs.parse.outputs.repo_owner }}
+      github_actor:
+        value: ${{ jobs.parse.outputs.github_actor }}
+      pr_no:
+        value: ${{ jobs.parse.outputs.pr_no }}
   
 jobs:
   parse:
@@ -44,10 +48,11 @@ jobs:
       total_cost: ${{ steps.grep_appl.outputs.total_cost }}
       legal_entity: ${{ steps.grep_appl.outputs.legal_entity }}
       legal_addr: ${{ steps.grep_appl.outputs.legal_addr }}
-      github_repo: ${{ steps.grep_appl.outputs.github_repo }}
-      pr_no: ${{ steps.grep_appl.outputs.pr_no }}
       level: ${{ steps.grep_appl.outputs.level }}
       eos_addr: ${{ steps.grep_appl.outputs.eos_addr }}
+      repo_owner: ${{ steps.grep_appl.outputs.repo_owner }}
+      github_actor: ${{ steps.grep_appl.outputs.github_actor }}
+      pr_no: ${{ steps.grep_appl.outputs.pr_no }}
       
     steps:
       - name: Checkout
@@ -56,8 +61,8 @@ jobs:
         with:
           ref: ${{ github.event.pull_request.head.sha }}
 
-      # Parse the application template for the email account
-      - name: assign the env from the email name
+      # Parse the application template for the required fields
+      - name: assign the env variables from the parsing
         id: grep_appl
         run: |
           export APP_EMAIL=`/bin/grep "**Contact Email:**" ${{ inputs.filename }} | cut -d" " -f4`
@@ -70,6 +75,16 @@ jobs:
           echo "::set-output name=team_name::$TNAME"
           export TCOST=`/bin/grep "**Total Costs:**" ${{ inputs.filename }} | cut -d" " -f4-8`
           echo "::set-output name=total_cost::$TCOST"
-          export LENTITY=`/bin/grep "**Total Costs:**" ${{ inputs.filename }} | cut -d" " -f4-8`
+          export LENTITY=`/bin/grep "**Registered Legal Entity:**" ${{ inputs.filename }} | cut -d" " -f4-12`
           echo "::set-output name=legal_entity::$LENTITY"
+          export LADDR=`/bin/grep "**Registered Address:**" ${{ inputs.filename }} | cut -d" " -f4-30`
+          echo "::set-output name=legal_addr::$LADDR"
+          export LEVEL=`/bin/grep "**[Level](https" ${{ inputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=level::$LEVEL"
+          export EOSADDR=`/bin/grep "**EOS Payment Address:**" ${{ inputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=total_cost::$TCOST"
+          # following three only work when parser launched by a pull request
+          echo "::set-output name=repo_owner::${{ github.event.pull_request.head.repo.owner.login }}"
+          echo "::set-output name=pr_no::${{ github.event.pull_request.number }}"
+          echo "::set-output name=github_actor::${{ github.actor }}"
 
