@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: call-parser
     steps:
-      - id: echo output
+      - id: echo-output
         run: |
           echo "project name ${{ needs.call-parser.outputs.project_name }} "
           echo "contact name ${{ needs.call-parser.outputs.contact_name }}"
