@@ -50,6 +50,9 @@ jobs:
       - name: Echo_file
         run: echo This is the file ${{ needs.get_filename.outputs.filename }}
         
+      - name: Echo PR Number
+        run: echo This is the PR number ${{ github.event.pull_request.number }}
+        
       # Parse the application template for the email account
       - name: assign the env from the email name
         id: grep_email
