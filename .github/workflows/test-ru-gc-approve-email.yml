@@ -7,7 +7,7 @@ jobs:
   call-workflow-passing-data:
     uses: ./.github/workflows/ru-committee-approved-email.yml
     with:
-      app_email: ted@eosn.foundation
+      app_email: ted.cahall@eosnetwork.com
       contact_name: Ted Cahall
       project_name: Brauhaus Brohaus
       team_name: Brauhaus Bros
