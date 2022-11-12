@@ -11,7 +11,7 @@ name: getFileName
 # Controls when the workflow will run
 on:
   pull_request_target:
-    types: [opened, edited]
+    types: [opened, edited, synchronize]
 
   # Allows you to run this workflow manually from the Actions tab
   #workflow_dispatch:
