@@ -1,0 +1,19 @@
+name: Big Scrape
+
+on:
+  workflow_dispatch:
+    inputs:
+      AppFile:
+        type: string
+        description: Name of Application File
+        
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: greet
+        run: | 
+          echo "Application file is: ${{ github.event.inputs.AppFile }}"
