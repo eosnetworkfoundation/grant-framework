@@ -17,7 +17,7 @@ jobs:
       - name: greet
         run: | 
           echo "Application file is: ${{ github.event.inputs.AppFile }}"
-          export APP_EMAIL=`/bin/grep "**Contact Email:**" ${{ github.event.inputs.AppFile }} | cut -d" " -f4`
+          export APP_EMAIL=`/bin/grep "**Contact Email:**" "applications/${{ github.event.inputs.AppFile }}" | cut -d" " -f4`
           echo "::set-output name=email_addr::$APP_EMAIL"
           echo email addr is $APP_EMAIL
 
