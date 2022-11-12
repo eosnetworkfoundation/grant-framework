@@ -19,6 +19,18 @@ on:
         value: ${{ jobs.parse.outputs.team_name }}
       total_cost:
         value: ${{ jobs.parse.outputs.total_cost }}
+      legal_entity:
+        value: ${{ jobs.parse.outputs.legal_entity }}
+      legal_addr:
+        value: ${{ jobs.parse.outputs.legal_addr }}
+      github_repo:
+        value: ${{ jobs.parse.outputs.github_repo }}
+      pr_no:
+        value: ${{ jobs.parse.outputs.pr_no }}
+      level:
+        value: ${{ jobs.parse.outputs.level }}
+      eos_addr:
+        value: ${{ jobs.parse.outputs.eos_addr }}
   
 jobs:
   parse:
@@ -30,6 +42,13 @@ jobs:
       project_name: ${{ steps.grep_appl.outputs.project_name }}
       team_name: ${{ steps.grep_appl.outputs.team_name }}
       total_cost: ${{ steps.grep_appl.outputs.total_cost }}
+      legal_entity: ${{ steps.grep_appl.outputs.legal_entity }}
+      legal_addr: ${{ steps.grep_appl.outputs.legal_addr }}
+      github_repo: ${{ steps.grep_appl.outputs.github_repo }}
+      pr_no: ${{ steps.grep_appl.outputs.pr_no }}
+      level: ${{ steps.grep_appl.outputs.level }}
+      eos_addr: ${{ steps.grep_appl.outputs.eos_addr }}
+      
     steps:
       - name: Checkout
         id: checkout
@@ -51,4 +70,6 @@ jobs:
           echo "::set-output name=team_name::$TNAME"
           export TCOST=`/bin/grep "**Total Costs:**" ${{ inputs.filename }} | cut -d" " -f4-8`
           echo "::set-output name=total_cost::$TCOST"
+          export LENTITY=`/bin/grep "**Total Costs:**" ${{ inputs.filename }} | cut -d" " -f4-8`
+          echo "::set-output name=legal_entity::$LENTITY"
 
