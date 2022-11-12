@@ -25,6 +25,7 @@ jobs:
     uses: ./.github/workflows/ru-big-parser.yml
     with:
       filename: "applications/${{ github.event.inputs.AppFile }}"
+    needs: build
 
   echo-the-returned-fields:
     runs-on: ubuntu-latest
