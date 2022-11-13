@@ -37,6 +37,10 @@ on:
         value: ${{ jobs.parse.outputs.pr_no }}
       website:
         value: ${{ jobs.parse.outputs.website }}
+      open_source:
+        value: ${{ jobs.parse.outputs.open_source }}
+      token_sale:
+        value: ${{ jobs.parse.outputs.token_sale }}
   
 jobs:
   parse:
