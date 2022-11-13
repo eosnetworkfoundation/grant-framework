@@ -69,30 +69,27 @@ jobs:
         id: grep_appl
         run: |
           export APP_EMAIL=`/bin/grep "**Contact Email:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4`
-          #echo "::set-output name=email_addr::$APP_EMAIL"
           echo "email_addr=$APP_EMAIL" >> $GITHUB_OUTPUT
           export CNAME=`/bin/grep "**Contact Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
-          #echo "::set-output name=contact_name::$CNAME"
           echo "contact_name=$CNAME" >> $GITHUB_OUTPUT
           export PNAME=`/bin/grep "**Project Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
-          #echo "::set-output name=project_name::$PNAME"
           echo "project_name=$PNAME" >> $GITHUB_OUTPUT
           export TNAME=`/bin/grep "**Team Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
-          echo "::set-output name=team_name::$TNAME"
+          echo "team_name=$TNAME" >> $GITHUB_OUTPUT
           export TCOST=`/bin/grep "**Total Costs:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
-          echo "::set-output name=total_cost::$TCOST"
+          echo "total_cost=$TCOST" >> $GITHUB_OUTPUT
           export LENTITY=`/bin/grep "**Registered Legal Entity:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f5-12`
-          echo "::set-output name=legal_entity::$LENTITY"
+          echo "legal_entity=$LENTITY" >> $GITHUB_OUTPUT
           export LADDR=`/bin/grep "**Registered Address:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-30`
-          echo "::set-output name=legal_addr::$LADDR"
+          echo "legal_addr=$LADDR" >> $GITHUB_OUTPUT
           export LEVEL=`/bin/grep "**\[Level\](https" ${{ inputs.filename }} | tr -s " " | cut -d" " -f3-8`
-          echo "::set-output name=level::$LEVEL"
+          echo "level=$LEVEL" >> $GITHUB_OUTPUT
           export EOSADDR=`/bin/grep "**EOS Payment Address:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f5-8`
-          echo "::set-output name=eos_addr::$EOSADDR"
+          echo "eos_addr=$EOSADDR" >> $GITHUB_OUTPUT
           export WEBSITE=`/bin/grep "**Website:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f3-8`
-          echo "::set-output name=website::$WEBSITE"
+          echo "website=$WEBSITE" >> $GITHUB_OUTPUT
           # following three only work when parser launched by a pull request
-          echo "::set-output name=repo_owner::${{ github.event.pull_request.head.repo.owner.login }}"
-          echo "::set-output name=pr_no::${{ github.event.pull_request.number }}"
-          echo "::set-output name=github_actor::${{ github.actor }}"
+          echo "repo_owner=${{ github.event.pull_request.head.repo.owner.login }}" >> $GITHUB_OUTPUT
+          echo "pr_no=${{ github.event.pull_request.number }}" >> $GITHUB_OUTPUT
+          echo "github_actor=${{ github.actor }}" >> $GITHUB_OUTPUT
 
