@@ -82,7 +82,7 @@ jobs:
           echo "legal_entity=$LENTITY" >> $GITHUB_OUTPUT
           export LADDR=`/bin/grep -F "**Registered Address:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-30`
           echo "legal_addr=$LADDR" >> $GITHUB_OUTPUT
-          export LEVEL=`/bin/grep -F "**\[Level\](https" ${{ inputs.filename }} | tr -s " " | cut -d" " -f3-8`
+          export LEVEL=`/bin/grep -F "**[Level](https" ${{ inputs.filename }} | tr -s " " | cut -d" " -f3-8`
           echo "level=$LEVEL" >> $GITHUB_OUTPUT
           export EOSADDR=`/bin/grep -F "**EOS Payment Address:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f5-8`
           echo "eos_addr=$EOSADDR" >> $GITHUB_OUTPUT
