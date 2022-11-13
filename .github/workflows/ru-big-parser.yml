@@ -68,25 +68,25 @@ jobs:
       - name: assign the env variables from the parsing
         id: grep_appl
         run: |
-          export APP_EMAIL=`/bin/grep "**Contact Email:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4`
+          export APP_EMAIL=`/bin/grep -F "**Contact Email:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4`
           echo "email_addr=$APP_EMAIL" >> $GITHUB_OUTPUT
-          export CNAME=`/bin/grep "**Contact Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
+          export CNAME=`/bin/grep -F "**Contact Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
           echo "contact_name=$CNAME" >> $GITHUB_OUTPUT
-          export PNAME=`/bin/grep "**Project Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
+          export PNAME=`/bin/grep -F "**Project Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
           echo "project_name=$PNAME" >> $GITHUB_OUTPUT
-          export TNAME=`/bin/grep "**Team Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
+          export TNAME=`/bin/grep -F "**Team Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
           echo "team_name=$TNAME" >> $GITHUB_OUTPUT
-          export TCOST=`/bin/grep "**Total Costs:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
+          export TCOST=`/bin/grep -F "**Total Costs:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
           echo "total_cost=$TCOST" >> $GITHUB_OUTPUT
           export LENTITY=`/bin/grep -F "**Registered Legal Entity:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f5-12`
           echo "legal_entity=$LENTITY" >> $GITHUB_OUTPUT
-          export LADDR=`/bin/grep "**Registered Address:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-30`
+          export LADDR=`/bin/grep -F "**Registered Address:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-30`
           echo "legal_addr=$LADDR" >> $GITHUB_OUTPUT
-          export LEVEL=`/bin/grep "**\[Level\](https" ${{ inputs.filename }} | tr -s " " | cut -d" " -f3-8`
+          export LEVEL=`/bin/grep -F "**\[Level\](https" ${{ inputs.filename }} | tr -s " " | cut -d" " -f3-8`
           echo "level=$LEVEL" >> $GITHUB_OUTPUT
-          export EOSADDR=`/bin/grep "**EOS Payment Address:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f5-8`
+          export EOSADDR=`/bin/grep -F "**EOS Payment Address:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f5-8`
           echo "eos_addr=$EOSADDR" >> $GITHUB_OUTPUT
-          export WEBSITE=`/bin/grep "**Website:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f3-8`
+          export WEBSITE=`/bin/grep -F "**Website:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f3-8`
           echo "website=$WEBSITE" >> $GITHUB_OUTPUT
           # following three only work when parser launched by a pull request
           echo "repo_owner=${{ github.event.pull_request.head.repo.owner.login }}" >> $GITHUB_OUTPUT
