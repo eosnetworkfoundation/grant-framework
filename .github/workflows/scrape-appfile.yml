@@ -38,4 +38,11 @@ jobs:
           echo "team name ${{ needs.call-parser.outputs.team_name }}"
           echo "app_email ${{ needs.call-parser.outputs.app_email }}"
           echo "total cost ${{ needs.call-parser.outputs.total_cost }}"
+          echo "legal entity ${{ needs.call-parser.outputs.legal_entity }}"
+          echo "legal addr ${{ needs.call-parser.outputs.legal_addr }}"
+          echo "level ${{ needs.call-parser.outputs.level }}"
+          echo "eos_addr ${{ needs.call-parser.outputs.eos_addr }}"
+          echo "repo_owner ${{  needs.call-parser.outputs.repo_owner }}"
+          echo "github_actor ${{ needs.call-parser.outputs.github_actor }}"
+          echo "pr_no ${{ needs.call-parser.outputs.pr_no }}"
 
