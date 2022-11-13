@@ -57,7 +57,7 @@ jobs:
           commands: |
             [
               { "command": "appendData", "args": { "data": [["${{ inputs.pr_no }}", "${{ inputs.project_name }}", "${{ inputs.team_name }}", "${{ inputs.contact_name }}",
-                "${{ inputs.app_email }}", "xxx", "${{ inputs.level }}", "${{ inputs.total_cost }}", "${{ inputs.eos_addr }}",
+                "${{ inputs.app_email }}", "${{ inputs.github_actor }}", "${{ inputs.level }}", "${{ inputs.total_cost }}", "${{ inputs.eos_addr }}",
                 "${{ inputs.website }}", "repo", "${{ inputs.legal_entity }}", "${{ inputs.legal_addr }}"
                 ]], "worksheetTitle": "GrantInfo", "minCol": 1 }}
             ]
