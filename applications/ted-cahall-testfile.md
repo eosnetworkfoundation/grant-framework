@@ -19,7 +19,7 @@
 
 ### Overview
 
-- **Name:** MARRS Rename Tool
+- **Name:** MARRS Rename Tool Minus
 - **Brief Description:** Rename the CSV files for faster ingestion
 - **Relationship to EOSIO:** This project does not relate to EOSIO
 - **Reason for Interest:** Testing the Grant Framework Process and PRs
