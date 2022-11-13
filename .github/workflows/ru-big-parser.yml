@@ -56,6 +56,8 @@ jobs:
       github_actor: ${{ steps.grep_appl.outputs.github_actor }}
       pr_no: ${{ steps.grep_appl.outputs.pr_no }}
       website: ${{ steps.grep_appl.outputs.website }}
+      open_source: ${{ steps.grep_appl.outputs.open_source }}
+      token_sale: ${{ steps.grep_appl.outputs.token_sale }}
       
     steps:
       - name: Checkout
@@ -88,6 +90,10 @@ jobs:
           echo "eos_addr=$EOSADDR" >> $GITHUB_OUTPUT
           export WEBSITE=`/bin/grep -F "**Website:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f3-8`
           echo "website=$WEBSITE" >> $GITHUB_OUTPUT
+          export OPENSOURCE=`/bin/grep -F "**Project is Open-Source:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f3-8`
+          echo "open_Source=$OPENSOURCE" >> $GITHUB_OUTPUT
+          export TOKENSALE=`/bin/grep -F "**Project was part of Token sale:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f3-8`
+          echo "token_sale=$TOKENSALE" >> $GITHUB_OUTPUT
           # following three only work when parser launched by a pull request
           echo "repo_owner=${{ github.event.pull_request.head.repo.owner.login }}" >> $GITHUB_OUTPUT
           echo "pr_no=${{ github.event.pull_request.number }}" >> $GITHUB_OUTPUT

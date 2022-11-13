@@ -41,6 +41,12 @@ on:
       website:
         required: true
         type: string
+      open_source:
+        required: true
+        type: string
+      token_sale:
+        required: true
+        type: string
 
     secrets:
       gsheet_private_key:
@@ -56,9 +62,15 @@ jobs:
           spreadsheetId: 1hTRqt_iGDmFvwbn9leKwr7e-tL9eqHS3-h_dDP5Fpu8
           commands: |
             [
-              { "command": "appendData", "args": { "data": [["${{ inputs.pr_no }}", "${{ inputs.project_name }}", "${{ inputs.team_name }}", "${{ inputs.contact_name }}",
-                "${{ inputs.app_email }}", "${{ inputs.github_actor }}", "${{ inputs.level }}", "${{ inputs.total_cost }}", "${{ inputs.eos_addr }}",
-                "${{ inputs.website }}", "repo", "${{ inputs.legal_entity }}", "${{ inputs.legal_addr }}"
+              { "command": "appendData", "args": { "data": [["${{ inputs.pr_no }}", "${{ inputs.project_name }}", 
+                "${{ inputs.team_name }}", 
+                "${{ inputs.open_source }}", "${{ inputs.token_sale }}", 
+                "${{ inputs.level }}", "${{ inputs.total_cost }}", 
+                "${{ inputs.eos_addr }}",
+                "${{ inputs.github_actor }}", 
+                "${{ inputs.website }}", "repo", 
+                "${{ inputs.contact_name }}", "${{ inputs.app_email }}", 
+                "${{ inputs.legal_entity }}", "${{ inputs.legal_addr }}"
                 ]], "worksheetTitle": "GrantInfo", "minCol": 1 }}
             ]
         env:
