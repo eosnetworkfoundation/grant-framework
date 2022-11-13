@@ -69,11 +69,14 @@ jobs:
         id: grep_appl
         run: |
           export APP_EMAIL=`/bin/grep "**Contact Email:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4`
-          echo "::set-output name=email_addr::$APP_EMAIL"
+          #echo "::set-output name=email_addr::$APP_EMAIL"
+          echo "email_addr=$APP_EMAIL" >> $GITHUB_OUTPUT
           export CNAME=`/bin/grep "**Contact Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
-          echo "::set-output name=contact_name::$CNAME"
+          #echo "::set-output name=contact_name::$CNAME"
+          echo "contact_name=$CNAME" >> $GITHUB_OUTPUT
           export PNAME=`/bin/grep "**Project Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
-          echo "::set-output name=project_name::$PNAME"
+          #echo "::set-output name=project_name::$PNAME"
+          echo "project_name=$PNAME" >> $GITHUB_OUTPUT
           export TNAME=`/bin/grep "**Team Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
           echo "::set-output name=team_name::$TNAME"
           export TCOST=`/bin/grep "**Total Costs:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
