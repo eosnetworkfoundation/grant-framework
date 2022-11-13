@@ -35,6 +35,8 @@ on:
         value: ${{ jobs.parse.outputs.github_actor }}
       pr_no:
         value: ${{ jobs.parse.outputs.pr_no }}
+      website:
+        value: ${{ jobs.parse.outputs.website }}
   
 jobs:
   parse:
@@ -53,6 +55,7 @@ jobs:
       repo_owner: ${{ steps.grep_appl.outputs.repo_owner }}
       github_actor: ${{ steps.grep_appl.outputs.github_actor }}
       pr_no: ${{ steps.grep_appl.outputs.pr_no }}
+      website: ${{ steps.grep_appl.outputs.website }}
       
     steps:
       - name: Checkout
@@ -83,6 +86,8 @@ jobs:
           echo "::set-output name=level::$LEVEL"
           export EOSADDR=`/bin/grep "**EOS Payment Address:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f5-8`
           echo "::set-output name=eos_addr::$EOSADDR"
+          export WEBSITE=`/bin/grep "**Website:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f3-8`
+          echo "::set-output name=website::$WEBSITE"
           # following three only work when parser launched by a pull request
           echo "::set-output name=repo_owner::${{ github.event.pull_request.head.repo.owner.login }}"
           echo "::set-output name=pr_no::${{ github.event.pull_request.number }}"
