@@ -55,7 +55,7 @@ on:
         type: string
 
     secrets:
-      gsheet_private_key:
+      gmail_password:
         required: true
 
 jobs:
@@ -69,7 +69,7 @@ jobs:
           server_port: 465
           secure: true
           username: enfmailbot@eosn.foundation
-          password: ${{ secrets.ENFMAILBOT_PASSWORD }}
+          password: ${{ secrets.gmail_password }}
           subject: Thank you for your ENF Grant Framework Application
           body: | 
             Hi ${{inputs.contact_name}}, 
