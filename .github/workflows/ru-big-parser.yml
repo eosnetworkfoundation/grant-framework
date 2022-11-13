@@ -78,7 +78,7 @@ jobs:
           echo "team_name=$TNAME" >> $GITHUB_OUTPUT
           export TCOST=`/bin/grep "**Total Costs:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
           echo "total_cost=$TCOST" >> $GITHUB_OUTPUT
-          export LENTITY=`/bin/grep "**Registered Legal Entity:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f5-12`
+          export LENTITY=`/bin/grep -F "**Registered Legal Entity:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f5-12`
           echo "legal_entity=$LENTITY" >> $GITHUB_OUTPUT
           export LADDR=`/bin/grep "**Registered Address:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-30`
           echo "legal_addr=$LADDR" >> $GITHUB_OUTPUT
