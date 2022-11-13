@@ -43,6 +43,7 @@ on:
       gsheet_private_key:
         required: true
   
+#             { "command": "appendData", "args": { "data": [["${{ inputs.pr_no }}", "${{ inputs.project_name }}", "${{ inputs.team_name }}", "${{ inputs.contact_name }}"]], "worksheetTitle": "GrantInfo", "minCol": 1 }}
 jobs:
   appendrow:
     runs-on: ubuntu-latest
@@ -53,7 +54,7 @@ jobs:
           spreadsheetId: 1hTRqt_iGDmFvwbn9leKwr7e-tL9eqHS3-h_dDP5Fpu8
           commands: |
             [
-              { "command": "appendData", "args": { "data": [["${{ inputs.pr_no }}", "${{ inputs.project_name }}", "${{ inputs.team_name }}", "${{ inputs.contact_name }}"]], "worksheetTitle": "GrantInfo", "minCol": 1 }}
+              { "command": "appendData", "args": { "data": [["27", "MARRS Rename", "Cahall Labs", "Ted Cahall"]], "worksheetTitle": "GrantInfo", "minCol": 1 }}
             ]
         env:
           GSHEET_CLIENT_EMAIL: enf-grant-service-account@sonorous-haven-350712.iam.gserviceaccount.com
