@@ -70,4 +70,4 @@ jobs:
       pr_no: ${{ needs.call-parser.outputs.pr_no }}
       website: ${{ needs.call-parser.outputs.website }}
     secrets:
-      gsheet_private_key: ${{ secrets.GHSEET_API_KEY }}
+      gmail_password: ${{ secrets.ENFMAILBOT_PASSWORD }}
