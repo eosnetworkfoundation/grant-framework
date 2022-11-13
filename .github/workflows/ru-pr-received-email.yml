@@ -8,12 +8,13 @@
 # https://securitylab.github.com/research/github-actions-preventing-pwn-requests/
 #
 
-name: PR Received Email
 
 # Controls when the workflow will run
+name: PR Received Email
 on:
   workflow_call:
-    project_name:
+    inputs:
+      project_name:
         required: true
         type: string
       contact_name:
