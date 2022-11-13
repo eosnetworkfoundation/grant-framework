@@ -68,5 +68,7 @@ jobs:
       github_actor: ${{ needs.call-parser.outputs.github_actor }}
       pr_no: ${{ needs.call-parser.outputs.pr_no }}
       website: ${{ needs.call-parser.outputs.website }}
+      open_source: ${{ needs.call-parser.outputs.open_source }}
+      token_sale: ${{ needs.call-parser.outputs.token_sale }}
     secrets:
       gsheet_private_key: ${{ secrets.GHSEET_API_KEY }}
