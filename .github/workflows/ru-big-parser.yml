@@ -3,7 +3,7 @@
 # 12Nov2022 - Added more fields for the Big Scrape and made a new file from old one
 #             File may be called from a PR or with a filename passed in (not associated with a PR)
 #
-name: Reusable Application Parser
+name: Reusable "Big" Application Parser
 on:
   workflow_call:
     inputs:
