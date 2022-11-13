@@ -46,9 +46,9 @@ jobs:
           echo "github_actor ${{ needs.call-parser.outputs.github_actor }}"
           echo "pr_no ${{ needs.call-parser.outputs.pr_no }}"
 
-  wite-spreadsheet:
+  write-spreadsheet:
     uses: ./.github/workflows/ru-big-gsheet.yml
-    needs: build
+    needs: call-parser
     with:
       project_name: ${{ needs.call-parser.outputs.project_name }}
       contact_name: ${{ needs.call-parser.outputs.contact_name }}
