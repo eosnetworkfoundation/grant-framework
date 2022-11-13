@@ -61,6 +61,6 @@ jobs:
       eos_addr: ${{ needs.call-parser.outputs.eos_addr }}
       repo_owner: ${{  needs.call-parser.outputs.repo_owner }}
       github_actor: ${{ needs.call-parser.outputs.github_actor }}
-      pr_no: ${{ needs.call-parser.outputs.pr_no }}"
+      pr_no: ${{ needs.call-parser.outputs.pr_no }}
     secrets:
       gsheet_private_key: ${{ secrets.GHSEET_API_KEY }}
