@@ -1,15 +1,15 @@
 # ru-pr-received-email.yml
 #
-# This reusable component sends an acknowledgement email to the grant applicatnt contact person letting them know we recieved the PR.
+# This reusable component sends an acknowledgement email to the grant applicatnt contact person 
+# letting them know we recieved the PR.
 #
-# Code expanded from the original file pr-received-send-thank-you.yml - which did the parsing and email in the same file.
+# Code expanded from the original file pr-received-send-thank-you.yml - which did the parsing and 
+# email in the same file.
 #
 # https://stackoverflow.com/questions/69499645/how-to-securely-allow-github-actions-to-check-pr-and-post-results-in-comment
 # https://securitylab.github.com/research/github-actions-preventing-pwn-requests/
 #
 
-
-# Controls when the workflow will run
 name: PR Received Email
 on:
   workflow_call:
@@ -53,7 +53,6 @@ on:
       website:
         required: true
         type: string
-
     secrets:
       gmail_password:
         required: true
