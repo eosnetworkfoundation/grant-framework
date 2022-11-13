@@ -79,7 +79,7 @@ jobs:
           echo "::set-output name=legal_entity::$LENTITY"
           export LADDR=`/bin/grep "**Registered Address:**" ${{ inputs.filename }} | cut -d" " -f4-30`
           echo "::set-output name=legal_addr::$LADDR"
-          export LEVEL=`/bin/grep "**\[Level\](https" ${{ inputs.filename }} | cut -d" " -f2-8`
+          export LEVEL=`/bin/grep "**\[Level\](https" ${{ inputs.filename }} | cut -d" " -f3-8`
           echo "::set-output name=level::$LEVEL"
           export EOSADDR=`/bin/grep "**EOS Payment Address:**" ${{ inputs.filename }} | cut -d" " -f5-8`
           echo "::set-output name=eos_addr::$EOSADDR"
