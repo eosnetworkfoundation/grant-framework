@@ -11,7 +11,7 @@
 
 ## Contact
 
-- **Contact Name:** Ted Cahall TEST
+- **Contact Name:** Ted Cahall
 - **Contact Email:** cahall@cahall.com
 - **Website:** http://cahall.com/
 
@@ -19,7 +19,7 @@
 
 ### Overview
 
-- **Name:** MARRS Rename Tool Minus
+- **Name:** MARRS Rename Tool
 - **Brief Description:** Rename the CSV files for faster ingestion
 - **Relationship to EOSIO:** This project does not relate to EOSIO
 - **Reason for Interest:** Testing the Grant Framework Process and PRs
