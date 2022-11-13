@@ -31,11 +31,11 @@ jobs:
 
       - name: echo the file name
         id: 'file-echo'
-        run: echo "The filename that changed was ${{ needs.get_filename.outputs.filename }}"
+        run: echo "The filename that changed was ${{ outputs.filename }}"
 
   parse_app:
     uses: ./.github/workflows/ru-big-parser.yml
     with:
-      filename: "applications/${{ needs.get_filename.outputs.filename }}"
+      filename: "${{ needs.get_filename.outputs.filename }}"
     needs: get_filename
 
