@@ -75,13 +75,13 @@ jobs:
           echo "::set-output name=team_name::$TNAME"
           export TCOST=`/bin/grep "**Total Costs:**" ${{ inputs.filename }} | cut -d" " -f4-8`
           echo "::set-output name=total_cost::$TCOST"
-          export LENTITY=`/bin/grep "**Registered Legal Entity:**" ${{ inputs.filename }} | cut -d" " -f4-12`
+          export LENTITY=`/bin/grep "**Registered Legal Entity:**" ${{ inputs.filename }} | cut -d" " -f5-12`
           echo "::set-output name=legal_entity::$LENTITY"
           export LADDR=`/bin/grep "**Registered Address:**" ${{ inputs.filename }} | cut -d" " -f4-30`
           echo "::set-output name=legal_addr::$LADDR"
-          export LEVEL=`/bin/grep "**[Level](https" ${{ inputs.filename }} | cut -d" " -f4-8`
+          export LEVEL=`/bin/grep "**[Level](https" ${{ inputs.filename }} | cut -d" " -f2-8`
           echo "::set-output name=level::$LEVEL"
-          export EOSADDR=`/bin/grep "**EOS Payment Address:**" ${{ inputs.filename }} | cut -d" " -f4-8`
+          export EOSADDR=`/bin/grep "**EOS Payment Address:**" ${{ inputs.filename }} | cut -d" " -f5-8`
           echo "::set-output name=total_cost::$TCOST"
           # following three only work when parser launched by a pull request
           echo "::set-output name=repo_owner::${{ github.event.pull_request.head.repo.owner.login }}"
