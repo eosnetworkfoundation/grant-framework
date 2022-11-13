@@ -29,10 +29,13 @@ jobs:
         with:
           filter: 'applications/*.md'
 
+      - name: echo the file name
+        id: 'file-echo'
+        run: echo "The filename that changed was ${{ needs.get_filename.outputs.filename }}"
+
   parse_app:
     uses: ./.github/workflows/ru-big-parser.yml
     with:
       filename: "applications/${{ needs.get_filename.outputs.filename }}"
     needs: get_filename
-    run: echo "The filename that changed was ${{ needs.get_filename.outputs.filename }}"
 
