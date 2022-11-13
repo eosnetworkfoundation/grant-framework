@@ -1,0 +1,114 @@
+# ru-pr-received-email.yml
+#
+# This reusable component sends an acknowledgement email to the grant applicatnt contact person 
+# letting them know we recieved the PR.
+#
+# Code expanded from the original file pr-received-send-thank-you.yml - which did the parsing and 
+# email in the same file.
+#
+# https://stackoverflow.com/questions/69499645/how-to-securely-allow-github-actions-to-check-pr-and-post-results-in-comment
+# https://securitylab.github.com/research/github-actions-preventing-pwn-requests/
+#
+
+name: PR Received Email
+on:
+  workflow_call:
+    inputs:
+      project_name:
+        required: true
+        type: string
+      contact_name:
+        required: true
+        type: string
+      team_name:
+        required: true
+        type: string
+      app_email:
+        required: true
+        type: string
+      total_cost:
+        required: true
+        type: string
+      legal_entity:
+        required: true
+        type: string
+      legal_addr:
+        required: true
+        type: string
+      level:
+        required: true
+        type: string
+      eos_addr:
+        required: true
+        type: string
+      repo_owner:
+        required: true
+        type: string
+      github_actor:
+        required: true
+        type: string
+      pr_no:
+        required: true
+        type: string
+      website:
+        required: true
+        type: string
+    secrets:
+      gmail_password:
+        required: true
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: send email
+        uses: dawidd6/action-send-mail@v3.7.1
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: enfmailbot@eosn.foundation
+          password: ${{ secrets.gmail_password }}
+          subject: Thank you for your ENF Grant Framework Application
+          body: | 
+            Hi ${{inputs.contact_name}}, 
+
+            Thank you for your application to the ENF Grant Framework.
+
+            We recieved your ${{inputs.project_name}} application by the ${{inputs.team_name}} team, submitted from the ${{ github.event.pull_request.head.repo.owner.login }} Github account. 
+
+            We are working through our internal processes which includes translating the application followed by a series of meetings.  Thus it may take several weeks to get back to you.
+
+            You may notice comments and feedback on your application in Github as it is being reviewed.  Please respond to those comments and reviews as addressing each point will be required before the Application is given final approval.
+
+            The process is still very new and we hope to improve the speed of processing moving forward.
+
+            Thank you for your patience and understanding.
+
+            Best,
+            ENF Grant Framework Team
+          html_body: |
+            Hi ${{inputs.contact_name}}, 
+            <br/><br/>
+            Thank you for your application to the ENF Grant Framework.
+            <br/><br/>
+            We recieved your <b> ${{inputs.project_name}} </b>application
+            by the<b> ${{needs.parse_app.outputs.team_name}} </b>team,
+            submitted from the<b> ${{ github.actor }} </b>Github account. 
+            <br/><br/>
+            We are working through our internal processes which includes translating the application followed by a series of meetings.  Thus it may take several weeks to get back to you.
+            <br/><br/>
+            You may notice comments and feedback on your application in Github as it is being reviewed.  Please respond to those comments and reviews as addressing each point will be required before the Application is given final approval.
+            <br/><br/>
+            The process is still very new and we hope to improve the speed of processing moving forward.
+            <br/><br/>
+            Thank you for your patience and understanding.
+            <br/><br/>
+            Best,<br/>
+            ENF Grant Framework Team
+          to: ${{inputs.app_email}}
+          from: grants@eosnetwork.com
+          reply_to: grants@eosnetwork.com
+          bcc: grants@eosnetwork.com
+
+
