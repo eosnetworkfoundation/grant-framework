@@ -94,7 +94,7 @@ jobs:
           echo "eos_addr=$EOSADDR" >> $GITHUB_OUTPUT
           export WEBSITE=`/bin/grep -F "**Website:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f3-8`
           echo "website=$WEBSITE" >> $GITHUB_OUTPUT
-          export OPENSOURCE=`/bin/grep -F "**Project is Open-Source:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f5-8`
+          export OPENSOURCE=`/bin/grep -F "**Project is Open-Source:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f5`
           echo "open_Source=$OPENSOURCE" >> $GITHUB_OUTPUT
           export TOKENSALE=`/bin/grep -F "**Project was part of Token sale:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f8`
           echo "token_sale=$TOKENSALE" >> $GITHUB_OUTPUT
