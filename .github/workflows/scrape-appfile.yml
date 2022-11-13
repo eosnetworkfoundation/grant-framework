@@ -22,7 +22,9 @@ jobs:
           echo "::set-output name=email_addr::$APP_EMAIL"
           echo "email_addr=$APP_EMAIL" >> $GITHUB_OUTPUT
           echo email addr is $APP_EMAIL
-          echo the new output test shows the email_addr is ${{ steps.test_echo.outputs.email_addr }}
+
+      - name: test_output
+        run: echo "the new output test shows the email_addr is ${{ steps.test_echo.outputs.email_addr }}"
 
   call-parser:
     uses: ./.github/workflows/ru-big-parser.yml
