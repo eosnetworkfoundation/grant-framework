@@ -15,11 +15,14 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: greet
+        id: test_echo
         run: | 
           echo "Application file is: ${{ github.event.inputs.AppFile }}"
           export APP_EMAIL=`/bin/grep "**Contact Email:**" "applications/${{ github.event.inputs.AppFile }}" | cut -d" " -f4`
           echo "::set-output name=email_addr::$APP_EMAIL"
+          echo "email_addr=$APP_EMAIL" >> $GITHUB_OUTPUT
           echo email addr is $APP_EMAIL
+          echo the new output test shows the email_addr is ${{ steps.test_echo.outputs.APP_EMAIL }}
 
   call-parser:
     uses: ./.github/workflows/ru-big-parser.yml
