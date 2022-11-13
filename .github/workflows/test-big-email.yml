@@ -55,7 +55,6 @@ jobs:
           echo "pr_no ${{ needs.call-parser.outputs.pr_no }}"
           echo "website ${{ needs.call-parser.outputs.website }}"
 
-      #app_email: ${{ needs.call-parser.outputs.app_email }}
 
   send-the-email:
     uses: ./.github/workflows/ru-pr-received-email.yml
@@ -64,6 +63,7 @@ jobs:
       project_name: ${{ needs.call-parser.outputs.project_name }}
       contact_name: ${{ needs.call-parser.outputs.contact_name }}
       team_name: ${{ needs.call-parser.outputs.team_name }}
+      #app_email: ${{ needs.call-parser.outputs.app_email }} ## changed so as not to spam original user
       app_email: ted.cahall@eosnetwork.com
       total_cost: ${{ needs.call-parser.outputs.total_cost }}
       legal_entity: ${{ needs.call-parser.outputs.legal_entity }}
