@@ -13,7 +13,7 @@
 
 - **Contact Name:** Ted Cahall
 - **Contact Email:** cahall@cahall.com
-- **Website:** http://cahall.com
+- **Website:** http://cahall.com/
 
 ## Project Overview
 
