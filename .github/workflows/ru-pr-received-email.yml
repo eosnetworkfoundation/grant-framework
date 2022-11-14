@@ -93,9 +93,9 @@ jobs:
 
             Grant_Amount: ${{inputs.total_cost}} Grant_Level: ${{inputs.level}}
 
-            Contact_Name: ${{inputs.contact_name}} Contact_Email: ${{inputs.email_addr}} Github_Account: ${{github_actor}}
+            Contact_Name: ${{inputs.contact_name}} Contact_Email: ${{inputs.email_addr}} Github_Account: ${{github.actor}}
 
-            Open_Source: ${{input.open_source}} Token_Sale: ${[input.token_sale}}
+            Open_Source: ${{inputs.open_source}} Token_Sale: ${[inputs.token_sale}}
 
           html_body: |
             Hi ${{inputs.contact_name}}, 
@@ -116,15 +116,15 @@ jobs:
             ENF Grant Framework Team
             <br/><br/>
             <b>Grant Information Supplied:</b><br/>
-            <b>PR_ID:</b> ${{ input.pr_no}} <b>Project_Name:</b> ${{input.project_name}} Team_Name: ${{input.team_name}} Website: ${{input.website}}
+            <b>PR_ID:</b> ${{ inputs.pr_no}} <b>Project_Name:</b> ${{inputs.project_name}} Team_Name: ${{inputs.team_name}} Website: ${{inputs.website}}
             <br/><br/>
-            <b>Legal Entity:</b> ${{input.legal_entity}} <b>Legal_Address:</b> ${{input.legal_addr}}
+            <b>Legal Entity:</b> ${{inputs.legal_entity}} <b>Legal_Address:</b> ${{inputs.legal_addr}}
             <br/><br/>
-            <b>Grant_Amount:</b> ${{input.total_cost}} <b>Grant_Level:</b> ${{input.level}}
+            <b>Grant_Amount:</b> ${{inputs.total_cost}} <b>Grant_Level:</b> ${{inputs.level}}
             <br/><br/>
-            <b>Contact_Name:</b> ${{input.contact_name}} <b>Contact_Email:</b> ${{input.email_addr}} <b>Github_Account:</b> ${{github_actor}}
+            <b>Contact_Name:</b> ${{inputs.contact_name}} <b>Contact_Email:</b> ${{inputs.email_addr}} <b>Github_Account:</b> ${{github.actor}}
             <br/><br/>
-            <b>Open_Source:</b> ${{input.open_source}} <b>Token_Sale:</b> ${[input.token_sale}}
+            <b>Open_Source:</b> ${{inputs.open_source}} <b>Token_Sale:</b> ${[inputs.token_sale}}
             <br/><br/>
           to: ${{inputs.app_email}}
           from: grants@eosnetwork.com
