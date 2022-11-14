@@ -64,6 +64,7 @@ jobs:
       website: ${{ steps.grep_appl.outputs.website }}
       open_source: ${{ steps.grep_appl.outputs.open_source }}
       token_sale: ${{ steps.grep_appl.outputs.token_sale }}
+      basename: ${{ steps.grep_appl.outputs.basename }}
       
     steps:
       - name: Checkout
@@ -105,5 +106,6 @@ jobs:
           echo "pr_no=${{ github.event.pull_request.number }}" >> $GITHUB_OUTPUT
           echo "github_actor=${{ github.actor }}" >> $GITHUB_OUTPUT
           export BASENAME=`/bin/echo ${{ inputs.filename }} | cut -d"/" -f2`
-          echo "basename=BASENAME" >> $GITHUB_OUTPUT
+          echo "basename=$BASENAME" >> $GITHUB_OUTPUT
+          echo "basename=$BASENAME"
 
