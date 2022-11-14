@@ -1,4 +1,8 @@
-name: Big Scrape
+# Scrape application file to the "big" spreadsheet (not the Committee voting sheet)
+# Ted Cahall 12Nov2022
+#
+
+name: Scrape Application to Gsheet
 
 on:
   workflow_dispatch:
