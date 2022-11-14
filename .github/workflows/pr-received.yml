@@ -81,7 +81,7 @@ jobs:
 
   send-the-email:
     uses: ./.github/workflows/ru-pr-received-email.yml
-    needs: [get_filename, call-parser]
+    needs: call-parser
     with:
       project_name: ${{ needs.call-parser.outputs.project_name }}
       contact_name: ${{ needs.call-parser.outputs.contact_name }}
@@ -92,7 +92,6 @@ jobs:
       legal_addr: ${{ needs.call-parser.outputs.legal_addr }}
       level: ${{ needs.call-parser.outputs.level }}
       eos_addr: ${{ needs.call-parser.outputs.eos_addr }}
-      filename: ${{ needs.get_filename.outputs.filename }}
       github_actor: ${{ needs.call-parser.outputs.github_actor }}
       pr_no: ${{ needs.call-parser.outputs.pr_no }}
       website: ${{ needs.call-parser.outputs.website }}
