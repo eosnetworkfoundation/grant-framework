@@ -42,6 +42,7 @@ jobs:
       - id: echo-output
         run: |
           echo "filename is ${{ needs.get_filename.outputs.filename }} "
+          echo "basename is ${{ needs.call-paraser.outputs.basename }} "
           echo "project name ${{ needs.call-parser.outputs.project_name }} "
           echo "contact name ${{ needs.call-parser.outputs.contact_name }}"
           echo "team name ${{ needs.call-parser.outputs.team_name }}"
