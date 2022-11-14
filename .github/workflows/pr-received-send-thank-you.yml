@@ -5,8 +5,10 @@
 # https://stackoverflow.com/questions/69499645/how-to-securely-allow-github-actions-to-check-pr-and-post-results-in-comment
 # https://securitylab.github.com/research/github-actions-preventing-pwn-requests/
 #
+# Ted Cahall 14Nov2022 - Retired and replaced by pr-received.yml which calls replaceable components.
+#                      - added ZZ to name to move to end of console list
 
-name: OLD PR Received, Send Thank You Email
+name: ZZ OLD PR Received, Send Thank You Email
 
 # Controls when the workflow will run
 on:
