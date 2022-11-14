@@ -104,5 +104,6 @@ jobs:
           echo "repo_owner=${{ github.event.pull_request.head.repo.owner.login }}" >> $GITHUB_OUTPUT
           echo "pr_no=${{ github.event.pull_request.number }}" >> $GITHUB_OUTPUT
           echo "github_actor=${{ github.actor }}" >> $GITHUB_OUTPUT
-          echo "filename=${{ inputs.filename }}" >> $GITHUB_OUTPUT
+          export BASENAME=`/bin/echo ${{ inputs.filename }} | cut -d"/" -f2`
+          echo "filename=$BASENAME" >> $GITHUB_OUTPUT
 
