@@ -107,5 +107,5 @@ jobs:
           echo "github_actor=${{ github.actor }}" >> $GITHUB_OUTPUT
           export BASENAME=`/bin/echo ${{ inputs.filename }} | cut -d"/" -f2`
           echo "basename=$BASENAME" >> $GITHUB_OUTPUT
-          echo "basename=$BASENAME"
+          echo $BASENAME
 
