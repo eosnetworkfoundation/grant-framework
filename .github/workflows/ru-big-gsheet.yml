@@ -29,9 +29,6 @@ on:
       eos_addr:
         required: true
         type: string
-      repo_owner:
-        required: true
-        type: string
       github_actor:
         required: true
         type: string
