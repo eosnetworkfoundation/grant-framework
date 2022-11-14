@@ -81,13 +81,12 @@ jobs:
 
   send-the-email:
     uses: ./.github/workflows/ru-pr-received-email.yml
-    needs: call-parser
+    needs: [get_filename, call-parser]
     with:
       project_name: ${{ needs.call-parser.outputs.project_name }}
       contact_name: ${{ needs.call-parser.outputs.contact_name }}
       team_name: ${{ needs.call-parser.outputs.team_name }}
       app_email: ${{ needs.call-parser.outputs.app_email }}
-      # app_email: ted.cahall@eosnetwork.com  ## for testing
       total_cost: ${{ needs.call-parser.outputs.total_cost }}
       legal_entity: ${{ needs.call-parser.outputs.legal_entity }}
       legal_addr: ${{ needs.call-parser.outputs.legal_addr }}
