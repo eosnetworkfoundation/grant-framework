@@ -25,7 +25,7 @@ jobs:
     steps:
       - name: Get application file name
         id: 'files'
-        uses: Ana06/get-changed-files@v2.0.0
+        uses: Ana06/get-changed-files@v2.1.0
         with:
           filter: 'applications/*.md'
 
@@ -59,7 +59,7 @@ jobs:
 
   write-spreadsheet:
     uses: ./.github/workflows/ru-big-gsheet.yml
-    needs: call-parser
+    needs: [get_filename, call-parser]
     with:
       project_name: ${{ needs.call-parser.outputs.project_name }}
       contact_name: ${{ needs.call-parser.outputs.contact_name }}
