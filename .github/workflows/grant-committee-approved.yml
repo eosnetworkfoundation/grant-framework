@@ -6,7 +6,7 @@
 #
 # Ted Cahall 31May2022
 
-name: Grant Fully Approved
+name: Grant Committee Approved
 
 on:
   pull_request_target:

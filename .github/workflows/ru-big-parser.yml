@@ -41,6 +41,8 @@ on:
         value: ${{ jobs.parse.outputs.open_source }}
       token_sale:
         value: ${{ jobs.parse.outputs.token_sale }}
+      filename:
+        value: ${{ jobs.parse.outputs.filename }}
   
 jobs:
   parse:
@@ -56,7 +58,7 @@ jobs:
       legal_addr: ${{ steps.grep_appl.outputs.legal_addr }}
       level: ${{ steps.grep_appl.outputs.level }}
       eos_addr: ${{ steps.grep_appl.outputs.eos_addr }}
-      repo_owner: ${{ steps.grep_appl.outputs.repo_owner }}
+      filename: ${{ steps.grep_appl.outputs.filename }}
       github_actor: ${{ steps.grep_appl.outputs.github_actor }}
       pr_no: ${{ steps.grep_appl.outputs.pr_no }}
       website: ${{ steps.grep_appl.outputs.website }}
@@ -78,9 +80,9 @@ jobs:
           echo "email_addr=$APP_EMAIL" >> $GITHUB_OUTPUT
           export CNAME=`/bin/grep -F "**Contact Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
           echo "contact_name=$CNAME" >> $GITHUB_OUTPUT
-          export PNAME=`/bin/grep -F "**Project Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
+          export PNAME=`/bin/grep -F "**Project Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-10`
           echo "project_name=$PNAME" >> $GITHUB_OUTPUT
-          export TNAME=`/bin/grep -F "**Team Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
+          export TNAME=`/bin/grep -F "**Team Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-10`
           echo "team_name=$TNAME" >> $GITHUB_OUTPUT
           export TCOST=`/bin/grep -F "**Total Costs:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
           echo "total_cost=$TCOST" >> $GITHUB_OUTPUT
@@ -102,4 +104,5 @@ jobs:
           echo "repo_owner=${{ github.event.pull_request.head.repo.owner.login }}" >> $GITHUB_OUTPUT
           echo "pr_no=${{ github.event.pull_request.number }}" >> $GITHUB_OUTPUT
           echo "github_actor=${{ github.actor }}" >> $GITHUB_OUTPUT
+          echo "filename=${{ inputs.filename }}" >> $GITHUB_OUTPUT
 

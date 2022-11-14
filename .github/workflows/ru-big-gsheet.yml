@@ -29,9 +29,6 @@ on:
       eos_addr:
         required: true
         type: string
-      repo_owner:
-        required: true
-        type: string
       github_actor:
         required: true
         type: string
@@ -45,6 +42,9 @@ on:
         required: true
         type: string
       token_sale:
+        required: true
+        type: string
+      filename:
         required: true
         type: string
 
@@ -68,7 +68,7 @@ jobs:
                 "${{ inputs.level }}", "${{ inputs.total_cost }}", 
                 "${{ inputs.eos_addr }}",
                 "${{ inputs.github_actor }}", 
-                "${{ inputs.website }}", "repo", 
+                "${{ inputs.website }}", "${{ inputs.filename }}",
                 "${{ inputs.contact_name }}", "${{ inputs.app_email }}", 
                 "${{ inputs.legal_entity }}", "${{ inputs.legal_addr }}"
                 ]], "worksheetTitle": "GrantInfo", "minCol": 1 }}
