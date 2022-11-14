@@ -81,12 +81,22 @@ jobs:
 
             You may notice comments and feedback on your application in Github as it is being reviewed.  Please respond to those comments and reviews as addressing each point will be required before the Application is given final approval.
 
-            The process is still very new and we hope to improve the speed of processing moving forward.
-
             Thank you for your patience and understanding.
 
             Best,
             ENF Grant Framework Team
+
+            Grant Information Supplied:
+            PR_ID: ${{inputs.pr_no}} Project_Name: ${{inputs.project_name}} Team_Name: ${{inputs.team_name}} Website: ${{inputs.website}}
+
+            Legal Entity: ${{inputs.legal_entity}} Legal_Address: ${{inputs.legal_addr}}
+
+            Grant_Amount: ${{inputs.total_cost}} Grant_Level: ${{inputs.level}}
+
+            Contact_Name: ${{inputs.contact_name}} Contact_Email: ${{inputs.email_addr}} Github_Account: ${{github_actor}}
+
+            Open_Source: ${{input.open_source}} Token_Sale: ${[input.token_sale}}
+
           html_body: |
             Hi ${{inputs.contact_name}}, 
             <br/><br/>
@@ -100,12 +110,22 @@ jobs:
             <br/><br/>
             You may notice comments and feedback on your application in Github as it is being reviewed.  Please respond to those comments and reviews as addressing each point will be required before the Application is given final approval.
             <br/><br/>
-            The process is still very new and we hope to improve the speed of processing moving forward.
-            <br/><br/>
             Thank you for your patience and understanding.
             <br/><br/>
             Best,<br/>
             ENF Grant Framework Team
+            <br/><br/>
+            <b>Grant Information Supplied:</b><br/>
+            <b>PR_ID:</b> ${{ input.pr_no}} <b>Project_Name:</b> ${{input.project_name}} Team_Name: ${{input.team_name}} Website: ${{input.website}}
+            <br/><br/>
+            <b>Legal Entity:</b> ${{input.legal_entity}} <b>Legal_Address:</b> ${{input.legal_addr}}
+            <br/><br/>
+            <b>Grant_Amount:</b> ${{input.total_cost}} <b>Grant_Level:</b> ${{input.level}}
+            <br/><br/>
+            <b>Contact_Name:</b> ${{input.contact_name}} <b>Contact_Email:</b> ${{input.email_addr}} <b>Github_Account:</b> ${{github_actor}}
+            <br/><br/>
+            <b>Open_Source:</b> ${{input.open_source}} <b>Token_Sale:</b> ${[input.token_sale}}
+            <br/><br/>
           to: ${{inputs.app_email}}
           from: grants@eosnetwork.com
           reply_to: grants@eosnetwork.com
