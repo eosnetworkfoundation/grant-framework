@@ -78,9 +78,9 @@ jobs:
           echo "email_addr=$APP_EMAIL" >> $GITHUB_OUTPUT
           export CNAME=`/bin/grep -F "**Contact Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
           echo "contact_name=$CNAME" >> $GITHUB_OUTPUT
-          export PNAME=`/bin/grep -F "**Project Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
+          export PNAME=`/bin/grep -F "**Project Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-10`
           echo "project_name=$PNAME" >> $GITHUB_OUTPUT
-          export TNAME=`/bin/grep -F "**Team Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
+          export TNAME=`/bin/grep -F "**Team Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-10`
           echo "team_name=$TNAME" >> $GITHUB_OUTPUT
           export TCOST=`/bin/grep -F "**Total Costs:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
           echo "total_cost=$TCOST" >> $GITHUB_OUTPUT
