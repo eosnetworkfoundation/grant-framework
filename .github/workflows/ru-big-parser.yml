@@ -64,7 +64,6 @@ jobs:
       website: ${{ steps.grep_appl.outputs.website }}
       open_source: ${{ steps.grep_appl.outputs.open_source }}
       token_sale: ${{ steps.grep_appl.outputs.token_sale }}
-      basename: ${{ steps.grep_appl.outputs.basename }}
       
     steps:
       - name: Checkout
