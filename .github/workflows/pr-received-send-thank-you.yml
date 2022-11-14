@@ -6,7 +6,7 @@
 # https://securitylab.github.com/research/github-actions-preventing-pwn-requests/
 #
 
-name: getFileName
+name: OLD PR Received, Send Thank You Email
 
 # Controls when the workflow will run
 on:
