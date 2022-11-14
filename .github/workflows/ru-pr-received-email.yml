@@ -53,6 +53,12 @@ on:
       website:
         required: true
         type: string
+      open_source:
+        required: true
+        type: string
+      token_sale:
+        required: true
+        type: string
     secrets:
       gmail_password:
         required: true
@@ -95,7 +101,7 @@ jobs:
 
             Contact_Name: ${{inputs.contact_name}} Contact_Email: ${{inputs.email_addr}} Github_Account: ${{github.actor}}
 
-            Open_Source: ${{inputs.open_source}} Token_Sale: ${[inputs.token_sale}}
+            Open_Source: ${{inputs.open_source}} Token_Sale: ${{inputs.token_sale}}
 
           html_body: |
             Hi ${{inputs.contact_name}}, 
@@ -124,7 +130,7 @@ jobs:
             <br/><br/>
             <b>Contact_Name:</b> ${{inputs.contact_name}} <b>Contact_Email:</b> ${{inputs.email_addr}} <b>Github_Account:</b> ${{github.actor}}
             <br/><br/>
-            <b>Open_Source:</b> ${{inputs.open_source}} <b>Token_Sale:</b> ${[inputs.token_sale}}
+            <b>Open_Source:</b> ${{inputs.open_source}} <b>Token_Sale:</b> ${{inputs.token_sale}}
             <br/><br/>
           to: ${{inputs.app_email}}
           from: grants@eosnetwork.com
