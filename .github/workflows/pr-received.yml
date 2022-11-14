@@ -77,6 +77,7 @@ jobs:
       website: ${{ needs.call-parser.outputs.website }}
       open_source: ${{ needs.call-parser.outputs.open_source }}
       token_sale: ${{ needs.call-parser.outputs.token_sale }}
+      filename: ${{ needs.get_filename.outputs.filename }}
     secrets:
       gsheet_private_key: ${{ secrets.GHSEET_API_KEY }}
 
@@ -100,5 +101,6 @@ jobs:
       website: ${{ needs.call-parser.outputs.website }}
       open_source: ${{ needs.call-parser.outputs.open_source }}
       token_sale: ${{ needs.call-parser.outputs.token_sale }}
+      filename: ${{ needs.get_filename.outputs.filename }}
     secrets:
       gmail_password: ${{ secrets.ENFMAILBOT_PASSWORD }}
