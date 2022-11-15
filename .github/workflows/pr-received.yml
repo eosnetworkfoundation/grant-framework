@@ -42,7 +42,7 @@ jobs:
       - id: echo-output
         run: |
           echo "filename is ${{ needs.get_filename.outputs.filename }} "
-          echo "basename is ${{ needs.call-paraser.outputs.basename }} "
+          echo "basename is ${{ needs.call-parser.outputs.basename }} "
           echo "project name ${{ needs.call-parser.outputs.project_name }} "
           echo "contact name ${{ needs.call-parser.outputs.contact_name }}"
           echo "team name ${{ needs.call-parser.outputs.team_name }}"
@@ -77,6 +77,7 @@ jobs:
       website: ${{ needs.call-parser.outputs.website }}
       open_source: ${{ needs.call-parser.outputs.open_source }}
       token_sale: ${{ needs.call-parser.outputs.token_sale }}
+      basename: ${{ needs.call-parser.outputs.basename }} "
     secrets:
       gsheet_private_key: ${{ secrets.GHSEET_API_KEY }}
 
