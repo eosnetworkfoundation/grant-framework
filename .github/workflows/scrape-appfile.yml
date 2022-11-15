@@ -51,7 +51,6 @@ jobs:
           echo "legal addr ${{ needs.call-parser.outputs.legal_addr }}"
           echo "level ${{ needs.call-parser.outputs.level }}"
           echo "eos_addr ${{ needs.call-parser.outputs.eos_addr }}"
-          echo "repo_owner ${{  needs.call-parser.outputs.repo_owner }}"
           echo "github_actor ${{ needs.call-parser.outputs.github_actor }}"
           echo "pr_no ${{ needs.call-parser.outputs.pr_no }}"
           echo "website ${{ needs.call-parser.outputs.website }}"
@@ -71,7 +70,6 @@ jobs:
       legal_addr: ${{ needs.call-parser.outputs.legal_addr }}
       level: ${{ needs.call-parser.outputs.level }}
       eos_addr: ${{ needs.call-parser.outputs.eos_addr }}
-      repo_owner: ${{  needs.call-parser.outputs.repo_owner }}
       github_actor: ${{ needs.call-parser.outputs.github_actor }}
       pr_no: ${{ needs.call-parser.outputs.pr_no }}
       website: ${{ needs.call-parser.outputs.website }}
