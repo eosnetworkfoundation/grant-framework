@@ -41,8 +41,8 @@ on:
         value: ${{ jobs.parse.outputs.open_source }}
       token_sale:
         value: ${{ jobs.parse.outputs.token_sale }}
-      filename:
-        value: ${{ jobs.parse.outputs.filename }}
+      basename:
+        value: ${{ jobs.parse.outputs.basename }}
   
 jobs:
   parse:
