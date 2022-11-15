@@ -3,9 +3,9 @@
 - **Project Name:** Small Business Accounting & Web3
 - **Team Name:** CosmicStep Software, Inc dba tipit.io
 - **EOS Payment Address:** tipitmanager
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** Company/Large, 1. New Proposal
 - **Pomelo Grant(s):** https://pomelo.io/grants/tipit1
-- **Project is Open-Source:** Yes
+- **Project is Open-Source:** Yes for the Framework
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/tipitio/sba-web3
 
@@ -32,14 +32,13 @@ This grant provides funding for the development and release of the framework to 
 
 ### Project Details
 
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 - **A. Framework:** Multi-tenant software framework to enable Web3, EOS modules that sync with QUickBooks Online (QBO) and capability to sync with QB and other accounting solutions.
 - **B. Partner Accounts:** Configure EOS account for all the partners that work with EOS/Web3 including Customers, Vendors/Suppliers/Subcontractors, Employees and the comppany using the system
 - **C. tipit Pay:** Secure online payment system that can allow EOS payments in addition to traditional Credit Card and ACH payments using various processors.  tipit Pay links are added to invoices and emails of invoices.  Example: https://pay.tipit.io/home?platform=tipitpayrequest&to=gilsertience&amount=1000&symbol=GIL&contract=gilsertience&memo=But%20why%20not%20tho&precision=4
 - **D. Web3 Monitoring:** Monitor company and partner accounts for transactions that should be captured into the accounting system.  This includes payments received into specific EOS accounts, for example receiving Pomelo grant funds and getting invoice payments from customers and sending payments to vendors and employees.
 - **E. QBO Sync:** Sync all transactions to and from EOS blockchain into QBO.
 - **F. Pricing Oracle:** Capture token prices at the time of the transaction for accurate accounting into QBO.  For example, if 5 EOS is received from a Pomelo grant at multiple different times, the system will accurately price those transations into the base currency, typically USD.
-- **G. Ideathon:** Small Business Accounting & Web3 won the Ideathon on 14 Nove 2022.  The presentation and description can be found here: https://devpost.com/software/small-business-accounting-web3
+- **G. Ideathon:** Small Business Accounting & Web3 won the Ideathon on 14 Nov 2022.  The presentation and description can be found here: https://devpost.com/software/small-business-accounting-web3
 
 ### Ecosystem Fit
 
@@ -47,7 +46,7 @@ This grant provides funding for the development and release of the framework to 
 Most teams within the EOS ecosystem are considered "small businesses" and can use this system to accurately handle their accounting for sales tax, income tax and other accounting purposes.
 
 - Who is your target audience?
-All small businesses and independant contractors that are working with EOS for receiving and sending payments.
+All small businesses and independant contractors that are working with EOS for receiving and sending payments.  Also targeted to companies using QBO.
 
 - What need(s) does your project meet?
 Accurate accounting solution using the most popular small biz accounting system, QuickBooks Online while utilizing EOS blockchain.
@@ -120,13 +119,13 @@ CosmicStep Software, Inc includes High5Software.com and tipit.io.  High5Software
 |    0a. | License           | Determine best license                                                                               |
 |    0b. | Documentation     | Creation of documentation for the framework and how include applications                             |
 |    0c. | Testing Guide     | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-|     1. | API to Framework  | Framework API for application extensions.                  |
+|     1. | Framework API     | Framework API for application extensions.                  |
 |     2. | Multi-tenant DB   | Creation and definition of the multi-tenant database handling Partners and transaction recording     |
 |     3. | Single Sign On    | Single sign-on that works with Intuit QuickBooks Online oAuth 2.0  |
 
 ### Milestone 2 - Partner Accounts
 
--   Estimated duration: 2 month
+-   Estimated duration: 2 months
 -   FTE: 3
 -   Costs: $120,500 USD
 
@@ -160,7 +159,7 @@ CosmicStep Software, Inc includes High5Software.com and tipit.io.  High5Software
 
 ### Milestone 5 - tipit Pay with EOS and USDT on EOS
 
--   Estimated duration: 2 month
+-   Estimated duration: 2 months
 -   FTE: 2
 -   Costs: $80,400 USD
 
@@ -186,7 +185,7 @@ CosmicStep Software, Inc includes High5Software.com and tipit.io.  High5Software
 
 ### Milestone 7 - QBO Marketplace Submission
 
--   Estimated duration: 2 month
+-   Estimated duration: 2 months
 -   FTE: 1
 -   Costs: $40,200 USD
 
