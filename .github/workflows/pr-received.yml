@@ -71,7 +71,6 @@ jobs:
       legal_addr: ${{ needs.call-parser.outputs.legal_addr }}
       level: ${{ needs.call-parser.outputs.level }}
       eos_addr: ${{ needs.call-parser.outputs.eos_addr }}
-      filename: ${{ needs.call_parser.outputs.filename }}
       github_actor: ${{ needs.call-parser.outputs.github_actor }}
       pr_no: ${{ needs.call-parser.outputs.pr_no }}
       website: ${{ needs.call-parser.outputs.website }}
