@@ -44,7 +44,7 @@ on:
       token_sale:
         required: true
         type: string
-      filename:
+      basename:
         required: true
         type: string
 
