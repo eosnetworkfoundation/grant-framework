@@ -41,6 +41,7 @@ jobs:
     steps:
       - id: echo-output
         run: |
+          echo "basename ${{ needs.call-parser.outputs.basename }} "
           echo "project name ${{ needs.call-parser.outputs.project_name }} "
           echo "contact name ${{ needs.call-parser.outputs.contact_name }}"
           echo "team name ${{ needs.call-parser.outputs.team_name }}"
@@ -54,6 +55,8 @@ jobs:
           echo "github_actor ${{ needs.call-parser.outputs.github_actor }}"
           echo "pr_no ${{ needs.call-parser.outputs.pr_no }}"
           echo "website ${{ needs.call-parser.outputs.website }}"
+          echo "open_source ${{ needs.call-parser.outputs.open_source }}"
+          echo "token_sale ${{ needs.call-parser.outputs.token_sale }}"
 
   write-spreadsheet:
     uses: ./.github/workflows/ru-big-gsheet.yml
@@ -74,6 +77,6 @@ jobs:
       website: ${{ needs.call-parser.outputs.website }}
       open_source: ${{ needs.call-parser.outputs.open_source }}
       token_sale: ${{ needs.call-parser.outputs.token_sale }}
-      filename: ${{ github.event.inputs.AppFile }}
+      basename: ${{ needs.call-parser.outputs.basename }}
     secrets:
       gsheet_private_key: ${{ secrets.GHSEET_API_KEY }}
