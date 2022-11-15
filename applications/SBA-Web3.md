@@ -14,7 +14,7 @@
 
 - **Contact Name:** Mark Stair
 - **Contact Email:** marks@tipit.io
-- **Website:** https://tipit.io
+- **Website:** https://tipit.io  (Note this is the tipit social wallet website, a new website and/or company will be created for this grant.)
 
 
 ## Project Overview
@@ -69,7 +69,7 @@ CosmicStep Software, Inc includes High5Software.com and tipit.io.  High5Software
 - Tony Van Natter
 
 ### Legal Structure
-- **Registered Legal Entity:** CosmicStep Software, Inc
+- **Registered Legal Entity:** CosmicStep Software, Inc (Note that a new legal entity may be created)
 - **Registered Address:** 6700 NE 181st St, Unit 82525, Kenmore, WA 98028 USA
 
 ### Team Experience
