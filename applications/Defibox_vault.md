@@ -68,7 +68,6 @@ Defibox team is a full-time team that covers front-end, back-end, contract, oper
 
 ### Team Org Repos
 
-https://github.com/DefiboxTeam/luckybox
 https://github.com/DefiboxTeam/Defibox-document
 https://github.com/DefiboxTeam/DefiboxTeam
 
@@ -79,6 +78,7 @@ https://github.com/DefiboxTeam/DefiboxTeam
 ## Development Status
 https://eos.defibox.io/vault
 https://bloks.io/account/vault.defi
+https://bloks.io/account/stoken.defi 
 https://twitter.com/DefiboxOfficial/status/1589907995919781888
 
 
@@ -86,9 +86,7 @@ https://twitter.com/DefiboxOfficial/status/1589907995919781888
 
 - **Total Estimated Duration:** 3 months 
 - **Full-Time Equivalent (FTE):** 5 FTE
-- **Total Costs:** 12,000 USD
-
-
+- **Total Costs:** 80,000 USD
 
 Full launch as milestone reached, 80,000 USD for total cost in which 24,000 USD for security audit fees (already paid) and 56,000 USD for development cost.
 
