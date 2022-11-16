@@ -78,7 +78,7 @@ jobs:
 
             Thank you for your application to the ENF Grant Framework.
 
-            We recieved your ${{inputs.project_name}} application by the ${{inputs.team_name}} team, submitted from the ${{ github.event.pull_request.head.repo.owner.login }} Github account. 
+            We received your ${{inputs.project_name}} application by the ${{inputs.team_name}} team, submitted from the ${{ github.event.pull_request.head.repo.owner.login }} Github account. 
 
             We are working through our internal processes which includes translating the application followed by a series of meetings.  Thus it may take several weeks to get back to you.
 
@@ -105,7 +105,7 @@ jobs:
             <br/><br/>
             Thank you for your application to the ENF Grant Framework.
             <br/><br/>
-            We recieved your <b> ${{inputs.project_name}} </b>application
+            We received your <b> ${{inputs.project_name}} </b>application
             by the<b> ${{needs.parse_app.outputs.team_name}} </b>team,
             submitted from the<b> ${{ github.actor }} </b>Github account. 
             <br/><br/>
