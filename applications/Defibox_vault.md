@@ -77,8 +77,11 @@ https://github.com/DefiboxTeam/DefiboxTeam
 
 ## Development Status
 https://eos.defibox.io/vault
+
 https://bloks.io/account/vault.defi
+
 https://bloks.io/account/stoken.defi 
+
 https://twitter.com/DefiboxOfficial/status/1589907995919781888
 
 
