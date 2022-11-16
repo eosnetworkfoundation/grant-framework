@@ -1,11 +1,11 @@
 # EOS Network Foundation Grant Proposal
 
 - **Project Name:** Small Business Accounting & Web3
-- **Team Name:** CosmicStep Software, Inc dba tipit.io
+- **Team Name:** CosmicStep Software, Inc dba tipit.io and High5Software
 - **EOS Payment Address:** tipitmanager
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** Company/Large, 1. New Proposal
-- **Pomelo Grant(s):** https://pomelo.io/grants/tipit1
-- **Project is Open-Source:** Yes for the Framework
+- **Pomelo Grant(s):** https://pomelo.io/grants/sba and https://pomelo.io/grants/tipit1
+- **Project is Open-Source:** Yes, will be for the Framework
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/tipitio/sba-web3
 
@@ -14,14 +14,16 @@
 
 - **Contact Name:** Mark Stair
 - **Contact Email:** marks@tipit.io
-- **Website:** https://tipit.io  (Note this is the tipit social wallet website, a new website and/or company will be created for this grant.)
+- **Website:** https://tipit.io  (Note this is the tipit social wallet website, a revamped website and/or company will be created as part of this grant.)
 
 
 ## Project Overview
 
-This grant proposal stems from the EVMxIdeathon on 14 Nov 2022 with the winning submission for the Web3 category:  Small Business Accounting & Web3.
+This grant proposal stems from the EVMxIdeathon on 14 Nov 2022 with the winning submission for the Web3 category:  Small Business Accounting & Web3 https://devpost.com/software/small-business-accounting-web3.
 
-This grant provides funding for the development and release of the framework to sync EOS blockchain with QuickBooks Online.  Approval of this grant will give access to EOS blockchain to small businesses that are already using QuickBooks and be used standalone to capture blockchain information for accounting purposes.
+This grant provides funding for the development and release of the framework to sync EOS blockchain with QuickBooks Online (QBO).  Approval of this grant will give access to EOS blockchain to small businesses that are already using QuickBooks and be used standalone to capture blockchain information for accounting purposes.
+
+Submission on Intuit QBO Marketplace will give market exposure of EOS to small businesses.
 
 ### Overview
 
@@ -37,8 +39,7 @@ This grant provides funding for the development and release of the framework to 
 - **C. tipit Pay:** Secure online payment system that can allow EOS payments in addition to traditional Credit Card and ACH payments using various processors.  tipit Pay links are added to invoices and emails of invoices.  Example: https://pay.tipit.io/home?platform=tipitpayrequest&to=gilsertience&amount=1000&symbol=GIL&contract=gilsertience&memo=But%20why%20not%20tho&precision=4
 - **D. Web3 Monitoring:** Monitor company and partner accounts for transactions that should be captured into the accounting system.  This includes payments received into specific EOS accounts, for example receiving Pomelo grant funds and getting invoice payments from customers and sending payments to vendors and employees.
 - **E. QBO Sync:** Sync all transactions to and from EOS blockchain into QBO.
-- **F. Pricing Oracle:** Capture token prices at the time of the transaction for accurate accounting into QBO.  For example, if 5 EOS is received from a Pomelo grant at multiple different times, the system will accurately price those transations into the base currency, typically USD.
-- **G. Ideathon:** Small Business Accounting & Web3 won the Ideathon on 14 Nov 2022.  The presentation and description can be found here: https://devpost.com/software/small-business-accounting-web3
+- **F. Pricing Oracle:** Capture token prices at the time of the transaction for accurate accounting into QBO.  For example, if 5 EOS is received from a Pomelo grant at multiple different times, the system will accurately price those transactions into the base currency, typically USD.
 
 ### Ecosystem Fit
 
@@ -199,14 +200,15 @@ CosmicStep Software, Inc includes High5Software.com and tipit.io.  High5Software
 ## Future Plans
 
 Note that all these ideas are large projects in themselves.  Other developer companies can create these applications to use in the Framework.
-- QuickBooks sync:  Provide sync to QB desktop if requested by customers as some companies prefer QB over QBO
-- EOS Books: Simple standalone accounting solution that doesn't need QBO or QB
+- QuickBooks sync:  Provide sync to QB desktop if requested by customers as some companies prefer QB over QBO.
+- EOS Books: Simple standalone accounting solution that doesn't need QBO or QB.
+- International:  Support other base currencies and accounting solutions beyond USD and QBO.
 - POS Point of Sale system to allow EOS based payments.
-- KeyFA: Improved 2FA using keys in EOS wallet
-- Time Tracking: EOS based time tracking with payment upon time approval
-- Item NFTs:  New standard for physical items and equipment extending Atomic Assets and/or SimpleAssets but for business item handling
+- KeyFA: Improved 2FA using keys in EOS wallet.
+- Time Tracking: EOS based time tracking with payment upon time approval.
+- Item NFTs:  New standard for physical items and equipment extending Atomic Assets and/or SimpleAssets but for business item handling.
 - Item Delivery Escrow:  Smart contract and system that can hold payment in "escrow" until items are received, then automatically release payment to supplier.  Also can handle payments to delivery companies.
-- Sales Tax System: Decentralized sales tax handling system
+- Sales Tax System: Decentralized sales tax handling system.
 
 
 ## Additional Information
