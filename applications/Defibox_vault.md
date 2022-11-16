@@ -40,12 +40,20 @@ Everything is on the website and contract
 
 > Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
 
-- Where and how does your project fit into the ecosystem? Users can earn corresponding token income by depositing tokens. The assets can be flexibly deposited and withdrawn with open and transparent on chain data. Valut income mainly comes from Defibox protocol income, Yield+ rewards, BP income, REX income, etc. At the same time, in order to improve the utility, the protocol will issue a standard EOS token called sToken, which represents a deposit certificate. sToken can be used in multiple DeFi protocols to obtain more benefits.
-- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? EOS users including any dapp user and project teams
-- What need(s) does your project meet? For generating yield and income when holding EOS
-- Are there any other projects similar to yours in the EOSIO ecosystem? Yes, BSS from Defibox
-  - If so, how is your project different? Vault is widely supporting all the users on EOS while BSS is only available for Defibox users who have BOX tokens.
-  - If not, are there similar projects in related ecosystems?
+- Where and how does your project fit into the ecosystem? 
+Users can earn corresponding token income by depositing tokens. The assets can be flexibly deposited and withdrawn with open and transparent on chain data. Valut income mainly comes from Defibox protocol income, Yield+ rewards, BP income, REX income, etc. At the same time, in order to improve the utility, the protocol will issue a standard EOS token called sToken, which represents a deposit certificate. sToken can be used in multiple DeFi protocols to obtain more benefits.
+
+- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? 
+EOS users including any dapp user and project teams
+
+- What need(s) does your project meet?
+For generating yield and income when holding EOS
+
+- Are there any other projects similar to yours in the EOSIO ecosystem?
+Yes, BSS from Defibox
+  
+  - If so, how is your project different?
+Vault is widely supporting all the users on EOS while BSS is only available for Defibox users who have BOX tokens.
 
 ## Team
 
