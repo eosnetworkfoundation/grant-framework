@@ -13,7 +13,7 @@
 
 - **Contact Name:** Cristhian Andres Rincón Rojas
 - **Contact Email:** contactoandresrojas@gmail.com
-- **Website:** [Genki](https://genki.ghost.io/)
+- **Website:** [Genki](https://blog.genki.site)
 
 ## Project Overview
 
@@ -73,10 +73,13 @@ Experience with more than 4 years in content creation, productivity, promotional
 
 ### Team Org Repos
 
-- https://github.com/<your_organization>
+- https://github.com/genkimedia
+- https://github.com/genkimedia/ghost
+- https://github.com/genkimedia
 
 ### Team Member Repos
 
+- https://github.com/genkimedia/ghost
 - https://github.com/thiangm
 
 
@@ -86,9 +89,9 @@ Experience with more than 4 years in content creation, productivity, promotional
 
 ## Development Status
 
-- 3 pieces of original content have been published.
+- 5 pieces of original content have been published.
 
-- 10 email campaigns have been sent through our newsletter.
+- 14 email campaigns have been sent through our newsletter.
 
 ## Development Roadmap
 
