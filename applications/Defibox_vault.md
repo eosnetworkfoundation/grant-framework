@@ -99,7 +99,11 @@ https://twitter.com/DefiboxOfficial/status/1589907995919781888
 - **Full-Time Equivalent (FTE):** 5 FTE
 - **Total Costs:** 80,000 USD
 
-Full launch as milestone reached, 80,000 USD for total cost in which 24,000 USD for security audit fees (already paid) and 56,000 USD for development cost.
+- **Deliverables:**
+A. Developer documentation: Provide open developer documentation on how to use & integrate Defibox Vault open-source protocol.
+B. User tutorials: Provide video & explainers articles for users on how to use Defibox Vault protocol & sTokens.
+
+Full launch as milestone reached, 80,000 USD for total cost in which 24,000 USD for security audit fees and 56,000 USD for development cost.
 
 
 ## Future Plans
@@ -112,7 +116,7 @@ Fully support sEOS (vault asset) in all our DeFi protocol
 
 **How did you hear about the Grants Program?** EOS Network Foundation Website
 
-**About open source** Open source available when full amount of grant received
+**Open source** Source code made available upon completion of ENF grant
 
 
 **Chinese Translation**
@@ -180,7 +184,9 @@ Fully support sEOS (vault asset) in all our DeFi protocol
 - **总预计持续时间：**3 个月
 - **全职当量 (FTE)：**5 FTE
 - **总成本：** 80,000 美元，其中 24,000 美元用于安全审计费用，56,000 美元用于开发成本。
-
+- **可交付成果：**
+A. 开发者文档：提供关于如何使用和集成 Defibox Vault 开源协议的开放式开发者文档。
+B. 用户教程：为用户提供有关如何使用 Defibox Vault 协议和 sTokens 的视频和解释文章。
 
 **未来的计划**
 -高额奖金活动宣传项目，在我们所有的 DeFi 协议中完全支持 sEOS（金库资产）
