@@ -119,7 +119,13 @@ Fully support sEOS (vault asset) in all our DeFi protocol
 **Launch Data** 3,000,000 EOS TVL within 53 hours since launch, at the moment, it is 3,400,000 EOS.
 ![image](https://user-images.githubusercontent.com/93515916/203501096-b20bcd1d-95cc-4aeb-ba46-6a69dfbc0a44.png)
 
-**Open source** Source code made available upon completion of ENF grant
+
+
+***Open source: Source code made available upon completion of ENF grant***
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
 
 **Chinese Translation**
 
@@ -201,4 +207,4 @@ B. 用户教程：为用户提供有关如何使用 Defibox Vault 协议和 sTok
 ![image](https://user-images.githubusercontent.com/93515916/203501634-7ee79252-dff3-48dd-96f7-b941d58bea66.png)
 
 
-**关于开源：** 收到全额资助后即可开源
+***关于开源：收到全额资助后即可开源***
