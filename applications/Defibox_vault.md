@@ -116,8 +116,10 @@ Fully support sEOS (vault asset) in all our DeFi protocol
 
 **How did you hear about the Grants Program?** EOS Network Foundation Website
 
-**Open source** Source code made available upon completion of ENF grant
+**Launch Data** 3,000,000 EOS TVL within 53 hours since launch, at the moment, it is 3,400,000 EOS.
+![image](https://user-images.githubusercontent.com/93515916/203501096-b20bcd1d-95cc-4aeb-ba46-6a69dfbc0a44.png)
 
+**Open source** Source code made available upon completion of ENF grant
 
 **Chinese Translation**
 
@@ -194,5 +196,9 @@ B. 用户教程：为用户提供有关如何使用 Defibox Vault 协议和 sTok
 **附加信息**
 
 **您是如何得知赠款计划的？：** EOS网络基金会网站
+
+**上线数据** 上线53小时内获得3,000,000 EOS 锁仓量，目前锁仓量约为3,400,000 EOS。
+![image](https://user-images.githubusercontent.com/93515916/203501634-7ee79252-dff3-48dd-96f7-b941d58bea66.png)
+
 
 **关于开源：** 收到全额资助后即可开源
