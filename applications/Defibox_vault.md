@@ -100,8 +100,12 @@ https://twitter.com/DefiboxOfficial/status/1589907995919781888
 - **Total Costs:** 80,000 USD
 
 - **Deliverables:**
-A. Developer documentation: Provide open developer documentation on how to use & integrate Defibox Vault open-source protocol.
-B. User tutorials: Provide video & explainers articles for users on how to use Defibox Vault protocol & sTokens.
+Staking yield system template that includes: 
+Protocol design
+Smart contract development
+User documentation
+Technical documentation
+
 
 Full launch as milestone reached, 80,000 USD for total cost in which 24,000 USD for security audit fees and 56,000 USD for development cost.
 
@@ -193,8 +197,11 @@ Fully support sEOS (vault asset) in all our DeFi protocol
 - **全职当量 (FTE)：**5 FTE
 - **总成本：** 80,000 美元，其中 24,000 美元用于安全审计费用，56,000 美元用于开发成本。
 - **可交付成果：**
-A. 开发者文档：提供关于如何使用和集成 Defibox Vault 开源协议的开放式开发者文档。
-B. 用户教程：为用户提供有关如何使用 Defibox Vault 协议和 sTokens 的视频和解释文章。
+质押收益系统模板，包括：
+协议设计
+智能合约开发
+用户文档
+技术文档
 
 **未来的计划**
 -高额奖金活动宣传项目，在我们所有的 DeFi 协议中完全支持 sEOS（金库资产）
