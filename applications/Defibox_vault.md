@@ -58,7 +58,7 @@ Vault is widely supporting all the users on EOS while BSS is only available for 
 
 ## Team
 
-### Team members
+### Team members：16
 
 - **Team Leader:** Eason
 
@@ -127,7 +127,7 @@ Fully support sEOS (vault asset) in all our DeFi protocol
 ![image](https://user-images.githubusercontent.com/93515916/203501096-b20bcd1d-95cc-4aeb-ba46-6a69dfbc0a44.png)
 
 
-
+***Audit by Certik:** https://www.certik.com/projects/defibox
 ***Open source: Source code made available to ENF and later to the public upon ENF request***
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -183,7 +183,7 @@ https://twitter.com/DefiboxOfficial/status/1593966063334871042
 -Vault广泛支持EOS上的所有用户，而BSS仅适用于拥有BOX代币的Defibox用户。
 
 **团队**
-- **团队成员：** 12
+- **团队成员：** 16
 - **团队负责人：** Eason
 
 **法律结构**
@@ -222,5 +222,5 @@ https://twitter.com/DefiboxOfficial/status/1593966063334871042
 **上线数据** 上线53小时内获得3,000,000 EOS 锁仓量，目前锁仓量约为3,400,000 EOS。
 ![image](https://user-images.githubusercontent.com/93515916/203501634-7ee79252-dff3-48dd-96f7-b941d58bea66.png)
 
-
+***Certik审计：*** https://www.certik.com/projects/defibox
 ***关于开源：对ENF开源并随后根据ENF的要求对社区开源***
