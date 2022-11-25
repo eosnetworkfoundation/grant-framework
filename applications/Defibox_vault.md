@@ -5,7 +5,7 @@
 - **EOS Payment Address:** liquid.defi
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Pomelo Grant(s):** https://pomelo.io/grants/vault
-- **Project is Open-Source:** No
+- **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** NA
 > Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
@@ -27,7 +27,7 @@
 > Please provide the following:
 
 - **Name:** Vault, a decentralized single-token staking protocol
-- **Brief Description:** The Vault protocol is the first single-token lossless yield protocol launched by Defibox. Users can earn corresponding token income by depositing tokens. The assets can be flexibly deposited and withdrawn with open and transparent on chain data. Valut income mainly comes from Defibox protocol income, Yield+ rewards, BP income, REX income, etc. At the same time, in order to improve the utility, the protocol will issue a standard EOS token called sToken, which represents a deposit certificate. sToken can be used in multiple DeFi protocols to obtain more benefits.
+- **Brief Description:** The Vault protocol is the first single-token lossless yield protocol launched by Defibox. Users can earn corresponding token income by depositing tokens. The assets can be flexibly deposited and withdrawn with open and transparent on chain data. Vault income mainly comes from Defibox protocol income, Yield+ rewards, BP income, REX income, etc. At the same time, in order to improve the utility, the protocol will issue a standard EOS token called sToken, which represents a deposit certificate. sToken can be used in multiple DeFi protocols to obtain more benefits.
 - **Relationship to EOSIO:** a public use that provides a variety of staking strategies to EOS users and project teams for more yields. Code will be open source for contribution to EOSIO repository.
 - **Reason for Interest:** It provides a variety of staking strategies to EOS users and project teams for more yields. It will brings TVL and income to Defibox team while giving benefits to participants. Ecosystem Boost: attract inactive EOS tokens which will prosper ecosystem
 
@@ -42,7 +42,7 @@ Everything is on the website and contract
 > Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem? 
-Users can earn corresponding token income by depositing tokens. The assets can be flexibly deposited and withdrawn with open and transparent on chain data. Valut income mainly comes from Defibox protocol income, Yield+ rewards, BP income, REX income, etc. At the same time, in order to improve the utility, the protocol will issue a standard EOS token called sToken, which represents a deposit certificate. sToken can be used in multiple DeFi protocols to obtain more benefits.
+Users can earn corresponding token income by depositing tokens. The assets can be flexibly deposited and withdrawn with open and transparent on chain data. Vault income mainly comes from Defibox protocol income, Yield+ rewards, BP income, REX income, etc. At the same time, in order to improve the utility, the protocol will issue a standard EOS token called sToken, which represents a deposit certificate. sToken can be used in multiple DeFi protocols to obtain more benefits.
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? 
 EOS users including any dapp user and project teams
@@ -90,8 +90,9 @@ https://bloks.io/account/vault.defi
 
 https://bloks.io/account/stoken.defi 
 
-https://twitter.com/DefiboxOfficial/status/1589907995919781888
+https://twitter.com/DefiboxOfficial/status/1593966063334871042
 
+Reaching 3 million EOS TVL in 53 hours
 
 ### Milestone Summary
 
@@ -105,6 +106,8 @@ Protocol design
 Smart contract development
 User documentation
 Technical documentation
+Unit tests
+User test instructions
 
 
 Full launch as milestone reached, 80,000 USD for total cost in which 24,000 USD for security audit fees and 56,000 USD for development cost.
@@ -112,7 +115,7 @@ Full launch as milestone reached, 80,000 USD for total cost in which 24,000 USD 
 
 ## Future Plans
 
-Promote the project with big prize event
+Promote the project with big prize event: https://eos.defibox.io/lottery
 Fully support sEOS (vault asset) in all our DeFi protocol
 
 
@@ -125,7 +128,7 @@ Fully support sEOS (vault asset) in all our DeFi protocol
 
 
 
-***Open source: Source code made available upon completion of ENF grant***
+***Open source: Source code made available to ENF and later to the public upon ENF request***
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -138,7 +141,7 @@ Fully support sEOS (vault asset) in all our DeFi protocol
 - **EOS支付地址：**  liquid.defi
 - **等级：** 3
 - **Pomelo资助：** https://pomelo.io/grants/vault
-- **项目是开源的：** 否
+- **项目是开源的：** 是
 - **项目是代币销售的一部分：** 否
 - **项目资源库：** 不适用
 
@@ -151,7 +154,7 @@ Fully support sEOS (vault asset) in all our DeFi protocol
 **概述**
 - **名称：金库协议**
 
-- **简介：** Vault协议是Defibox推出的第一个单代币无损收益协议。用户可以通过存入代币获得相应的代币收益。资产可灵活存取，链上数据公开透明。 Valut收益主要来自Defibox协议收益、Yield+奖励、BP收益、REX收益等。同时，为了提高效用，协议会发行一个标准的EOS代币sToken，代表存单。 sToken 可以在多种 DeFi 协议中使用以获得更多收益。
+- **简介：** Vault协议是Defibox推出的第一个单代币无损收益协议。用户可以通过存入代币获得相应的代币收益。资产可灵活存取，链上数据公开透明。 Vault收益主要来自Defibox协议收益、Yield+奖励、BP收益、REX收益等。同时，为了提高效用，协议会发行一个标准的EOS代币sToken，代表存单。 sToken 可以在多种 DeFi 协议中使用以获得更多收益。
 - **与EOSIO的关系：** 一种公共设施，为 EOS用户和项目团队提供各种质押策略以获得更多收益，并提供开源，这将有助于EOSIO代码资源库。
 - **感兴趣的原因：** 它为 EOS 用户和项目团队提供了多种质押策略以获得更多收益。它将为 Defibox 团队带来锁仓量和收入，同时让参与者受益。生态系统提升：吸引不活跃的EOS代币，这将繁荣生态系统。
 
@@ -159,6 +162,8 @@ Fully support sEOS (vault asset) in all our DeFi protocol
 -https://eos.defibox.io/vault
 -https://bloks.io/account/vault.defi
 -https://bloks.io/account/stoken.defi 
+https://twitter.com/DefiboxOfficial/status/1593966063334871042
+上线53小时内获得3,000,000 EOS 锁仓量
 
 
 **生态系统**
@@ -202,9 +207,13 @@ Fully support sEOS (vault asset) in all our DeFi protocol
 智能合约开发
 用户文档
 技术文档
+单元测试
+用户测试说明
+
 
 **未来的计划**
--高额奖金活动宣传项目，在我们所有的 DeFi 协议中完全支持 sEOS（金库资产）
+-高额奖金活动宣传项目：https://eos.defibox.io/lottery
+在我们所有的 DeFi 协议中完全支持 sEOS（金库资产）
 
 **附加信息**
 
@@ -214,4 +223,4 @@ Fully support sEOS (vault asset) in all our DeFi protocol
 ![image](https://user-images.githubusercontent.com/93515916/203501634-7ee79252-dff3-48dd-96f7-b941d58bea66.png)
 
 
-***关于开源：收到全额资助后即可开源***
+***关于开源：对ENF开源并随后根据ENF的要求对社区开源***
