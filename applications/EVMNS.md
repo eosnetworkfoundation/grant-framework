@@ -4,7 +4,7 @@
 -   **Team Name:** EVMNS Labs
 -   **EOS Payment Address:** evmnsdomains
 -   **Level:** 3
--  ** Pomelo Grant(s):** N/A
+-   **Pomelo Grant(s):** N/A
 -   **Project is Open-Source:** Yes
 -   **Project was part of Token sale:** No
 -   **Repository where Project resides:** https://github.com/evmns/EVMNS
