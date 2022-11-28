@@ -18,6 +18,7 @@
 
 # Project Overview
 **EVMNS (EVM Name Service) is a distributed, open and extensible multi-chain DID domain naming system built on EVM and EOS,** relying on the high performance, security and reliability of EOS to better and seamlessly connect people, information, assets, dApps, etc. in the WEB3 world.
+
 EVMNS domains use the ERC721 protocol standard with .evm as the domain suffix, such as abc.evm, 123.evm, jack.evm, etc., to map human-readable and easy-to-remember names with all kinds of content at the same time, including but not limited to EVM addresses, EOS addresses, other cryptocurrency addresses, content hashes, URLs, and metadata.
 ### Overview
 - **Name:** EVMNS (EVM Name Service)
@@ -34,39 +35,52 @@ EVMNS domains use the ERC721 protocol standard with .evm as the domain suffix, s
 ![](https://github.com/evmns/evm_name_service/blob/main/registry.png?raw=true )
   * #### EVMNS Registry
       The EVMNS registry is a smart contract that maintains a list of all domains and subdomains and stores three critical pieces of information about each domain: the owner of the domain, the resolver for the domain, and the caching time-to-live for all records under the domain.
-The owner of a name can be an external account (a user) or a smart contract. A registrar is a smart contract that owns a top-level domain and distributes subdomains of that domain to users according to the rules in the contract.
-The domain owner in the EVMNS registry is capable of:
-1.Set the resolver and TTL for the domain;
-2.Transfer ownership of the domain to another address;
+      
+      The owner of a name can be an external account (a user) or a smart contract. A registrar is a smart contract that owns a top-level domain and distributes subdomains of that domain to users according to the rules in the contract.
+The domain owner in the EVMNS registry is capable of:<br/>
+1.Set the resolver and TTL for the domain;<br/>
+2.Transfer ownership of the domain to another address;<br/>
 3.Change the ownership of subdomains;
-The EVMNS registry exists simply to map domains to the resolver responsible for resolving that domain.
+
+      The EVMNS registry exists simply to map domains to the resolver responsible for resolving that domain.
 
   * #### Resolvers
       The resolver is responsible for converting domains to addresses. Any smart contract that meets the criteria related to resolvers can be used as a resolver program in EVMNS.
-Each record type (EVM address, content hash, etc.) defines one or more methods that the resolver must implement in order to provide such records. Adding a new record type does not require changes to the EVMNS registry or to existing resolvers.
-Resolving a domain in EVMNS requires two steps: the first step is to ask the registry which resolver is responsible for the domain; the second step is to query that resolver for the result.
-Let's say we want to find the EVM address pointed by "abc.evm". First, we ask the registry which resolver is responsible for resolving "abc.evm"; then, we ask that resolver for the address of "abc.evm".
+      
+      Each record type (EVM address, content hash, etc.) defines one or more methods that the resolver must implement in order to provide such records. Adding a new record type does not require changes to the EVMNS registry or to existing resolvers.
+      
+      Resolving a domain in EVMNS requires two steps: the first step is to ask the registry which resolver is responsible for the domain; the second step is to query that resolver for the result.
+
+      Let's say we want to find the EVM address pointed by "abc.evm". First, we ask the registry which resolver is responsible for resolving "abc.evm"; then, we ask that resolver for the address of "abc.evm".
 
   * #### About Namehash
       Resource constraints in smart contracts make it inefficient to interact directly with readable names, so EVMNS uses only fixed length 256-bit cryptographic hashes. In order to generate hashes from names while still retaining their hierarchical nature, EVMNS uses an algorithm called Namehash, which is used only to represent names within EVMNS.
-Namehash is a recursive process that generates a unique hash for any valid name. Starting from the Namehash of any name (e.g., the Namehash of "abc.evm"), one can derive the Namehash of any subname (e.g., the Namehash of "ab. abc.evm"), and the derivation process does not require knowledge of or processing of the readable original name "abc.evm". It is this feature that allows EVMNS to be a hierarchical system without having to deal with readable text strings internally.
-Before using Namehash for hashing, the name first needs to be normalized with the help of the UTS-46 standard to ensure that the letters in the name are case-insensitive and to prohibit the use of invalid characters. Any hashing and resolving of names must first be normalized to ensure that all users get consistency of EVMNS.
+      
+      Namehash is a recursive process that generates a unique hash for any valid name. Starting from the Namehash of any name (e.g., the Namehash of "abc.evm"), one can derive the Namehash of any subname (e.g., the Namehash of "ab. abc.evm"), and the derivation process does not require knowledge of or processing of the readable original name "abc.evm". It is this feature that allows EVMNS to be a hierarchical system without having to deal with readable text strings internally.
+      
+      Before using Namehash for hashing, the name first needs to be normalized with the help of the UTS-46 standard to ensure that the letters in the name are case-insensitive and to prohibit the use of invalid characters. Any hashing and resolving of names must first be normalized to ensure that all users get consistency of EVMNS.
 
 ### Ecosystem Fit
-- **Where and how does your project fit into the ecosystem?**
-EOS has integrated short domain name function in the main chain since its launch, and naturally supports user-defined account name, which is the first to achieve a good experience of human readability and easy to remember, **It would be a great pity if this advantage is not continued on EVM,** As we know, EVMNS, as a DID domain naming system, can fulfill the requirement well and help EVM to better continue the convenience and efficiency of EOS.
-Considering the better integration of EVM and EOS users, EOS mainnet users will have the privilege to register EVM domains (5-digit and above length domains) at a special price, **which not only fills the gap in the EOS ecological DID domain system, but also further helps the growth of EOS user scale** (more new users will create EOS accounts in order to get the privilege to register EVM domain at a special price. In addition, it also helps EOS users to have the same experience of EOS account name on EVM, and EOS users can also create their own decentralized super business cards, personal decentralized WEB3 homepage/website. It's a multi-benefit!
-What's more, EVMNS will also provides free technical support to holders of existing short names on the EOS mainnet to assist them in issuing corresponding DID domain service agreements in the EVM, such as assisting holder of short name‘eos’to issue domain contract with the suffix .eos on EVM, contributing to the ecological prosperity of EOS and the EVM together.
-- **Who is your target audience ?**
-Our users are positioned as WEB3 ecological users, corresponding to blockchains including but not limited to EOS, EVM, ETH, BSC, etc.
-- **What need(s) does your project meet?**
-**One identity accessible to multiple blockchains. **There is no doubt that we are moving towards a multi-chain future, where each WEB3 user travels through different blockchains and dApps, having and managing multiple identities, multiple usernames, multiple sets of identity information, full of tedium and inconvenience and lacking a good experience.
-With EVMNS, you can ensure that one universal identity remains intact, not only for all applications, but for all blockchains. You will only have to manage one set of identities, such as your profile, Email, Twitter, Telegram, ETH address, EOS address, EVM address, etc. How wonderful it will be to be able to sync to all chains with one edit.
-EVMNS will also meet these needs: human readable and memorable WEB3 usernames, a more user-friendly experience in WEB3 world, decentralized super business cards, and personal decentralized WEB3 homepage/website. For more information, see our research **< Why DID is needed>** in Additional Information at the end of this article.
-- **Are there any other projects similar to yours in the EOSIO ecosystem?**
-There are no other projects on EOS and EVM ecosystem that are similar to EVMNS for now.
-But there are similar DID projects in other blockchains, such as ENS on ETH, SPACE ID on BSC, Bonfida on Solana, EVNS on Evmos, PNS on Polka, and cross-chain DID service‘.bit’, etc. The DID domain naming service protocol has become one of the basic projects on every blockchain, showing a blossoming market. See our research **< DID Market Analysis> **in Additional Information at the end of this article for more details on the market.
-Compared to other DID domain projects, EVMNS has a special feature. Benefited from EOS's industry-leading transaction speeds (0.5 seconds), high TPS and low transaction costs, users will have an unparalleled experience when using EVMNS. They will be able to confirm the successful modification of their identity information in seconds, without worrying about block congestion or the cost of interacting with the chain, and will be able to enjoy the WEB3 world more smoothly, which will be an important advantage of EVMNS.
+* #### Where and how does your project fit into the ecosystem?
+    EOS has integrated short domain name function in the main chain since its launch, and naturally supports user-defined account name, which is the first to achieve a good experience of human readability and easy to remember, **It would be a great pity if this advantage is not continued on EVM,** As we know, EVMNS, as a DID domain naming system, can fulfill the requirement well and help EVM to better continue the convenience and efficiency of EOS.
+    
+    Considering the better integration of EVM and EOS users, EOS mainnet users will have the privilege to register EVM domains (5-digit and above length domains) at a special price, **which not only fills the gap in the EOS ecological DID domain system, but also further helps the growth of EOS user scale** (more new users will create EOS accounts in order to get the privilege to register EVM domain at a special price. In addition, it also helps EOS users to have the same experience of EOS account name on EVM, and EOS users can also create their own decentralized super business cards, personal decentralized WEB3 homepage/website. It's a multi-benefit!
+
+    What's more, EVMNS will also provides free technical support to holders of existing short names on the EOS mainnet to assist them in issuing corresponding DID domain service agreements in the EVM, such as assisting holder of short name‘eos’to issue domain contract with the suffix .eos on EVM, contributing to the ecological prosperity of EOS and the EVM together.
+* #### Who is your target audience ?
+    Our users are positioned as WEB3 ecological users, corresponding to blockchains including but not limited to EOS, EVM, ETH, BSC, etc.
+* #### What need(s) does your project meet?
+    **One identity accessible to multiple blockchains.** There is no doubt that we are moving towards a multi-chain future, where each WEB3 user travels through different blockchains and dApps, having and managing multiple identities, multiple usernames, multiple sets of identity information, full of tedium and inconvenience and lacking a good experience.
+    
+    With EVMNS, you can ensure that one universal identity remains intact, not only for all applications, but for all blockchains. You will only have to manage one set of identities, such as your profile, Email, Twitter, Telegram, ETH address, EOS address, EVM address, etc. How wonderful it will be to be able to sync to all chains with one edit.
+    
+    EVMNS will also meet these needs: human readable and memorable WEB3 usernames, a more user-friendly experience in WEB3 world, decentralized super business cards, and personal decentralized WEB3 homepage/website. For more information, see our research **< Why DID is needed>** in Additional Information at the end of this article.
+* #### Are there any other projects similar to yours in the EOSIO ecosystem?
+    There are no other projects on EOS and EVM ecosystem that are similar to EVMNS for now.
+    
+    But there are similar DID projects in other blockchains, such as ENS on ETH, SPACE ID on BSC, Bonfida on Solana, EVNS on Evmos, PNS on Polka, and cross-chain DID service‘.bit’, etc. The DID domain naming service protocol has become one of the basic projects on every blockchain, showing a blossoming market. See our research **< DID Market Analysis>** in Additional Information at the end of this article for more details on the market.
+
+    Compared to other DID domain projects, EVMNS has a special feature. Benefited from EOS's industry-leading transaction speeds (0.5 seconds), high TPS and low transaction costs, users will have an unparalleled experience when using EVMNS. They will be able to confirm the successful modification of their identity information in seconds, without worrying about block congestion or the cost of interacting with the chain, and will be able to enjoy the WEB3 world more smoothly, which will be an important advantage of EVMNS.
 
 # Team
 ### Team members
@@ -80,18 +94,19 @@ Compared to other DID domain projects, EVMNS has a special feature. Benefited fr
 
 ### Team Experience
 The core members of EVMNS Labs are the first ecological participants of EOS, who experienced and witnessed the launch of EOS and are still deeply involved in the ecological construction.
+
 Team members have participated in several medium to large scale EOS projects before and after, and also developed ENS (Ethereum Name Service) related domain Exchange, domain bulk registry protocol, etc. We are not only EOS loyalists, but also ENS heavy players, with good understanding of DID domain naming system.
 
 # Development Roadmap
 ### Milestone Summary
-- Estimated project development duration: 12 weeks
-- Full Time Equivalent Employees (FTE): 6 
-- Total cost: $195,000
+- **Estimated project development duration:** 12 weeks
+- **Full Time Equivalent Employees (FTE):** 6 
+- **Total cost:** $195,000
 
 ### Milestone 1 - Requirements Analysis and official website
-- Estimated project development duration: 2 weeks 
-- Full Time Equivalent Employees (FTE): 2 
-- Total cost: $20,000 
+- **Estimated project development duration:** 2 weeks 
+- **Full Time Equivalent Employees (FTE):** 2 
+- **Total cost:** $20,000 
 
 | ID  | Deliverable  |Specification|
 | ------------ | ------------ | ------------ |
@@ -105,9 +120,9 @@ Team members have participated in several medium to large scale EOS projects bef
 
 ### Milestone 2 - Smart Contracts
 
-- Estimated project development duration: 4 weeks 
-- Full Time Equivalent Employees (FTE): 5 
-- Total cost: $100,000
+- **Estimated project development duration:** 4 weeks 
+- **Full Time Equivalent Employees (FTE):** 5 
+- **Total cost:** $100,000
 
 | ID  | Deliverable  |Specification|
 | ------------ | ------------ | ------------ |
@@ -121,9 +136,9 @@ Team members have participated in several medium to large scale EOS projects bef
 | 4  | Domain Resolver  | Resolvers are responsible for the actual process of translating names into addresses. Any contract that implements the relevant standards may act as a resolver in EVMNS. |
 
 ### Milestone 3 - Key Systems and Components
-- Estimated project development duration: 3 weeks 
-- Full Time Equivalent Employees (FTE): 3 
-- Total cost: $45,000
+- **Estimated project development duration:** 3 weeks 
+- **Full Time Equivalent Employees (FTE):** 3 
+- **Total cost:** $45,000
 
 | ID  | Deliverable  |Specification|
 | ------------ | ------------ | ------------ |
@@ -137,9 +152,9 @@ Team members have participated in several medium to large scale EOS projects bef
 | 4  | Domain Management System  | Build EVMNS domain management system to realize administrators capability of financial review, daily log maintenance review, emergency management, etc. for EVMNS.  |
 
 ### Milestone 4 - In-depth testing
-- Estimated project development duration: 2 weeks 
-- Full Time Equivalent Employees (FTE): 2 
-- Total cost: $20,000
+- **Estimated project development duration:** 2 weeks 
+- **Full Time Equivalent Employees (FTE):** 2 
+- **Total cost:** $20,000
 
 | ID  | Deliverable  |Specification|
 | ------------ | ------------ | ------------ |
@@ -151,9 +166,9 @@ Team members have participated in several medium to large scale EOS projects bef
 | 2  | dApp Development Documentation  | Establish a perfect dApp development documentation system to meet and support the quick access of dApp developers.  |
 
 ### Milestone 5 - Deployment Test Network
-- Estimated project development duration: 1 week 
-- Full Time Equivalent Employees (FTE): 2 
-- Total cost: $10,000
+- **Estimated project development duration:** 1 week 
+- **Full Time Equivalent Employees (FTE):** 2 
+- **Total cost:** $10,000
 
 | ID  | Deliverable  |Specification|
 | ------------ | ------------ | ------------ |
@@ -179,54 +194,75 @@ Therefore, the development content, duration and cost of the multi-chain ecology
 We learned of the program by following announcements on ENF’s Twitter and other channels.
 
 ### Some of our research
-- **What is DID**
+* #### What is DID
 DID is the abbreviation of‘Decentralized Identity’, which is a kind of digital identity without a centralized institution as the final guarantee, and is an extension and expansion in WEB 3 of the concept of "user portrait" in WEB2.
+
 The final form of DID development may be that each user has a unique network-wide identity, and multiple local identities for segmented scenarios. Users remember and identify DIDs through domains, manage DIDs and interact with applications through wallets, and integrate different credentials and local identities on multiple chains through wallets.
 
-- **Why DID is needed**
-  - Human readable and easy to remember WEB3 username
-Although each of us has a unique ID number, in our daily life, we generally use 'name' as an identifier of one's identity (although there will be renames) because it is easier for daily communication.
-The world of WEB3 has the same problem: while people currently interact primarily based on wallet addresses, no one wants to remember that long string of characters. If the digital identity of WEB3 needs a 'name', then what EVMNS is doing is hoping to be that 'name'.
+* #### Why DID is needed
+  * ##### Human readable and easy to remember WEB3 username
+    Although each of us has a unique ID number, in our daily life, we generally use 'name' as an identifier of one's identity (although there will be renames) because it is easier for daily communication.
+    
+    The world of WEB3 has the same problem: while people currently interact primarily based on wallet addresses, no one wants to remember that long string of characters. If the digital identity of WEB3 needs a 'name', then what EVMNS is doing is hoping to be that 'name'.
 
-  - A more user-friendly WEB3 experience
-In WEB2 world, digital identity is platform-centered, and different products within the same group are connected through an account system. For example, Tencent's mailbox, games and finance can all use the same account; Google, Facebook and other top Internet enterprises also have their own account systems. Although this kind of identity system is easy to build, its disadvantages have been widely known: the accounts between platforms do not interoperate with each other, and users have no way to control their own identity data.
-In WEB3 world, user interaction is mainly based on wallet address, so a series of activities related to the address constitute the most native decentralized digital identity DID of WEB3, and it can be naturally interoperable between different dApp applications without barriers. In this way, users can quickly find their acquaintance and friends when they enter new applications and games, without having to re-add them back by themselves like in WEB2 world.
-Imagine a peer-to-peer chat where you can find the desired contact by simply searching for xxx. evm instead of an 18-digit irregular address starting with 0x. What a wonderful experience, and each EVM domain is unique so you don't have to worry about matching the wrong person.
-Moreover, by using a DID name to connect to various cryptocurrency addresses, you can receive cryptocurrency payments from others through that domain name without having to copy and paste long addresses.
+  * ##### A more user-friendly WEB3 experience
+    In WEB2 world, digital identity is platform-centered, and different products within the same group are connected through an account system. For example, Tencent's mailbox, games and finance can all use the same account; Google, Facebook and other top Internet enterprises also have their own account systems. Although this kind of identity system is easy to build, its disadvantages have been widely known: the accounts between platforms do not interoperate with each other, and users have no way to control their own identity data.
+    
+    In WEB3 world, user interaction is mainly based on wallet address, so a series of activities related to the address constitute the most native decentralized digital identity DID of WEB3, and it can be naturally interoperable between different dApp applications without barriers. In this way, users can quickly find their acquaintance and friends when they enter new applications and games, without having to re-add them back by themselves like in WEB2 world.
+    
+    Imagine a peer-to-peer chat where you can find the desired contact by simply searching for xxx. evm instead of an 18-digit irregular address starting with 0x. What a wonderful experience, and each EVM domain is unique so you don't have to worry about matching the wrong person.
+    
+    Moreover, by using a DID name to connect to various cryptocurrency addresses, you can receive cryptocurrency payments from others through that domain name without having to copy and paste long addresses.
 
-  - Decentralized Super Business Card
-Each DID domain is a unique NFT, and the owner is free to set the content they wish to map or record, in addition to the common EVM wallet address, other cryptocurrency addresses, but also avatars/pictures, Email, Website, profile, Twitter/Telegram accounts and other content, no one can tamper or delete the information, the user has full control of his or her identity information. A DID may seem like a simple domain name, but it contains unlimited content, and** is a super business card for the WEB3 world.**
+  * ##### Decentralized Super Business Card
+    Each DID domain is a unique NFT, and the owner is free to set the content they wish to map or record, in addition to the common EVM wallet address, other cryptocurrency addresses, but also avatars/pictures, Email, Website, profile, Twitter/Telegram accounts and other content, no one can tamper or delete the information, the user has full control of his or her identity information. A DID may seem like a simple domain name, but it contains unlimited content, and** is a super business card for the WEB3 world.**
 
-  - Personal decentralized WEB3 homepage/website
-EVMNS allows users to create personal decentralized homepages/websites and upload them to the Interplanetary File System (IPFS), a global network of storage protocols that allow computers around the world to store and share data in a peer-to-peer fashion.
-In short, EVMNS and IPFS can help users to establish personal homepages/blogs and websites, with functions similar to the combination of RSS feeds + WEB3 Medium. **Users will have full ownership, including domain name, content and data,** completely avoiding the possibility of being deleted by registrars/data operators.
+  * ##### Personal decentralized WEB3 homepage/website
+    EVMNS allows users to create personal decentralized homepages/websites and upload them to the Interplanetary File System (IPFS), a global network of storage protocols that allow computers around the world to store and share data in a peer-to-peer fashion.
+    
+    In short, EVMNS and IPFS can help users to establish personal homepages/blogs and websites, with functions similar to the combination of RSS feeds + WEB3 Medium. **Users will have full ownership, including domain name, content and data,** completely avoiding the possibility of being deleted by registrars/data operators.
 
-  - WEB3 Infrastructure
-DID is also known as the "identity infrastructure" of WEB3 applications. As discussed above, it is basically determined that DID and avatar are the basic and essential elements of WEB3, being the identity of the WEB3 world.
+  * ##### WEB3 Infrastructure
+    DID is also known as the "identity infrastructure" of WEB3 applications. As discussed above, it is basically determined that DID and avatar are the basic and essential elements of WEB3, being the identity of the WEB3 world.
 
-- **DID Market Analysis**
-  - ENS (Ethereum Name Service)
-ENS was launched on May 4, 2017 by Alex Van de Sande and Nick Johnson of the ETH Foundation. In November 2021, ENS issued its own governance token and launched an airdrop. At the same time, ENS established the ENS DAO to enable community governance, where token holders will participate in the management of the assets, as well as voting on DAO proposals and co-voting on the use of the vault.
-Earlier in the interview Vitalik said, "**The Ethereum Domain Name Service ENS is by far the most successful non-financial ETH application,** which can basically be compared to a decentralized phone book."
-As of November 27, 2022, the** total amount of ENS domain  registration reached 2.79 million** and the number of Ethereum addresses holding ENS domains reached 609,000. Since November 2021, the number of monthly ENS registrations has shown explosive growth, reaching a peak of 437,000 monthly registrations in September 2022.
-![](https://github.com/evmns/evm_name_service/blob/main/t2.png?raw=true )
-###### Data source dune.com/makoto/ens
-**Total registration revenue of ENS domains has exceeded $60 million,** of which nearly $50 million has been realized so far in 2022 alone. **Total secondary market transactions have reached 112.39K ETH and $197 million.**
+* #### DID Market Analysis
+   ##### ENS (Ethereum Name Service)
+    ENS was launched on May 4, 2017 by Alex Van de Sande and Nick Johnson of the ETH Foundation. In November 2021, ENS issued its own governance token and launched an airdrop. At the same time, ENS established the ENS DAO to enable community governance, where token holders will participate in the management of the assets, as well as voting on DAO proposals and co-voting on the use of the vault.
+
+    Earlier in the interview Vitalik said, "**The Ethereum Domain Name Service ENS is by far the most successful non-financial ETH application,** which can basically be compared to a decentralized phone book."
+
+    As of November 27, 2022, **the total amount of ENS domain  registration reached 2.79 million** and the number of Ethereum addresses holding ENS domains reached 609,000. Since November 2021, the number of monthly ENS registrations has shown explosive growth, reaching a peak of 437,000 monthly registrations in September 2022.
+
+<div align="center"><img src="https://github.com/evmns/evm_name_service/blob/main/t2.png?raw=true"></div>
+
+<div align="center">（Data source dune.com/makoto/ens)</div>
+
+**Total registration revenue of ENS domains has exceeded $60 million,** of which nearly $50 million has been realized so far in 2022 alone. Total secondary market transactions have reached 112.39K ETH and $197 million.
+      
 ![](https://github.com/evmns/evm_name_service/blob/main/t3.png?raw=true )
-###### Data source NFTGO.io
+
+<div align="center">（Data source NFTGO.io） </div>
 Whether it is the registration scale, transaction scale, or the number of holder’s addresses, ENS is far ahead of similar projects, occupying the absolute leading position and having the strongest community consensus.
-The following is the partial sales of historical.
-paradigm.eth, 420ETH
-000.eth, 300ETH
-Opensea.eth, 99.89ETH
-Nike.eth, 60ETH
-Samsung.eth, 60ETH
-  - SPACE ID (BNB Chain Name Service)
-SPACE ID is a decentralized domain naming service protocol developed based on BNB Chain, officially launched in August 2022, with .bnb as the domain suffix, essentially the same as ENS, and dedicated to building a common name service network that seamlessly connects people, information, assets and applications across the blockchain. And by allowing users to bind their identities across multiple chains, communities can build their own domain naming services through SPACE ID's network. To date, more than 40 applications have announced that they have enabled integration of the SPACE ID protocol.
-A seed round of funding led by Binance Labs was completed on September 2nd, 2022 for an undisclosed amount.
-As of November 27, 2022, SPACE ID domain name total registrations reached 304,000, the total number of holders’ addresses reached 98,700, and the total registration revenue was 14,700 BNB, USD 4.42 million (1 BNB = USD 300). The total secondary market transaction size was about 22,000 BNB, 6.60 million USD.
+
+The following is the partial sales of historical.<br/>
+paradigm.eth, 420ETH<br/>
+000.eth, 300ETH<br/>
+Opensea.eth, 99.89ETH<br/>
+Nike.eth, 60ETH<br/>
+Samsung.eth, 60ETH<br/>
+
+
+##### SPACE ID (BNB Chain Name Service)
+  SPACE ID is a decentralized domain naming service protocol developed based on BNB Chain, officially launched in August 2022, with .bnb as the domain suffix, essentially the same as ENS, and dedicated to building a common name service network that seamlessly connects people, information, assets and applications across the blockchain. And by allowing users to bind their identities across multiple chains, communities can build their own domain naming services through SPACE ID's network. To date, more than 40 applications have announced that they have enabled integration of the SPACE ID protocol.
+
+**A seed round of funding led by Binance Labs was completed on September 2nd, 2022 for an undisclosed amount.**
+
+As of November 27, 2022, SPACE ID domain name total registrations reached 304,000, the total number of holders’ addresses reached 98,700, and **the total registration revenue was 14,700 BNB, USD 4.42 million** (1 BNB = USD 300). The total secondary market transaction size was about 22,000 BNB, 6.60 million USD.
+
 ![](https://github.com/evmns/evm_name_service/blob/main/t4.png?raw=true )
-###### Data source dune.com/spaceid/spaceid
+
+<div align="center">（Data source dune.com/spaceid/spaceid）</div>
+
 At present, WEB3 domain services like ENS and SPACE ID are also BNS on Binance, Bonfida on Solana, EVNS on Evmos, PNS on Polka, and cross-chain DID service‘.bit’, etc. The DID domain naming service protocol has become one of the basic items of every blockchain, showing a blossoming market state.
 
 
