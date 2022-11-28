@@ -27,13 +27,13 @@ EVMNS domains use the ERC721 protocol standard with .evm as the domain suffix, s
 
 ### Project Details
 
-- **Mock-ups/designs of any UI components**
-We will build the official website, including project introduction, domain registry and management, and explanatory documents, etc., to provide users with a complete one-stop experience.
-- **Implementation Overview**
- EVMNS has two principal components. **Registry and Resolvers.**
+* #### Mock-ups/designs of any UI components
+   We will build the official website, including project introduction, domain registry and management, and explanatory documents, etc., to provide users with a complete one-stop experience.
+* #### Implementation Overview
+   EVMNS has two principal components. **Registry and Resolvers.**
 ![](https://github.com/evmns/evm_name_service/blob/main/registry.png?raw=true )
-  -  EVMNS Registry
-The EVMNS registry is a smart contract that maintains a list of all domains and subdomains and stores three critical pieces of information about each domain: the owner of the domain, the resolver for the domain, and the caching time-to-live for all records under the domain.
+  * #### EVMNS Registry
+      The EVMNS registry is a smart contract that maintains a list of all domains and subdomains and stores three critical pieces of information about each domain: the owner of the domain, the resolver for the domain, and the caching time-to-live for all records under the domain.
 The owner of a name can be an external account (a user) or a smart contract. A registrar is a smart contract that owns a top-level domain and distributes subdomains of that domain to users according to the rules in the contract.
 The domain owner in the EVMNS registry is capable of:
 1.Set the resolver and TTL for the domain;
@@ -41,14 +41,14 @@ The domain owner in the EVMNS registry is capable of:
 3.Change the ownership of subdomains;
 The EVMNS registry exists simply to map domains to the resolver responsible for resolving that domain.
 
- - Resolvers
-The resolver is responsible for converting domains to addresses. Any smart contract that meets the criteria related to resolvers can be used as a resolver program in EVMNS.
+  * #### Resolvers
+      The resolver is responsible for converting domains to addresses. Any smart contract that meets the criteria related to resolvers can be used as a resolver program in EVMNS.
 Each record type (EVM address, content hash, etc.) defines one or more methods that the resolver must implement in order to provide such records. Adding a new record type does not require changes to the EVMNS registry or to existing resolvers.
 Resolving a domain in EVMNS requires two steps: the first step is to ask the registry which resolver is responsible for the domain; the second step is to query that resolver for the result.
 Let's say we want to find the EVM address pointed by "abc.evm". First, we ask the registry which resolver is responsible for resolving "abc.evm"; then, we ask that resolver for the address of "abc.evm".
 
-  - About Namehash
-Resource constraints in smart contracts make it inefficient to interact directly with readable names, so EVMNS uses only fixed length 256-bit cryptographic hashes. In order to generate hashes from names while still retaining their hierarchical nature, EVMNS uses an algorithm called Namehash, which is used only to represent names within EVMNS.
+  * #### About Namehash
+      Resource constraints in smart contracts make it inefficient to interact directly with readable names, so EVMNS uses only fixed length 256-bit cryptographic hashes. In order to generate hashes from names while still retaining their hierarchical nature, EVMNS uses an algorithm called Namehash, which is used only to represent names within EVMNS.
 Namehash is a recursive process that generates a unique hash for any valid name. Starting from the Namehash of any name (e.g., the Namehash of "abc.evm"), one can derive the Namehash of any subname (e.g., the Namehash of "ab. abc.evm"), and the derivation process does not require knowledge of or processing of the readable original name "abc.evm". It is this feature that allows EVMNS to be a hierarchical system without having to deal with readable text strings internally.
 Before using Namehash for hashing, the name first needs to be normalized with the help of the UTS-46 standard to ensure that the letters in the name are case-insensitive and to prohibit the use of invalid characters. Any hashing and resolving of names must first be normalized to ensure that all users get consistency of EVMNS.
 
