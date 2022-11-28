@@ -1,29 +1,31 @@
 
 # EOS Network Foundation Grant Proposal
 -   **Project Name:** EVMNS (EVM Name Service)
--   **Team Name: **EVMNS Labs
+-   **Team Name:** EVMNS Labs
 -   **EOS Payment Address:** evmnsdomains
--   **Level: **3
--  ** Pomelo Grant(s): **N/A
+-   **Level:** 3
+-  ** Pomelo Grant(s):** N/A
 -   **Project is Open-Source:** Yes
 -   **Project was part of Token sale:** No
 -   **Repository where Project resides:** https://github.com/evmns/EVMNS
 
 # Contact
 **Contact Name:** Harry Davis
+
 **Contact Email:** evmns_manager@outloook.com
+
 **Website:** N/A
 
 # Project Overview
 **EVMNS (EVM Name Service) is a distributed, open and extensible multi-chain DID domain naming system built on EVM and EOS,** relying on the high performance, security and reliability of EOS to better and seamlessly connect people, information, assets, dApps, etc. in the WEB3 world.
 EVMNS domains use the ERC721 protocol standard with .evm as the domain suffix, such as abc.evm, 123.evm, jack.evm, etc., to map human-readable and easy-to-remember names with all kinds of content at the same time, including but not limited to EVM addresses, EOS addresses, other cryptocurrency addresses, content hashes, URLs, and metadata.
-#### Overview
+### Overview
 - **Name:** EVMNS (EVM Name Service)
 - **Brief Description:** A distributed, open and extensible multi-chain DID domain naming system built on EVM and EOS
 - **Relationship to EOSIO:** EVMNS's multi-chain layout will bring more new users to EOS and EVM, because it helps users of other chains to know and understand EOS and EVM, and to enjoy the unique advantages of EOS (industry-leading block speed, high TPS and low transaction cost), and help EOS to expand its positive influence in the WEB3 world.
 - **Reason for Interest:** WEB3 trend is developing rapidly, a set of DID domain naming system with perfect function, multi-chain layout and good user experience is the "identity infrastructure" of WEB3 application, and it can be confirmed that DID is like an avatar, which is the basic and essential element and the identity of WEB3 world. For more information, see our research **< Why DID is needed\>** in Additional Information at the end of this article.
 
-#### Project Details
+### Project Details
 
 - **Mock-ups/designs of any UI components**
 We will build the official website, including project introduction, domain registry and management, and explanatory documents, etc., to provide users with a complete one-stop experience.
@@ -50,7 +52,7 @@ Resource constraints in smart contracts make it inefficient to interact directly
 Namehash is a recursive process that generates a unique hash for any valid name. Starting from the Namehash of any name (e.g., the Namehash of "abc.evm"), one can derive the Namehash of any subname (e.g., the Namehash of "ab. abc.evm"), and the derivation process does not require knowledge of or processing of the readable original name "abc.evm". It is this feature that allows EVMNS to be a hierarchical system without having to deal with readable text strings internally.
 Before using Namehash for hashing, the name first needs to be normalized with the help of the UTS-46 standard to ensure that the letters in the name are case-insensitive and to prohibit the use of invalid characters. Any hashing and resolving of names must first be normalized to ensure that all users get consistency of EVMNS.
 
-#### Ecosystem Fit
+### Ecosystem Fit
 - **Where and how does your project fit into the ecosystem?**
 EOS has integrated short domain name function in the main chain since its launch, and naturally supports user-defined account name, which is the first to achieve a good experience of human readability and easy to remember, **It would be a great pity if this advantage is not continued on EVM,** As we know, EVMNS, as a DID domain naming system, can fulfill the requirement well and help EVM to better continue the convenience and efficiency of EOS.
 Considering the better integration of EVM and EOS users, EOS mainnet users will have the privilege to register EVM domains (5-digit and above length domains) at a special price, **which not only fills the gap in the EOS ecological DID domain system, but also further helps the growth of EOS user scale** (more new users will create EOS accounts in order to get the privilege to register EVM domain at a special price. In addition, it also helps EOS users to have the same experience of EOS account name on EVM, and EOS users can also create their own decentralized super business cards, personal decentralized WEB3 homepage/website. It's a multi-benefit!
@@ -67,26 +69,26 @@ But there are similar DID projects in other blockchains, such as ENS on ETH, SPA
 Compared to other DID domain projects, EVMNS has a special feature. Benefited from EOS's industry-leading transaction speeds (0.5 seconds), high TPS and low transaction costs, users will have an unparalleled experience when using EVMNS. They will be able to confirm the successful modification of their identity information in seconds, without worrying about block congestion or the cost of interacting with the chain, and will be able to enjoy the WEB3 world more smoothly, which will be an important advantage of EVMNS.
 
 # Team
-#### Team members
+### Team members
 - **Team Leader: Harry Davis**
 - Allen Harris
 - Frank Lee 
 
-#### Legal Structure
+### Legal Structure
 - **Registered Legal Entity:** Jump Dream PTE. LTD.
 - **Registered Address:** 5001 Beach Road#07-37, Golden Mile Complex, Singapore 199588
 
-#### Team Experience
+### Team Experience
 The core members of EVMNS Labs are the first ecological participants of EOS, who experienced and witnessed the launch of EOS and are still deeply involved in the ecological construction.
 Team members have participated in several medium to large scale EOS projects before and after, and also developed ENS (Ethereum Name Service) related domain Exchange, domain bulk registry protocol, etc. We are not only EOS loyalists, but also ENS heavy players, with good understanding of DID domain naming system.
 
 # Development Roadmap
-#### Milestone Summary
+### Milestone Summary
 - Estimated project development duration: 12 weeks
 - Full Time Equivalent Employees (FTE): 6 
 - Total cost: $195,000
 
-#### Milestone 1 - Requirements Analysis and official website
+### Milestone 1 - Requirements Analysis and official website
 - Estimated project development duration: 2 weeks 
 - Full Time Equivalent Employees (FTE): 2 
 - Total cost: $20,000 
@@ -101,7 +103,7 @@ Team members have participated in several medium to large scale EOS projects bef
 | 2  | Release official website  | Including project introduction, Roadmap and other content.  |
 
 
-#### Milestone 2 - Smart Contracts
+### Milestone 2 - Smart Contracts
 
 - Estimated project development duration: 4 weeks 
 - Full Time Equivalent Employees (FTE): 5 
@@ -118,7 +120,7 @@ Team members have participated in several medium to large scale EOS projects bef
 | 3  | Root Node Management  | Completing the design of the root node, EVMNS will lock the control of the root node so that the root owner cannot influence the ownership of the .evm domain and set the root node to be held jointly by the community in a multi-signature contract, guaranteeing all the power of the user.  |
 | 4  | Domain Resolver  | Resolvers are responsible for the actual process of translating names into addresses. Any contract that implements the relevant standards may act as a resolver in EVMNS. |
 
-#### Milestone 3 - Key Systems and Components
+### Milestone 3 - Key Systems and Components
 - Estimated project development duration: 3 weeks 
 - Full Time Equivalent Employees (FTE): 3 
 - Total cost: $45,000
@@ -134,7 +136,7 @@ Team members have participated in several medium to large scale EOS projects bef
 | 3 | Metadata Storage Management System  | Store the domain metadata independently in the metadata management system and access the corresponding metadata through api.  |
 | 4  | Domain Management System  | Build EVMNS domain management system to realize administrators capability of financial review, daily log maintenance review, emergency management, etc. for EVMNS.  |
 
-#### Milestone 4 - In-depth testing
+### Milestone 4 - In-depth testing
 - Estimated project development duration: 2 weeks 
 - Full Time Equivalent Employees (FTE): 2 
 - Total cost: $20,000
@@ -148,7 +150,7 @@ Team members have participated in several medium to large scale EOS projects bef
 | 1  | In-depth test  | Automated unit tests with 100% coverage and multiple rounds of functional testing are completed internally to ensure functionality and robustness.  |
 | 2  | dApp Development Documentation  | Establish a perfect dApp development documentation system to meet and support the quick access of dApp developers.  |
 
-#### Milestone 5 - Deployment Test Network
+### Milestone 5 - Deployment Test Network
 - Estimated project development duration: 1 week 
 - Full Time Equivalent Employees (FTE): 2 
 - Total cost: $10,000
@@ -163,7 +165,7 @@ Team members have participated in several medium to large scale EOS projects bef
 | 2  | Deployment of test networks  | Deploy the test environment and conduct public testing to further ensure the smooth launch and security of the system  |
 
 
-#### Multi-Chain Ecology
+### Multi-Chain Ecology
 Multi-chain ecology is the focus of the second phase of development, and we will prioritize the completion of the first phase of development (the above five milestones) to maximize the assurance that EVMNS can be launched and run stably at the first time after the official launch of EVM.
 Therefore, the development content, duration and cost of the multi-chain ecology will be separately defined before the launch of the second phase.
 
@@ -173,10 +175,10 @@ Therefore, the development content, duration and cost of the multi-chain ecology
 - Develop EOS plug-ins and browser plug-ins belonging to EVMNS to help users manage their EVMNS domains more easily through plug-ins, quick access, collection management of EVMNS domains of other users, etc.
 
 # Additional Information
-#### How did you hear about the Grants Program? 
+### How did you hear about the Grants Program? 
 We learned of the program by following announcements on ENF’s Twitter and other channels.
 
-#### Some of our research
+### Some of our research
 - **What is DID**
 DID is the abbreviation of‘Decentralized Identity’, which is a kind of digital identity without a centralized institution as the final guarantee, and is an extension and expansion in WEB 3 of the concept of "user portrait" in WEB2.
 The final form of DID development may be that each user has a unique network-wide identity, and multiple local identities for segmented scenarios. Users remember and identify DIDs through domains, manage DIDs and interact with applications through wallets, and integrate different credentials and local identities on multiple chains through wallets.
