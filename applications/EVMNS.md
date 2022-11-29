@@ -244,7 +244,7 @@ The final form of DID development may be that each user has a unique network-wid
 
 <div align="center">（Data source NFTGO.io） </div>
 Whether it is the registration scale, transaction scale, or the number of holder’s addresses, ENS is far ahead of similar projects, occupying the absolute leading position and having the strongest community consensus.
-
+<br/><br/>
 The following is the partial sales of historical.<br/>
 paradigm.eth, 420ETH<br/>
 000.eth, 300ETH<br/>
