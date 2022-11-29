@@ -5,7 +5,7 @@
 - **EOS Payment Address:** liquid.defi
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Pomelo Grant(s):** https://pomelo.io/grants/vault
-- **Project is Open-Source:** Yes
+- **Project is Open-Source:** Yes*
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/DefiboxTeam/DefiboxVault-interface
 > Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
@@ -22,7 +22,7 @@
 ## Open source
 Timelines to open source
 
-- **Stage 1 (Immediately) “Version beta v0.1.0”**
+- **Stage One: [4] deliverables (completed)**
 https://github.com/defiboxswap/DefiboxVault-interface
 
 Includes *.hpp interface
@@ -33,13 +33,18 @@ General documentation README.md
 
 Protocol Design (diagram)
 
-- **Stage 2 (work to be completed)**
+- **Stage Two: [4] deliverables (not completed)**
 
 Protocol Design Definition (translated in English/Korean/Chinese)
 
-Automated unit tests written with Vert
+SC development (production)
 
-- **Stage 3 (re-evaluation 2nd Security Audit from Certik) “Version v1.0.0”**
+User documentation
+
+Automatic Contracts Tests
+
+
+- **Stage Three: (re-evaluation 2nd Security Audit from Certik) “Version v1.0.0”**
 
 All smart contract source code will be made available (*.cpp)
 
@@ -123,7 +128,6 @@ https://github.com/defiboxswap
  | User documentation     | Not completed     | $6,000     |
  | Automatic Contracts Tests     | Not completed     | $14,000     |
  | Certik Audit     | Completed     | $24,000     |
- | Total     | Not completed     | $80,000     |
 
 
 ## Additional Information
@@ -142,7 +146,7 @@ https://github.com/defiboxswap
 - **EOS支付地址：**  liquid.defi
 - **等级：** 3
 - **Pomelo资助：** https://pomelo.io/grants/vault
-- **项目是开源的：** 是
+- **项目是开源的：** 是*
 - **项目是代币销售的一部分：** 否
 - **项目资源库：** https://github.com/DefiboxTeam/DefiboxVault-interface
 
@@ -154,7 +158,7 @@ https://github.com/defiboxswap
 ### 开源
 开源时间表
 
-- **第一阶段（立即）“测试版 v0.1.0”**
+- **第一阶段，4个可交付成果（已完成）**
 https://github.com/defiboxswap/DefiboxVault-interface
 
 包括 *.hpp 界面
@@ -165,7 +169,7 @@ https://github.com/defiboxswap/DefiboxVault-interface
 
 协议设计（示意图）
 
-- **第二阶段（待完成的工作）**
+- **第二阶段，4个可交付成果（未完成）**
 
 协议设计定义（英文/韩文/中文翻译）
 
@@ -233,7 +237,6 @@ https://github.com/defiboxswap/DefiboxVault-interface
  | 用户文档     | 未完成     | $6,000     |
  | 自动合约测试     | 未完成     | $14,000     |
  | Certik审计     | 完成     | $24,000     |
- | 合计     | 未完成     | $80,000     |
 
 
 **附加信息**
