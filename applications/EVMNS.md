@@ -154,6 +154,7 @@ Therefore, the development content, duration and cost of the multi-chain ecology
 - We will build EVMNS DAO, realize community management, and promote the implementation of decentralized operation and R&D of EVMNS.<br/><br/>
 - Register WEB2 domain with .evm suffix with DNS operators for domain resolution and binding services for traditional browsers so that users can directly access websites/personal homepages corresponding to .evm domain in Chrome, Edge and other browsers to achieve good interoperability between WEB3 and WEB2.<br/><br/>
 - Develop EOS plug-ins and browser plug-ins belonging to EVMNS to help users manage their EVMNS domains more easily through plug-ins, quick access, collection management of EVMNS domains of other users, etc.<br/><br/>
+
 # Additional Information
 ### How did you hear about the Grants Program? 
 We learned of the program by following announcements on ENF’s Twitter and other channels.<br/>
@@ -176,12 +177,12 @@ Moreover, by using a DID name to connect to various cryptocurrency addresses, yo
     EVMNS allows users to create personal decentralized homepages/websites and upload them to the Interplanetary File System (IPFS), a global network of storage protocols that allow computers around the world to store and share data in a peer-to-peer fashion.<br/><br/>
 In short, EVMNS and IPFS can help users to establish personal homepages/blogs and websites, with functions similar to the combination of RSS feeds + WEB3 Medium. **Users will have full ownership, including domain name, content and data,** completely avoiding the possibility of being deleted by registrars/data operators.<br/><br/>
   - **WEB3 Infrastructure**<br/><br/>
-    DID is also known as the "identity infrastructure" of WEB3 applications. As discussed above, it is basically determined that DID and avatar are the basic and essential elements of WEB3, being the identity of the WEB3 world.<br/><br/>
+    DID is also known as the "identity infrastructure" of WEB3 applications. As discussed above, it is basically determined that DID and avatar are the basic and essential elements of WEB3, being the identity of the WEB3 world.<br/><br/>    
 - **DID Market Analysis**<br/><br/>
     **ENS (Ethereum Name Service)**<br/><br/>
-    ENS was launched on May 4, 2017 by Alex Van de Sande and Nick Johnson of the ETH Foundation. In November 2021, ENS issued its own governance token and launched an airdrop. At the same time, ENS established the ENS DAO to enable community governance, where token holders will participate in the management of the assets, as well as voting on DAO proposals and co-voting on the use of the vault.<br/><br/>
+ENS was launched on May 4, 2017 by Alex Van de Sande and Nick Johnson of the ETH Foundation. In November 2021, ENS issued its own governance token and launched an airdrop. At the same time, ENS established the ENS DAO to enable community governance, where token holders will participate in the management of the assets, as well as voting on DAO proposals and co-voting on the use of the vault.<br/><br/>
 Earlier in the interview Vitalik said, "**The Ethereum Domain Name Service ENS is by far the most successful non-financial ETH application,** which can basically be compared to a decentralized phone book."<br/><br/>
-As of November 27, 2022, **the total amount of ENS domain  registration reached 2.79 million** and the number of Ethereum addresses holding ENS domains reached 609,000. Since November 2021, the number of monthly ENS registrations has shown explosive growth, reaching a peak of 437,000 monthly registrations in September 2022.<br/><br/><div align="center"><img src="https://github.com/evmns/evm_name_service/blob/main/t2.png?raw=true"></div><div align="center">（Data source dune.com/makoto/ens)</div>**Total registration revenue of ENS domains has exceeded $60 million,** of which nearly $50 million has been realized so far in 2022 alone. Total secondary market transactions have reached 112.39K ETH and $197 million.<br/><br/>
+As of November 27, 2022, **the total amount of ENS domain  registration reached 2.79 million** and the number of Ethereum addresses holding ENS domains reached 609,000. Since November 2021, the number of monthly ENS registrations has shown explosive growth, reaching a peak of 437,000 monthly registrations in September 2022.<br/><br/><div align="center"><img src="https://github.com/evmns/evm_name_service/blob/main/t2.png?raw=true"><br/>（Data source dune.com/makoto/ens)</div>**Total registration revenue of ENS domains has exceeded $60 million,** of which nearly $50 million has been realized so far in 2022 alone. Total secondary market transactions have reached 112.39K ETH and $197 million.<br/><br/>
 ![](https://github.com/evmns/evm_name_service/blob/main/t3.png?raw=true )
 <div align="center">（Data source NFTGO.io） </div>
 Whether it is the registration scale, transaction scale, or the number of holder’s addresses, ENS is far ahead of similar projects, occupying the absolute leading position and having the strongest community consensus.<br/><br/>
@@ -191,6 +192,7 @@ paradigm.eth, 420ETH<br/>
 1.Opensea.eth, 99.89ETH<br/>
 2.Nike.eth, 60ETH<br/>
 3.Samsung.eth, 60ETH<br/><br/>
+
 ##### SPACE ID (BNB Chain Name Service)<br/><br/>
   SPACE ID is a decentralized domain naming service protocol developed based on BNB Chain, officially launched in August 2022, with .bnb as the domain suffix, essentially the same as ENS, and dedicated to building a common name service network that seamlessly connects people, information, assets and applications across the blockchain. And by allowing users to bind their identities across multiple chains, communities can build their own domain naming services through SPACE ID's network. To date, more than 40 applications have announced that they have enabled integration of the SPACE ID protocol.<br/><br/>
 **A seed round of funding led by Binance Labs was completed on September 2nd, 2022 for an undisclosed amount.**<br/><br/>
