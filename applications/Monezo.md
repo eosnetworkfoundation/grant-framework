@@ -115,7 +115,3 @@ Q3 2023 - Launch of Monezo Incubator - onboard the first third party business on
 ## Additional Information
 
 **How did you hear about the Grants Program?** Some of our advisers & partners successfully gone through EOS Network Foundation Grant and attracted funds
-
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
