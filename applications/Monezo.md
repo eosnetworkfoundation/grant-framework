@@ -96,31 +96,13 @@ featured in several exhibitions and media resources: best WEB3.0 RigaCOMM 2022 C
 
 ## Development Roadmap
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to the EOS ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> :zap: If any of your deliverables is based on someone else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
+We have the detailed roadmap with milestones assigned to each quarter. We use scrum methodology and have KPIs for each milestone so we plan to report in each quarter on progress made or we can adapt to your schedule and do it monthly.
 
 ### Milestone Summary
 
 - **Total Estimated Duration:** 2 year 
 - **Full-Time Equivalent (FTE):** 15 FTE
 - **Total Costs:** 0 USD
-
-We have the detailed roadmap with milestones assigned to each quarter. We use scrum methodology and have KPIs for each milestone so we plan to report in each quarter on progress made or we can adapt to your schedule and do it monthly.
-
-... Add more milestones as above as needed ...
 
 ## Future Plans
 
@@ -129,8 +111,6 @@ Q4 2022 - our marketplace and platform MVP developing and pass through audit;
 Q1 2023 - Community building (at least 15 000 active community members) and ambassador program creation;
 Q2 2023 - Platform & Marketplace launch (at least 1 000 active users); Launch of 2 Yieldful NFT pools;
 Q3 2023 - Launch of Monezo Incubator - onboard the first third party business on platform and issue new investment pool (NFT collection)
-
-We have the detailed roadmap with milestones assigned to each quarter. We use scrum methodology and have KPIs for each milestone so we plan to report in each quarter on progress made or we can adapt to your schedule and do it monthly.
 
 ## Additional Information
 
