@@ -19,35 +19,27 @@
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
 
-## Open source
-Timelines to open source
+## Open source - Timelines
 
-- **Stage One: [4] deliverables (completed)**
-https://github.com/defiboxswap/DefiboxVault-interface
+**Stage One (completed) "Version Beta v0.1.0"**
 
-Includes *.hpp interface
+> https://github.com/defiboxswap/DefiboxVault-interface
 
-Prebuilt WASM binaries *.wasm & *.abi (with version control)
+- [x] Includes *.hpp interface
+- [x] Prebuilt WASM binaries *.wasm & *.abi (with version control)
+- [x] General documentation README.md
+- [x] Protocol Design (diagram)
 
-General documentation README.md
+**Stage Two (not completed)**
 
-Protocol Design (diagram)
+- [ ] Protocol Design Definition (translated in English/Korean/Chinese)
+- [ ] SC development (production)
+- [ ] User documentation
+- [ ] Automatic Contracts Tests
 
-- **Stage Two: [4] deliverables (not completed)**
+**Stage Three (re-evaluation 2nd Security Audit from Certik) “Version v1.0.0”**
 
-Protocol Design Definition (translated in English/Korean/Chinese)
-
-SC development (production)
-
-User documentation
-
-Automatic Contracts Tests
-
-
-- **Stage Three: (re-evaluation 2nd Security Audit from Certik) “Version v1.0.0”**
-
-All smart contract source code will be made available (*.cpp)
-
+- [ ] All smart contract source code will be made available (*.cpp)
 
 ## Project Overview
 
@@ -155,30 +147,27 @@ https://github.com/defiboxswap
 - **联系邮箱：** raven@defibox.io
 - **网站：** https://eos.defibox.io/vault
 
-### 开源
-开源时间表
+## 开源 - 时间表
 
-- **第一阶段，4个可交付成果（已完成）**
-https://github.com/defiboxswap/DefiboxVault-interface
+**第一阶段（已完成）“Beta 版 v0.1.0”**
 
-包括 *.hpp 界面
+> https://github.com/defiboxswap/DefiboxVault-interface
 
-预构建的 WASM 二进制文件 *.wasm & *.abi（带版本控制）
+- [x] 包括 *.hpp 接口
+- [x] 预构建的 WASM 二进制文件 *.wasm 和 *.abi（带版本控制）
+- [x] 通用文档 README.md
+- [x] 协议设计（图表）
 
-通用文档 README.md
+**第二阶段（未完成）**
 
-协议设计（示意图）
+- [ ] 协议设计定义（翻译成英文/韩文/中文）
+- [ ] SC 开发（生产）
+- [ ] 用户文档
+- [ ] 自动合约测试
 
-- **第二阶段，4个可交付成果（未完成）**
+**第三阶段（Certik 重新评估第二次安全审计）“版本 v1.0.0”**
 
-协议设计定义（英文/韩文/中文翻译）
-
-
-使用 Vert 编写的自动化单元测试
-
-- **第三阶段（Certik 重新评估第二次安全审计）“版本 v1.0.0”**
-
-将提供所有智能合约源代码 (*.cpp)
+- [ ] 将提供所有智能合约源代码 (*.cpp)
 
 ### 项目概况
 **概述**
