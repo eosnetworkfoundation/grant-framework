@@ -176,6 +176,7 @@ Team members have participated in several medium to large scale EOS projects bef
 | 0b.  | Documentation  | Provide and update documentation for this milestone in the form of instruction files and examples in the repository, provide guidance in the Readme file, and more in-depth guidance in our articles. |
 | 0c.  | Testing Guide  | The functions of this milestone can be tested by running the unit tests we provide, and guidance on how to run these tests is provided in the Readme file.  |
 | 0d.  | Docker  | Use Docker to start a container that runs a local nodevm instance where specific users and contracts are deployed for developer testing. This ensures that developers have the same environment when using EVMNS.  |
+| 0e. | Article| We will publish an English article about the project on medium.com, explaining how smart contracts work and how the project will be used. Also, we will illustrate the goals and outcomes set through the grant.|
 | 1  | New version of the official website  | Including project introduction, domain registration and management, instruction documents, etc.  |
 | 2  | Deployment of test networks  | Deploy the test environment and conduct public testing to further ensure the smooth launch and security of the system  |
 
