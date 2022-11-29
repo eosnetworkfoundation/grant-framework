@@ -12,7 +12,7 @@
 # Contact
 **Contact Name:** Harry Davis
 
-**Contact Email:** evmns_manager@outloook.com
+**Contact Email:** evmns_manager@outlook.com
 
 **Website:** N/A
 
