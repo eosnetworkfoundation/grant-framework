@@ -147,7 +147,8 @@ Team members have participated in several medium to large scale EOS projects bef
 | 0e. | Article| We will publish an English article about the project on medium.com, explaining how smart contracts work and how the project will be used. Also, we will illustrate the goals and outcomes set through the grant.|
 | 1  | New version of the official website  | Including project introduction, domain registration and management, instruction documents, etc.  |
 | 2  | Deployment of test networks  | Deploy the test environment and conduct public testing to further ensure the smooth launch and security of the system  |<br/><br/>
-### Multi-Chain Ecology
+
+#### Multi-Chain Ecology
 Multi-chain ecology is the focus of the second phase of development, and we will prioritize the completion of the first phase of development (the above five milestones) to maximize the assurance that EVMNS can be launched and run stably at the first time after the official launch of EVM.<br/><br/>
 Therefore, the development content, duration and cost of the multi-chain ecology will be separately defined before the launch of the second phase.<br/><br/>
 # Future Plans
