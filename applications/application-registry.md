@@ -131,7 +131,7 @@ The Rewired.one team has been involved with EOSIO since its founding in 2018. We
 - **Total Estimated Duration:** 16 weeks 
 - **Full-Time Equivalent (FTE):**  2.4 FTE
 - **Total Costs:** 229,000 USD
-
+- Generic: Our goal and role will be to achieve consensus on the scope at each milestone, before proceeding to the next. The scope of milestone 3 and beyond are not significantly impacted by metadata, governance, and smart contract delivery within the overall defined scope.
 
 ### Milestone 1 — Initiate Project & Agree on governance structure and Application Registry metadata
 
@@ -143,7 +143,12 @@ The Rewired.one team has been involved with EOSIO since its founding in 2018. We
 | -----: | ----------- | ------------- |
 | 1. | License | MIT |
 | 2. | Project Governance setup | Team setup, governance setup, stakeholder mapping complete. |
-| 3. | Governance agreement | Agreement on how the EOS Mainnet will provide governance on how Application developers can register their applications into the Application Registry. This includes a list of validators who will ensure that apps are following the defined rules. This also defines the rules that apps have to comply with, what metrics they have to support/report and how the app can be updated or deleted. Part of the governance will also consider user input based on their experience with apps. If an app is not behaving as per guidelines, it can be reported. We propose to use a 3/5 multisig with a dedicated governing body. We suggest these are the following entities: greymass, tokenpocket, ENF, ultra and rewired. Part of this deliverable we will also define the application data standards, such as title, description, category, icon, URL, app manifest, etc. |
+| 3. | Governance agreement | Agreement on how the EOS Mainnet will provide governance on how Application developers can register their applications into the Application Registry. This includes a list of validators who will ensure that apps are following the defined rules. This also defines the rules that apps have to comply with, what metrics they have to support/report and how the app can be updated or deleted. Part of the governance will also consider user input based on their experience with apps. If an app is not behaving as per guidelines, it can be reported. We propose to use a 3/5 multisig with a dedicated governing body. We suggest these are the following entities: greymass, tokenpocket, ENF, ultra and rewired. Part of this deliverable we will also define the application data standards, such as title, description, category, icon, URL, app manifest, etc. 
+Our role in this milestone is to bring the proposed governing body together and achieve consensus on future governance and metadata requirements. As we will be taking the lead on this, we are not expecting any major impacts on subsequent milestones. In addition, we will provide a practical recommendation during milestone 1, to help shape and guide the conversation.
+The Data Standard will be versioned and maintain backward compatibility with previous versions unless a specific breaking change gets identified or is incompatible with improvements made to the EOS blockchain. Should a fork of the standard be required, the community engagement process will commence to ask for and act on feedback. A final decision on the data standard will be with the 3/5 multisign standard custodians.
+The [ConsumerDataStandardsAustralia/standards#266](https://github.com/ConsumerDataStandardsAustralia/standards/issues/266) provides a working example of how community engagement would work using GitHub. In addition, an improvement request could suggest an EOS contract that builds approvals for data standards on chain.
+For this initial version, the data standards will be maintained in English. Future revisions could include localisations. We recommend raising this as an improvement request via the ENF for collaboration with Rewired after the execution of this initial grant.
+|
 
 
 ### Milestone 2 — Build Application Registry
