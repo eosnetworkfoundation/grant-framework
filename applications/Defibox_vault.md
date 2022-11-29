@@ -7,7 +7,7 @@
 - **Pomelo Grant(s):** https://pomelo.io/grants/vault
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
-- **Repository where Project resides:** NA
+- **Repository where Project resides:** https://github.com/DefiboxTeam/DefiboxVault-interface
 > Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
 
 ## Contact
@@ -17,6 +17,32 @@
 - **Website:** https://eos.defibox.io/vault
 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
+
+
+## Open source
+Timelines to open source
+
+- **Stage 1 (Immediately) “Version beta v0.1.0”**
+https://github.com/defiboxswap/DefiboxVault-interface
+
+Includes *.hpp interface
+
+Prebuilt WASM binaries *.wasm & *.abi (with version control)
+
+General documentation README.md
+
+Protocol Design (diagram)
+
+- **Stage 2 (work to be completed)**
+
+Protocol Design Definition (translated in English/Korean/Chinese)
+
+Automated unit tests written with Vert
+
+- **Stage 3 (re-evaluation 2nd Security Audit from Certik) “Version v1.0.0”**
+
+All smart contract source code will be made available (*.cpp)
+
 
 ## Project Overview
 
@@ -31,11 +57,6 @@
 - **Relationship to EOSIO:** a public use that provides a variety of staking strategies to EOS users and project teams for more yields. Code will be open source for contribution to EOSIO repository.
 - **Reason for Interest:** It provides a variety of staking strategies to EOS users and project teams for more yields. It will brings TVL and income to Defibox team while giving benefits to participants. Ecosystem Boost: attract inactive EOS tokens which will prosper ecosystem
 
-### Project Details
-https://eos.defibox.io/vault
-https://bloks.io/account/vault.defi
-https://bloks.io/account/stoken.defi 
-Everything is on the website and contract
 
 ### Ecosystem Fit
 
@@ -83,58 +104,38 @@ https://github.com/defiboxswap
 > Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
 
-## Development Status
-https://eos.defibox.io/vault
-
-https://bloks.io/account/vault.defi
-
-https://bloks.io/account/stoken.defi 
-
-https://twitter.com/DefiboxOfficial/status/1593966063334871042
-
-Reaching 3 million EOS TVL in 53 hours
 
 ### Milestone Summary
 
-- **Total Estimated Duration:** 3 months 
+- **Total Estimated Duration:** 3 months (remaining 3 weeks)
 - **Full-Time Equivalent (FTE):** 5 FTE
 - **Total Costs:** 80,000 USD
 
 - **Deliverables:**
-Staking yield system template that includes: 
-Protocol design
-Smart contract development
-User documentation
-Technical documentation
-Unit tests
-User test instructions
 
-
-Full launch as milestone reached, 80,000 USD for total cost in which 24,000 USD for security audit fees and 56,000 USD for development cost.
-
-
-## Future Plans
-
-Promote the project with big prize event: https://eos.defibox.io/lottery
-Fully support sEOS (vault asset) in all our DeFi protocol
+ | Deliverable      | Status    | Cost    |
+ | ---------- | :-----------:  | :-----------: |
+ | Protocol Design - Diagram     | Completed     | $3,000     |
+ | Protocol Design - Definitions (EN/KO/CN)     | Not completed     | $5,000     |
+ | SC development (prototype)     | Completed     | $12,000     |
+ | SC development (production)     | Not completed     | $12,000     |
+ | Developer documentation     | Completed     | $4,000     |
+ | User documentation     | Not completed     | $6,000     |
+ | Automatic Contracts Tests     | Not completed     | $14,000     |
+ | Certik Audit     | Completed     | $24,000     |
+ | Total     | Not completed     | $80,000     |
 
 
 ## Additional Information
 
 **How did you hear about the Grants Program?** EOS Network Foundation Website
 
-**Launch Data** 3,000,000 EOS TVL within 53 hours since launch, at the moment, it is 3,400,000 EOS.
-![image](https://user-images.githubusercontent.com/93515916/203501096-b20bcd1d-95cc-4aeb-ba46-6a69dfbc0a44.png)
-
-
-***Audit by Certik:** https://www.certik.com/projects/defibox
-***Open source: Source code made available to ENF and later to the public upon ENF request***
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 
 
-**Chinese Translation**
+# Chinese Translation 中文翻译
 
 - **项目名称：**  金库协议 (Vault)
 - **团队名称：**  Defibox
@@ -143,14 +144,39 @@ Fully support sEOS (vault asset) in all our DeFi protocol
 - **Pomelo资助：** https://pomelo.io/grants/vault
 - **项目是开源的：** 是
 - **项目是代币销售的一部分：** 否
-- **项目资源库：** 不适用
+- **项目资源库：** https://github.com/DefiboxTeam/DefiboxVault-interface
 
-**联系人**
+### 联系人
 - **联系人姓名：** Raven
 - **联系邮箱：** raven@defibox.io
 - **网站：** https://eos.defibox.io/vault
 
-**项目概况**
+### 开源
+开源时间表
+
+- **第一阶段（立即）“测试版 v0.1.0”**
+https://github.com/defiboxswap/DefiboxVault-interface
+
+包括 *.hpp 界面
+
+预构建的 WASM 二进制文件 *.wasm & *.abi（带版本控制）
+
+通用文档 README.md
+
+协议设计（示意图）
+
+- **第二阶段（待完成的工作）**
+
+协议设计定义（英文/韩文/中文翻译）
+
+
+使用 Vert 编写的自动化单元测试
+
+- **第三阶段（Certik 重新评估第二次安全审计）“版本 v1.0.0”**
+
+将提供所有智能合约源代码 (*.cpp)
+
+### 项目概况
 **概述**
 - **名称：金库协议**
 
@@ -158,15 +184,8 @@ Fully support sEOS (vault asset) in all our DeFi protocol
 - **与EOSIO的关系：** 一种公共设施，为 EOS用户和项目团队提供各种质押策略以获得更多收益，并提供开源，这将有助于EOSIO代码资源库。
 - **感兴趣的原因：** 它为 EOS 用户和项目团队提供了多种质押策略以获得更多收益。它将为 Defibox 团队带来锁仓量和收入，同时让参与者受益。生态系统提升：吸引不活跃的EOS代币，这将繁荣生态系统。
 
-- **项目详情**
--https://eos.defibox.io/vault
--https://bloks.io/account/vault.defi
--https://bloks.io/account/stoken.defi 
-https://twitter.com/DefiboxOfficial/status/1593966063334871042
-上线53小时内获得3,000,000 EOS 锁仓量
 
-
-**生态系统**
+### 生态系统
 - **您的项目在哪里以及如何融入生态系统？**
 -用户可以通过存入代币获得相应的代币收益。资产可灵活存取，链上数据公开透明。 Valut收益主要来自Defibox协议收益、Yield+奖励、BP收益、REX收益等。同时，为了提高效用，协议会发行一个标准的EOS代币sToken，代表存单。 sToken可以在多种DeFi协议中使用以获得更多收益。
 
@@ -182,7 +201,7 @@ https://twitter.com/DefiboxOfficial/status/1593966063334871042
 - **如果是这样，您的项目有何不同？**
 -Vault广泛支持EOS上的所有用户，而BSS仅适用于拥有BOX代币的Defibox用户。
 
-**团队**
+### 团队
 - **团队成员：** 16
 - **团队负责人：** Eason
 
@@ -198,29 +217,26 @@ https://twitter.com/DefiboxOfficial/status/1593966063334871042
 
 
 **里程碑总结**
-- **总预计持续时间：**3 个月
+- **总预计持续时间：**3 个月 （剩余3周）
 - **全职当量 (FTE)：**5 FTE
-- **总成本：** 80,000 美元，其中 24,000 美元用于安全审计费用，56,000 美元用于开发成本。
+- **总成本：** 80,000 美元
+
 - **可交付成果：**
-质押收益系统模板，包括：
-协议设计
-智能合约开发
-用户文档
-技术文档
-单元测试
-用户测试说明
+ 
+ | 可交付成果      | 状态    | 成本    |
+ | ---------- | :-----------:  | :-----------: |
+ | 协议设计 - 原型图     | 完成     | $3,000     |
+ | 协议设计 - 原型图（中/英/韩）    | 未完成     | $5,000     |
+ | 智能合约开发（原型）     | 完成     | $12,000     |
+ | 智能合约开发（生产）    | 未完成     | $12,000     |
+ | 开发者文档     | 完成     | $4,000     |
+ | 用户文档     | 未完成     | $6,000     |
+ | 自动合约测试     | 未完成     | $14,000     |
+ | Certik审计     | 完成     | $24,000     |
+ | 合计     | 未完成     | $80,000     |
 
-
-**未来的计划**
--高额奖金活动宣传项目：https://eos.defibox.io/lottery
-在我们所有的 DeFi 协议中完全支持 sEOS（金库资产）
 
 **附加信息**
 
 **您是如何得知赠款计划的？：** EOS网络基金会网站
 
-**上线数据** 上线53小时内获得3,000,000 EOS 锁仓量，目前锁仓量约为3,400,000 EOS。
-![image](https://user-images.githubusercontent.com/93515916/203501634-7ee79252-dff3-48dd-96f7-b941d58bea66.png)
-
-***Certik审计：*** https://www.certik.com/projects/defibox
-***关于开源：对ENF开源并随后根据ENF的要求对社区开源***
