@@ -196,7 +196,7 @@ We learned of the program by following announcements on ENF’s Twitter and othe
 
 ### Some of our research
 * #### What is DID
-DID is the abbreviation of‘Decentralized Identity’, which is a kind of digital identity without a centralized institution as the final guarantee, and is an extension and expansion in WEB 3 of the concept of "user portrait" in WEB2.
+DID is the abbreviation of ‘Decentralized Identity’ , which is a kind of digital identity without a centralized institution as the final guarantee, and is an extension and expansion in WEB 3 of the concept of "user portrait" in WEB2.
 
 The final form of DID development may be that each user has a unique network-wide identity, and multiple local identities for segmented scenarios. Users remember and identify DIDs through domains, manage DIDs and interact with applications through wallets, and integrate different credentials and local identities on multiple chains through wallets.
 
@@ -216,7 +216,7 @@ The final form of DID development may be that each user has a unique network-wid
     Moreover, by using a DID name to connect to various cryptocurrency addresses, you can receive cryptocurrency payments from others through that domain name without having to copy and paste long addresses.
 
   * ##### Decentralized Super Business Card
-    Each DID domain is a unique NFT, and the owner is free to set the content they wish to map or record, in addition to the common EVM wallet address, other cryptocurrency addresses, but also avatars/pictures, Email, Website, profile, Twitter/Telegram accounts and other content, no one can tamper or delete the information, the user has full control of his or her identity information. A DID may seem like a simple domain name, but it contains unlimited content, and** is a super business card for the WEB3 world.**
+    Each DID domain is a unique NFT, and the owner is free to set the content they wish to map or record, in addition to the common EVM wallet address, other cryptocurrency addresses, but also avatars/pictures, Email, Website, profile, Twitter/Telegram accounts and other content, no one can tamper or delete the information, the user has full control of his or her identity information. A DID may seem like a simple domain name, but it contains unlimited content, and **is a super business card for the WEB3 world.**
 
   * ##### Personal decentralized WEB3 homepage/website
     EVMNS allows users to create personal decentralized homepages/websites and upload them to the Interplanetary File System (IPFS), a global network of storage protocols that allow computers around the world to store and share data in a peer-to-peer fashion.
