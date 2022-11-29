@@ -66,7 +66,7 @@ The domain owner in the EVMNS registry is capable of:<br/>
     
     Considering the better integration of EVM and EOS users, EOS mainnet users will have the privilege to register EVM domains (5-digit and above length domains) at a special price, **which not only fills the gap in the EOS ecological DID domain system, but also further helps the growth of EOS user scale** (more new users will create EOS accounts in order to get the privilege to register EVM domain at a special price). In addition, it also helps EOS users to have the same experience of EOS account name on EVM, and EOS users can also create their own decentralized super business cards, personal decentralized WEB3 homepage/website. It's a multi-benefit!
 
-    What's more, EVMNS will also provides free technical support to holders of existing short names on the EOS mainnet to assist them in issuing corresponding DID domain service agreements in the EVM, such as assisting holder of short name‘eos’to issue domain contract with the suffix .eos on EVM, contributing to the ecological prosperity of EOS and the EVM together.
+    What's more, EVMNS will also provides free technical support to holders of existing short names on the EOS mainnet to assist them in issuing corresponding DID domain service agreements in the EVM, such as assisting holder of short name ‘eos’ to issue domain protocol with the suffix .eos on EVM, contributing to the ecological prosperity of EOS and the EVM together.
 * #### Who is your target audience ?
     Our users are positioned as WEB3 ecological users, corresponding to blockchains including but not limited to EOS, EVM, ETH, BSC, etc.
 * #### What need(s) does your project meet?
