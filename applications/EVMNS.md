@@ -159,32 +159,34 @@ Therefore, the development content, duration and cost of the multi-chain ecology
 ### How did you hear about the Grants Program? 
 We learned of the program by following announcements on ENF’s Twitter and other channels.<br/>
 ### Some of our research
-- **What is DID**<br/><br/>
+#### What is DID
    DID is the abbreviation of ‘Decentralized Identity’ , which is a kind of digital identity without a centralized institution as the final guarantee, and is an extension and expansion in WEB 3 of the concept of "user portrait" in WEB2.<br/><br/>
 The final form of DID development may be that each user has a unique network-wide identity, and multiple local identities for segmented scenarios. Users remember and identify DIDs through domains, manage DIDs and interact with applications through wallets, and integrate different credentials and local identities on multiple chains through wallets.<br/><br/>
-- **Why DID is needed**<br/><br/>
-  - **Human readable and easy to remember WEB3 username**<br/><br/>
+#### Why DID is needed
+- **Human readable and easy to remember WEB3 username**<br/><br/>
     Although each of us has a unique ID number, in our daily life, we generally use 'name' as an identifier of one's identity (although there will be renames) because it is easier for daily communication.<br/><br/>
 The world of WEB3 has the same problem: while people currently interact primarily based on wallet addresses, no one wants to remember that long string of characters. If the digital identity of WEB3 needs a 'name', then what EVMNS is doing is hoping to be that 'name'.<br/><br/>
-  - **A more user-friendly WEB3 experience**<br/><br/>
+- **A more user-friendly WEB3 experience**<br/><br/>
     In WEB2 world, digital identity is platform-centered, and different products within the same group are connected through an account system. For example, Tencent's mailbox, games and finance can all use the same account; Google, Facebook and other top Internet enterprises also have their own account systems. Although this kind of identity system is easy to build, its disadvantages have been widely known: the accounts between platforms do not interoperate with each other, and users have no way to control their own identity data.<br/><br/>
 In WEB3 world, user interaction is mainly based on wallet address, so a series of activities related to the address constitute the most native decentralized digital identity DID of WEB3, and it can be naturally interoperable between different dApp applications without barriers. In this way, users can quickly find their acquaintance and friends when they enter new applications and games, without having to re-add them back by themselves like in WEB2 world.<br/><br/>
 Imagine a peer-to-peer chat where you can find the desired contact by simply searching for xxx. evm instead of an 18-digit irregular address starting with 0x. What a wonderful experience, and each EVM domain is unique so you don't have to worry about matching the wrong person.<br/><br/>
 Moreover, by using a DID name to connect to various cryptocurrency addresses, you can receive cryptocurrency payments from others through that domain name without having to copy and paste long addresses.<br/><br/>
-  - **Decentralized Super Business Card**<br/><br/>
+- **Decentralized Super Business Card**<br/><br/>
     Each DID domain is a unique NFT, and the owner is free to set the content they wish to map or record, in addition to the common EVM wallet address, other cryptocurrency addresses, but also avatars/pictures, Email, Website, profile, Twitter/Telegram accounts and other content, no one can tamper or delete the information, the user has full control of his or her identity information. A DID may seem like a simple domain name, but it contains unlimited content, and **is a super business card for the WEB3 world.**<br/><br/>
-  - **Personal decentralized WEB3 homepage/website**<br/><br/>
+- **Personal decentralized WEB3 homepage/website**<br/><br/>
     EVMNS allows users to create personal decentralized homepages/websites and upload them to the Interplanetary File System (IPFS), a global network of storage protocols that allow computers around the world to store and share data in a peer-to-peer fashion.<br/><br/>
 In short, EVMNS and IPFS can help users to establish personal homepages/blogs and websites, with functions similar to the combination of RSS feeds + WEB3 Medium. **Users will have full ownership, including domain name, content and data,** completely avoiding the possibility of being deleted by registrars/data operators.<br/><br/>
-  - **WEB3 Infrastructure**<br/><br/>
-    DID is also known as the "identity infrastructure" of WEB3 applications. As discussed above, it is basically determined that DID and avatar are the basic and essential elements of WEB3, being the identity of the WEB3 world.<br/><br/>    
-- **DID Market Analysis**<br/><br/>
-    **ENS (Ethereum Name Service)**<br/><br/>
-ENS was launched on May 4, 2017 by Alex Van de Sande and Nick Johnson of the ETH Foundation. In November 2021, ENS issued its own governance token and launched an airdrop. At the same time, ENS established the ENS DAO to enable community governance, where token holders will participate in the management of the assets, as well as voting on DAO proposals and co-voting on the use of the vault.<br/><br/>
-Earlier in the interview Vitalik said, "**The Ethereum Domain Name Service ENS is by far the most successful non-financial ETH application,** which can basically be compared to a decentralized phone book."<br/><br/>
-As of November 27, 2022, **the total amount of ENS domain  registration reached 2.79 million** and the number of Ethereum addresses holding ENS domains reached 609,000. Since November 2021, the number of monthly ENS registrations has shown explosive growth, reaching a peak of 437,000 monthly registrations in September 2022.<br/><br/><div align="center"><img src="https://github.com/evmns/evm_name_service/blob/main/t2.png?raw=true"><br/>（Data source dune.com/makoto/ens)</div>**Total registration revenue of ENS domains has exceeded $60 million,** of which nearly $50 million has been realized so far in 2022 alone. Total secondary market transactions have reached 112.39K ETH and $197 million.<br/><br/>
+- **WEB3 Infrastructure**<br/><br/>
+    DID is also known as the "identity infrastructure" of WEB3 applications. As discussed above, it is basically determined that DID and avatar are the basic and essential elements of WEB3, being the identity of the WEB3 world.<br/><br/>
+
+#### DID Market Analysis
+
+- **ENS (Ethereum Name Service)**<br/><br/>
+  ENS was launched on May 4, 2017 by Alex Van de Sande and Nick Johnson of the ETH Foundation. In November 2021, ENS issued its own governance token and launched an airdrop. At the same time, ENS established the ENS DAO to enable community governance, where token holders will participate in the management of the assets, as well as voting on DAO proposals and co-voting on the use of the vault.<br/><br/>Earlier in the interview Vitalik said, "**The Ethereum Domain Name Service ENS is by far the most successful non-financial ETH application,** which can basically be compared to a decentralized phone book."<br/><br/>
+  As of November 27, 2022, **the total amount of ENS domain  registration reached 2.79 million** and the number of Ethereum addresses holding ENS domains reached 609,000. Since November 2021, the number of monthly ENS registrations has shown explosive growth, reaching a peak of 437,000 monthly registrations in September 2022.<br/><br/><div align="center"><img src="https://github.com/evmns/evm_name_service/blob/main/t2.png?raw=true"><br/>（Data source dune.com/makoto/ens)</div><br/>
+  **Total registration revenue of ENS domains has exceeded $60 million,** of which nearly $50 million has been realized so far in 2022 alone. Total secondary market transactions have reached 112.39K ETH and $197 million.<br/><br/>
 ![](https://github.com/evmns/evm_name_service/blob/main/t3.png?raw=true )
-<div align="center">（Data source NFTGO.io） </div>
+<div align="center">（Data source NFTGO.io） </div><br/>
 Whether it is the registration scale, transaction scale, or the number of holder’s addresses, ENS is far ahead of similar projects, occupying the absolute leading position and having the strongest community consensus.<br/><br/>
 The following is the partial sales of historical.<br/>
 paradigm.eth, 420ETH<br/>
@@ -193,10 +195,10 @@ paradigm.eth, 420ETH<br/>
 2.Nike.eth, 60ETH<br/>
 3.Samsung.eth, 60ETH<br/><br/>
 
-##### SPACE ID (BNB Chain Name Service)<br/><br/>
+- **SPACE ID (BNB Chain Name Service)**<br/><br/>
   SPACE ID is a decentralized domain naming service protocol developed based on BNB Chain, officially launched in August 2022, with .bnb as the domain suffix, essentially the same as ENS, and dedicated to building a common name service network that seamlessly connects people, information, assets and applications across the blockchain. And by allowing users to bind their identities across multiple chains, communities can build their own domain naming services through SPACE ID's network. To date, more than 40 applications have announced that they have enabled integration of the SPACE ID protocol.<br/><br/>
 **A seed round of funding led by Binance Labs was completed on September 2nd, 2022 for an undisclosed amount.**<br/><br/>
 As of November 27, 2022, SPACE ID domain name total registrations reached 304,000, the total number of holders’ addresses reached 98,700, and **the total registration revenue was 14,700 BNB, USD 4.42 million** (1 BNB = USD 300). The total secondary market transaction size was about 22,000 BNB, 6.60 million USD.<br/><br/>
 ![](https://github.com/evmns/evm_name_service/blob/main/t4.png?raw=true )
-<div align="center">（Data source dune.com/spaceid/spaceid）</div>
+<div align="center">（Data source dune.com/spaceid/spaceid）</div><br/>
 At present, WEB3 domain services like ENS and SPACE ID are also BNS on Binance, Bonfida on Solana, EVNS on Evmos, PNS on Polka, and cross-chain DID service‘.bit’, etc. The DID domain naming service protocol has become one of the basic items of every blockchain, showing a blossoming market state.
