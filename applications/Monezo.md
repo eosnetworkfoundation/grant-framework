@@ -58,7 +58,7 @@ We have two main verticals. The first one is Yeldful NFT - our core product, whi
 
 ### Legal Structure
 - **Registered Legal Entity:** Monezo.
-- **Registered Address:** Latvia, Riga.
+- **Registered Address:** Intershore Chambers, Road Town, Tortola, British Virgin Islands.
 
 ### Team Experience
 
@@ -102,7 +102,15 @@ We have the detailed roadmap with milestones assigned to each quarter. We use sc
 
 - **Total Estimated Duration:** 2 year 
 - **Full-Time Equivalent (FTE):** 15 FTE
-- **Total Costs:** 0 USD
+- **Total Costs:**  We are more interested in non financial support, we are looking for experienced investors and VCs who can provide not only financial resources, but rather different types of values & expertise to shape together the global economic landscape. 
+
+### Milestones
+
+We are going to attract partners and founds through this grant to accomplish the following points:
+Q4 2022 - our marketplace and platform MVP developing and pass through audit;
+Q1 2023 - Community building (at least 15 000 active community members) and ambassador program creation;
+Q2 2023 - Platform & Marketplace launch (at least 1 000 active users); Launch of 2 Yieldful NFT pools;
+Q3 2023 - Launch of Monezo Incubator - onboard the first third party business on platform and issue new investment pool (NFT collection)
 
 ## Future Plans
 
