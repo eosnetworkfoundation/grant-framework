@@ -1,13 +1,13 @@
 
 # EOS Network Foundation Grant Proposal
--   **Project Name:** EVMNS (EVM Name Service)<br/>
--   **Team Name:** EVMNS Labs<br/>
--   **EOS Payment Address:** evmnsdomains<br/>
--   **Level:** 3<br/>
--   **Pomelo Grant(s):** N/A<br/>
--   **Project is Open-Source:** Yes<br/>
+-   **Project Name:** EVMNS (EVM Name Service)
+-   **Team Name:** EVMNS Labs
+-   **EOS Payment Address:** evmnsdomains
+-   **Level:** 3
+-   **Pomelo Grant(s):** N/A
+-   **Project is Open-Source:** Yes
 -   **Project was part of Token sale:** No
--   **Repository where Project resides:** https://github.com/evmns/EVMNS<br/>
+-   **Repository where Project resides:** https://github.com/evmns/EVMNS
 
 # Contact
 - **Contact Name:** Harry Davis
@@ -74,13 +74,13 @@ The core members of EVMNS Labs are the first ecological participants of EOS, who
 Team members have participated in several medium to large scale EOS projects before and after, and also developed ENS (Ethereum Name Service) related domain Exchange, domain bulk registry protocol, etc. We are not only EOS loyalists, but also ENS heavy players, with good understanding of DID domain naming system.<br/><br/>
 # Development Roadmap
 ### Milestone Summary
-- **Estimated project development duration:** 12 weeks<br/>
-- **Full Time Equivalent Employees (FTE):** 6<br/>
-- **Total cost:** $195,000<br/>
+- **Total Estimated Duration:** 12 weeks
+- **Full-Time Equivalent (FTE):** 6 FTE
+- **Total Costs:** 195,000 USD
 ### Milestone 1 - Requirements Analysis and official website
-- **Estimated project development duration:** 2 weeks<br/>
-- **Full Time Equivalent Employees (FTE):** 2<br/>
-- **Total cost:** $20,000<br/>
+- **Estimated duration:** 2 weeks
+- **FTE:** 2
+- **Costs:** 20,000 USD
 
 | ID  | Deliverable  |Specification|
 | ------------ | ------------ | ------------ |
@@ -91,9 +91,9 @@ Team members have participated in several medium to large scale EOS projects bef
 | 1  | Demand Analysis  | Unpacking requirements, developing business process diagrams, planning business modules, standardizing development documentation and testing processes, etc.  |
 | 2  | Release official website  | Including project introduction, Roadmap and other content.  |<br/><br/>
 ### Milestone 2 - Smart Contracts
-- **Estimated project development duration:** 4 weeks<br/>
-- **Full Time Equivalent Employees (FTE):** 5<br/>
-- **Total cost:** $100,000<br/>
+- **Estimated duration:** 4 weeks
+- **FTE:** 5
+- **Costs:** 100,000 USD
 
 | ID  | Deliverable  |Specification|
 | ------------ | ------------ | ------------ |
@@ -106,9 +106,9 @@ Team members have participated in several medium to large scale EOS projects bef
 | 3  | Root Node Management  | Completing the design of the root node, EVMNS will lock the control of the root node so that the root owner cannot influence the ownership of the .evm domain and set the root node to be held jointly by the community in a multi-signature contract, guaranteeing all the power of the user.  |
 | 4  | Domain Resolver  | Resolvers are responsible for the actual process of translating names into addresses. Any contract that implements the relevant standards may act as a resolver in EVMNS. |<br/><br/>
 ### Milestone 3 - Key Systems and Components
-- **Estimated project development duration:** 3 weeks<br/>
-- **Full Time Equivalent Employees (FTE):** 3<br/>
-- **Total cost:** $45,000<br/>
+- **Estimated duration:** 3 weeks
+- **FTE:** 3
+- **Costs:** 45,000 USD
 
 | ID  | Deliverable  |Specification|
 | ------------ | ------------ | ------------ |
@@ -121,9 +121,9 @@ Team members have participated in several medium to large scale EOS projects bef
 | 3 | Metadata Storage Management System  | Store the domain metadata independently in the metadata management system and access the corresponding metadata through api.  |
 | 4  | Domain Management System  | Build EVMNS domain management system to realize administrators capability of financial review, daily log maintenance review, emergency management, etc. for EVMNS.  |<br/><br/>
 ### Milestone 4 - In-depth testing
-- **Estimated project development duration:** 2 weeks<br/>
-- **Full Time Equivalent Employees (FTE):** 2<br/>
-- **Total cost:** $20,000<br/>
+- **Estimated duration:** 2 weeks
+- **FTE:** 2
+- **Costs:** 20,000 USD
 
 | ID  | Deliverable  |Specification|
 | ------------ | ------------ | ------------ |
@@ -134,9 +134,9 @@ Team members have participated in several medium to large scale EOS projects bef
 | 1  | In-depth test  | Automated unit tests with 100% coverage and multiple rounds of functional testing are completed internally to ensure functionality and robustness.  |
 | 2  | dApp Development Documentation  | Establish a perfect dApp development documentation system to meet and support the quick access of dApp developers.  |<br/><br/>
 ### Milestone 5 - Deployment Test Network
-- **Estimated project development duration:** 1 week<br/>
-- **Full Time Equivalent Employees (FTE):** 2<br/>
-- **Total cost:** $10,000<br/>
+- **Estimated duration:** 1 weeks
+- **FTE:** 2
+- **Costs:** 10,000 USD
 
 | ID  | Deliverable  |Specification|
 | ------------ | ------------ | ------------ |
