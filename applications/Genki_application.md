@@ -7,7 +7,7 @@
 - **Pomelo Grant(s):** https://pomelo.io/grants/subdeeplyla
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
-- **Repository where Project resides:** https://github.com/thiangm
+- **Repository where Project resides:** https://github.com/genkimedia/ghost
 
 ## Contact
 
@@ -75,7 +75,6 @@ Experience with more than 4 years in content creation, productivity, promotional
 
 - https://github.com/genkimedia
 - https://github.com/genkimedia/ghost
-- https://github.com/genkimedia
 
 ### Team Member Repos
 
@@ -91,7 +90,7 @@ Experience with more than 4 years in content creation, productivity, promotional
 
 - 5 pieces of original content have been published.
 
-- 14 email campaigns have been sent through our newsletter.
+- 18 email campaigns have been sent through our newsletter.
 
 ## Development Roadmap
 
@@ -106,7 +105,7 @@ Experience with more than 4 years in content creation, productivity, promotional
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
 | 0a. | License | Apache 2.0 |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user or creator can deploy their Netlify site with Ghost. |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user or creator can deploy their instance with Ghost. |
 | 0c. | Content | We will publish 35 pieces of original content distributed and promoted in Antelope communities and Genki social spaces. |
 | 0d. | Daily newsletter | We will sent a daily newsletter will be sent through email campaigns to our user base highlighting relevant information about Antelope and its chains. |
 | 1. | Report | We will add links and information to a spreadsheet about content pieces published, and email campaigns sent, as well as the date of publication, and where they were shared/published/promoted (e.g. Genki Blog, Telegram, Twitter, number of email campaigns sent). |
