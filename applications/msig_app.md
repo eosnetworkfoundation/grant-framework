@@ -111,10 +111,16 @@ Yes, already mentioned above, duplicating here: https://www.youtube.com/watch?v=
 
 ## Development Roadmap
 
+### Milestone Summary
+
+- **Total Estimated Duration:** 1.5 months 
+- **Full-Time Equivalent (FTE):** 3.5 FTE
+- **Total Costs:** 50,000 USD
+
 ### Milestone 1
 
 - **Estimated duration:** 1.5 month
-- **FTE:**  3.5
+- **FTE:** 3.5 FTE
 - **Costs:** 50,000 USD
 
 | ID | Deliverable | Specification |
