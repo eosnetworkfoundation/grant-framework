@@ -75,11 +75,12 @@ Experience with more than 4 years in content creation, productivity, promotional
 
 - https://github.com/genkimedia
 - https://github.com/genkimedia/ghost
+- https://github.com/genkimedia/genki-docs
 
 ### Team Member Repos
 
-- https://github.com/genkimedia/ghost
-- https://github.com/thiangm
+- https://github.com/genkimedia/
+- https://github.com/thiangm/
 
 
 ### Team LinkedIn Profiles (if available)
@@ -90,7 +91,7 @@ Experience with more than 4 years in content creation, productivity, promotional
 
 - 5 pieces of original content have been published.
 
-- 18 email campaigns have been sent through our newsletter.
+- 21 email campaigns have been sent through our newsletter.
 
 ## Development Roadmap
 
@@ -106,8 +107,8 @@ Experience with more than 4 years in content creation, productivity, promotional
 | ----- | ----------- | ------------- |
 | 0a. | License | Apache 2.0 |
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user or creator can deploy their instance with Ghost. |
-| 0c. | Content | We will publish 35 pieces of original content distributed and promoted in Antelope communities and Genki social spaces. |
-| 0d. | Daily newsletter | We will sent a daily newsletter will be sent through email campaigns to our user base highlighting relevant information about Antelope and its chains. |
+| 0c. | Content | We will publish 50 pieces of original content distributed and promoted in Antelope communities and Genki social spaces. |
+| 0d. | Daily newsletter | We will sent a daily newsletter through email campaigns to our user base highlighting relevant information about Antelope and its chains and projects related ecosystem. (e.g. ENF, Pomelo, IBC, Coallition Working Group) |
 | 1. | Report | We will add links and information to a spreadsheet about content pieces published, and email campaigns sent, as well as the date of publication, and where they were shared/published/promoted (e.g. Genki Blog, Telegram, Twitter, number of email campaigns sent). |
 
 
