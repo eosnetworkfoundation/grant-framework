@@ -127,7 +127,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 
 
-# Chinese Translation 中文翻译
+# Chinese中文
 
 - **项目名称：**  诺亚协议 (Noahark)
 - **团队名称：**  Noahark
