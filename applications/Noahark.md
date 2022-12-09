@@ -99,7 +99,7 @@ https://github.com/NoaharkEVM/noaharkswap
  | Deliverable      | Status    | Cost    |
  | ---------- | :-----------:  | :-----------: |
  | UX/UI Design Mockups    | Completed     | $15,000     |
- | Smart Contracts（Roadmap, production）  | Not completed     | $65,000     |
+ | Smart Contracts  | Not completed     | $65,000     |
  | Front-end development    | Not completed    | $38,000     |
  |  Back-end system development    | Not completed     | $44,000     |
  | Unit Testing    | Not completed     | $26,200     |
@@ -194,7 +194,7 @@ Noahark 是一个专注于DeFi协议开发和运营的全球区块链团队。�
  | 可交付成果      | 状态    | 成本    |
  | ---------- | :-----------:  | :-----------: |
  | UI/UX交换设计    | 完成     | $15,000     |
- | 智能合约（路线图, 生产）  | 未完成     | $65,000     |
+ | 智能合约 | 未完成     | $65,000     |
  | 前端开发   | 未完成   | $38,000     |
  | 后端开发   | 未完成   | $44,000     |
  | 单元测试   | 未完成   | $26,200     |
