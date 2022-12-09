@@ -27,8 +27,8 @@
 
 > Please provide the following:
 
-- **Name:** Noahark, a decentralized Swap protocol on Trust EVM
-- **Brief Description:** The Noahark protocol is a Swap protocol on EVM
+- **Name:** Noahark
+- **Brief Description:** a Swap protocol on Trust EVM
 - **Relationship to EOSIO:** a Swap protocol for Trust EVM users. Code will be open source for EOSIO repository.
 - **Reason for Interest:** It provides a Swap market-making functions for exchange needs and more yields serving Trust EVM users. It will brings TVL to Trust EVM and income to the team and users.
 
@@ -37,19 +37,16 @@
 
 > Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
 
-- Where and how does your project fit into the ecosystem? 
-Users can buy and sell the tokens for exchange purpose or add liquidity for yield purpose. It is very basic DeFi infrastructure for Trust EVM.
+- **Where and how does your project fit into the ecosystem?** Users can buy and sell the tokens for exchange purpose or add liquidity for yield purpose. It is very basic DeFi infrastructure for Trust EVM.
 
-- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? 
-Trust EVM users
+- **Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?** Trust EVM users
 
-- What need(s) does your project meet?
-DeFi activities like Swap and market-making on Trust EVM
+- **What need(s) does your project meet?** DeFi activities like Swap and market-making on Trust EVM
 
-- Are there any other projects similar to yours in the EOSIO ecosystem?
-Yes, Swap Protocol in Defibox and DFS on EOS.
+- **Are there any other projects similar to yours in the EOSIO ecosystem?** Yes, Swap Protocol in Defibox and DFS on EOS.
   
-  - If so, how is your project different?
+- If so, how is your project different?
+
 Noahark is focus on Trust EVM and our code is compatible to EVM. Our version is 1.0 and it is extendable to V2.0, V3.0, etc. We are planning to develop Noahark protocol as the most complete DeFi protocol that can serve a lot of purpose on Trust EVM.
 
 ## Team
@@ -65,8 +62,7 @@ Noahark is focus on Trust EVM and our code is compatible to EVM. Our version is 
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
-Noahark is a global blockchain team that focus on DeFi protocol development and operation. We have been in blockchain industry for over 3 years already. We developed several well-know DeFi protocols on BSC, Polygon, ETH and some EVM. We have deep knowledge on Swap, Stablecoin, Lending, NFT market and any other major protocols development. We are attracted by EVM incentives on EOS. We believe that with EOS high performance and EVM compatibility, EVM will be a success and Noahark will be a good project on EOS EVM.
+Noahark is a global blockchain team that focus on DeFi protocol development and operation. We have been in blockchain industry for many years. We developed several well-know DeFi protocols on BSC, Polygon, ETH and some EVM. We have deep knowledge on Swap, Stablecoin, Lending and any other major protocols development. We are attracted by EVM incentives on EOS. We believe that with EOS high performance and EVM compatibility, Trust EVM will be a success and Noahark will be a good project on EOS EVM.
 
 > If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
 
@@ -78,25 +74,19 @@ https://github.com/NoaharkEVM/noaharkswap
 
 > Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
-## Open source - Timelines
+## Development Timeline
 
-**Step One (completed) "Beta version"**
+**V1.0 Development Plan: (excluding audit fees)**
+1. Product demand design (2022.09 - 2022.12)
+2. UI design (2022.09 - 2022.12)
+3. Contract development (2022.10 - 2023.01)
+4. Front-end and back-end development from (2022.10 - 2023.01)
+5. Contract test (2022.10 - 2023.01)
+6. Front-end and back-end testing (2022.10 - 2023.01)
+7. Launch the EVM test network to optimize user experience (2023.01 - 2023.02)
+8. Launch the EVM main network (2023.03 - 2023.05, synchronized with the main network launch time)
 
-> https://github.com/NoaharkEVM/noaharkswap
 
-- [ ] interface
-- [ ] *.abi (with version control)
-- [ ] General documentation README.md
-
-**Step Two (not completed)**
-
-- [ ] Design Definition
-- [ ] SC development
-- [ ] Automatic Contracts Tests
-
-**Step Three**
-
-- [ ] All smart contract source code available (*.cpp)
 
 ### Milestone Summary
 
@@ -108,14 +98,12 @@ https://github.com/NoaharkEVM/noaharkswap
 
  | Deliverable      | Status    | Cost    |
  | ---------- | :-----------:  | :-----------: |
- | 1    | Completed     | $15,000     |
- | 2  | Not completed     | $20,000     |
- | 3    | Not completed    | $20,000     |
- | 4    | Not completed     | $20,000     |
- | 5    | Not completed     | $30,000     |
- | 6   | Not completed     | $30,000     |
- | 7     | Not completed     | $30,000     |
- | 8    | Not completed    | $30,000     |
+ | UX/UI Design Mockups    | Completed     | $15,000     |
+ | Smart Contracts（Roadmap, production）  | Not completed     | $65,000     |
+ | Front-end development    | Not completed    | $38,000     |
+ |  Back-end system development    | Not completed     | $44,000     |
+ | Unit Testing    | Not completed     | $26,200     |
+ | Web site hosting/maintenance/feature fixes   | Not completed     | $6,800     |
 
 
 ## Additional Information
@@ -148,26 +136,26 @@ https://github.com/NoaharkEVM/noaharkswap
 **概述**
 - **名称：诺亚协议**
 
-- **简介：** 
-- **与EOSIO的关系：** 
-- **感兴趣的原因：** 
+- **简介：** Trust EVM上的闪兑协议
+- **与EOSIO的关系：** 服务于Trust EVM用户的Swap协议。代码将为EOSIO资源库开源。
+- **感兴趣的原因：** 提供Swap做市功能，满足交易所需求，更多收益服务于Trust EVM用户。它将为Trust EVM带来TVL，为团队和用户带来收入。
 
 
 ### 生态系统
 - **您的项目在哪里以及如何融入生态系统？**
--
+-用户可以出于交换目的买卖代币或出于收益目的增加流动性。它是Trust EVM的非常基本的DeFi基础设施。
 
 - **谁是你的目标受众（链/dapp/钱包/UI 开发人员、设计师、你自己的用户群、一些 dapp 的用户群、你自己）？**
--
+-Trust EVM的用户
 
 - **您的项目满足什么需求？**
--
+-Trust EVM上的Swap和做市等DeFi活动
 
 - **在EOSIO生态系统中还有其他类似的项目吗？**
--
+-是的，Defibox的Swap Protocol和EOS上的DFS Swap。
 
 - **如果是这样，您的项目有何不同？**
--
+-Noahark专注于Trust EVM，我们的代码与EVM兼容。我们的版本是1.0，可扩展到V2.0、V3.0等。我们计划将Noahark协议开发为最完整的DeFi协议，可以在Trust EVM上提供多种用途。
 
 ### 团队
 - **团队成员：** 20
@@ -178,33 +166,25 @@ https://github.com/NoaharkEVM/noaharkswap
 - **注册地址：** Coastal Building, Wickham’s Cay II, P. O. Box 2221, Road Town, Tortola, VG1110, British Virgin Islands
 
 **团队经验**
--
+Noahark 是一个专注于DeFi协议开发和运营的全球区块链团队。我们有区块链行业多年经验。我们在BSC、Polygon、ETH和一些EVM上开发了一些知名的DeFi协议。我们对闪兑、稳定币、借贷和其他DeFi协议开发有深入的了解。我们被EOS上的Trust EVM激励所吸引。我们相信，凭借EOS的高性能和EVM兼容性，Trust EVM将取得成功，Noahark将成为EOS EVM 上的一个好项目。
 
 **团队组织**
 -https://github.com/NoaharkEVM/noaharkswap
 
-## 开源 - 计划表
+## 开发路线
 
-**第一步（已完成）“Beta版”**
+**V1.0 开发阶段：(不包含合约审计费用)**
+1. 产品需求设计 （2022年9月 - 2022年12月）
+2. UI设计  （2022年9月 - 2022年12月）
+3. 合约开发  （2022年10月 - 2023年1月）
+4. 前端、后端开发 （2022年10月 - 2023年1月）
+5. 合约测试  （2022年10月 - 2023年1月）
+6. 前端、后端测试； （2022年10月 - 2023年1月）
+7. 上线EVM测试网，优化用户体验  （2023年1月 - 2023年2月）
+8. 上线EVM主网  （2023年3月 - 2023年5月，同步主网上线时间）
 
-> https://github.com/NoaharkEVM/noaharkswap
 
-- [ ] 接口
-- [ ] 文件
-- [ ] 通用文档README.md
-
-**第二步（未完成）**
-
-- [ ] 协议
-- [ ] 合约
-- [ ] 文档
-- [ ] 测试
-
-**第三步（未完成）**
-
-- [ ] 所有智能合约源代码开源 (*.cpp)
-
-**里程碑总结**
+## 里程碑总结
 - **总预计持续时间：**6个月 （剩余3个月）
 - **全职当量 (FTE)：**15 FTE
 - **总成本：** 195,000 美元
@@ -213,7 +193,12 @@ https://github.com/NoaharkEVM/noaharkswap
  
  | 可交付成果      | 状态    | 成本    |
  | ---------- | :-----------:  | :-----------: |
-
+ | UI/UX交换设计    | 完成     | $15,000     |
+ | 智能合约（路线图, 生产）  | 未完成     | $65,000     |
+ | 前端开发   | 未完成   | $38,000     |
+ | 后端开发   | 未完成   | $44,000     |
+ | 单元测试   | 未完成   | $26,200     |
+ | 网站运营维护   | 未完成     | $6,800     |
 
 **附加信息**
 
