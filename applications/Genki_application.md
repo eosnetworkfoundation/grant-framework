@@ -91,7 +91,7 @@ Experience with more than 4 years in content creation, productivity, promotional
 
 - 5 pieces of original content have been published.
 
-- 21 email campaigns have been sent through our newsletter.
+- 24 email campaigns have been sent through our newsletter.
 
 ## Development Roadmap
 
