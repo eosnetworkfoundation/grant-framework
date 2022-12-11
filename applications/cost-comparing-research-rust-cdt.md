@@ -159,10 +159,10 @@ Performance of Wasmer is placed in the top tier. See [benchmark 2021](https://00
 - **FTE:**  2
 - **Costs:** 10,000 USD
 
-| ID  | Deliverable     | Specification                                                                                                            |
-|-----|-----------------|--------------------------------------------------------------------------------------------------------------------------|
-| 0a. | License         | MIT                                                                                                                      |
-| 1   | Research report | Comparison of language-LLVM compilation spec and WASM API spec of EOSVM and Wasmer<br/>A report and a follow-up proposal |
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT |
+| 1 | Research report | **1. EOSVM API analysis**<br>Analyze the interacting APIs with EOSVM and estimate the job size of developing the interaction layer<br><br>**2. Antelope code structure research**<br>Check does the code need to be changed & where would need to be changed<br><br>**3. Feasibility check**<br>Implement a small PoC layer including with a couple of API interaction & triggering contract. <br><br>**4. (OPTIONAL) Simulation with DEX contract**<br>Try to simulate porting the Cosmwasm DEX contract on EOSVM |
 
 ## Future Plans
 
@@ -171,3 +171,11 @@ There will be a follow-up proposal for supporting Rust CDT according to this res
 ## Additional Information
 
 **How did you hear about the Grants Program?** Personal recommendation
+
+### Related experiences
+
+- Wasmer-based contract development: [Terraswap](https://github.com/terraswap/terraswap)
+- Heterogeneous layers integration (Consensus-modified Tendermint - Cosmos SDK - VM)
+  - [Consensus-modified Tendermint](https://github.com/hdac-io/tendermint)
+  - [Cosmos SDK](https://github.com/hdac-io/friday)
+  - [VM](https://github.com/hdac-io/CasperLabs)
