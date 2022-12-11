@@ -2,7 +2,7 @@
 
 -   **Project Name:** WootzApp
 -   **Team Name:** WootzApp.com
--   **EOS Payment Address:** 
+-   **EOS Payment Address:** wootzappcom.gm
 -   **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 
 ## Project Overview
