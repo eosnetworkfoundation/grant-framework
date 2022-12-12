@@ -2,7 +2,7 @@
 
 - **Project Name:** Noahark Protocol V1.0
 - **Team Name:** Noahark
-- **EOS Payment Address:** jvjfctvjcuvj
+- **EOS Payment Address:** btxhdbttqhgs
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Pomelo Grant(s):** NA
 - **Project is Open-Source:** Yes*
@@ -30,7 +30,7 @@
 - **Name:** Noahark
 - **Brief Description:** a Swap protocol on Trust EVM
 - **Relationship to EOSIO:** a Swap protocol for Trust EVM users. Code will be open source for EOSIO repository.
-- **Reason for Interest:** It provides a Swap market-making functions for exchange needs and more yields serving Trust EVM users. It will brings TVL to Trust EVM and income to the team and users.
+- **Reason for Interest:** It provides a Swap market-making functions for exchange needs and more yields serving Trust EVM users. It will brings huge TVL to Trust EVM and returns to investors and users.
 
 
 ### Ecosystem Fit
@@ -39,7 +39,7 @@
 
 - **Where and how does your project fit into the ecosystem?** Users can buy and sell the tokens for exchange purpose or add liquidity for yield purpose. It is very basic DeFi infrastructure for Trust EVM.
 
-- **Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?** Trust EVM users
+- **Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?** Trust EVM users, professional DEX-DEX, DEX-CEX arbitrageurs, EOS users;
 
 - **What need(s) does your project meet?** DeFi activities like Swap and market-making on Trust EVM
 
@@ -47,7 +47,7 @@
   
 - If so, how is your project different?
 
-Noahark is focus on Trust EVM and our code is compatible to EVM. Our version is 1.0 and it is extendable to V2.0, V3.0, etc. We are planning to develop Noahark protocol as the most complete DeFi protocol that can serve a lot of purpose on Trust EVM.
+Noahark is focus on Trust EVM and our code is compatible to EVM. Our first version is 1.0 and we plan to expand to V2.0 in the next 6 months. The V2.0 version is a major upgrade and innovation based on the V1.0 version. The V2.0 version will evolve and upgrade on the basis of the uniswap V3 algorithm, providing users with leveraged market-making and leveraged incentive functions.
 
 ## Team
 
@@ -62,7 +62,7 @@ Noahark is focus on Trust EVM and our code is compatible to EVM. Our version is 
 
 ### Team Experience
 
-Noahark is a global blockchain team that focus on DeFi protocol development and operation. We have been in blockchain industry for many years. We developed several well-know DeFi protocols on BSC, Polygon, ETH and some EVM. We have deep knowledge on Swap, Stablecoin, Lending and any other major protocols development. We are attracted by EVM incentives on EOS. We believe that with EOS high performance and EVM compatibility, Trust EVM will be a success and Noahark will be a good project on EOS EVM.
+Noahark is a global blockchain team that focus on DeFi protocol development and operation. We have been in blockchain industry for many years. We developed several well-know DeFi protocols on BSC, Polygon, ETH and some EVM. We have real experience on Swap, Stablecoin, Lending and any other major DeFi protocols development. We are attracted by EVM incentives on EOS. We believe that with EOS high performance and EVM compatibility, Trust EVM will be a success and Noahark will be a good project on EOS EVM.
 
 > If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
 
@@ -119,7 +119,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 - **项目名称：**  诺亚协议 (Noahark)
 - **团队名称：**  Noahark
-- **EOS支付地址：**  jvjfctvjcuvj
+- **EOS支付地址：**  btxhdbttqhgs
 - **等级：** 3
 - **Pomelo资助：** 否
 - **项目是开源的：** 是*
@@ -138,15 +138,15 @@ https://github.com/NoaharkEVM/noaharkswap
 
 - **简介：** Trust EVM上的闪兑协议
 - **与EOSIO的关系：** 服务于Trust EVM用户的Swap协议。代码将为EOSIO资源库开源。
-- **感兴趣的原因：** 提供Swap做市功能，满足交易所需求，更多收益服务于Trust EVM用户。它将为Trust EVM带来TVL，为团队和用户带来收入。
+- **感兴趣的原因：** 提供Swap做市功能，满足交易需求，更快服务于Trust EVM用户。它将为Trust EVM带来巨大的TVL锁仓，为投资者和用户带来回报。
 
 
 ### 生态系统
 - **您的项目在哪里以及如何融入生态系统？**
--用户可以出于交换目的买卖代币或出于收益目的增加流动性。它是Trust EVM的非常基本的DeFi基础设施。
+-用户可以出于交换目的买卖代币或出于收益目的增加流动性。它是Trust EVM的DeFi基础设施。
 
 - **谁是你的目标受众（链/dapp/钱包/UI 开发人员、设计师、你自己的用户群、一些 dapp 的用户群、你自己）？**
--Trust EVM的用户
+--Trust EVM的用户,专业的DEX-DEX,DEX-CEX套利者,庞大的EOS用户群体;
 
 - **您的项目满足什么需求？**
 -Trust EVM上的Swap和做市等DeFi活动
@@ -155,7 +155,7 @@ https://github.com/NoaharkEVM/noaharkswap
 -是的，Defibox的Swap Protocol和EOS上的DFS Swap。
 
 - **如果是这样，您的项目有何不同？**
--Noahark专注于Trust EVM，我们的代码与EVM兼容。我们的版本是1.0，可扩展到V2.0、V3.0等。我们计划将Noahark协议开发为最完整的DeFi协议，可以在Trust EVM上提供多种用途。
+-Noahark专注于Trust EVM，我们的代码与EVM兼容。我们即将发布的版本是1.0，并计划未来6个月扩展到V2.0。V2.0版本是在V1.0版本的基础上进行的重大升级和创新，V2.0版本将在uniswap V3算法基础上进化升级，为用户提供杠杆做市及杠杆激励功能。
 
 ### 团队
 - **团队成员：** 20
@@ -166,7 +166,7 @@ https://github.com/NoaharkEVM/noaharkswap
 - **注册地址：** Coastal Building, Wickham’s Cay II, P. O. Box 2221, Road Town, Tortola, VG1110, British Virgin Islands
 
 **团队经验**
-Noahark 是一个专注于DeFi协议开发和运营的全球区块链团队。我们有区块链行业多年经验。我们在BSC、Polygon、ETH和一些EVM上开发了一些知名的DeFi协议。我们对闪兑、稳定币、借贷和其他DeFi协议开发有深入的了解。我们被EOS上的Trust EVM激励所吸引。我们相信，凭借EOS的高性能和EVM兼容性，Trust EVM将取得成功，Noahark将成为EOS EVM 上的一个好项目。
+Noahark 是一个专注于DeFi协议开发和运营的全球区块链团队。我们有区块链行业多年经验。我们在BSC、Polygon、ETH和一些EVM上开发了一系列知名的DeFi协议。我们对闪兑、稳定币、借贷和其他DeFi协议开发有实战经验。我们被EOS上的Trust EVM激励所吸引。我们相信，凭借EOS的高性能和EVM兼容性，Trust EVM将取得成功，Noahark将成为EOS EVM 上的一个好项目。
 
 **团队组织**
 -https://github.com/NoaharkEVM/noaharkswap
