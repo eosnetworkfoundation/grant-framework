@@ -45,7 +45,7 @@
 
 - **Are there any other projects similar to yours in the EOSIO ecosystem?** Yes, Swap Protocol in Defibox and DFS on EOS.
   
-- If so, how is your project different?
+- **If so, how is your project different?**
 
 Noahark is focus on Trust EVM and our code is compatible to EVM. Our first version is 1.0 and we plan to expand to V2.0 in the next 6 months. The V2.0 is a major upgrade and innovation based on the V1.0. The V2.0 will evolve and upgrade on the basis of the uniswap V3 algorithm, providing users with leveraged market-making and leveraged incentive functions.
 
