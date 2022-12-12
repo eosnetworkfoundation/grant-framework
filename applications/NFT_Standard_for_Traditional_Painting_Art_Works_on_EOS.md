@@ -164,23 +164,14 @@ https://github.com/defiboxswap
 
 
  | Deliverable      | Status    | Cost    |
-
  | ---------- | :-----------:  | :-----------: |
-
  | Protocol Design - Diagram     | Completed     | $3,000     |
-
  | Protocol Design - Definitions (EN/KO/CN)     | Not completed     | $5,000     |
-
  | SC development (prototype)     | Completed     | $12,000     |
-
  | SC development (production)     | Not completed     | $12,000     |
-
  | Developer documentation     | Completed     | $4,000     |
-
  | User documentation     | Not completed     | $6,000     |
-
  | Automatic Contracts Tests     | Not completed     | $14,000     |
-
  | Certik Audit     | Completed     | $24,000     |
 
 
@@ -317,7 +308,8 @@ ShuFan NFT是一支绘画NFT创作、运营的专业团队。已经在EOS运营�
 
 -https://github.com/SFN-Art
 
-
+**Team Member Repos**
+https://github.com/IllustrationArtist
 
 
 
@@ -336,38 +328,35 @@ ShuFan NFT是一支绘画NFT创作、运营的专业团队。已经在EOS运营�
 
 
  | 可交付成果      | 状态    | 成本    |
-
  | ---------- | :-----------:  | :-----------: |
-
  | 协议设计 - 原型图     | 完成     | $3,000     |
-
  | 协议设计 - 原型图（中/英/韩）    | 未完成     | $5,000     |
-
  | 智能合约开发（原型）     | 完成     | $12,000     |
-
  | 智能合约开发（生产）    | 未完成     | $12,000     |
-
  | 开发者文档     | 完成     | $4,000     |
-
  | 用户文档     | 未完成     | $6,000     |
-
  | 自动合约测试     | 未完成     | $14,000     |
-
  | Certik审计     | 完成     | $24,000     |
 
 
-完成标准的基础版 已完成 $5,000 
-完善标准细则并公开 $5,000 
+初级版本，标准的基础版及样例展示 已完成 $5,000 
+中级版本，完善标准细则并公开，及样例展示， $5,000 
 
-推广标准初步推广 $5,000 
-建立专门的网址及推广计划  $10,000 
+初级推广：通过NFT空投等方式初步推广 $5,000 
+中级推广：
+建立专门的标准展示及推广网站  $4,000
+建立NFT申请接口，用于Pomelo项目等EOS生态项目免费申请，为项目提供免费的NFT用于生态项目发展，$3,000
+发布ShuFan NFT的作品，并空投给社区体验推广  $3,000
+通过Twitter、网站等多种方式推广此标准 $2,500
 
-发布ShuFan NFT的作品，并空投给社区体验推广  $5,000 
-邀请更多的艺术家加入  $5,000 
 
-标准的更新及维护  $15,000 
+邀请更多的艺术家加入  $10,000 
+
+标准的更新及维护的部分资金  $15,000 
 
 
+Future Plans
+从Pomelo等其它渠道获得更多支持资金，进一步支持标准的完善/推广/增加用户量
 
 
 **附加信息**
