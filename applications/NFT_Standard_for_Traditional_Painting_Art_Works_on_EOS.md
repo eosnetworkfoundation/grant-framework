@@ -12,27 +12,22 @@
 
 - **Pomelo Grant(s):** https://pomelo.io/grants/nftart
 
-- **Project is Open-Source:** Yes*
+- **Project is Open-Source:** Yes
 
 - **Project was part of Token sale:** No
 
 - **Repository where Project resides:** https://github.com/SFN-Art/NFT-Standard-for-Traditional-Painting-Art-Works-on-EOS
 
-> Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
+
 
 ## Contact
 
 
 
 - **Contact Name:** ShuFan
-
 - **Contact Email:** ShuFanNFT@gmail.com
-
 - **Website:** https://shufannft.carrd.co
 
-
-
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
 
 
@@ -40,14 +35,7 @@
 
 ## Project Overview
 
-
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
-
 ### Overview
-
-
-
-> Please provide the following:
 
 - **Name:** NFT Standard for Traditional Painting Art Works on EOS
 
@@ -57,13 +45,27 @@
 
 - **Reason for Interest:** It provides a variety of staking strategies to EOS users and project teams for more yields. It will brings TVL and income to Defibox team while giving benefits to participants. Ecosystem Boost: attract inactive EOS tokens which will prosper ecosystem
 
+### Project Details
 
+> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
+- Mock-ups/designs of any UI components
 
+- Data models of the core functionality
+
+- API specifications of the core functionality
+
+- An overview of the technology stack to be used
+
+- Documentation of core components, protocols, architecture, etc. to be deployed
+
+- PoC/MVP or other relevant prior work or research on the topic
+
+- What your project is _not_ or will _not_ provide or implement
+
+  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
 ### Ecosystem Fit
-
-
 
 > Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
 
@@ -355,12 +357,17 @@ https://github.com/IllustrationArtist
 标准的更新及维护的部分资金  $15,000 
 
 
-Future Plans
+关键点：非代码，但也算是前端？Pomelo上的进一步阐释，更多资金开发更细则的标准并退管；解决版权关联问题
+
+
+
+**Future Plans**
 从Pomelo等其它渠道获得更多支持资金，进一步支持标准的完善/推广/增加用户量
+如果这套标准在经过中级推广后受到欢迎，未来我们将争取更多的资金支持并雇佣开发人员将此NFT标准开发为代码库并开源，让以后所有EOS上的NFT交易平台都可以直接采用并集成该标准。
 
 
 **附加信息**
-
+此标准可以理解为应用在EOS上的无代码前端，后期可以拓展后端。
 
 
 **您是如何得知赠款计划的？：** EOS网络基金会网站
