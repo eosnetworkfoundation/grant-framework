@@ -120,19 +120,12 @@ ShuFan NFT是一支绘画NFT创作、运营的专业团队。已经在EOS运营�
 
 > If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
+- 我们在2022年7月14日在medium上已经发布[第一个版本（V1.0）](https://shufannft.medium.com/nftart-73952f0f856b#4965)的标准
+- 基于此标准，在Atomichub上发布了一个Schema，https://eos.atomichub.io/explorer/schema/shufan.free/traditional
+- 基于此Schema，已经发布了4件纸质绘画作品
+- 并将其中的2件免费发放给EOS用户，以推广此标准并吸引更多EOS上的NFT玩家
 
-
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-
-- academic publications relevant to the problem,
-
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-
-- previous interface iterations, such as mock-ups and wireframes.
-
-
+- 这个项目目前依然还在早期的阶段，但在Pomelo上已经获得的贡献超过80个，代表了来自EOS社区的热情和支持。这个项目有可能为EOS引来更多的艺术家，并促进艺术品NFT在EOS上出现爆发式增长。所以，我们希望进一步优化这项标准的细则，并以一种更规范的方式展示这个标准，吸引更多艺术家和NFT爱好者的关注。
 
 ## Development Roadmap
 
@@ -169,33 +162,24 @@ For each milestone,
 > :zap: If any of your deliverables is based on someone else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 初级版本，标准的基础版及样例展示 已完成 $5,000 
-
-中级版本，完善标准细则并公开，及样例展示， $5,000 
-
-
 初级推广：通过NFT空投等方式初步推广 $5,000 
+样例展示
 
-中级推广：
 
+
+中级版本，完善标准细则并公开， $5,000
+教程
+样例展示
+
++中级推广：
 建立专门的标准展示及推广网站  $4,000
-
-建立NFT申请接口，用于Pomelo项目等EOS生态项目免费申请，为项目提供免费的NFT用于生态项目发展，$3,000
-
 发布ShuFan NFT的作品，并空投给社区体验推广  $3,000
-
 通过Twitter、网站等多种方式推广此标准 $2,500
 
 
-
-
-
+建立NFT申请接口，用于Pomelo项目等EOS生态项目免费申请，为项目提供免费的NFT用于生态项目发展，$3,000
 邀请更多的艺术家加入  $10,000 
-
-
-
 标准的更新及维护的部分资金  $15,000 
-
-
 
 
 
@@ -203,18 +187,14 @@ For each milestone,
 
 
 
-
-
-
-
 **Future Plans**
 
+保持维护和推广
+扩展标准到其它实物艺术品
+将此标准转化为可编程的代码并开源，供EOS上的NFT交易平台等项目使用，并嵌入此功能，以拓展更多的可能
+跟EOS上的NFT平台合作，更好的嵌入此标准并推广
+跟更多艺术家及团队合作，包括艺术品收藏家，博物馆等
 从Pomelo等其它渠道获得更多支持资金，进一步支持标准的完善/推广/增加用户量
-
-如果这套标准在经过中级推广后受到欢迎，未来我们将争取更多的资金支持并雇佣开发人员将此NFT标准开发为代码库并开源，让以后所有EOS上的NFT交易平台都可以直接采用并集成该标准。
-
-
-
 
 
 **附加信息**
