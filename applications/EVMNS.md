@@ -194,9 +194,9 @@ Whether it is the registration scale, transaction scale, or the number of holder
 The following is the partial sales of historical.<br/>
 paradigm.eth, 420ETH<br/>
 000.eth, 300ETH<br/>
-1.Opensea.eth, 99.89ETH<br/>
-2.Nike.eth, 60ETH<br/>
-3.Samsung.eth, 60ETH<br/><br/>
+Opensea.eth, 99.89ETH<br/>
+Nike.eth, 60ETH<br/>
+Samsung.eth, 60ETH<br/><br/>
 
 - **SPACE ID (BNB Chain Name Service)**<br/><br/>
   SPACE ID is a decentralized domain naming service protocol developed based on BNB Chain, officially launched in August 2022, with .bnb as the domain suffix, essentially the same as ENS, and dedicated to building a common name service network that seamlessly connects people, information, assets and applications across the blockchain. And by allowing users to bind their identities across multiple chains, communities can build their own domain naming services through SPACE ID's network. To date, more than 40 applications have announced that they have enabled integration of the SPACE ID protocol.<br/><br/>
