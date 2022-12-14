@@ -47,7 +47,7 @@
   
 - **If so, how is your project different?**
 
-Noahark is focus on Trust EVM and our code is compatible to EVM. Our first version is 1.0 and we plan to expand to V2.0 in the next 6 months. The V2.0 is a major upgrade and innovation based on the V1.0. The V2.0 will evolve and upgrade on the basis of the uniswap V3 algorithm, providing users with leveraged market-making and leveraged incentive functions.
+Noahark is focus on Trust EVM and our code is compatible to EVM. Our first version is 1.0 and we plan to expand to V2.0 and V3.0 in the next 6 months. The V2.0 is a major upgrade and innovation based on the V1.0. The V2.0 will evolve and upgrade on the basis of the uniswap V3 algorithm, providing users with leveraged market-making and leveraged incentive functions. V3.0 is for cross-chain DeFi between EOS and Trust EVM serve as a cross-chain DeFi aggregator.
 
 ## Team
 
@@ -96,14 +96,17 @@ https://github.com/NoaharkEVM/noaharkswap
 
 - **Deliverables:**
 
- | Deliverable      | Status    | Cost    |
+ | ID     | Deliverable    | Specification    |
  | ---------- | :-----------:  | :-----------: |
- | UX/UI Design Mockups    | Completed     | $15,000     |
- | Smart Contracts  | Not completed     | $65,000     |
- | Front-end development    | Not completed    | $38,000     |
- |  Back-end system development    | Not completed     | $44,000     |
- | Unit Testing    | Not completed     | $26,200     |
- | Web site hosting/maintenance/feature fixes   | Not completed     | $6,800     |
+ | 0a    | License    | MIT    |
+ | 0b    | Documentation     | Provide inline documentation of the code and a basic tutorial explaining how users can access our website program and send a test transaction, which will demonstrate how the new functionality works.    |
+ | 0c    | Testing Guide    | Unit tests will fully cover the core functionality to ensure functionality and robustness.     |
+ | 0d    | Article     | Publish an article on how the grant was used, and what work was done     |
+ | 1   | UX/UI Design Mockups     | Submit the original UI design drawing of the Noahark project, as well as the prototype design file of the project     |
+ | 2   | Smart Contracts     | Submit contracts including Swap, liquidity, liquidity mining, staking system, token contract, etc.     |
+ | 3   | Front-end development     | Develop and realize the user operation interface, providing users with convenient and fast interactive pages     |
+ | 4   | Back-end development     | A system to record the data analysis of the whole site and historical API, etc., to facilitate external access     |
+ | 5   | Web site hosting/maintenance/feature fixes     | Maintain the functional integrity and security of the contract and front-end and back-end     |
 
 
 ## Additional Information
@@ -155,7 +158,7 @@ https://github.com/NoaharkEVM/noaharkswap
 -是的，Defibox的Swap Protocol和EOS上的DFS Swap。
 
 - **如果是这样，您的项目有何不同？**
--Noahark专注于Trust EVM，我们的代码与EVM兼容。我们即将发布的版本是1.0，并计划未来6个月扩展到V2.0。V2.0版本是在V1.0版本的基础上进行的重大升级和创新，V2.0版本将在uniswap V3算法基础上进化升级，为用户提供杠杆做市及杠杆激励功能。
+-Noahark专注于Trust EVM，我们的代码与EVM兼容。我们即将发布的版本是1.0，并计划未来6个月扩展到V2.0以及V3.0。V2.0版本是在V1.0版本的基础上进行的重大升级和创新，V2.0版本将在uniswap V3算法基础上进化升级，为用户提供杠杆做市及杠杆激励功能。V3.0主要发展EOS和Trust EVM之间跨链DeFi聚合器，该聚合器具备有EOS和Trust EVM的跨链功能，同时还有DeFi聚合的作用。
 
 ### 团队
 - **团队成员：** 20
@@ -191,14 +194,18 @@ Noahark 是一个专注于DeFi协议开发和运营的全球区块链团队。�
 
 - **可交付成果：**
  
- | 可交付成果      | 状态    | 成本    |
+ | ID      | 可交付成果    | 规格    |
  | ---------- | :-----------:  | :-----------: |
- | UI/UX交换设计    | 完成     | $15,000     |
- | 智能合约 | 未完成     | $65,000     |
- | 前端开发   | 未完成   | $38,000     |
- | 后端开发   | 未完成   | $44,000     |
- | 单元测试   | 未完成   | $26,200     |
- | 网站运营维护   | 未完成     | $6,800     |
+ | 0a    | 证书     | MIT    |
+ | 0b | 文档    | 我们将提供代码的内联文档和解释用户如何访问我们的网站程序并发送测试交易的基本教程，这将展示新功能的工作原理。   |
+ | 0c   | 测试指导   | 单元测试将完全覆盖核心功能，以确保功能性和稳健性。     |
+ | 0d   | 文章   | 我们将发布一篇文章关于资助如何使用，以及完成的工作内容     |
+ | 1   | UX/UI设计   | 可提交Noah项目的UI设计图原件，以及项目的原型设计文件     |
+ | 2  | 智能合约     | 提交包含兑换、提供流动性、流动性挖矿、质押系统、代币合约等合约     |
+ | 3  | 前端开发     | 开发实现用户操作界面，提供给用户方便快捷的交互页面     |
+ | 4  | 后端开发     | 用于记录全站数据分析及历史API等，方便外部访问     |
+ | 5  | 网站运维     | 持续维护合约及前后端的功能完整性与安全性     |
+
 
 **附加信息**
 
