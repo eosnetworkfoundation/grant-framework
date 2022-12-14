@@ -5,7 +5,7 @@
 - **EOS Payment Address:** btxhdbttqhgs
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Pomelo Grant(s):** NA
-- **Project is Open-Source:** Yes*
+- **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/NoaharkEVM/noaharkswap
 > Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
@@ -125,7 +125,7 @@ https://github.com/NoaharkEVM/noaharkswap
 - **EOS支付地址：**  btxhdbttqhgs
 - **等级：** 3
 - **Pomelo资助：** 否
-- **项目是开源的：** 是*
+- **项目是开源的：** 是
 - **项目是代币销售的一部分：** 否
 - **项目资源库：** https://github.com/NoaharkEVM/noaharkswap
 
