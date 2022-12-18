@@ -54,6 +54,13 @@
 
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
+1.纸质声明
+2.贴在作品背后并艺术家签字+盖骑缝章
+3.上传生成Templete，并声明第一件作品与原稿相关（有些平台没有template，不一定是第一个mint）
+4.邮寄问题及记录
+需要不断的优化细节，实时反馈修改，宣传推广
+
+每位艺术家都能比较容易的做到
 
 
 ### Ecosystem Fit
