@@ -61,6 +61,9 @@
 
 - Where and how does your project fit into the ecosystem?
 - 应用我们的标准（项目），在EOS上发布他们的传统绘画艺术品NFT，可以更好的保护艺术家及NFT收藏者的权益。我们的标准可以更好的区分物理载体艺术品与NFT复制品的权属关系，一方面，艺术家在EOS发布他们的作品后，不再担心原创手稿的处理可能影响NFT的价值；另一方面，收藏者也不再担心收藏NFT后，原创手稿可能通过其它形式生成新的NFT再次销售等权属问题。清晰的权属关系，可以同时让艺术家更有在EOS发布作品，及让收藏者在EOS上收藏作品更有保障感。最终让EOS上的艺术品NFT更加丰富、活跃。
+- Just as we analyzed in [our project on Pomelo](https://pomelo.io/grants/nftart). According to the masterworks report. In 2020, the global painting transaction value has exceeded 50 billion US dollars, the transaction volume has exceeded 30 million. And [the estimated value of the online art market worldwide in 2021](https://www.statista.com/statistics/284586/global-online-art-market-sales-2013/) is $13.59 Billion. The market potential is really huge!
+- With the empowerment of NFT, the market potential of traditional paintings and artworks will be further stimulated.
+- EOS如果能抢先占领这个市场，将给EOS的生态发展和市场价值的极大改变。而这套标准将加速实现这一点，为传统绘画作品与NFT之间建立一道可靠的桥梁。
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 - -1）绘画艺术家；2）EOS 用户，包括任何NFT收藏者用户和团队
@@ -71,7 +74,7 @@
 - Are there any other projects similar to yours in the EOSIO ecosystem?
 - -无，
   - If not, are there similar projects in related ecosystems?
-  - 尚未研究其它区块链系统是否有类似的项目。
+  - 尚未发现其它区块链系统有类似的项目。
 
 
 
@@ -93,13 +96,11 @@
 
 
 
-### Team Experience
+### Team Experience （Done）
 
-
-- Defibox是一只涵盖EOS、WAX、BSC上前端、后端、合约、运营、测试、商务的专业团队。我们在EOS上开发了Swap、USN、Lending 和许多其他 DeFi 协议。就锁仓量而言，我们一直是EOS上领先的DeFi，并且安全运行了 2 年多。 除此之外，我们还共同开发了Yield+等重大项目。
-ShuFan NFT是一支绘画NFT创作、运营的专业团队。已经在EOS运营超过18个月，发布了数字绘画作品x件，传统绘画作品x件。从绘画类NFT销售额排名看，我们在EOS上一直是领先低位。不断探索任何新的NFT发展的可能性。此外，我们还向EOS社区空投了很多作品，推广EOS的价值。
-
-
+- ShuFan NFT is a professional team that creates and operates drawing NFTs. As the core creator of the team, ShuFan has more than 10 years of experience in painting creation and is a senior painting creation artist. The team has been operating the painting NFT project on EOS for more than 18 months, released more than 140 original works, and generated more than 2,000 NFTs.
+- The team has applied for a Pomelo grant for this project, named [NFT Standard for Traditional Painting Art Works](https://pomelo.io/grants/nftart). And published [the 1.0 version of this standard](https://shufannft.medium.com/nftart-73952f0f856b) on our Medium in Jul 14, 2022. In order to implement this standard, we [created a Schema and released 4 paintings](https://eos.atomichub.io/explorer/schema/shufan.free/traditional) on AtomicHub。But we think the 1.0 version of this standard needs to be improved.
+- We have always been the leading team of painting NFT on EOS, and have explored many functions on EOS, like Whitelist Drop ([Sample](https://eos.atomichub.io/drops/217)) and other functions. Keeping a close cooperative relationship with well-known teams on EOS such as EOS Nation and EOS support, having our own [Web](https://shufannft.carrd.co/), [twitter](https://twitter.com/ShuFanNFT), [telegram](https://t.me/ShuFanNFT) and other medias. We also applied for a Pomelo grant for another project, named “[ShuFan NFT Art](https://pomelo.io/grants/shufannft)”，aimed to promote the advantages of NFTs on EOS via painting NFT.
 
 
 
