@@ -25,7 +25,7 @@
 
 - **Name:** NFT Standard for Traditional Painting Art Works
 - **Brief Description:** The Vault protocol is the first single-token lossless yield protocol launched by Defibox. Users can earn corresponding token income by depositing tokens. The assets can be flexibly deposited and withdrawn with open and transparent on chain data. Vault income mainly comes from Defibox protocol income, Yield+ rewards, BP income, REX income, etc. At the same time, in order to improve the utility, the protocol will issue a standard EOS token called sToken, which represents a deposit certificate. sToken can be used in multiple DeFi protocols to obtain more benefits.
-- **简介：** EOS上的传统绘画艺术作品的NFT标准，是基于EOS卓越的NFT性能，及艺术作品的巨大市场潜力，开发一个适用于传统绘画艺术作品特征的专属NFT标准，以更好的展示其原创属性、收藏价值，并保护艺术家和收藏者的艺术版权。
+- **简介：** EOS上的传统绘画艺术作品的NFT标准，是基于EOS卓越的NFT性能，及艺术作品的巨大市场潜力，开发一个适用于传统绘画艺术作品特征的专属NFT标准，以更好的展示其原创属性、收藏价值，并保护艺术家和收藏者的艺术版权。以下简称 NS-TPA。
 - **Relationship to EOSIO:** a public use that provides a variety of staking strategies to EOS users and project teams for more yields. Code will be open source for contribution to EOSIO repository.
 - **与EOSIO的关系：** 一种公共设施，为艺术家在EOS上以NFT的形式发布他们的传统绘画艺术作品提供一个合适的专属标准。为EOS用户和项目团队提供保护其传统绘画艺术作品生成的NFT的所有权和价值的参考依据。
 - **Reason for Interest:** It provides a variety of staking strategies to EOS users and project teams for more yields. It will brings TVL and income to Defibox team while giving benefits to participants. Ecosystem Boost: attract inactive EOS tokens which will prosper ecosystem
@@ -54,13 +54,21 @@
 
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
-1.纸质声明
+此标准旨在为传统绘画艺术家的作品转化为NFT提供一个标准化的解决方案，解决绘画作品的原始手稿（Original manuscript of the painting. Hereinafter referred to as the manuscript）在转换为NFT后面临的版权归属上的挑战。
+
+核心内容：
+1.一段精简的纸质声明，用于表明手稿执行了NS-TPA。我们也将草拟一份模板用于参照执行。
 2.贴在作品背后并艺术家签字+盖骑缝章
 3.上传生成Templete，并声明第一件作品与原稿相关（有些平台没有template，不一定是第一个mint）
 4.邮寄问题及记录
-需要不断的优化细节，实时反馈修改，宣传推广
+对此要拟定完整的细节，确保权益，减少争议。
+
+宣传推广：
+宣传推广，让更多NFT收藏者了解，让艺术家了解并上传他们的作品
+需要不断的优化细节，实时反馈修改，
 
 每位艺术家都能比较容易的做到
+这套标准有简单易操作，经得起验证，无需第三方认证的特征，就更容易达成共识。
 
 
 ### Ecosystem Fit
@@ -125,7 +133,7 @@
 ## Development Status
 
 
-
+我们更早期经历了更多的探索，最终结合EOS上NFT的功能特征，探索出一个简单易操作的标准。
 > If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
 - 我们在2022年7月14日在medium上已经发布[第一个版本（V1.0）](https://shufannft.medium.com/nftart-73952f0f856b#4965)的标准
