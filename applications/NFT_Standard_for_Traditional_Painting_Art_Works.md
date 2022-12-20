@@ -36,24 +36,6 @@
 
 > We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-
-
-- Mock-ups/designs of any UI components
-
-- Data models of the core functionality
-
-- API specifications of the core functionality
-
-- An overview of the technology stack to be used
-
-- Documentation of core components, protocols, architecture, etc. to be deployed
-
-- PoC/MVP or other relevant prior work or research on the topic
-
-- What your project is _not_ or will _not_ provide or implement
-
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
-
 此标准旨在为传统绘画艺术家的作品转化为NFT提供一个标准化的解决方案，解决绘画作品的原始手稿（Original manuscript of the painting. Hereinafter referred to as the manuscript）在转换为NFT后面临的版权归属上的挑战。
 
 核心内容：
