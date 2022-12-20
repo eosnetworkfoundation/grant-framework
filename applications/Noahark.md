@@ -88,13 +88,17 @@ https://github.com/NoaharkEVM/noaharkswap
 
 
 
-### Milestone Summary
+## Milestone Summary
 
 - **Total Estimated Duration:** 6 months (remaining 3 months)
 - **Full-Time Equivalent (FTE):** 15 FTE
-- **Total Costs:** 195,000 USD
+- **Total Costs (excluding audit fees):** 195,000 USD
 
-- **Deliverables:**
+### Milestone 1
+
+- **Estimated Duration:** 2 months
+- **Full-Time Equivalent (FTE):** 15 FTE
+- **Total Costs:** 95,000 USD
 
  | ID     | Deliverable    | Specification    |
  | ---------- | :-----------:  | :-----------: |
@@ -102,12 +106,45 @@ https://github.com/NoaharkEVM/noaharkswap
  | 0b    | Documentation     | Provide inline documentation of the code and a basic tutorial explaining how users can access our website program and send a test transaction, which will demonstrate how the new functionality works.    |
  | 0c    | Testing Guide    | Unit tests will fully cover the core functionality to ensure functionality and robustness.     |
  | 0d    | Article     | Publish an article on how the grant was used, and what work was done     |
- | 1   | UX/UI Design Mockups     | Submit the original UI design drawing of the Noahark project, as well as the prototype design file of the project     |
- | 2   | Smart Contracts     | Submit contracts including Swap, liquidity, liquidity mining, staking system, token contract, etc.     |
- | 3   | Front-end development     | Develop and realize the user operation interface, providing users with convenient and fast interactive pages     |
- | 4   | Back-end development     | A system to record the data analysis of the whole site and historical API, etc., to facilitate external access     |
+ | 1   | UX/UI Design Mockups     | Submit the original UI design drawings for swap, liquidity provision, and data analysis, as well as the prototype design files of the project     |
+ | 2   | Smart Contracts     | Submit swap and liquidity functions     |
+ | 3   | Front-end development     | Develop user interface for swap, liquidity provision, data analysis, etc.     |
+ | 4   | Back-end development     | Provide liquidity pool data and exchange volume data API, etc., to facilitate external collection     |
  | 5   | Web site hosting/maintenance/feature fixes     | Maintain the functional integrity and security of the contract and front-end and back-end     |
 
+### Milestone 2
+- **Estimated Duration:** 2 months
+- **Full-Time Equivalent (FTE):** 15 FTE
+- **Total Costs:** 50,000 USD
+
+| ID     | Deliverable    | Specification    |
+ | ---------- | :-----------:  | :-----------: |
+ | 0a    | License    | MIT    |
+ | 0b    | Documentation     | Provide inline documentation of the code and a basic tutorial explaining how users can access our website program and send a test transaction, which will demonstrate how the new functionality works.    |
+ | 0c    | Testing Guide    | Unit tests will fully cover the core functionality to ensure functionality and robustness.     |
+ | 0d    | Article     | Publish an article on how the grant was used, and what work was done     |
+ | 1   | UX/UI Design Mockups     | Submit the original UI design drawings of liquidity mining and staking mining functions, as well as the prototype design files of the project     |
+ | 2   | Smart Contracts     | Submit functions of liquidity mining and stake mining     |
+ | 3   | Front-end development     | Develop user operation interface, providing users with convenient and fast interactive pages     |
+ | 4   | Web site hosting/maintenance/feature fixes     | Maintain the functional integrity and security of the contract and front-end and back-end     |
+ 
+ 
+ ### Milestone 3
+- **Estimated Duration:** 2 months
+- **Full-Time Equivalent (FTE):** 15 FTE
+- **Total Costs:** 50,000 USD
+ 
+ | ID     | Deliverable    | Specification    |
+ | ---------- | :-----------:  | :-----------: |
+ | 0a    | License    | MIT    |
+ | 0b    | Documentation     | Provide inline documentation of the code and a basic tutorial explaining how users can access our website program and send a test transaction, which will demonstrate how the new functionality works.    |
+ | 0c    | Testing Guide    | Unit tests will fully cover the core functionality to ensure functionality and robustness.     |
+ | 0d    | Article     | Publish an article on how the grant was used, and what work was done     |
+ | 1   | UX/UI Design Mockups     | Submit the original UI design drawings of pages such as token staking, token rights, and the prototype design files of the project     |
+ | 2   | Smart Contracts     | Submit the VeNoah token contract, the equity bonus system and token staking function     |
+ | 3   | Front-end development     | Provide data analysis and other user interface     |
+ | 4   | Back-end development     | Provide user staking data and data analysis API, etc., to facilitate external data feed     |
+ | 5   | Web site hosting/maintenance/feature fixes     | Maintain the functional integrity and security of the contract and front-end and back-end     |
 
 ## Additional Information
 
@@ -188,11 +225,14 @@ Noahark 是一个专注于DeFi协议开发和运营的全球区块链团队。�
 
 
 ## 里程碑总结
-- **总预计持续时间：**6个月 （剩余3个月）
-- **全职当量 (FTE)：**15 FTE
-- **总成本：** 195,000 美元
+- **总预计持续时间：** 6个月 （剩余3个月）
+- **全职当量 (FTE)：** 15 FTE
+- **总成本(不含审计费）：** 195,000 美元
 
-- **可交付成果：**
+### 里程碑1
+- **预计持续时间：** 2个月
+- **全职当量 (FTE)：** 15 FTE
+- **成本：** 95,000 美元
  
  | ID      | 可交付成果    | 规格    |
  | ---------- | :-----------:  | :-----------: |
@@ -200,11 +240,45 @@ Noahark 是一个专注于DeFi协议开发和运营的全球区块链团队。�
  | 0b | 文档    | 我们将提供代码的内联文档和解释用户如何访问我们的网站程序并发送测试交易的基本教程，这将展示新功能的工作原理。   |
  | 0c   | 测试指导   | 单元测试将完全覆盖核心功能，以确保功能性和稳健性。     |
  | 0d   | 文章   | 我们将发布一篇文章关于资助如何使用，以及完成的工作内容     |
- | 1   | UX/UI设计   | 可提交Noah项目的UI设计图原件，以及项目的原型设计文件     |
- | 2  | 智能合约     | 提交包含兑换、提供流动性、流动性挖矿、质押系统、代币合约等合约     |
- | 3  | 前端开发     | 开发实现用户操作界面，提供给用户方便快捷的交互页面     |
- | 4  | 后端开发     | 用于记录全站数据分析及历史API等，方便外部访问     |
+ | 1   | UX/UI设计   | 可提交兑换、提供流动性、数据分析的UI设计图原件，以及项目的原型设计文件     |
+ | 2  | 智能合约     | 提交包含兑换、提供流动性功能     |
+ | 3  | 前端开发     | 开发实现兑换、提供流动性、数据分析等用户操作界面     |
+ | 4  | 后端开发     | 提供流动池数据及兑换量数据API等，方便外部收集     |
  | 5  | 网站运维     | 持续维护合约及前后端的功能完整性与安全性     |
+
+### 里程碑2
+- **预计持续时间：** 2个月
+- **全职当量 (FTE)：** 15 FTE
+- **成本：** 50,000 美元
+ 
+ | ID      | 可交付成果    | 规格    |
+ | ---------- | :-----------:  | :-----------: |
+ | 0a    | 证书     | MIT    |
+ | 0b | 文档    | 我们将提供代码的内联文档和解释用户如何访问我们的网站程序并发送测试交易的基本教程，这将展示新功能的工作原理。   |
+ | 0c   | 测试指导   | 单元测试将完全覆盖核心功能，以确保功能性和稳健性。     |
+ | 0d   | 文章   | 我们将发布一篇文章关于资助如何使用，以及完成的工作内容     |
+ | 1   | UX/UI设计   | 可提交流动性挖矿以及质押挖矿功能的UI设计图原件，以及项目的原型设计文件     |
+ | 2  | 智能合约     | 提交包含流动性挖矿、质押挖矿功能     |
+ | 3  | 前端开发     | 开发实现用户操作界面，提供给用户方便快捷的交互页面     |
+ | 4  | 网站运维     | 持续维护合约及前后端的功能完整性与安全性     |
+
+### 里程碑3
+- **预计持续时间：** 2个月
+- **全职当量 (FTE)：**15 FTE
+- **成本：** 50,000 美元
+ 
+ | ID      | 可交付成果    | 规格    |
+ | ---------- | :-----------:  | :-----------: |
+ | 0a    | 证书     | MIT    |
+ | 0b | 文档    | 我们将提供代码的内联文档和解释用户如何访问我们的网站程序并发送测试交易的基本教程，这将展示新功能的工作原理。   |
+ | 0c   | 测试指导   | 单元测试将完全覆盖核心功能，以确保功能性和稳健性。     |
+ | 0d   | 文章   | 我们将发布一篇文章关于资助如何使用，以及完成的工作内容     |
+ | 1   | UX/UI设计   | 可提交代币质押，相关代币权益等页面的UI设计图原件，以及项目的原型设计文件     |
+ | 2  | 智能合约     | 提交包含VeNoah代币合约，以及权益加成系统、代币质押功能    |
+ | 3  | 前端开发     | 提供数据分析等用户操作界面     |
+ | 4  | 后端开发     | 提供用户质押数据及数据分析API等，方便外部收集     |
+ | 5  | 网站运维     | 持续维护合约及前后端的功能完整性与安全性     |
+
 
 
 **附加信息**
