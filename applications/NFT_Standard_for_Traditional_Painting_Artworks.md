@@ -1,6 +1,6 @@
 # EOS Network Foundation Grant Proposal
 
-- **Project Name:** NFT Standard for Traditional Painting Art Works
+- **Project Name:** NFT Standard for Traditional Painting Artworks
 - **Team Name:** ShuFan NFT
 - **EOS Payment Address:** shufan.free
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
@@ -23,7 +23,7 @@
 
 ### Overview
 
-- **Name:** NFT Standard for Traditional Painting Art Works
+- **Name:** NFT Standard for Traditional Painting Artworks
 - **Brief Description:** EOS上的传统绘画艺术作品的NFT标准，是基于EOS卓越的NFT性能，及艺术作品的巨大市场潜力，开发一个适用于传统绘画艺术作品特征的专属NFT标准，以更好的展示其原创属性、收藏价值，并保护艺术家和收藏者的艺术版权。以下简称 NS-TPA。
 - **Relationship to EOSIO:** 一种基于EOS区块链功能的公共设施，为艺术家在EOS上以NFT的形式发布他们的传统绘画艺术作品提供一个合适的专属标准。为EOS用户和项目团队提供保护其传统绘画艺术作品生成的NFT的所有权和价值的参考依据。
 - **Reason for Interest:** 简单而统一的标准可以吸引更多艺术家、EOS用户及项目团队参与传统绘画艺术作品NFT的创作、收藏和二次开发，进一步，可以增加EOS生态NFT的活跃度和用户量，并让EOS服务更多的线下艺术家。它也可以提升ShuFan NFT在EOS社区NFT领域的声誉，并增加我们发布的传统绘画艺术作品NFT作品的知名度和销售量。
@@ -53,19 +53,19 @@
 ### Ecosystem Fit
 
 - Where and how does your project fit into the ecosystem?
-- 应用我们的标准（项目），在EOS上发布他们的传统绘画艺术品NFT，可以更好的保护艺术家及NFT收藏者的权益。我们的标准可以更好的区分物理载体艺术品与NFT复制品的权属关系，一方面，艺术家在EOS发布他们的作品后，不再担心原创手稿的处理可能影响NFT的价值；另一方面，收藏者也不再担心收藏NFT后，原创手稿可能通过其它形式生成新的NFT再次销售等权属问题。清晰的权属关系，可以同时让艺术家更有在EOS发布作品，及让收藏者在EOS上收藏作品更有保障感。最终让EOS上的艺术品NFT更加丰富、活跃。
+  - 应用我们的标准（项目），在EOS上发布他们的传统绘画艺术品NFT，可以更好的保护艺术家及NFT收藏者的权益。我们的标准可以更好的区分物理载体艺术品与NFT复制品的权属关系，一方面，艺术家在EOS发布他们的作品后，不再担心原创手稿的处理可能影响NFT的价值；另一方面，收藏者也不再担心收藏NFT后，原创手稿可能通过其它形式生成新的NFT再次销售等权属问题。清晰的权属关系，可以同时让艺术家更有在EOS发布作品，及让收藏者在EOS上收藏作品更有保障感。最终让EOS上的艺术品NFT更加丰富、活跃。
 - Just as we analyzed in [our project on Pomelo](https://pomelo.io/grants/nftart). According to the masterworks report. In 2020, the global painting transaction value has exceeded 50 billion US dollars, the transaction volume has exceeded 30 million. And [the estimated value of the online art market worldwide in 2021](https://www.statista.com/statistics/284586/global-online-art-market-sales-2013/) is $13.59 Billion. The market potential is really huge!
 - With the empowerment of NFT, the market potential of traditional paintings and artworks will be further stimulated.
 - EOS如果能抢先占领这个市场，将给EOS的生态发展和市场价值的极大改变。而这套标准将加速实现这一点，为传统绘画作品与NFT之间建立一道可靠的桥梁。
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- -1）绘画艺术家；2）EOS 用户，包括任何NFT收藏者用户和团队
+  - -1）绘画艺术家；2）EOS 用户，包括任何NFT收藏者用户和团队
 
 - What need(s) does your project meet?
-- -有物理载体（例如水彩纸、油画纸等）的统绘画艺术作品在转换成NFT后的总是面临权属问题，限制了这类NFT在EOS上的发展。我们的项目可以解决这个问题，吸引更多艺术家和NFT收藏者进入EOS生态，促进传统绘画艺术品NFT在EOS更快速的发展。
+  -有物理载体（例如水彩纸、油画纸等）的统绘画艺术作品在转换成NFT后的总是面临权属问题，限制了这类NFT在EOS上的发展。我们的项目可以解决这个问题，吸引更多艺术家和NFT收藏者进入EOS生态，促进传统绘画艺术品NFT在EOS更快速的发展。
 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
-- -无，
+  -无，
   - If not, are there similar projects in related ecosystems?
   - 尚未发现其它区块链系统有类似的项目。
 
