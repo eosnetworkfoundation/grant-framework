@@ -159,24 +159,6 @@ The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrat
 
 
 
-**Future Plans**
-
-保持维护和推广，标准的更新及维护的部分资金 
-扩展标准到其它实物艺术品
-将此标准转化为可编程的代码并开源，供EOS上的NFT交易平台等项目使用，并嵌入此功能，以拓展更多的可能
-跟EOS上的NFT平台合作，更好的嵌入此标准并推广
-跟更多艺术家及团队合作，包括艺术品收藏家，博物馆等
-从Pomelo等其它渠道获得更多支持资金，进一步支持标准的完善/推广/增加用户量
-
-
-**附加信息**
-
-此标准可以理解为应用在EOS上的无代码前端，后期可以拓展后端。
-
-
-**您是如何得知赠款计划的？：** EOS网络基金会网站
-
-
 
 ## Future Plans
 
@@ -184,6 +166,14 @@ The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrat
 
 - how you intend to use, enhance, promote and support your project in the short term, and
 - the team's long-term plans and intentions in relation to it.
+- 保持维护和推广，标准的更新及维护的部分资金 
+扩展标准到其它实物艺术品
+将此标准转化为可编程的代码并开源，供EOS上的NFT交易平台等项目使用，并嵌入此功能，以拓展更多的可能
+跟EOS上的NFT平台合作，更好的嵌入此标准并推广
+跟更多艺术家及团队合作，包括艺术品收藏家，博物馆等
+从Pomelo等其它渠道获得更多支持资金，进一步支持标准的完善/推广/增加用户量
+
+
 
 
 
