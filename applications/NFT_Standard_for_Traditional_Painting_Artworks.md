@@ -9,27 +9,19 @@
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/SFN-Art/NFT-Standard-for-Traditional-Painting-Art-Works-on-EOS
 
-
 ## Contact
-
 - **Contact Name:** ShuFan
 - **Contact Email:** ShuFanNFT@gmail.com
 - **Website:** https://shufannft.carrd.co
 
-
-
 ## Project Overview
-
-
 ### Overview
-
 - **Name:** NFT Standard for Traditional Painting Artworks
 - **Brief Description:** EOS上的传统绘画艺术作品的NFT标准，是基于EOS卓越的NFT性能，及艺术作品的巨大市场潜力，开发一个适用于传统绘画艺术作品特征的专属NFT标准，以更好的展示其原创属性、收藏价值，并保护艺术家和收藏者的艺术版权。以下简称 NS-TPA。
 - **Relationship to EOSIO:** 一种基于EOS区块链功能的公共设施，为艺术家在EOS上以NFT的形式发布他们的传统绘画艺术作品提供一个合适的专属标准。为EOS用户和项目团队提供保护其传统绘画艺术作品生成的NFT的所有权和价值的参考依据。
 - **Reason for Interest:** 简单而统一的标准可以吸引更多艺术家、EOS用户及项目团队参与传统绘画艺术作品NFT的创作、收藏和二次开发，进一步，可以增加EOS生态NFT的活跃度和用户量，并让EOS服务更多的线下艺术家。它也可以提升ShuFan NFT在EOS社区NFT领域的声誉，并增加我们发布的传统绘画艺术作品NFT作品的知名度和销售量。
 
 ### Project Details
-
 此标准旨在为传统绘画艺术家的作品转化为NFT提供一个标准化的解决方案，解决绘画作品的原始手稿（Original manuscript of the painting. Hereinafter referred to as the manuscript）在转换为NFT后面临的版权归属上的挑战。
 
 标准的核心内容：
@@ -51,7 +43,6 @@
 无需第三方认证的特征，基于艺术家的自认证，无需第三方机构支持。
 
 ### Ecosystem Fit
-
 - Where and how does your project fit into the ecosystem?
   - 应用我们的标准（项目），在EOS上发布他们的传统绘画艺术品NFT，可以更好的保护艺术家及NFT收藏者的权益。我们的标准可以更好的区分物理载体艺术品与NFT复制品的权属关系，一方面，艺术家在EOS发布他们的作品后，不再担心原创手稿的处理可能影响NFT的价值；另一方面，收藏者也不再担心收藏NFT后，原创手稿可能通过其它形式生成新的NFT再次销售等权属问题。清晰的权属关系，可以同时让艺术家更有在EOS发布作品，及让收藏者在EOS上收藏作品更有保障感。最终让EOS上的艺术品NFT更加丰富、活跃。
 - Just as we analyzed in [our project on Pomelo](https://pomelo.io/grants/nftart). According to the masterworks report. In 2020, the global painting transaction value has exceeded 50 billion US dollars, the transaction volume has exceeded 30 million. And [the estimated value of the online art market worldwide in 2021](https://www.statista.com/statistics/284586/global-online-art-market-sales-2013/) is $13.59 Billion. The market potential is really huge!
@@ -69,14 +60,12 @@
   - If not, are there similar projects in related ecosystems?
   - 尚未发现其它区块链系统有类似的项目。
 
-
 ## Team
 ### Team members
 - **Team Leader:** ShuFan
 - Jack
 
 ### Legal Structure
-
 - **Registered Legal Entity:** N/A
 - **Registered Address:** N/A
 
@@ -86,11 +75,9 @@
 - We have always been the leading team of painting NFT on EOS, and have explored many functions on EOS, like Whitelist Drop ([Sample](https://eos.atomichub.io/drops/217)) and other functions. Keeping a close cooperative relationship with well-known teams on EOS such as EOS Nation and EOS support, having our own [Web](https://shufannft.carrd.co/), [twitter](https://twitter.com/ShuFanNFT), [telegram](https://t.me/ShuFanNFT) and other medias. We also applied for a Pomelo grant for another project, named “[ShuFan NFT Art](https://pomelo.io/grants/shufannft)”，aimed to promote the advantages of NFTs on EOS via painting NFT.
 
 
-
 ### Team Org Repos
 - https://github.com/SFN-Art
 - https://github.com/SFN-Art/NFT-Standard-for-Traditional-Painting-Art-Works-on-EOS
-
 
 ### Team Member Repos
 - https://github.com/IllustrationArtist
@@ -99,8 +86,6 @@
 - 
 
 ## Development Status
-
-
 我们更早期经历了更多的探索，最终结合EOS上NFT的功能特征，探索出一个简单易操作的标准。
 > If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
@@ -117,32 +102,14 @@
 The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrations, 2) add at least 80 twitter followers, 3) NFT sales exceeding 120 EOS.
 
 ### Overview
+- **Total Estimated Duration:** 3 months
+- **Full-Time Equivalent (FTE):**  4 FTE
+- **Total Costs:** 50,000 USD
 
-- **Total Estimated Duration:** 2 months (for the first 2 milestones)
-- **Full-Time Equivalent (FTE):**  2 FTE
-- **Total Costs:** 50,000 USD (for the first 2 milestones. The whole project is long term.)
-
-### Milestone 1 — 发布标准的v1.0版本并推广.
-
-- **Estimated duration:** 1 month
-- **FTE:**  3
-- **Costs:** 12,000 USD
-
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 1. | v1.0版本发布 | 定位是一个可是使用的简易标准。在我们的medium媒体上发布第一个版本的标准 $2,000 to support ShuFan's illustration creation, she can focus more on painting creation to create more high-quality illustration artworks. Complete the creation of at least 3 illustrations. Key result: release at least 3 new illustration NFT templetes on https://eos.atomichub.io/profile/shufan.free#listings |
-| 2. | 创建5件样例作品 | $1,500 to support media promotion, through daily tweets, article tweets, giveaway and other activities, let more people know what ShuFan NFT is, what it is useful for, how to trade, why choose EOS to publish, etc. Key result: add at least 30 real twitter followers. |
-| 3. | 免费空投给EOS社区感受 | $1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 50 EOS. |
-| 4. | 通过twitter等媒体推广 | $1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 50 EOS. |
-
-
-### Milestone 2 — Prove ShuFan's innovative ability and the market potential of illustration NFTs - The initial stage 02.
-
-- **Estimated duration:** 2 months
+### Milestone 1 — 发布标准的v2.0版本并推广.
+- **Estimated duration:** 3 months
 - **FTE:**  4
-- **Costs:** 38,000 USD
-- Milestone 2 is creation and marketing oriented and as such there is no code to test.
+- **Costs:** 50,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -159,11 +126,7 @@ The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrat
 
 
 
-
 ## Future Plans
-
-> Please include here:
-
 - how you intend to use, enhance, promote and support your project in the short term, and
 - the team's long-term plans and intentions in relation to it.
 - 保持维护和推广，标准的更新及维护的部分资金 
@@ -174,15 +137,9 @@ The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrat
 从Pomelo等其它渠道获得更多支持资金，进一步支持标准的完善/推广/增加用户量
 
 
-
-
-
 ## Additional Information
-
 **How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
-
 > Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
 - Work you have already done. 我们对比了很多NFT平台，发现EOS是最适合艺术品NFT的区块链，类似WAX因为游戏类NFT而闻名于世，但我们认为游戏主导的环境并不是很适合艺术类NFT的发展，这点比不上EOS。关于这套标准我们在发布V1.0前，经历了2个多月的研究、讨论和探索，尝试过的很多方法在易用性、可操作性等方面都容易各方面的限制，多次的失败让我们选择了这样一个简单易用、适用于EOS区块链的标准。
 - If there are any other teams who have already contributed (financially) to the project.
 - Previous grants you may have applied for.
