@@ -161,27 +161,76 @@ For each milestone,
 
 初级版本，标准的基础版及样例展示 已完成 $5,000 
 初级推广：通过NFT空投等方式初步推广 $5,000 
+样例展示：
+这是一款可以使用的初级版本
+
+
+
+中级版本，完善标准细则并公开， $8,000
+教程  $2,000
 样例展示
+更佳美化、规范的版本
+2
 
-
-
-中级版本，完善标准细则并公开， $5,000
-教程
-样例展示
 
 +中级推广：
 建立专门的标准展示及推广网站  $4,000
 发布ShuFan NFT的作品，并空投给社区体验推广  $3,000
 通过Twitter、网站等多种方式推广此标准 $2,500
 
-
-建立NFT申请接口，用于Pomelo项目等EOS生态项目免费申请，为项目提供免费的NFT用于生态项目发展，$3,000
-邀请更多的艺术家加入  $10,000 
+社区内部推广：
+建立NFT申请接口，用于Pomelo项目等EOS生态项目免费申请，为项目提供免费的NFT用于生态项目发展，$4,000
+邀请至少1名传统艺术家加入EOS社区并发布绘画NFT作品  $10,000 
 标准的更新及维护的部分资金  $15,000 
 
 
 
 关键点：非代码，但也算是前端？Pomelo上的进一步阐释，更多资金开发更细则的标准并退管；解决版权关联问题
+
+
+## Development Roadmap
+
+**Creation and Marketing Roadmap**
+
+The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrations, 2) add at least 80 twitter followers, 3) NFT sales exceeding 120 EOS.
+
+### Overview
+
+- **Total Estimated Duration:** 2 months (for the first 2 milestones)
+- **Full-Time Equivalent (FTE):**  2 FTE
+- **Total Costs:** 10,000 USD (for the first 2 milestones. The whole project is long term.)
+
+### Milestone 1 — Prove ShuFan's innovative ability and the market potential of illustration NFTs - The initial stage 01.
+
+- **Estimated duration:** 1 month
+- **FTE:**  2
+- **Costs:** 5,000 USD
+- Milestone 1 is creation and marketing oriented and as such there is no code to test.
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | Marketing Campaign No.1 | Diamond No.1 Self-funded. We will add $1,000 dollar to The Lost Diamond and use $500 in marketing. Publish a YouTube-video explaining TheLostDiamond race and how to sign in with Anchor. We will use $1,000 dollar to add 100 x $10 dollar in random checkpoints. Objective: Get monthly active participants. Key result: 10 users pay $7 monthly subscription fee. |
+
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | Illustration creation 01 | $2,000 to support ShuFan's illustration creation, she can focus more on painting creation to create more high-quality illustration artworks. Complete the creation of at least 3 illustrations. Key result: release at least 3 new illustration NFT templetes on https://eos.atomichub.io/profile/shufan.free#listings |
+| 2. | Media promotion 01 | $1,500 to support media promotion, through daily tweets, article tweets, giveaway and other activities, let more people know what ShuFan NFT is, what it is useful for, how to trade, why choose EOS to publish, etc. Key result: add at least 30 real twitter followers. |
+| 3. | Marketing campaign 01 | $1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 50 EOS. |
+
+
+### Milestone 2 — Prove ShuFan's innovative ability and the market potential of illustration NFTs - The initial stage 02.
+
+- **Estimated duration:** 1 month
+- **FTE:**  2
+- **Costs:** 5,000 USD
+- Milestone 2 is creation and marketing oriented and as such there is no code to test.
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | Illustration creation 02 | $2,000 to support ShuFan's illustration creation, she can focus more on painting creation to create more high-quality illustration artworks. Complete the creation of at least 3 illustrations. Key result: release at least 3 new illustration NFT templetes on https://eos.atomichub.io/profile/shufan.free#listings |
+| 2. | Media promotion 02 | $1,500 to support media promotion, through daily tweets, article tweets, giveaway and other activities, let more people know what ShuFan NFT is, what it is useful for, how to trade, why choose EOS to publish, etc. Key result: add at least 50 real twitter followers. |
+| 3. | Marketing campaign 02 | $1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 70 EOS. |
 
 
 
