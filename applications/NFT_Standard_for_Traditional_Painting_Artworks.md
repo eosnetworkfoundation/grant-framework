@@ -25,20 +25,19 @@
 This standard aims to provide a standardized solution when the TPA by traditional painting artists is converted into NFT on EOS, and solve the copyright ownership problems of the original manuscript after conversion to NFT.
 
 - **The core content of the standard**:
-1. A condensed paper statement indicating that the manuscript implements NS-TPA.
-2. The statement is pasted on the back of the work, and signed by the artist + stamped with a cross-page seal.
-3. When uploading and generating NFT Templete, add an electronic statement, indicating that this NFT has implemented NS-TPA, and Mint #1 is bound to the original manuscript.
-4. The NFT Template is signed by the artist's EOS account.
-
+  - A condensed paper statement indicating that the manuscript implements NS-TPA.
+  - The statement is pasted on the back of the work, and signed by the artist + stamped with a cross-page seal.
+  - When uploading and generating NFT Templete, add an electronic statement, indicating that this NFT has implemented NS-TPA, and Mint #1 is bound to the original manuscript.
+  - The NFT Template is signed by the artist's EOS account.
 
 - **Standard Features**: 
-1. **Easy to learn**. The steps to complete this standard are simple, and each artist only needs to learn and operate easily. 
-2. **Easy to identify**. This set of standards is template-based, easy to identify, and easy to reach consensus on.
-3. **Self-certification**. It's based on the self-certification of the artist. No third-party agency support is required, which reduces the trouble caused by third-party certification.
-4. **Can not be tampered with**. Artist's handwritten signature + EOS blockchain wallet signature, both have irreversible characteristics, are safe and can withstand the verification of time.
+  - **Easy to learn**. The steps to complete this standard are simple, and each artist only needs to learn and operate easily. 
+  - **Easy to identify**. This set of standards is template-based, easy to identify, and easy to reach consensus on.
+  - **Self-certification**. It's based on the self-certification of the artist. No third-party agency support is required, which reduces the trouble caused by third-party certification.
+  - **Can not be tampered with**. Artist's handwritten signature + EOS blockchain wallet signature, both have irreversible characteristics, are safe and can withstand the verification of time.
 
 **Promotion of Standard：**
-Promoting this standard within and outside the EOS community is also an important part of this project. The more artists and EOS users understand and use this set of standards, the stronger the consensus will be, and the more details of the feedback to optimize standards. We will adopt multiple ways to promote this set of standards, such as establishing a website, NFT gifts, and Twitter promotion.
+  - Promoting this standard within and outside the EOS community is also an important part of this project. The more artists and EOS users understand and use this set of standards, the stronger the consensus will be, and the more details of the feedback to optimize standards. We will adopt multiple ways to promote this set of standards, such as establishing a website, NFT gifts, and Twitter promotion.
 
 ### Ecosystem Fit
 - Where and how does your project fit into the ecosystem?
@@ -47,7 +46,7 @@ Promoting this standard within and outside the EOS community is also an importan
 
 - Who is your target audience?
 
-1) Painting artists; 2) EOS users, including NFT collector users and teams.
+  Painting artists; EOS users, including NFT collector users and teams.
 
 - What need(s) does your project meet?
 
