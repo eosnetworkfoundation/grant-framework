@@ -16,42 +16,49 @@
 
 ## Project Overview
 ### Overview
-- **Name:** NFT Standard for Traditional Painting Artworks（以下简称 NS-TPA。）
-- **Brief Description:** 一套结合EOS区块链上的NFT功能，适用于传统绘画艺术作品特征的专属NFT标准，保护艺术家和收藏者的艺术版权，并更好地展示传统绘画的原创属性、收藏价值。协助将传统绘画艺术作品的这一巨大的NFT市场潜力引入EOS生态。
-- **Relationship to EOSIO:** 这套标准结合了EOS区块链上的NFT功能，是一种EOS上的公共设施，可以为EOS用户和项目团队提供保护其传统绘画艺术作品NFT的所有权和价值提供关键的行业标准和参考依据。这套标准也有利于展示EOS区块链上的NFT体现出的卓越性能，
-- **Reason for Interest:** 我们是EOS上传统绘画转换为NFT的拓荒者，建立这套标准，1）可以解决我们发布的传统绘画作品NFT在EOS遇到的问题；2）提升ShuFan NFT在EOS社区的声誉，并增加我们作品的影响力；3）服务更多的线下艺术家，吸引更多艺术家、EOS用户及项目团队参与传统绘画艺术作品NFT的创作、收藏，增加EOS生态NFT的活跃度和用户量。
+- **Name:** NFT Standard for Traditional Painting Artworks (Hereinafter referred to as NS-TPA)
+- **Brief Description:** A set of exclusive NFT standards that combine the NFT functions on EOS blockchain, and apply to the characteristics of traditional painting artworks (Hereinafter referred to as TPA), protect the artistic copyrights of TPA original manuscript and corresponding NFTs. Help to bring the huge NFT market potential of TPA into the EOS ecosystem.
+- **Relationship to EOSIO:** This set of standards combines the NFT function on the EOS blockchain. It is a public good on EOS that can provide important industry standards for EOS users and project teams to protect the ownership and value of NFT of their TPA on EOS. This set of standards is also conducive to demonstrating the excellent performance of NFT on the EOS blockchain.
+- **Reason for Interest:** We are the pioneers of converting TPA to NFTs on EOS. Establishing this set of standards can 1) solve the copyright problems encountered by the TPA NFT we released on EOS; 2) enhance the reputation of ShuFan NFT in the EOS community, and increase the influence of our works; 3) attract more offline artists, EOS users and project teams to participate in the creation and collection of TPA NFT, and increase the art NFT activity on EOS.
 
 ### Project Details
-此标准旨在为传统绘画艺术家的作品在EOS上转化为NFT时提供一个标准化的解决方案，解决绘画作品的原始手稿（Original manuscript of the painting. Hereinafter referred to as the manuscript）在转换为NFT后面临的版权归属上的挑战。
+This standard aims to provide a standardized solution when the TPA by traditional painting artists is converted into NFT on EOS, and solve the copyright ownership problems of the original manuscript after conversion to NFT.
 
-标准的核心内容：
-1.一段精简的纸质声明，表明手稿执行了NS-TPA。
-2.声明贴在作品背面，并由艺术家手写签字+盖骑缝章
-3.上传生成NFT Templete时，添加一个电子声明，表明此NFT执行了NS-TPA，Mint #1与原件绑定关系。
-4.由艺术家的EOS账户对此NFT Template完成签名。
+- **The core content of the standard**:
+1. A condensed paper statement indicating that the manuscript implements NS-TPA.
+2. The statement is pasted on the back of the work, and signed by the artist + stamped with a cross-page seal.
+3. When uploading and generating NFT Templete, add an electronic statement, indicating that this NFT has implemented NS-TPA, and Mint #1 is bound to the original manuscript.
+4. The NFT Template is signed by the artist's EOS account.
 
-标准的特征：
-容易学习。此标准的完成的步骤简单，每位艺术家只需简单的学习就容易操作。
-容易识别。这套标准有简单，基于模板，更容易识别并达成共识
-自我认证。基于艺术家的自我认证，无需第三方机构支持。减少了第三方认证带来的麻烦。
-不可篡改。艺术家手写签名+EOS区块链钱包签名，均具有不可逆特征，安全且经得起时间的验证。
 
-标准的宣传推广：
-在EOS社区内外推广此标准也是这个项目的重要内容。越多的艺术家和EOS用户了解并使用这套标准，才具有更强的共识，也才能体现此标准的意义，也才能获得更多反馈优化标准的细节。我们将采取建立网站、NFT赠送、Twitter发布等多重方式推广这套标准。
+- **Standard Features**: 
+1. **Easy to learn**. The steps to complete this standard are simple, and each artist only needs to learn and operate easily. 
+2. **Easy to identify**. This set of standards is template-based, easy to identify, and easy to reach consensus on.
+3. **Self-certification**. It's based on the self-certification of the artist. No third-party agency support is required, which reduces the trouble caused by third-party certification.
+4. **Can not be tampered with**. Artist's handwritten signature + EOS blockchain wallet signature, both have irreversible characteristics, are safe and can withstand the verification of time.
+
+**Promotion of Standard：**
+Promoting this standard within and outside the EOS community is also an important part of this project. The more artists and EOS users understand and use this set of standards, the stronger the consensus will be, and the more details of the feedback to optimize standards. We will adopt multiple ways to promote this set of standards, such as establishing a website, NFT gifts, and Twitter promotion.
 
 ### Ecosystem Fit
 - Where and how does your project fit into the ecosystem?
-   - Just as we analyzed in [our project on Pomelo](https://pomelo.io/grants/nftart). According to the masterworks report. In 2020, the global painting transaction value has exceeded 50 billion US dollars, the transaction volume has exceeded 30 million. And [the estimated value of the online art market worldwide in 2021](https://www.statista.com/statistics/284586/global-online-art-market-sales-2013/) is $13.59 Billion. The market potential is really huge! EOS区块链上的NFT体现出的卓越性能是行业首屈一指的。成功抢先占领这个市场，将给EOS的生态发展和市场价值的极大改变。
 
-- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-  - 1）绘画艺术家；2）EOS 用户，包括任何NFT收藏者用户和团队
+   Just as we analyzed in [our project on Pomelo](https://pomelo.io/grants/nftart). According to the masterworks report. In 2020, the global painting transaction value has exceeded 50 billion US dollars, the transaction volume has exceeded 30 million. And [the estimated value of the online art market worldwide in 2021](https://www.statista.com/statistics/284586/global-online-art-market-sales-2013/) is $13.59 Billion. The market potential is really huge! The excellent performance of NFT on the EOS blockchain is second to none in the industry. Successfully occupying this market first will greatly change the ecological development and market value of EOS.
+
+- Who is your target audience?
+
+1) Painting artists; 2) EOS users, including NFT collector users and teams.
 
 - What need(s) does your project meet?
-  -有物理载体（例如水彩纸、油画纸等）的统绘画艺术作品在转换成NFT后的总是面临权属问题，限制了这类NFT在EOS上的发展。我们的项目可以解决这个问题，更好的保护EOS上的艺术家及NFT收藏者的权益。
-  -我们的标准可以更好的区分物理载体艺术品与NFT复制品的权属关系，一方面，艺术家在EOS发布他们的作品后，不再担心原创手稿的处理可能影响NFT的价值；另一方面，收藏者也不再担心收藏NFT后，原创手稿可能通过其它形式生成新的NFT再次销售等权属问题。清晰的权属关系，可以同时让艺术家更有在EOS发布作品，及让收藏者在EOS上收藏作品更有保障感。最终让EOS上的艺术品NFT更加丰富、活跃。这套标准将为传统绘画艺术作品与NFT之间建立一道可靠的桥梁，可能加速传统绘画艺术品向EOS上的NFT市场转移。
+
+  Traditional paintings with physical carriers (such as watercolor paper, oil painting paper, etc.) always face ownership issues after being converted into NFTs, which limits the development of such NFTs on EOS. Our project can solve this problem and better protect the rights and interests of artists and NFT collectors on EOS.
+  
+  Our standard can better distinguish the ownership relationship between the physical carrier artwork and the NFT replica. On the one hand, after artists release their works on EOS, they no longer worry that the processing of the original manuscript may affect the value of the NFT. On the other hand, collectors no longer worry about ownership issues such as original manuscripts may generate new NFTs in other forms after collecting NFTs. A clear ownership relationship can simultaneously allow artists to publish their works on EOS and collectors to have a sense of security when collecting works on EOS. In the end, the artwork NFT on EOS will be richer and more active. This set of standards will establish a reliable bridge between traditional paintings and NFTs, and may accelerate the transfer of TPA to the NFT market on EOS.
 
 - Are there any other projects similar to yours in the EOSIO ecosystem? 
+
   There are no viable open source projects meeting this need.
+  
 ## Team
 ### Team members
 - **Team Leader:** ShuFan
