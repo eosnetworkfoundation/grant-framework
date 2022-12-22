@@ -50,7 +50,8 @@
   -有物理载体（例如水彩纸、油画纸等）的统绘画艺术作品在转换成NFT后的总是面临权属问题，限制了这类NFT在EOS上的发展。我们的项目可以解决这个问题，更好的保护EOS上的艺术家及NFT收藏者的权益。
   -我们的标准可以更好的区分物理载体艺术品与NFT复制品的权属关系，一方面，艺术家在EOS发布他们的作品后，不再担心原创手稿的处理可能影响NFT的价值；另一方面，收藏者也不再担心收藏NFT后，原创手稿可能通过其它形式生成新的NFT再次销售等权属问题。清晰的权属关系，可以同时让艺术家更有在EOS发布作品，及让收藏者在EOS上收藏作品更有保障感。最终让EOS上的艺术品NFT更加丰富、活跃。这套标准将为传统绘画艺术作品与NFT之间建立一道可靠的桥梁，可能加速传统绘画艺术品向EOS上的NFT市场转移。
 
-- Are there any other projects similar to yours in the EOSIO ecosystem? No, and we haven't found there are any similar projects in related ecosystems.
+- Are there any other projects similar to yours in the EOSIO ecosystem? 
+  There are no viable open source projects meeting this need.
 ## Team
 ### Team members
 - **Team Leader:** ShuFan
@@ -107,29 +108,20 @@ The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrat
 | 2. | 创建6件样例作品 | 采用标准v2.0，公开发布至少5件ShuFan NFT的原创传统绘画作品作为样例展示 |
 | 3. | 免费空投给EOS社区感受 | 至少将2件作品免费赠送给EOS社区，感受标准v2.0带来的NFT效果 |
 | 4. | 努力促成至少1件作品的销售 | 尽可能促成至少完成1件作品及原创手稿的销售，完整展示标准v2.0为传统绘画带来的支持作用 |
-| 5. | 创作教程 | $1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 50 EOS. |
-| 6. | 建立专门专用展示及推广网站 | $1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 50 EOS. |
-| 7. | 通过twitter等媒体推广 | $1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 50 EOS. |
-| 8. | 建立免费NFT申请的接口，Pomelo等项目可以免费申请 | 用于Pomelo项目等EOS生态项目免费申请，为项目提供免费的NFT用于生态项目发展$1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 50 EOS. |
-| 9. | 邀请至少1名艺术家加入并使用此标准发布NFT | $1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 50 EOS. |
-| 10. | 通过twitter等媒体推广 | $1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 50 EOS. |
-
+| 5. | 创作教程 | 创作一套公开的教程，指导潜在的艺术家或EOS用户运用此标准创建传统绘画艺术品NFT |
+| 6. | 建立专用展示及推广网站 | 专业专用的网站，用于展示和推广这套标准 |
+| 7. | 通过twitter等媒体推广 | 通过我们的twitter，网站，telegram等等媒体渠道推广这套标准|
+| 8. | 建立免费NFT申请的接口 | 建立一个传统绘画艺术品的免费NFT申请接口，用于Pomelo项目等EOS生态项目免费申请，为Pomelo项目提供免费的NFT用于生态项目发展，同时宣传这套标准 |
+| 9. | 邀请至少1名艺术家加入并使用此标准发布NFT | 结合我们团队的网络资源，邀请至少1名传统绘画艺术家加入EOS，并使用此标准发布NFT |
 
 
 ## Future Plans
 - how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
-- 保持维护和推广，标准的更新及维护的部分资金 
-扩展标准到其它实物艺术品
-将此标准转化为可编程的代码并开源，供EOS上的NFT交易平台等项目使用，并嵌入此功能，以拓展更多的可能
-跟EOS上的NFT平台合作，更好的嵌入此标准并推广
-跟更多艺术家及团队合作，包括艺术品收藏家，博物馆等
-从Pomelo等其它渠道获得更多支持资金，进一步支持标准的完善/推广/增加用户量
+我们团队自身也在发布传统绘画艺术品，我们将用好这套标准，经历通过参加EOS社区活动、与其它团队合作等方式推广、改进这套标准。未来如果在资金和技术上获得足够的支持，我们计划将1）此标准扩展到其它实物艺术品；2）跟EOS上的NFT平台合作，更好的嵌入此标准加入一些衍生功能；3）跟博物馆、艺术馆等合作，开启传统绘画艺术品NFT的新路径。
 
 
 ## Additional Information
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-- Work you have already done. 我们对比了很多NFT平台，发现EOS是最适合艺术品NFT的区块链，类似WAX因为游戏类NFT而闻名于世，但我们认为游戏主导的环境并不是很适合艺术类NFT的发展，这点比不上EOS。关于这套标准我们在发布V1.0前，经历了2个多月的研究、讨论和探索，尝试过的很多方法在易用性、可操作性等方面都容易各方面的限制，多次的失败让我们选择了这样一个简单易用、适用于EOS区块链的标准。
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+**How did you hear about the Grants Program?**: EOS Network Foundation Twitter.
+
+- Work you have already done. 
+  我们对比了很多NFT平台，发现EOS是最适合艺术品NFT的区块链，类似WAX因为游戏类NFT而闻名于世，但我们认为游戏主导的环境并不是很适合艺术类NFT的发展，这点比不上EOS。关于这套标准我们在发布V1.0前，经历了2个多月的研究、讨论和探索，尝试过的很多方法在易用性、可操作性等方面都容易各方面的限制，多次的失败让我们选择了这样一个简单易用、适用于EOS区块链的标准。
