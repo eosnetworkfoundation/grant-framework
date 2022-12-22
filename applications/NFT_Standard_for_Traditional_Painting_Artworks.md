@@ -36,7 +36,7 @@ This standard aims to provide a standardized solution when the TPA by traditiona
   - **Self-certification**. It's based on the self-certification of the artist. No third-party agency support is required, which reduces the trouble caused by third-party certification.
   - **Can not be tampered with**. Artist's handwritten signature + EOS blockchain wallet signature, both have irreversible characteristics, are safe and can withstand the verification of time.
 
-**Promotion of Standard：**
+- **Promotion of Standard：**
   - Promoting this standard within and outside the EOS community is also an important part of this project. The more artists and EOS users understand and use this set of standards, the stronger the consensus will be, and the more details of the feedback to optimize standards. We will adopt multiple ways to promote this set of standards, such as establishing a website, NFT gifts, and Twitter promotion.
 
 ### Ecosystem Fit
@@ -84,14 +84,14 @@ This standard aims to provide a standardized solution when the TPA by traditiona
 - 
 
 ## Development Status
-这是一个比较新的领域，我们早期经过艰苦的摸索，曾发布了一个简易版的标准，习惯称之为 V1.0。
+As this is a relatively new field. After arduous exploration in the early stage, we released a simple version of the standard, which is called V1.0 by habit.
 
-- 我们在2022年7月14日在medium上已经发布[第一个版本（V1.0）](https://shufannft.medium.com/nftart-73952f0f856b#4965)的标准
-- 基于此标准，在Atomichub上发布了一个Schema，https://eos.atomichub.io/explorer/schema/shufan.free/traditional
-- 基于此Schema，已经发布了4件纸质绘画作品
-- 并将其中的2件免费发放给EOS用户，以推广此标准并吸引更多EOS上的NFT玩家
+- We have released [the first version (V1.0) of the NS-TPA on medium]](https://shufannft.medium.com/nftart-73952f0f856b#4965) on July 14, 2022
+- Based on this standard V1.0, we released a [Schema on Atomichub](https://eos.atomichub.io/explorer/schema/shufan.free/traditional) to preprare for NFT template.
+- Based on this Schema, 4 paper paintings have been released.
+- And [drop 2 of them to EOS users for free](https://nftdrop.carrd.co) to promote this standard and attract more NFT players on EOS
 
-这个版本的标准目前依然相对简单且不是很完整，但在Pomelo上已经获得的贡献超过80个，代表了来自EOS社区的热情和支持。我们相信这套标准如果能得到进一步的优化和推广，获得更广泛的采纳和共识，必然会吸引更多艺术家和NFT爱好者的关注EOS。
+This v1.0 of the standard is still relatively simple and incomplete. But [about 89 contributions have been made on Pomelo](https://pomelo.io/grants/nftart) to our project, representing the enthusiasm and support from the EOS community. We believe that if this set of standards can be further optimized and promoted, and gain wider adoption and consensus, it will definitely attract more artists and NFT enthusiasts to EOS.
 
 
 ## Development Roadmap
@@ -103,31 +103,32 @@ The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrat
 - **Full-Time Equivalent (FTE):**  4 FTE
 - **Total Costs:** 50,000 USD
 
-### Milestone 1 — 发布标准的v2.0版本并推广.
+### Milestone 1 — release and promote v2.0 of the standard
 - **Estimated duration:** 3 months
 - **FTE:**  4
 - **Costs:** 50,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1. | 发布标准的v2.0版本 | v2.0相对v1.0是一个更佳美化、规范、完整的标准细，并公开发布 |
-| 2. | 创建6件样例作品 | 采用标准v2.0，公开发布至少5件ShuFan NFT的原创传统绘画作品作为样例展示 |
-| 3. | 免费空投给EOS社区感受 | 至少将2件作品免费赠送给EOS社区，感受标准v2.0带来的NFT效果 |
-| 4. | 努力促成至少1件作品的销售 | 尽可能促成至少完成1件作品及原创手稿的销售，完整展示标准v2.0为传统绘画带来的支持作用 |
-| 5. | 创作教程 | 创作一套公开的教程，指导潜在的艺术家或EOS用户运用此标准创建传统绘画艺术品NFT |
-| 6. | 建立专用展示及推广网站 | 专业专用的网站，用于展示和推广这套标准 |
-| 7. | 通过twitter等媒体推广 | 通过我们的twitter，网站，telegram等等媒体渠道推广这套标准|
-| 8. | 建立免费NFT申请的接口 | 建立一个传统绘画艺术品的免费NFT申请接口，用于Pomelo项目等EOS生态项目免费申请，为Pomelo项目提供免费的NFT用于生态项目发展，同时宣传这套标准 |
-| 9. | 邀请至少1名艺术家加入并使用此标准发布NFT | 结合我们团队的网络资源，邀请至少1名传统绘画艺术家加入EOS，并使用此标准发布NFT |
+| 1. | Release standard v2.0 | Compared with v1.0, v2.0 is a more beautified, standardized, and complete standard detail, and it will be released publicly |
+| 2. | Create 6 sample pieces | Adopt the standard v2.0, and publicly release at least 6 original traditional paintings of ShuFan NFT as samples |
+| 3. | Free drop to the EOS community | Drop at least 2 works to the EOS community for free to experience the NFT effect brought by standard v2.0 |
+| 4. | Strive to facilitate the sale of at least 1 work | Try to sale at least one work and original manuscript, to show the role brought by standard v2.0 |
+| 5. | Create a tutorial | Create a public tutorial to guide potential artists or EOS users to use this standard to create TPA NFT |
+| 6. | Establish a dedicated display and promotion website | A dedicated website to display and promote this standard |
+| 7. | Promotion through twitter and other media | Promote this set of standards through our twitter, website, telegram and other medias |
+| 8. | Create an interface for free NFT applications | Establish a free TPA NFT application interface for EOS ecological projects, such as the Pomelo projects. These free NFTs could be used for the development of these projects, and promote this standard |
+| 9. | Invite at least 1 artist to join and publish NFT using this standard | Through our team's network resources, invite at least 1 traditional painting artist to join EOS, and use this standard to issue NFT |
 
 
 ## Future Plans
-- how you intend to use, enhance, promote and support your project in the short term, and
-我们团队自身也在发布传统绘画艺术品，我们将用好这套标准，经历通过参加EOS社区活动、与其它团队合作等方式推广、改进这套标准。未来如果在资金和技术上获得足够的支持，我们计划将1）此标准扩展到其它实物艺术品；2）跟EOS上的NFT平台合作，更好的嵌入此标准加入一些衍生功能；3）跟博物馆、艺术馆等合作，开启传统绘画艺术品NFT的新路径。
+As our team is also publishing TPA on EOS, we will make good use of this set of standards, through participating in EOS community activities, cooperating with other teams, etc. to promote and improve this set of standards. If we get enough financial and technical support in the future, we plan to 1) extend this standard to other physical artworks; 2) Cooperate with the NFT platform on EOS to better embed this standard and add some derivative functions; 3) Cooperate with museums, art galleries, etc. opens a new path for NFT of TPA.
 
 
 ## Additional Information
 **How did you hear about the Grants Program?**: EOS Network Foundation Twitter.
 
 - Work you have already done. 
-  我们对比了很多NFT平台，发现EOS是最适合艺术品NFT的区块链，类似WAX因为游戏类NFT而闻名于世，但我们认为游戏主导的环境并不是很适合艺术类NFT的发展，这点比不上EOS。关于这套标准我们在发布V1.0前，经历了2个多月的研究、讨论和探索，尝试过的很多方法在易用性、可操作性等方面都容易各方面的限制，多次的失败让我们选择了这样一个简单易用、适用于EOS区块链的标准。
+
+We compared many NFT platforms and found that EOS is the most suitable blockchain for artwork NFT. WAX blockchain is famous for game NFT, but we think the environment dominated by games is not very suitable for art as EOS. Regarding this set of standards, we have gone through more than two months of research, discussion and exploration before releasing V1.0. Many of the methods we have tried are prone to limitations in various aspects, such as ease of use and operability. Failure led us to choose such an easy-to-use standard for TPA NFTs on EOS.
+
