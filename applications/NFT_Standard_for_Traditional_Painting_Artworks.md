@@ -31,7 +31,7 @@ This standard aims to provide a standardized solution when the TPA by traditiona
   - The NFT Template is signed by the artist's EOS account.
 
 - **Standard Features**: 
-  - **Easy to learn**. The steps to complete this standard are simple, and each artist only needs to learn and operate easily. 
+  - **Easy to learn**. The steps to complete this standard are simple, and each artist can use easily after a simple learning. 
   - **Easy to identify**. This set of standards is template-based, easy to identify, and easy to reach consensus on.
   - **Self-certification**. It's based on the self-certification of the artist. No third-party agency support is required, which reduces the trouble caused by third-party certification.
   - **Can not be tampered with**. Artist's handwritten signature + EOS blockchain wallet signature, both have irreversible characteristics, are safe and can withstand the verification of time.
@@ -42,7 +42,7 @@ This standard aims to provide a standardized solution when the TPA by traditiona
 ### Ecosystem Fit
 - Where and how does your project fit into the ecosystem?
 
-   Just as we analyzed in [our project on Pomelo](https://pomelo.io/grants/nftart). According to the masterworks report. In 2020, the global painting transaction value has exceeded 50 billion US dollars, the transaction volume has exceeded 30 million. And [the estimated value of the online art market worldwide in 2021](https://www.statista.com/statistics/284586/global-online-art-market-sales-2013/) is $13.59 Billion. The market potential is really huge! The excellent performance of NFT on the EOS blockchain is second to none in the industry. Successfully occupying this market first will greatly change the ecological development and market value of EOS.
+   Just as we analyzed in [our project on Pomelo](https://pomelo.io/grants/nftart). According to the masterworks report. In 2020, the global painting transaction value has exceeded 50 billion US dollars, the transaction volume has exceeded 30 million. And [the estimated value of the online art market worldwide in 2021](https://www.statista.com/statistics/284586/global-online-art-market-sales-2013/) is $13.59 Billion. The market potential is really huge! The excellent performance of NFT on the EOS blockchain is second to none in the industry. Successfully occupying this market first will greatly change the ecological development and market value of artwork NFT on EOS.
 
 - Who is your target audience?
 
@@ -52,7 +52,7 @@ This standard aims to provide a standardized solution when the TPA by traditiona
 
   Traditional paintings with physical carriers (such as watercolor paper, oil painting paper, etc.) always face ownership issues after being converted into NFTs, which limits the development of such NFTs on EOS. Our project can solve this problem and better protect the rights and interests of artists and NFT collectors on EOS.
   
-  Our standard can better distinguish the ownership relationship between the physical carrier artwork and the NFT replica. On the one hand, after artists release their works on EOS, they no longer worry that the processing of the original manuscript may affect the value of the NFT. On the other hand, collectors no longer worry about ownership issues such as original manuscripts may generate new NFTs in other forms after collecting NFTs. A clear ownership relationship can simultaneously allow artists to publish their works on EOS and collectors to have a sense of security when collecting works on EOS. In the end, the artwork NFT on EOS will be richer and more active. This set of standards will establish a reliable bridge between traditional paintings and NFTs, and may accelerate the transfer of TPA to the NFT market on EOS.
+  Our standard can better distinguish the ownership relationship between the physical carrier artwork and the NFT replica. On the one hand, after artists release their works on EOS, they no longer worry that the processing of the original manuscript may affect the value of the NFT. On the other hand, collectors no longer worry about ownership issues such as original manuscripts may generate new NFTs in other forms after collecting NFTs. A clear ownership relationship can simultaneously allow artists to publish their works on EOS and collectors to have a sense of security when collecting works on EOS. In the end, the artwork NFT on EOS will be richer and more active. This set of standards will establish a reliable bridge between traditional paintings and NFTs, and may accelerate the transfer of traditional painting artworks to the NFT market on EOS.
 
 - Are there any other projects similar to yours in the EOSIO ecosystem? 
 
@@ -67,8 +67,8 @@ This standard aims to provide a standardized solution when the TPA by traditiona
 - **Registered Legal Entity:** N/A
 - **Registered Address:** N/A
 
-### Team Experience （Done）
-- ShuFan NFT is a professional team that creates and operates drawing NFTs. As the core creator of the team, ShuFan has more than 10 years of experience in painting creation and is a senior painting creation artist. The team has been operating the painting NFT project on EOS for more than 18 months, released more than 140 original works, and generated more than 2,000 NFTs.
+### Team Experience
+- ShuFan NFT is a professional team that creates and operates drawing NFTs. As the core creator of the team, ShuFan has more than 10 years of experience in painting creation and is a senior painting creation artist. The team has experience in art operations, and has been operating the painting NFT project on EOS for more than 18 months, released more than 140 original works, and generated more than 2,000 NFTs.
 - The team has applied for a Pomelo grant for this project, named [NFT Standard for Traditional Painting Art Works](https://pomelo.io/grants/nftart). And published [the 1.0 version of this standard](https://shufannft.medium.com/nftart-73952f0f856b) on our Medium in Jul 14, 2022. In order to implement this standard, we [created a Schema and released 4 paintings](https://eos.atomichub.io/explorer/schema/shufan.free/traditional) on AtomicHub。But we think the 1.0 version of this standard needs to be improved.
 - We have always been the leading team of painting NFT on EOS, and have explored many functions on EOS, like Whitelist Drop ([Sample](https://eos.atomichub.io/drops/217)) and other functions. Keeping a close cooperative relationship with well-known teams on EOS such as EOS Nation and EOS support, having our own [Web](https://shufannft.carrd.co/), [twitter](https://twitter.com/ShuFanNFT), [telegram](https://t.me/ShuFanNFT) and other medias. We also applied for a Pomelo grant for another project, named “[ShuFan NFT Art](https://pomelo.io/grants/shufannft)”，aimed to promote the advantages of NFTs on EOS via painting NFT.
 
@@ -81,26 +81,25 @@ This standard aims to provide a standardized solution when the TPA by traditiona
 - https://github.com/IllustrationArtist
 
 ### Team LinkedIn Profiles (if available)
-- 
+
 
 ## Development Status
 As this is a relatively new field. After arduous exploration in the early stage, we released a simple version of the standard, which is called V1.0 by habit.
 
-- We have released [the first version (V1.0) of the NS-TPA on medium]](https://shufannft.medium.com/nftart-73952f0f856b#4965) on July 14, 2022
+- We have released [the first version (V1.0) of the NS-TPA on medium](https://shufannft.medium.com/nftart-73952f0f856b#4965) on July 14, 2022.
 - Based on this standard V1.0, we released a [Schema on Atomichub](https://eos.atomichub.io/explorer/schema/shufan.free/traditional) to preprare for NFT template.
 - Based on this Schema, 4 paper paintings have been released.
-- And [drop 2 of them to EOS users for free](https://nftdrop.carrd.co) to promote this standard and attract more NFT players on EOS
+- And [drop 2 of them to EOS users for free](https://nftdrop.carrd.co) to promote this standard and attract more NFT players on EOS.
 
 This v1.0 of the standard is still relatively simple and incomplete. But [about 89 contributions have been made on Pomelo](https://pomelo.io/grants/nftart) to our project, representing the enthusiasm and support from the EOS community. We believe that if this set of standards can be further optimized and promoted, and gain wider adoption and consensus, it will definitely attract more artists and NFT enthusiasts to EOS.
 
 
 ## Development Roadmap
-**Creation and Marketing Roadmap**
-The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrations, 2) add at least 80 twitter followers, 3) NFT sales exceeding 120 EOS.
+Release and promote v2.0 of the standard
 
 ### Overview
 - **Total Estimated Duration:** 3 months
-- **Full-Time Equivalent (FTE):**  4 FTE
+- **Full-Time Equivalent (FTE):**  4 
 - **Total Costs:** 50,000 USD
 
 ### Milestone 1 — release and promote v2.0 of the standard
@@ -128,7 +127,7 @@ As our team is also publishing TPA on EOS, we will make good use of this set of 
 ## Additional Information
 **How did you hear about the Grants Program?**: EOS Network Foundation Twitter.
 
-- Work you have already done. 
+- Work we have already done. 
 
-We compared many NFT platforms and found that EOS is the most suitable blockchain for artwork NFT. WAX blockchain is famous for game NFT, but we think the environment dominated by games is not very suitable for art as EOS. Regarding this set of standards, we have gone through more than two months of research, discussion and exploration before releasing V1.0. Many of the methods we have tried are prone to limitations in various aspects, such as ease of use and operability. Failure led us to choose such an easy-to-use standard for TPA NFTs on EOS.
+We compared many NFT platforms and found that EOS is the most suitable blockchain for artwork NFT. WAX blockchain is famous for game NFT, but we think the environment dominated by games is not very suitable for art as on EOS. Regarding this set of standards, we have gone through more than two months of research, discussion and exploration before releasing V1.0. Many of the methods we have tried are prone to limitations in various aspects, such as ease of use and operability. Failure led us to choose such an easy-to-use standard for TPA NFTs on EOS.
 
