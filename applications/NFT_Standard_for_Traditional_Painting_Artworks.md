@@ -16,50 +16,41 @@
 
 ## Project Overview
 ### Overview
-- **Name:** NFT Standard for Traditional Painting Artworks
-- **Brief Description:** EOS上的传统绘画艺术作品的NFT标准，是基于EOS卓越的NFT性能，及艺术作品的巨大市场潜力，开发一个适用于传统绘画艺术作品特征的专属NFT标准，以更好的展示其原创属性、收藏价值，并保护艺术家和收藏者的艺术版权。以下简称 NS-TPA。
-- **Relationship to EOSIO:** 一种基于EOS区块链功能的公共设施，为艺术家在EOS上以NFT的形式发布他们的传统绘画艺术作品提供一个合适的专属标准。为EOS用户和项目团队提供保护其传统绘画艺术作品生成的NFT的所有权和价值的参考依据。
-- **Reason for Interest:** 简单而统一的标准可以吸引更多艺术家、EOS用户及项目团队参与传统绘画艺术作品NFT的创作、收藏和二次开发，进一步，可以增加EOS生态NFT的活跃度和用户量，并让EOS服务更多的线下艺术家。它也可以提升ShuFan NFT在EOS社区NFT领域的声誉，并增加我们发布的传统绘画艺术作品NFT作品的知名度和销售量。
+- **Name:** NFT Standard for Traditional Painting Artworks（以下简称 NS-TPA。）
+- **Brief Description:** 一套结合EOS区块链上的NFT功能，适用于传统绘画艺术作品特征的专属NFT标准，保护艺术家和收藏者的艺术版权，并更好地展示传统绘画的原创属性、收藏价值。协助将传统绘画艺术作品的这一巨大的NFT市场潜力引入EOS生态。
+- **Relationship to EOSIO:** 这套标准结合了EOS区块链上的NFT功能，是一种EOS上的公共设施，可以为EOS用户和项目团队提供保护其传统绘画艺术作品NFT的所有权和价值提供关键的行业标准和参考依据。这套标准也有利于展示EOS区块链上的NFT体现出的卓越性能，
+- **Reason for Interest:** 我们是EOS上传统绘画转换为NFT的拓荒者，建立这套标准，1）可以解决我们发布的传统绘画作品NFT在EOS遇到的问题；2）提升ShuFan NFT在EOS社区的声誉，并增加我们作品的影响力；3）服务更多的线下艺术家，吸引更多艺术家、EOS用户及项目团队参与传统绘画艺术作品NFT的创作、收藏，增加EOS生态NFT的活跃度和用户量。
 
 ### Project Details
-此标准旨在为传统绘画艺术家的作品转化为NFT提供一个标准化的解决方案，解决绘画作品的原始手稿（Original manuscript of the painting. Hereinafter referred to as the manuscript）在转换为NFT后面临的版权归属上的挑战。
+此标准旨在为传统绘画艺术家的作品在EOS上转化为NFT时提供一个标准化的解决方案，解决绘画作品的原始手稿（Original manuscript of the painting. Hereinafter referred to as the manuscript）在转换为NFT后面临的版权归属上的挑战。
 
 标准的核心内容：
-1.一段精简的纸质声明，用于表明手稿执行了NS-TPA。我们也将草拟一份模板用于参照执行。
-2.贴在作品背后并艺术家签字+盖骑缝章
-3.上传生成Templete，并声明第一件作品与原稿相关（有些平台没有template，不一定是第一个mint）
-4.邮寄问题及记录
-对此要拟定完整的细节，确保权益，减少争议。
-
-标准的宣传推广：
-宣传推广，让更多NFT收藏者了解，让艺术家了解并上传他们的作品
-需要不断的优化细节，实时反馈修改，
+1.一段精简的纸质声明，表明手稿执行了NS-TPA。
+2.声明贴在作品背面，并由艺术家手写签字+盖骑缝章
+3.上传生成NFT Templete时，添加一个电子声明，表明此NFT执行了NS-TPA，Mint #1与原件绑定关系。
+4.由艺术家的EOS账户对此NFT Template完成签名。
 
 标准的特征：
-每位艺术家都能比较容易的做到
-这套标准有简单，基于模板，更容易识别并达成共识
-易操作，声明贴于原稿的背面；在Mint1明确采用此标准并与原稿绑定
-经得起验证，基于区块链不可逆特征，与NFT关联在一起
-无需第三方认证的特征，基于艺术家的自认证，无需第三方机构支持。
+容易学习。此标准的完成的步骤简单，每位艺术家只需简单的学习就容易操作。
+容易识别。这套标准有简单，基于模板，更容易识别并达成共识
+自我认证。基于艺术家的自我认证，无需第三方机构支持。减少了第三方认证带来的麻烦。
+不可篡改。艺术家手写签名+EOS区块链钱包签名，均具有不可逆特征，安全且经得起时间的验证。
+
+标准的宣传推广：
+在EOS社区内外推广此标准也是这个项目的重要内容。越多的艺术家和EOS用户了解并使用这套标准，才具有更强的共识，也才能体现此标准的意义，也才能获得更多反馈优化标准的细节。我们将采取建立网站、NFT赠送、Twitter发布等多重方式推广这套标准。
 
 ### Ecosystem Fit
 - Where and how does your project fit into the ecosystem?
-  - 应用我们的标准（项目），在EOS上发布他们的传统绘画艺术品NFT，可以更好的保护艺术家及NFT收藏者的权益。我们的标准可以更好的区分物理载体艺术品与NFT复制品的权属关系，一方面，艺术家在EOS发布他们的作品后，不再担心原创手稿的处理可能影响NFT的价值；另一方面，收藏者也不再担心收藏NFT后，原创手稿可能通过其它形式生成新的NFT再次销售等权属问题。清晰的权属关系，可以同时让艺术家更有在EOS发布作品，及让收藏者在EOS上收藏作品更有保障感。最终让EOS上的艺术品NFT更加丰富、活跃。
-- Just as we analyzed in [our project on Pomelo](https://pomelo.io/grants/nftart). According to the masterworks report. In 2020, the global painting transaction value has exceeded 50 billion US dollars, the transaction volume has exceeded 30 million. And [the estimated value of the online art market worldwide in 2021](https://www.statista.com/statistics/284586/global-online-art-market-sales-2013/) is $13.59 Billion. The market potential is really huge!
-- With the empowerment of NFT, the market potential of traditional paintings and artworks will be further stimulated.
-- EOS如果能抢先占领这个市场，将给EOS的生态发展和市场价值的极大改变。而这套标准将加速实现这一点，为传统绘画作品与NFT之间建立一道可靠的桥梁。
+   - Just as we analyzed in [our project on Pomelo](https://pomelo.io/grants/nftart). According to the masterworks report. In 2020, the global painting transaction value has exceeded 50 billion US dollars, the transaction volume has exceeded 30 million. And [the estimated value of the online art market worldwide in 2021](https://www.statista.com/statistics/284586/global-online-art-market-sales-2013/) is $13.59 Billion. The market potential is really huge! EOS区块链上的NFT体现出的卓越性能是行业首屈一指的。成功抢先占领这个市场，将给EOS的生态发展和市场价值的极大改变。
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-  - -1）绘画艺术家；2）EOS 用户，包括任何NFT收藏者用户和团队
+  - 1）绘画艺术家；2）EOS 用户，包括任何NFT收藏者用户和团队
 
 - What need(s) does your project meet?
-  -有物理载体（例如水彩纸、油画纸等）的统绘画艺术作品在转换成NFT后的总是面临权属问题，限制了这类NFT在EOS上的发展。我们的项目可以解决这个问题，吸引更多艺术家和NFT收藏者进入EOS生态，促进传统绘画艺术品NFT在EOS更快速的发展。
+  -有物理载体（例如水彩纸、油画纸等）的统绘画艺术作品在转换成NFT后的总是面临权属问题，限制了这类NFT在EOS上的发展。我们的项目可以解决这个问题，更好的保护EOS上的艺术家及NFT收藏者的权益。
+  -我们的标准可以更好的区分物理载体艺术品与NFT复制品的权属关系，一方面，艺术家在EOS发布他们的作品后，不再担心原创手稿的处理可能影响NFT的价值；另一方面，收藏者也不再担心收藏NFT后，原创手稿可能通过其它形式生成新的NFT再次销售等权属问题。清晰的权属关系，可以同时让艺术家更有在EOS发布作品，及让收藏者在EOS上收藏作品更有保障感。最终让EOS上的艺术品NFT更加丰富、活跃。这套标准将为传统绘画艺术作品与NFT之间建立一道可靠的桥梁，可能加速传统绘画艺术品向EOS上的NFT市场转移。
 
-- Are there any other projects similar to yours in the EOSIO ecosystem?
-  -无，
-  - If not, are there similar projects in related ecosystems?
-  - 尚未发现其它区块链系统有类似的项目。
-
+- Are there any other projects similar to yours in the EOSIO ecosystem? No, and we haven't found there are any similar projects in related ecosystems.
 ## Team
 ### Team members
 - **Team Leader:** ShuFan
@@ -86,15 +77,14 @@
 - 
 
 ## Development Status
-我们更早期经历了更多的探索，最终结合EOS上NFT的功能特征，探索出一个简单易操作的标准。
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
+这是一个比较新的领域，我们早期经过艰苦的摸索，曾发布了一个简易版的标准，习惯称之为 V1.0。
 
 - 我们在2022年7月14日在medium上已经发布[第一个版本（V1.0）](https://shufannft.medium.com/nftart-73952f0f856b#4965)的标准
 - 基于此标准，在Atomichub上发布了一个Schema，https://eos.atomichub.io/explorer/schema/shufan.free/traditional
 - 基于此Schema，已经发布了4件纸质绘画作品
 - 并将其中的2件免费发放给EOS用户，以推广此标准并吸引更多EOS上的NFT玩家
 
-- 这个项目目前依然还在早期的阶段，但在Pomelo上已经获得的贡献超过80个，代表了来自EOS社区的热情和支持。这个项目有可能为EOS引来更多的艺术家，并促进艺术品NFT在EOS上出现爆发式增长。所以，我们希望进一步优化这项标准的细则，并以一种更规范的方式展示这个标准，吸引更多艺术家和NFT爱好者的关注。
+这个版本的标准目前依然相对简单且不是很完整，但在Pomelo上已经获得的贡献超过80个，代表了来自EOS社区的热情和支持。我们相信这套标准如果能得到进一步的优化和推广，获得更广泛的采纳和共识，必然会吸引更多艺术家和NFT爱好者的关注EOS。
 
 
 ## Development Roadmap
@@ -113,10 +103,10 @@ The 2 milestones (2 months duration) are to: 1) release at least 6 new illustrat
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1. | v2.0版本发布 | 相对v1.0是一个更佳美化、规范的版本，完善标准细则并公开，$2,000 to support ShuFan's illustration creation, she can focus more on painting creation to create more high-quality illustration artworks. Complete the creation of at least 3 illustrations. Key result: release at least 3 new illustration NFT templetes on https://eos.atomichub.io/profile/shufan.free#listings |
-| 2. | 创建6件样例作品 | 发布ShuFan NFT的作品.$1,500 to support media promotion, through daily tweets, article tweets, giveaway and other activities, let more people know what ShuFan NFT is, what it is useful for, how to trade, why choose EOS to publish, etc. Key result: add at least 50 real twitter followers. |
-| 3. | 免费空投给EOS社区感受| 至少免费赠送2件作品。$1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 70 EOS. |
-| 4. | 促成至少1件作品的销售 | $1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 50 EOS. |
+| 1. | 发布标准的v2.0版本 | v2.0相对v1.0是一个更佳美化、规范、完整的标准细，并公开发布 |
+| 2. | 创建6件样例作品 | 采用标准v2.0，公开发布至少5件ShuFan NFT的原创传统绘画作品作为样例展示 |
+| 3. | 免费空投给EOS社区感受 | 至少将2件作品免费赠送给EOS社区，感受标准v2.0带来的NFT效果 |
+| 4. | 努力促成至少1件作品的销售 | 尽可能促成至少完成1件作品及原创手稿的销售，完整展示标准v2.0为传统绘画带来的支持作用 |
 | 5. | 创作教程 | $1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 50 EOS. |
 | 6. | 建立专门专用展示及推广网站 | $1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 50 EOS. |
 | 7. | 通过twitter等媒体推广 | $1,500 to support marketing campaign. Attract more collectors to buy NFTs through new illustration NFT launch activities, daily marketing, mystery box promotions and other activities. Key result: NFT sales exceeding 50 EOS. |
