@@ -127,7 +127,7 @@ As our team is also publishing TPA on EOS, we will make good use of this set of 
 ## Additional Information
 **How did you hear about the Grants Program?**: EOS Network Foundation Twitter.
 
-- Work we have already done. 
+- Work we have already done 
 
 We compared many NFT platforms and found that EOS is the most suitable blockchain for artwork NFT. WAX blockchain is famous for game NFT, but we think the environment dominated by games is not very suitable for art as on EOS. Regarding this set of standards, we have gone through more than two months of research, discussion and exploration before releasing V1.0. Many of the methods we have tried are prone to limitations in various aspects, such as ease of use and operability. Failure led us to choose such an easy-to-use standard for TPA NFTs on EOS.
 
