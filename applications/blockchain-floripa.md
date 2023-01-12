@@ -1,7 +1,7 @@
 # EOS Network Foundation Grant Proposal
 
-- **Project Name:** Blockchain Floripa
-- **Team Name:** Blockchain Floripa
+- **Project Name:** Blockchain Floripa: Creating EOS Communities & Huge Events
+- **Team Name:** Blockchain Floripa: Creating EOS Communities & Huge Events
 - **EOS Payment Address:** lawesomesauc
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
 - **Pomelo Grant(s):** https://pomelo.io/grants/floripaday2
