@@ -64,8 +64,8 @@ This standard aims to provide a standardized solution when the TPA by traditiona
 - Jack
 
 ### Legal Structure
-- **Registered Legal Entity:** N/A
-- **Registered Address:** N/A
+- **Registered Legal Entity:** Meta NFT Lab
+- **Registered Address:** 138 Market St, #40-01 Capita Green, Singapore
 
 ### Team Experience
 - ShuFan NFT is a professional team that creates and operates drawing NFTs. As the core creator of the team, ShuFan has more than 10 years of experience in painting creation and is a senior painting creation artist. The team has rich experience in art operations, and has been operating the painting NFT project on EOS for more than 18 months, released more than 140 original works, and generated more than 2,000 NFTs.
