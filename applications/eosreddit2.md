@@ -1,40 +1,29 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-> 
-> Please do not remove any of the mandatory lines that start with **bold labels** or as headlines! Your application will be rejected!
->
-> Please do not remove the bolding of labels (such as **Team Name:** ) as it is needed by the automated parsers - that includes the bolding on lines starting with a bullet as part of a list.
-> 
-> Please note that this application will be **automatically parsed**.  Please only put the data required in the fields following the bolded labels (such as **Team Name:**.
->
-> Deleting lines that start with **Bold Labels:** will cause your grant to be rejected! Please fill this out carefully if you want to be approved!
->
-> All lines starting with a `>` (such as this one and the ones above and below) should be removed.
-
-- **Project Name:** Name of your project (e.g. Anchor Wallet)
-- **Team Name:** Legal name of your team (e.g. Greymass, Inc.)
-- **EOS Payment Address:** EOS payment address
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
-- **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
-- **Project is Open-Source:** Yes/No
-- **Project was part of Token sale:** Yes/No
-- **Repository where Project resides:** https://github.com/<your_organisation>/<project_repo>
-> Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
+- **Project Name:** EOS VISIONS 
+- **Team Name:** Creamy Vainilla C.A
+- **EOS Payment Address:** eosvisionorg
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
+- **Pomelo Grant(s):** https://pomelo.io/grants/eosvision
+- **Project is Open-Source:** Yes
+- **Project was part of Token sale:** No
+- **Repository where Project resides:** https://github.com/eosvision1
 
 ## Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** myemail@mycompany.com
-- **Website:** https://yourwebsite.com
+- **Contact Name:** Verónica Coromoto Díaz Duran.
+- **Contact Email:** veronica14diazdiaz@gmail.com
+- **Website:** (https://eosvision.io/)
 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview
 
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
+- **Name:** EOS VISION x REDDIT AND FACEBOOK
+- **Brief Description:** Welcome to EOS REDDIT 2.0, the new stage of EOS REDDIT, where we will be able to turn the old, lonely and depressed Reddit into a new way of reading the news and giving constructive opinions. Our trained team prepares to work on 3 Fundamental Pillars, offering a new face to Reddit, as well as providing new alternatives and attention to users with a misconception of EOS. Let's get ready to interact in all of Reddit in a respectful way, not only in the official EOS Reddit, trying to give a good marketing to what is being developed in EOS, reaching other Subreddits informing in a simple way developments, processes, improvements and projects that we have within the ecosystem.
+- **Relationship to EOSIO:** We prepare to promote the EOS and EOSIO community in the best possible way, with good marketing, as well as to demonstrate that the work that is done together between the blockchains has borne fruit and momentum to EOSIO. Reddit has an extensive number of users who will not hesitate to look at the information related to EOS AND EOSIO.
+- **Reason for Interest:** EOS VISION proposes to support the EOS community on Reddit, which has 97.7k members, is being one of the largest EOS communities, it is also the one with the most FUD of all EOS, since a couple of years, It has been a bit abandoned, and has been recovering thanks to the team of EOS SUPPORT and EOS BEES. We have seen how necessary and important this social network can be to attract both new users and new projects, so we propose to support Reddit.
+
 
 ### Overview
 
