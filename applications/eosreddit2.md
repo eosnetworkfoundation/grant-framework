@@ -18,21 +18,14 @@
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview
+Educate and inform the world of cryptocurrencies about the latest events on EOS and its technological improvements, generate active use of Reddit by promoting the adoption of EOS, promoting the different content of interest to users on Reddit and Facebook.
+
+### Overview
 
 - **Name:** EOS VISION x REDDIT AND FACEBOOK
 - **Brief Description:** Welcome to EOS REDDIT 2.0, the new stage of EOS REDDIT, where we will be able to turn the old, lonely and depressed Reddit into a new way of reading the news and giving constructive opinions. Our trained team prepares to work on 3 Fundamental Pillars, offering a new face to Reddit, as well as providing new alternatives and attention to users with a misconception of EOS. Let's get ready to interact in all of Reddit in a respectful way, not only in the official EOS Reddit, trying to give a good marketing to what is being developed in EOS, reaching other Subreddits informing in a simple way developments, processes, improvements and projects that we have within the ecosystem.
 - **Relationship to EOSIO:** We prepare to promote the EOS and EOSIO community in the best possible way, with good marketing, as well as to demonstrate that the work that is done together between the blockchains has borne fruit and momentum to EOSIO. Reddit has an extensive number of users who will not hesitate to look at the information related to EOS AND EOSIO.
 - **Reason for Interest:** EOS VISION proposes to support the EOS community on Reddit, which has 97.7k members, is being one of the largest EOS communities, it is also the one with the most FUD of all EOS, since a couple of years, It has been a bit abandoned, and has been recovering thanks to the team of EOS SUPPORT and EOS BEES. We have seen how necessary and important this social network can be to attract both new users and new projects, so we propose to support Reddit.
-
-
-### Overview
-
-> Please provide the following:
-
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
 
 ### Project Details
 
