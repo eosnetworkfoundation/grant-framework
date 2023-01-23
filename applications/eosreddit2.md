@@ -53,40 +53,46 @@ Educate and inform the world of cryptocurrencies about the latest events on EOS 
 
 ## Team
 
-### Team members
-
-- **Team Leader:** Name of team leader
-- Name of team member 1
-- Name of team member 2
-- Name of team member 3, etc.
+ **Team Leader:** 
+- Verónica Díaz
+- Nelson Aular
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity. (e.g. Greymass, Inc.)
-- **Registered Address:** Address of your registered legal entity. Please keep it in a single line. (e.g. 123 Main Street, London LK1 234, UK)
+- **Registered Legal Entity:** It is currently being legalized, for now we have the Creamy Vanilla C.A registry.
+- **Registered Address:** Venezuela Cojedes, San Carlos. C-165
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
+-Verónica Díaz
+  - Founder of Creamy Vanilla the first Smoothies store in EOS. Just like the Vanill Creamy collection on AtomicHub.
+  - Community Manager of EOSTARTER.
+  - Working bee and administrator in EOS BEES in Spanish.
+  - Active Eden member.
+  - Defibox administrator in Spanish.
+  - Ambassador of EOS SUPPORT in Spanish.
+  - Discord Manager of Function Loops Club (International Producer.)
+  - And moderator of different channels and social networks (EOS COMMUNITY DISCORD, EOS FACEBOOK, EOS REDDIT, EOS TELEGRAM AND EDEN ON EOS)
 
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+-Nelson Aular
+  - Social Media and CM of EOS VISION.
+  - Co-founder of Eos- Español and community manager.
+  - Defibox moderator in Spanish.
+  - And moderator of different channels and social networks (EOS FACEBOOK, EOS REDDIT, EOS VISION TELEGRAM)
+
 
 ### Team Org Repos
 
-- https://github.com/<your_organization>
-- https://github.com/<your_organization>/<project_1>
-- https://github.com/<your_organization>/<project_2>
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+- [https://github.com/<your_organization>](https://github.com/eosvision1)
 
 ### Team Member Repos
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+-https://github.com/Creamyvanill
+-https://github.com/nelsonaularq
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/ver%C3%B3nica-d%C3%ADaz-duran-6bbaa123a/
+- https://www.linkedin.com/mwlite/in/nelson-aular-a137b2259
 
 ## Development Status
 
