@@ -75,7 +75,7 @@ I hope you can help us make this dream a reality, we already have a base-communi
 
 ### Legal Structure
 - **Registered Legal Entity:** BLOCKCHAINF LLP
-- **Registered Address:** 27, Old Gloucester Street, London, WC1N 3AX, United Kingdom (This is a UK registered LLP - Registration has commenced with Companies' House and will be completed by 30 January 2023)
+- **Registered Address:** 27, Old Gloucester Street, London, WC1N 3AX, United Kingdom (This is a UK registered LLP)
 
 ### Team Experience
 
