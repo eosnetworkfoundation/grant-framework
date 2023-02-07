@@ -140,7 +140,7 @@ https://github.com/defiboxswap
 - **Pomelo资助：** https://pomelo.io/grants/vault
 - **项目是开源的：** 是*
 - **项目是代币销售的一部分：** 否
-- **项目资源库：** https://github.com/DefiboxTeam/DefiboxVault-interface
+- **项目资源库：** https://github.com/defiboxswap/DefiboxVault-interface
 
 ### 联系人
 - **联系人姓名：** Raven
