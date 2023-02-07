@@ -7,7 +7,7 @@
 - **Pomelo Grant(s):** https://pomelo.io/grants/vault
 - **Project is Open-Source:** Yes*
 - **Project was part of Token sale:** No
-- **Repository where Project resides:** https://github.com/DefiboxTeam/DefiboxVault-interface
+- **Repository where Project resides:** https://github.com/defiboxswap/DefiboxVault-interface
 > Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
 
 ## Contact
