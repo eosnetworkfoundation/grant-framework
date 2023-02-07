@@ -72,6 +72,9 @@ Compared to other DID domain projects, EVMNS has a special feature. Benefited fr
 ### Team Experience
 The core members of EVMNS Labs are the first ecological participants of EOS, who experienced and witnessed the launch of EOS and are still deeply involved in the ecological construction.<br/><br/>
 Team members have participated in several medium to large scale EOS projects before and after, and also developed ENS (Ethereum Name Service) related domain Exchange, domain bulk registry protocol, etc. We are not only EOS loyalists, but also ENS heavy players, with good understanding of DID domain naming system.<br/><br/>
+### Team Member Repos
+- Allen Harris,https://github.com/sutaiyi
+- Frank Lee,https://github.com/chenminmin4
 # Development Roadmap
 ### Milestone Summary
 - **Total Estimated Duration:** 12 weeks
