@@ -71,10 +71,11 @@ Compared to other DID domain projects, EVMNS has a special feature. Benefited fr
 - **Registered Address:** 5001 Beach Road#07-37, Golden Mile Complex, Singapore 199588<br/>
 ### Team Experience
 The core members of EVMNS Labs are the first ecological participants of EOS, who experienced and witnessed the launch of EOS and are still deeply involved in the ecological construction.<br/><br/>
-Team members have participated in several medium to large scale EOS projects before and after, and also developed ENS (Ethereum Name Service) related domain Exchange, domain bulk registry protocol, etc. We are not only EOS loyalists, but also ENS heavy players, with good understanding of DID domain naming system.<br/><br/>
+Team members have participated in several medium to large scale EOS projects before and after, and also developed ENS (Ethereum Name Service) related domain Exchange, domain bulk registry protocol, etc. We are not only EOS loyalists, but also ENS heavy players, with good understanding of DID domain naming system.<br/>
 ### Team Member Repos
-- Allen Harris,https://github.com/sutaiyi
-- Frank Lee,https://github.com/chenminmin4
+- Allen Harris, https://github.com/sutaiyi
+- Frank Lee, https://github.com/chenminmin4
+
 # Development Roadmap
 ### Milestone Summary
 - **Total Estimated Duration:** 12 weeks
@@ -155,6 +156,7 @@ Team members have participated in several medium to large scale EOS projects bef
 Multi-chain ecology is the focus of the second phase of development, and we will prioritize the completion of the first phase of development (the above five milestones) to maximize the assurance that EVMNS can be launched and run stably at the first time after the official launch of EVM.<br/><br/>
 Therefore, the development content, duration and cost of the multi-chain ecology will be separately defined before the launch of the second phase.<br/><br/>
 # Future Plans
+- Miltiple rounds of in-depth testing will be carried out first after the testnet is deployed. When all the problems found in the test are fixed, we will start the security audit of the smart contract to further ensure security. On the premise that the security audit is completely passed, it will finally be deployed to the mainnet and the project will be officially launched.It is estimated that it will take about 1 month to complete the above items.<br/><br/>
 - We will build EVMNS DAO, realize community management, and promote the implementation of decentralized operation and R&D of EVMNS.<br/><br/>
 - Register WEB2 domain with .evm suffix with DNS operators for domain resolution and binding services for traditional browsers so that users can directly access websites/personal homepages corresponding to .evm domain in Chrome, Edge and other browsers to achieve good interoperability between WEB3 and WEB2.<br/><br/>
 - Develop EOS plug-ins and browser plug-ins belonging to EVMNS to help users manage their EVMNS domains more easily through plug-ins, quick access, collection management of EVMNS domains of other users, etc.<br/><br/>
