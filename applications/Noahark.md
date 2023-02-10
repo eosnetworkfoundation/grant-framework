@@ -222,9 +222,9 @@ Noahark 是一个专注于DeFi协议开发和运营的全球区块链团队。�
 
 ### 团队成员资源库
 
-- https://github.com/NoaharkEVM <team_leader_Noahark>
-- https://github.com/shui1523 <team_member_Sky>
-- https://github.com/infinityhacker <team_member_Yudan>
+- https://github.com/NoaharkEVM <团队负责人_Noahark>
+- https://github.com/shui1523 <团队成员_Sky>
+- https://github.com/infinityhacker <团队成员_Yudan>
 
 ## 开发路线
 
