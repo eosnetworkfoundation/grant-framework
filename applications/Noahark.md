@@ -54,7 +54,8 @@ Noahark is focus on Trust EVM and our code is compatible to EVM. Our first versi
 ### Team members：20
 
 - **Team Leader:** Noahark
-
+- **Team member:** Sky
+- **Team member:** Yudan
 
 ### Legal Structure
 - **Registered Legal Entity:** GRAYSTONE Technology Limited
@@ -71,6 +72,11 @@ Noahark is a global blockchain team that focus on DeFi protocol development and 
 
 https://github.com/NoaharkEVM/noaharkswap
 
+### Team Member Repos
+
+- https://github.com/NoaharkEVM <team_leader_Noahark>
+- https://github.com/shui1523 <team_member_Sky>
+- https://github.com/infinityhacker <team_member_Yudan>
 
 > Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
@@ -200,6 +206,9 @@ https://github.com/NoaharkEVM/noaharkswap
 ### 团队
 - **团队成员：** 20
 - **团队负责人：** Noahark
+- **团队成员：** Sky
+- **团队成员：** Yudan
+
 
 **法律结构**
 - **注册法律实体：** GRAYSTONE Technology Limited
@@ -210,6 +219,12 @@ Noahark 是一个专注于DeFi协议开发和运营的全球区块链团队。�
 
 **团队组织**
 -https://github.com/NoaharkEVM/noaharkswap
+
+### 团队成员资源库
+
+- https://github.com/NoaharkEVM <team_leader_Noahark>
+- https://github.com/shui1523 <team_member_Sky>
+- https://github.com/infinityhacker <team_member_Yudan>
 
 ## 开发路线
 
