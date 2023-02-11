@@ -44,16 +44,16 @@ jobs:
       - name: assign the env from the email name
         id: grep_email
         run: |
-          export APP_EMAIL=`/bin/grep "**Contact Email:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4`
+          export APP_EMAIL=`/bin/grep "**Contact Email:**" ${{ needs.get_filename.outputs.filename }} | tr -s " " | cut -d" " -f4`
           #echo "::set-env name=APP_EMAIL::$APP_EMAIL"
           echo "::set-output name=email_addr::$APP_EMAIL"
-          export CNAME=`/bin/grep "**Contact Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
+          export CNAME=`/bin/grep "**Contact Name:**" ${{ needs.get_filename.outputs.filename }} | tr -s " " | cut -d" " -f4-8`
           echo "::set-output name=contact_name::$CNAME"
-          export PNAME=`/bin/grep "**Project Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
+          export PNAME=`/bin/grep "**Project Name:**" ${{ needs.get_filename.outputs.filename }} | tr -s " " | cut -d" " -f4-8`
           echo "::set-output name=project_name::$PNAME"
-          export TNAME=`/bin/grep "**Team Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
+          export TNAME=`/bin/grep "**Team Name:**" ${{ needs.get_filename.outputs.filename }} | tr -s " " | cut -d" " -f4-8`
           echo "::set-output name=team_name::$TNAME"
-          export TCOST=`/bin/grep "**Total Costs:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
+          export TCOST=`/bin/grep "**Total Costs:**" ${{ needs.get_filename.outputs.filename }} | tr -s " " | cut -d" " -f4-8`
           echo "::set-output name=total_cost::$TCOST"
           echo ${{ github.actor }} ${{ github.event_name }} ${{ github.event.pull_request.head.repo.owner.login }}
 
