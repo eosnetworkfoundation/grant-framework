@@ -4,10 +4,14 @@
 - **Team Name:** Oldtimers
 - **EOS Payment Address:**  oldtimerseos
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
+- **Pomelo Grant(s):** https://pomelo.io/grants/oldtimerseos
+- **Project is Open-Source:** Yes
+- **Project was part of Token sale:** No
+- **Repository where Project resides:** https://github.com/oldtimers-eos/Oldtimers-Rent-Buy-Smart-Contract
 
 ## Project Overview
 
-Create a decentralized marketplace in a combination of the smart contract (created on EOS EVM) and React. The majority of data (vehicle ID, details of vehicles, available options for rent or buy, reviews score,...) will be recorded on blockchain (EOS EVM). Our primary work is to create Dapp (web 3.0) marketplace for classic vehicles. After that, developers can use that open-source code and easily create simular marketplaces (for real estate, sea vessels, bookstore,...). More precisely, it will be 2 open source codes. One for smart contract and another for React.
+Create a decentralized marketplace in a combination of the smart contract (created on EOS EVM) and React. The majority of data (vehicle ID, details of vehicles, available options for rent or buy, reviews score,...) will be recorded on blockchain (EOS EVM). Our primary work is to create Dapp (web 3.0) marketplace for classic vehicles. After that, developers can use that open-source code and easily create similar marketplaces (for real estate, sea vessels, bookstore,...). More precisely, it will be 2 open source codes. One for smart contract and another for React.
 
 ### Overview
 
@@ -20,14 +24,14 @@ Create a decentralized marketplace in a combination of the smart contract (creat
 
 - **A. Creating a Smart Contract for a marketplace (futures included rent, buy, and reviews):** The smart contract will be recording information as they enter into the application to ensure that the market is fully decentralized and controlled by users. Submitted info such as vehicle id and details (color, type of transmission, or available option for buy & rent, the price for the vehicle,..) will be recorded on the EOS EVM blockchain. That information will allow users to rent, and buy a vehicle and to give reviewed points to rented vehicles. Money from renting and buying will go automatically to users and one small portion (for the service fee) will be kept on a smart contract or will be sent to a treasury wallet. That would ensure a profitable business. Listing vehicles to the market is free, but the smart contract is created to have a fee for renting and buying process. This feature is controlled by the creator of the smart contract and the fee can be changed or removed (if the owner of the smart contract put 0 for fee services). The smart contract will establish several mapping to monitor:
 - who rented the vehicle, 
-- how much a vehicle is rented, 
+- how many times a vehicle was rented, 
 - to keep and to change the owner of the vehicle(if somebody buys the vehicle), 
 - reviewed points for the vehicle,... 
 The smart contract will have unit tests. Unit tests will fully cover core functions to ensure the functionality and security of the smart contract. Once the smart contract reaches an acceptable level of confidence will be deployed on the test net. After that can start integration and connection with React.
 
-- **B.Integration and customization token (ERC-20) in the marketplace smart contract:** Previus step is done almost 95%, and price is calculated with nativ token (EOS on EVM) for renting/buying and service fee. Our next step will be a feature for a token. The token (ERC-20 standard) feature will give option for creator of smart contract that can put custom token (ERC-20) for payments. 
+- **B.Integration and customization token (ERC-20) in the marketplace smart contract:** Previus step is done almost 95%, and price is calculated with the native token (EOS on EVM) for renting/buying and service fee. Our next step will be a feature for a token. The token (ERC-20 standard) feature will give option for creator of smart contract that can put custom token (ERC-20) for payments. 
 
-- **C. Create react Dapp for the marketplace:** Ordinary users in the classic vehicle market are not so involved in the blockchain industry. Because of that, we have to make their experience in using Dapp as much as possible easier and to be simple using(doom - 3 clicks process) application. Multiple components for forms and responsive design will make that happen. To provide a better user experience, we brought in our team Dan B. (a very experienced react developer). Our React application will take data from EOS EVM (from the smart contract) to show users important/necessary data.
+- **C. Create react Dapp for the marketplace:** Ordinary users in the classic vehicle market are not so involved in the blockchain industry. Because of that, we have to make their experience in using our Dapp as much as possible easier. Multiple components for forms and responsive design will make that happen. To provide a better user experience, we brought in our team Dan B. (a very experienced react developer). Our React application will take data from EOS EVM (from the smart contract) to show users important/necessary data.
 
 - **D. Integration and connection of the smart contract with created React Dapp:** To integrate the smart contract into the React application our developers should include in their work libraries such as Ethers.js, Web3.js, and Wagmi. Because of the situation that the application received plenty of data form the blockchain network (EOS EVM) we have to ensure good RPC communication between our React application and the smart contract created on EOS EVM. Once the Dapp reaches an acceptable level of confidence on the testnet and locally, will be deployed publicly with a smart contract on mainnet.
 
@@ -116,7 +120,7 @@ The Oldtimers team has been involved in all development aspects of the Oldtimers
 | 0b. | Documentation | Oldtimers will provide documentation of the React application on Git, as well as documentation for connection with smart contracts. |
 | 0c. | Unit Tests | Core functions will be fully covered by unit tests to ensure functionality and robustness. |
 | 0d. | Integration Tests | Integration tests will be developed, including integration and connection with a smart contract. |
-| 1. | Create react Dapp for the marketplace | Multiple components for forms and responsive design will make easy and simple using Dapp for marketplace. To achieved that goal, we brought in our team Dan B. (very experienced react developer, who already has enough experience with Ethers.js, Web3.js and Wagmi libraries). |  
+| 1. | Create react Dapp for the marketplace | Multiple components for forms and responsive design will make easy and simple using Dapp for marketplace. To accomplish that goal, we brought in our team Dan B. (very experienced react developer, who already has enough experience with Ethers.js, Web3.js and Wagmi libraries). |  
 | 2. | Integration and connection of the smart contract with created React Dapp | Our front-end developers should include in their work libraries such as Ethers.js, Web3.js, and Wagmi to accomplish this task. They have to ensure good RPC communication between our React application and the smart contract created on EOS EVM. |  
 
 ## Future Plans
