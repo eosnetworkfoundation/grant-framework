@@ -175,7 +175,7 @@ The application firewall turns out to be a natural element that should be an int
 
 -   **Total estimated duration:**  6 months
 -   **Full-Time Equivalent (FTE):**  2-2.5
--   **Total costs:**  50,000 USD
+-   **Total Costs:**  50,000 USD
 
 
 ### Milestone 1 — Create Antelope Firewall Prototype
