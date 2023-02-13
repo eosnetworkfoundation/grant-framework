@@ -94,8 +94,8 @@ As above.
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/lawrence-ray
-- https://www.linkedin.com/thealien
+- https://www.linkedin.com/in/lawrence-ray
+- https://www.linkedin.com/in/thealien
 
 ## Development Status
 
