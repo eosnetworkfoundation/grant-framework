@@ -138,7 +138,7 @@ For each milestone,
 
 > Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
 > You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
-> of all of your Milestones.
+> of all of your Milestones.  Please **DO NOT** remove the three lines below.  If you do, your grant will be rejected or delayed while you fix it.
 - **Total Estimated Duration:** 2 months 
 - **Full-Time Equivalent (FTE):** 2 FTE
 - **Total Costs:** 12,000 USD
