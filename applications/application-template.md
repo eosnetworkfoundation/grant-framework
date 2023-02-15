@@ -12,7 +12,7 @@
 >
 > Deleting lines that start with **Bold Labels:** will cause your grant to be rejected! Please fill this out carefully if you want to be approved!
 >
-> All lines starting with a `>` (such as this one and the ones above and below) should be removed.
+> All "comment" lines starting with a `>` (such as this one and the ones above and below) should be removed.
 
 - **Project Name:** Name of your project (e.g. Anchor Wallet)
 - **Team Name:** Legal name of your team (e.g. Greymass, Inc.)
