@@ -103,8 +103,8 @@
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/<person_1>
+- https://www.linkedin.com/in/<person_2>
 
 ## Development Status
 
