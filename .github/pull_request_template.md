@@ -7,9 +7,9 @@
 
 ### For which grant [level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels) are you applying?
 
-- [ ] **Level 1**:  Up to $10,000, 2 approvals
-- [ ] **Level 2**:  Up to $50,000, 3 approvals
-- [ ] **Level 3**:  Unlimited, 4 approvals
+- [ ] **Level 1**:  Up to  $10,000, 2 approvals
+- [ ] **Level 2**:  Up to  $50,000, 3 approvals
+- [ ] **Level 3**:  Up to $200,000, 4 approvals
 
 ### Application Checklist
 
