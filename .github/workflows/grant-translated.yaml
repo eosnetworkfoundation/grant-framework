@@ -56,7 +56,7 @@ jobs:
           export TCOST=`/bin/grep -F "**Total Costs:**" ${{ needs.get_filename.outputs.filename }} | tr -s " " | cut -d" " -f4-8`
           echo "total_cost=$TCOST" >> $GITHUB_OUTPUT
           echo ${{ github.actor }} ${{ github.event_name }} ${{ github.event.pull_request.head.repo.owner.login }}
-          echo $APP_MAIL $CNAME $PNAME $TNAME $TCOST
+          #echo $APP_MAIL $CNAME $PNAME $TNAME $TCOST
 
   checklabel:
     needs: [get_filename, parse_app]
