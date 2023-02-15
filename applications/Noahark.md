@@ -103,8 +103,8 @@ https://github.com/NoaharkEVM/noaharkswap
 ### Milestone 1
 
 - **Estimated Duration:** 2 months
-- **Full-Time Equivalent (FTE):** 15 FTE
-- **Total Costs:** 95,000 USD
+- **FTE:** 15 FTE
+- **Costs:** 95,000 USD
 
  | ID     | Deliverable    | Specification    |
  | ---------- | :-----------:  | :-----------: |
@@ -120,8 +120,8 @@ https://github.com/NoaharkEVM/noaharkswap
 
 ### Milestone 2
 - **Estimated Duration:** 2 months
-- **Full-Time Equivalent (FTE):** 15 FTE
-- **Total Costs:** 50,000 USD
+- **FTE:** 15 FTE
+- **Costs:** 50,000 USD
 
 | ID     | Deliverable    | Specification    |
  | ---------- | :-----------:  | :-----------: |
@@ -137,8 +137,8 @@ https://github.com/NoaharkEVM/noaharkswap
  
  ### Milestone 3
 - **Estimated Duration:** 2 months
-- **Full-Time Equivalent (FTE):** 15 FTE
-- **Total Costs:** 50,000 USD
+- **FTE:** 15 FTE
+- **Costs:** 50,000 USD
  
  | ID     | Deliverable    | Specification    |
  | ---------- | :-----------:  | :-----------: |
