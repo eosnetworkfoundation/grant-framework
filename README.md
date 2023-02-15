@@ -1,7 +1,7 @@
 <img src="img/enf-header.png" />
 
 # EOS Network Foundation Grant Framework
-As part of the EOS Network Foundation's (ENF) charter to grow and support the EOS ecosystem, the ENF has developed a multi-level grant program to help power research, software development, and maintenance of the EOSIO code base.  For more information about the ENF, please visit our [website](https://eosnetwork.com/) or [YouTube account](https://www.youtube.com/c/EverythingEOS).
+As part of the EOS Network Foundation's (ENF) charter to grow and support the EOS ecosystem, the ENF has developed a multi-level grant program to help power research, software development, and maintenance of the [Antelope](https://antelope.io/) code base.  For more information about the ENF, please visit our [website](https://eosnetwork.com/) or [YouTube account](https://www.youtube.com/c/EverythingEOS).
 
 ## Grant Guidelines
 Individuals, small teams, and companies are all permitted to apply for grants. The purpose of the grants is to enable developers, businesses and individuals to build on EOS.  Grants [vary in size](#grant-levels) based on the size and scope of the initiative.  All forms of projects are open for submission, core chain modifications, tools, libraries, etc. as long as they are fully open-source.  Strong technical projects that clearly add to the Public Good are preferred.
@@ -90,12 +90,12 @@ The Grant Committee are senior members of the EOS community that know the priori
 
 ### Grant Evaluators
 The Grant Evaluators review applications approved by the Grant Committee for technical merit and achievability.   They are more technical in nature and are more concerned with whether the proposal solves the problem optimally, is realizable in the specified time frame, and utilizes proper processes as required for the milestone achievement metrics.
+- [Bart Wyatt](https://github.com/wanderingbort)
 - [Areg Hayrapetian](https://github.com/arhag)
 - [Matt Witherspoon](https://github.com/spoonincode)
 - [Bucky Kittinger](https://github.com/larryk85)
-- [Bart Wyatt](https://github.com/wanderingbort)
-- [Denis Carriere](https://github.com/DenisCarriere)
 - [Nathan James](https://github.com/nsjames)
+- [Denis Carriere](https://github.com/DenisCarriere)
 
 ### Grant Operations
 The Grant Operations team manages the overall workflow of the ENF Grant process including: application acceptance and routing, notification of acceptance or rejection, monitoring of milestones and distribution of payments.
