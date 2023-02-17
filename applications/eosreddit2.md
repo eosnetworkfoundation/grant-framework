@@ -15,7 +15,6 @@
 - **Contact Email:** veronica14diazdiaz@gmail.com
 - **Website:** (https://eosvision.io/)
 
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview
 Educate and inform the world of cryptocurrencies about the latest events on EOS and its technological improvements, generate active use of Reddit by promoting the adoption of EOS, promoting the different content of interest to users on Reddit and Facebook.
@@ -29,33 +28,39 @@ Educate and inform the world of cryptocurrencies about the latest events on EOS 
 
 ### Project Details
 
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
+Our Mission Educate and inform the crypto world about the most recent events on EOS and its technological improvements, generate active use of Reddit and Facebook, promote the adoption of EOS and encourage the arrival of more users to these networks by promoting different content of interest . to all the people on Reddit and Facebook and thus connect these networks with others of great importance such as Discord, Telegram etc.
 
-- Mock-ups/designs of any UI components
-- Data models of the core functionality
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+Projects Secondary Objectives: Weekly and daily bulletins, extremely important information announcements. Podcasts with the EOS community, as well as special videos about using different dApps or projects. General support to the different EOS projects. Informative courses for new users in EOS. Reports, summaries and translations of the work carried out in EOS VISION.
+
+Aimed at resolving current issues such as Interacting and correcting misconceptions about EOS on social media, especially the social media we will be focusing on (Facebook and Reddit), which have been based on price, as well as respectfully encouraging users to express their opinions and negative aspects dedicated to FUD to show and encourage them to consult the new stage of EOS, the new opportunities and the different options that have been developed on the Network.
+
+Documentation of basic components, protocols, architecture, etc. to implement. We intend to use the reports, news, videos and other RELEVANT information found in the EOS COMMUNITY, and thus spread it on the social networks of Reddit and Facebook. Currently we use ENF Networks on Reddit and we bring the information punctually from the main source of information, his blog and twitter.
+
+What your project is not or will not provide or implement We will support Reddit, but it will not be owned by us, EOS REDDIT and EOS Facebook are owned by the community and anyone can provide their services.
+This is a place for you to manage expectations and clarify any limitations that may not be obvious.
+
+    PILLARS OF THE REDDIT VISION Updated based on the needs of the community.
+
+1. Encourage users to React to Publications: At this stage we need users to be able to read the information and react to it, EOS VISION will focus on working to receive more reactions on the different networks as well as more comments on them.
+
+2.Moderation and Growth of Networks and Users: Encourage more people to join social networks, as well as moderate them extensively and widely, Reddit is one of the main Spammer entries into the ecosystem and we are ready to kill it. this.
+
+3. Growth of the ENF Official account on Reddit: Reddit already has the support of the ENF and we plan to continue promoting their networks. These months Reddit and Facebook have had a better and more complete information area thanks to the information development created by the NFE core team. We hope soon to be able to continue to grow this account and be fully verifiable.
 
 ### Ecosystem Fit
 
-> Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
-
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the EOSIO ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+ • Where and how does your project fit into the ecosystem? Our project is in Ecosystem Growth, we hope to give good support to both EOS and projects, on Reddit and Facebook.
+ • Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? Our hearing is based on: Journalists crypto users. New users on EOS and EOSIO.
+ • What need(s) does your project meet? A new opportunity for reddit and facebook and using these networks that have many users are given the opportunity to learn more about EOS, its dApps, ecosystem and development in these social networks and show what is being created.
+ • Are there any other projects similar to yours in the EOSIO ecosystem?
+ ◦ If so, how is your project different?
+ ◦ If not, are there similar projects in related ecosystems? Yes, currently some of the users within EOS post on Reddit, but not daily, EOS NATION and EOS SUPPORT post important details whenever needed. The difference of our proposal is that we intend to have Reddit active daily, with any relevant information.
+  
 
 ## Team
 
  **Team Leader:** 
 - Verónica Díaz
-- Nelson Aular
 
 ### Legal Structure
 - **Registered Legal Entity:** It is currently being legalized, for now we have the Creamy Vanilla C.A registry.
@@ -91,7 +96,7 @@ Educate and inform the world of cryptocurrencies about the latest events on EOS 
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/in/ver%C3%B3nica-d%C3%ADaz-duran-6bbaa123a/
+- https://www.linkedin.com/in/veronicadiazvcdd/
 - https://www.linkedin.com/mwlite/in/nelson-aular-a137b2259
 
 ## Development Status
