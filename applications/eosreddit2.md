@@ -50,8 +50,11 @@ This is a place for you to manage expectations and clarify any limitations that 
 ### Ecosystem Fit
 
  • Where and how does your project fit into the ecosystem? Our project is in Ecosystem Growth, we hope to give good support to both EOS and projects, on Reddit and Facebook.
- • Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? Our hearing is based on: Journalists crypto users. New users on EOS and EOSIO.
+ 
+ • Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? Our hearing is based on: Journalists crypto users. New users on EOS and Antelope.
+ 
  • What need(s) does your project meet? A new opportunity for reddit and facebook and using these networks that have many users are given the opportunity to learn more about EOS, its dApps, ecosystem and development in these social networks and show what is being created.
+ 
  • Are there any other projects similar to yours in the EOSIO ecosystem?
  ◦ If so, how is your project different?
  ◦ If not, are there similar projects in related ecosystems? Yes, currently some of the users within EOS post on Reddit, but not daily, EOS NATION and EOS SUPPORT post important details whenever needed. The difference of our proposal is that we intend to have Reddit active daily, with any relevant information.
