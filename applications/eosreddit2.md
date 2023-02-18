@@ -164,5 +164,5 @@ Twitter
 > Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
 Since the last time, EOS VISION has scaled and positioned itself on reddit and facebook to solve problems that kept these networks alone, now it is to make them grow more, with more users and more opportunities.
-https://github.com/eosnetworkfoundation/grant-framework/pull/44
 I have previously applied for an initial grant to the grant framework and it was successfully approved, as well as having all its milestones approved and completed:
+https://github.com/eosnetworkfoundation/grant-framework/pull/44
