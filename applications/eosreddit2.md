@@ -60,10 +60,11 @@ This is a place for you to manage expectations and clarify any limitations that 
  ◦ If not, are there similar projects in related ecosystems? Yes, currently some of the users within EOS post on Reddit, but not daily, EOS NATION and EOS SUPPORT post important details whenever needed. The difference of our proposal is that we intend to have Reddit active daily, with any relevant information.
   
 
-## Team
+### Team members
 
- **Team Leader:** 
-- Verónica Díaz
+- **Team Leader:** Verónica Díaz
+- Nelson Aular
+
 
 ### Legal Structure
 - **Registered Legal Entity:** It is currently being legalized, for now we have the Creamy Vanilla C.A registry.
@@ -104,13 +105,7 @@ This is a place for you to manage expectations and clarify any limitations that 
 
 ## Development Status
 
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+-We create daily content for the EOS community as well as special videos in Spanish, we have not wasted a single day developing good content for other areas, Reddit and Facebook have made great progress in recent months but we seek to improve these networks as a whole, we will continue to develop new ones opportunities and more.
 
 ## Development Roadmap
 
@@ -132,77 +127,42 @@ For each milestone,
 
 ### Milestone Summary
 
-> Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
-> You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
-> of all of your Milestones.
-- **Total Estimated Duration:** 2 months 
-- **Full-Time Equivalent (FTE):** 2 FTE
-- **Total Costs:** 12,000 USD
+### Milestone 1 — Increased Reactions and Growth of Reddit and Facebook.
 
-> Please note that this application is automatically parsed.<br/>
-> For the above fields, please only put the answer on that line.  If you want to add more information, please put it below these instructions.<br/>
-> Please remember to delete all lines that start with `>` as they are just instructions and not needed in the application submission.<br/>
-> 
-> Notes on above fields:
-> - Total Estimated Duration: Duration of the whole project (example: 2 months or 7 weeks)
-> - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
-> - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
-
-### Milestone 1 Example — Implement EOSIO Application
-
-- **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 8,000 USD
+- **Estimated duration:** 7 month
+- **FTE:**  
+- **Costs:** 10,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Application interface to EOSIO | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
-| 3. | Caching layer | We will create a caching layer ... |  
-| 4. | API interface to our app | We will create an API that ... |  
-
-
-
-### Milestone 2 Example — Additional features
-
-- **Estimated Duration:** 1 month
-- **FTE:**  2
-- **Costs:** 4,000 USD
-
-| ID | Deliverable | Specification |
-| ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Added UI functionality | We will add UI functionality to... |  
-| 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
-
-
-... Add more milestones as above as needed ...
-
+| 0a. | increased upvote and karma to daily posts: | Upvote increase and incentive to reactions from different posts. Creation of system to increase users and upvote. |
+| 0b. | Documentation | Creation of reports, reports and summaries regarding the metrics of the different social networks. |
+| 0c. | Statistics and analysis on the growth of Reddit and Facebook | Karma and uptove stats tracking, as well as Facebook stats tracking. |
+| 0d. | attention and moderation of networks | moderation of scammers and different posts that contain scams and false content. |
+| 0e. | Attention and translation in languages. | greater attention to the public based on different languages. | 
+| 1. | Growth of the official ENF account on Reddit and Post on Facebook. | Reddit is already supported by ENF and we plan to continue promoting their networks and their posts for increased users and relevant content from EOS and Antelope. |  
 
 ## Future Plans
 
 > Please include here:
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+Streaming Fireside Chat on Reddit.
+
+Customer service development for Reddit (Automatically redirect to EOS SUPPORT.)
+
+Reddit-Discord reward system: An opportunity for users to get EOS by participating in the community, Based on daily posts, comments, votes and more.
+
+ We want to implement a direct alliance with different projects to maintain a more extensive activity on Reddit, which can share, participate and support the networks where we are working.
 
 
 ## Additional Information
 
 **How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
 
+Twitter
+
 > Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+Since the last time, EOS VISION has scaled and positioned itself on reddit and facebook to solve problems that kept these networks alone, now it is to make them grow more, with more users and more opportunities.
+https://github.com/eosnetworkfoundation/grant-framework/pull/44
+I have previously applied for an initial grant to the grant framework and it was successfully approved, as well as having all its milestones approved and completed:
