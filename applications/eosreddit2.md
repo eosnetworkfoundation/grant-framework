@@ -26,7 +26,7 @@ Educate and inform the world of cryptocurrencies about the latest events on EOS 
 Reddit and Facebook have become a new way to read the news and give constructive feedback. Our trained team is gearing up to work on updated 3 Fundamental Pillars, bringing a new face to Reddit as well as bringing new alternatives and care to users with a misconception of EOS. Let's get ready to interact all over Reddit and Facebook in a respectful way, not just the official EOS Reddit, trying to give good marketing to what is being developed on EOS, communicating with other Subreddits and other Facebook groups easily reporting on developments . processes, improvements and projects that we have within the ecosystem.
 - **Relationship to EOSIO:** We prepare to promote the EOS and Antelope community in the best possible way, with good marketing, as well as to demonstrate that the work that is done together between the blockchains has borne fruit and momentum to Antelope. Reddit has an extensive number of users who will not hesitate to look at the information related to EOS AND Antelope.
 - **Reason for Interest:** EOS VISION proposes to support the EOS community on Reddit and Facebook, reddit has 97.7k members, it is being one of the largest EOS communities, as well as Facebook has 171.K users, Reddit is the social network that contains the most FUD of all EOS networks, we have recovered reddit and facebook but we have to continue taking big steps, this has been recovering thanks to the EOS SUPPORT and EOS NATION team and the ENF. We have seen how necessary and important this social network can be to attract both new users and new projects, so we suggest you support Reddit.
-- 
+
 ### Project Details
 
 Our Mission Educate and inform the crypto world about the most recent events on EOS and its technological improvements, generate active use of Reddit and Facebook, promote the adoption of EOS and encourage the arrival of more users to these networks by promoting different content of interest . to all the people on Reddit and Facebook and thus connect these networks with others of great importance such as Discord, Telegram etc.
@@ -42,11 +42,11 @@ This is a place for you to manage expectations and clarify any limitations that 
 
     PILLARS OF THE REDDIT VISION Updated based on the needs of the community.
 
-1. Encourage users to React to Publications: At this stage we need users to be able to read the information and react to it, EOS VISION will focus on working to receive more reactions on the different networks as well as more comments on them.
+•1. Encourage users to React to Publications: At this stage we need users to be able to read the information and react to it, EOS VISION will focus on working to receive more reactions on the different networks as well as more comments on them.
 
-2.Moderation and Growth of Networks and Users: Encourage more people to join social networks, as well as moderate them extensively and widely, Reddit is one of the main Spammer entries into the ecosystem and we are ready to kill it. this.
+•2.Moderation and Growth of Networks and Users: Encourage more people to join social networks, as well as moderate them extensively and widely, Reddit is one of the main Spammer entries into the ecosystem and we are ready to kill it. this.
 
-3. Growth of the ENF Official account on Reddit: Reddit already has the support of the ENF and we plan to continue promoting their networks. These months Reddit and Facebook have had a better and more complete information area thanks to the information development created by the NFE core team. We hope soon to be able to continue to grow this account and be fully verifiable.
+•3. Growth of the ENF Official account on Reddit: Reddit already has the support of the ENF and we plan to continue promoting their networks. These months Reddit and Facebook have had a better and more complete information area thanks to the information development created by the NFE core team. We hope soon to be able to continue to grow this account and be fully verifiable.
 
 ### Ecosystem Fit
 
