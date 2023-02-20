@@ -9,9 +9,15 @@
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/oldtimers-eos/Oldtimers-Rent-Buy-Smart-Contract
 
+## Contact
+
+- **Contact Name:** Milan Bjegovic
+- **Contact Email:** office@oldtimersoffer.com
+- **Website:** https://oldtimersoffer.com/
+
 ## Project Overview
 
-Create a decentralized marketplace in a combination of the smart contract (created on EOS EVM) and React. The majority of data (vehicle ID, details of vehicles, available options for rent or buy, reviews score,...) will be recorded on blockchain (EOS EVM). Our primary work is to create Dapp (web 3.0) marketplace for classic vehicles. After that, developers can use that open-source code and easily create similar marketplaces (for real estate, sea vessels, bookstore,...). More precisely, it will be 2 open source codes. One for smart contract and another for React.
+Create a decentralized marketplace in a combination of the smart contract (created on EOS EVM) and React. The majority of data (vehicle ID, details of vehicles, available options for rent or buy, reviews score,...) will be recorded on blockchain (EOS EVM). Our primary work is to create dApp (web 3.0) marketplace for classic vehicles. After that, developers can use that open-source code and easily create similar marketplaces (for real estate, sea vessels, bookstore,...). More precisely, it will be 2 open source codes. One for smart contract and another for React.
 
 ### Overview
 
@@ -31,9 +37,9 @@ The smart contract will have unit tests. Unit tests will fully cover core functi
 
 - **B.Integration and customization token (ERC-20) in the marketplace smart contract:** Previus step is done almost 95%, and price is calculated with the native token (EOS on EVM) for renting/buying and service fee. Our next step will be a feature for a token. The token (ERC-20 standard) feature will give option for creator of smart contract that can put custom token (ERC-20) for payments. 
 
-- **C. Create react Dapp for the marketplace:** Ordinary users in the classic vehicle market are not so involved in the blockchain industry. Because of that, we have to make their experience in using our Dapp as much as possible easier. Multiple components for forms and responsive design will make that happen. To provide a better user experience, we brought in our team Dan B. (a very experienced react developer). Our React application will take data from EOS EVM (from the smart contract) to show users important/necessary data.
+- **C. Create react dApp for the marketplace:** Ordinary users in the classic vehicle market are not so involved in the blockchain industry. Because of that, we have to make their experience in using our dApp as much as possible easier. Multiple components for forms and responsive design will make that happen. To provide a better user experience, we brought in our team Dan B. (a very experienced react developer). Our React application will take data from EOS EVM (from the smart contract) to show users important/necessary data.
 
-- **D. Integration and connection of the smart contract with created React Dapp:** To integrate the smart contract into the React application our developers should include in their work libraries such as Ethers.js, Web3.js, and Wagmi. Because of the situation that the application received plenty of data form the blockchain network (EOS EVM) we have to ensure good RPC communication between our React application and the smart contract created on EOS EVM. Once the Dapp reaches an acceptable level of confidence on the testnet and locally, will be deployed publicly with a smart contract on mainnet.
+- **D. Integration and connection of the smart contract with created React dApp:** To integrate the smart contract into the React application our developers should include in their work libraries such as Ethers.js, Web3.js, and Wagmi. Because of the situation that the application received plenty of data form the blockchain network (EOS EVM) we have to ensure good RPC communication between our React application and the smart contract created on EOS EVM. Once the dApp reaches an acceptable level of confidence on the testnet and locally, will be deployed publicly with a smart contract on mainnet.
 
 ### Ecosystem Fit
 
@@ -51,12 +57,6 @@ The smart contract will have unit tests. Unit tests will fully cover core functi
 - Marko Milutinovic (Blockchain Developer)
 - Dan B. (nickname) (React Developer)
 
-### Contact
-
-- **Contact Name:** Milan Bjegovic
-- **Contact Email:** office@oldtimersoffer.com
-- **Website:** https://oldtimersoffer.com/
-
 ### Legal Structure
 - **Registered Legal Entity:** Oldtimers Offer
 - **Registered Address:** Sestre Bakovic 11/2, 18000 Nis, Serbia
@@ -69,9 +69,11 @@ The Oldtimers team has been involved in all development aspects of the Oldtimers
 
 - https://github.com/oldtimers-eos
 - https://github.com/oldtimers-eos/Oldtimers-Rent-Buy-Smart-Contract
+- https://github.com/oldtimers-eos/Oldtimers-Offer-platform-on-React
 - https://github.com/oldtimers-eos/Oldtimer-OLD-Token-EOS-EVM-testnet
 
 ### Team Member Repos
+
 - https://github.com/oldtimers-offer
 
 
@@ -84,10 +86,12 @@ The Oldtimers team has been involved in all development aspects of the Oldtimers
 
 - https://github.com/orgs/oldtimers-eos/projects/3/views/1
 
+Our POC (proof of concept) dApp is ready on https://oldtimers.cloud/ The dApp is connected with a smart contract deployed on the EOS EVM testnet (https://explorer-testnet.trust.one/address/0x0EB7dA9e8b7f85Bc801BaeB718BE0476B48Bb9Be).
+
 
 ## Development Roadmap
 
-### Overview
+### Milestone Summary
 
 - **Total Estimated Duration:** 3 months
 - **Full-Time Equivalent (FTE):**  3
@@ -120,12 +124,12 @@ The Oldtimers team has been involved in all development aspects of the Oldtimers
 | 0b. | Documentation | Oldtimers will provide documentation of the React application on Git, as well as documentation for connection with smart contracts. |
 | 0c. | Unit Tests | Core functions will be fully covered by unit tests to ensure functionality and robustness. |
 | 0d. | Integration Tests | Integration tests will be developed, including integration and connection with a smart contract. |
-| 1. | Create react Dapp for the marketplace | Multiple components for forms and responsive design will make easy and simple using Dapp for marketplace. To accomplish that goal, we brought in our team Dan B. (very experienced react developer, who already has enough experience with Ethers.js, Web3.js and Wagmi libraries). |  
-| 2. | Integration and connection of the smart contract with created React Dapp | Our front-end developers should include in their work libraries such as Ethers.js, Web3.js, and Wagmi to accomplish this task. They have to ensure good RPC communication between our React application and the smart contract created on EOS EVM. |  
+| 1. | Create react dApp for the marketplace | Multiple components for forms and responsive design will make easy and simple using dApp for marketplace. To accomplish that goal, we brought in our team Dan B. (very experienced react developer, who already has enough experience with Ethers.js, Web3.js and Wagmi libraries). |  
+| 2. | Integration and connection of the smart contract with created React dApp | Our front-end developers should include in their work libraries such as Ethers.js, Web3.js, and Wagmi to accomplish this task. They have to ensure good RPC communication between our React application and the smart contract created on EOS EVM. |  
 
 ## Future Plans
 
-- Oldtimers intend to build more Dapps on EOS EVM and to provide revolutionary solutions from web 2.0 to the web 3.0 industry. We hope that our majority support for that work will be [ENF](https://eosnetwork.com/).
+- Oldtimers intend to build more dApps on EOS EVM and to provide revolutionary solutions from web 2.0 to the web 3.0 industry. We hope that our majority support for that work will be [ENF](https://eosnetwork.com/).
 
 ## Additional Information
 
