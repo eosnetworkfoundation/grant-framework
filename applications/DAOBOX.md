@@ -191,8 +191,7 @@ https://github.com/eosdaobox
 ### 团队
 - **团队成员：** 15
 - **团队负责人：** DAOBOX
-- **团队成员：** Yang
-- **团队成员：** Dandi
+- **团队成员：** Yong
 
 
 **法律结构**
