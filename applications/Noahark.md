@@ -4,7 +4,7 @@
 - **Team Name:** Noahark
 - **EOS Payment Address:** btxhdbttqhgs
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
-- **Pomelo Grant(s):** NA
+- **Pomelo Grant(s):** https://pomelo.io/grants/noah
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/NoaharkEVM/noaharkswap
@@ -167,7 +167,7 @@ https://github.com/NoaharkEVM/noaharkswap
 - **团队名称：**  Noahark
 - **EOS支付地址：**  btxhdbttqhgs
 - **等级：** 3
-- **Pomelo资助：** 否
+- **Pomelo资助：** https://pomelo.io/grants/noah
 - **项目是开源的：** 是
 - **项目是代币销售的一部分：** 否
 - **项目资源库：** https://github.com/NoaharkEVM/noaharkswap
