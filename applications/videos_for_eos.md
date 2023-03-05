@@ -108,14 +108,14 @@ The costs we will incur are studio rental, lighting, sound, video editing, paid 
 ### Milestone Summary
 
 - **Total Estimated Duration:** 12 weeks
-- **Full-Time Equivalent (FTE):** 1 FTE
-- **Total Costs:** 39,000 USD
+- **Full-Time Equivalent (FTE):** 3 FTE
+- **Total Costs:** 18,000 USD
 
 ### Milestone 1 - produce 3 videos
 
 - **Estimated duration:** 1 week
-- **FTE:** 1
-- **Costs:** 3,250 USD
+- **FTE:** 3
+- **Costs:** 1,500 USD
 
 | ID  | Deliverable           | Specification                                                                               |
 | --- | --------------------- | ------------------------------------------------------------------------------------------- |
@@ -126,8 +126,8 @@ The costs we will incur are studio rental, lighting, sound, video editing, paid 
 ### Milestone 2 - produce 3 videos
 
 - **Estimated duration:** 1 week
-- **FTE:** 1
-- **Costs:** 3,250 USD
+- **FTE:** 3
+- **Costs:** 1,500 USD
 
 | ID  | Deliverable           | Specification                                                                               |
 | --- | --------------------- | ------------------------------------------------------------------------------------------- |
@@ -138,8 +138,8 @@ The costs we will incur are studio rental, lighting, sound, video editing, paid 
 ### Milestone 3 - produce 3 videos
 
 - **Estimated duration:** 1 week
-- **FTE:** 1
-- **Costs:** 3,250 USD
+- **FTE:** 3
+- **Costs:** 1,500 USD
 
 | ID  | Deliverable           | Specification                                                                               |
 | --- | --------------------- | ------------------------------------------------------------------------------------------- |
@@ -150,8 +150,8 @@ The costs we will incur are studio rental, lighting, sound, video editing, paid 
 ### Milestone 4 - produce 3 videos
 
 - **Estimated duration:** 1 week
-- **FTE:** 1
-- **Costs:** 3,250 USD
+- **FTE:** 3
+- **Costs:** 1,500 USD
 
 | ID  | Deliverable           | Specification                                                                               |
 | --- | --------------------- | ------------------------------------------------------------------------------------------- |
@@ -162,8 +162,8 @@ The costs we will incur are studio rental, lighting, sound, video editing, paid 
 ### Milestone 5 - produce 3 videos
 
 - **Estimated duration:** 1 week
-- **FTE:** 1
-- **Costs:** 3,250 USD
+- **FTE:** 3
+- **Costs:** 1,500 USD
 
 | ID  | Deliverable           | Specification                                                                               |
 | --- | --------------------- | ------------------------------------------------------------------------------------------- |
@@ -174,8 +174,8 @@ The costs we will incur are studio rental, lighting, sound, video editing, paid 
 ### Milestone 6 - produce 3 videos
 
 - **Estimated duration:** 1 week
-- **FTE:** 1
-- **Costs:** 3,250 USD
+- **FTE:** 3
+- **Costs:** 1,500 USD
 
 | ID  | Deliverable           | Specification                                                                               |
 | --- | --------------------- | ------------------------------------------------------------------------------------------- |
@@ -186,8 +186,8 @@ The costs we will incur are studio rental, lighting, sound, video editing, paid 
 ### Milestone 7 - produce 3 videos
 
 - **Estimated duration:** 1 week
-- **FTE:** 1
-- **Costs:** 3,250 USD
+- **FTE:** 3
+- **Costs:** 1,500 USD
 
 | ID  | Deliverable           | Specification                                                                               |
 | --- | --------------------- | ------------------------------------------------------------------------------------------- |
@@ -198,8 +198,8 @@ The costs we will incur are studio rental, lighting, sound, video editing, paid 
 ### Milestone 8 - produce 3 videos
 
 - **Estimated duration:** 1 week
-- **FTE:** 1
-- **Costs:** 3,250 USD
+- **FTE:** 3
+- **Costs:** 1,500 USD
 
 | ID  | Deliverable           | Specification                                                                               |
 | --- | --------------------- | ------------------------------------------------------------------------------------------- |
@@ -210,8 +210,8 @@ The costs we will incur are studio rental, lighting, sound, video editing, paid 
 ### Milestone 9 - produce 3 videos
 
 - **Estimated duration:** 1 week
-- **FTE:** 1
-- **Costs:** 3,250 USD
+- **FTE:** 3
+- **Costs:** 1,500 USD
 
 | ID  | Deliverable           | Specification                                                                               |
 | --- | --------------------- | ------------------------------------------------------------------------------------------- |
@@ -222,8 +222,8 @@ The costs we will incur are studio rental, lighting, sound, video editing, paid 
 ### Milestone 10 - produce 3 videos
 
 - **Estimated duration:** 1 week
-- **FTE:** 1
-- **Costs:** 3,250 USD
+- **FTE:** 3
+- **Costs:** 1,500 USD
 
 | ID  | Deliverable           | Specification                                                                               |
 | --- | --------------------- | ------------------------------------------------------------------------------------------- |
@@ -234,8 +234,8 @@ The costs we will incur are studio rental, lighting, sound, video editing, paid 
 ### Milestone 11 - produce 3 videos
 
 - **Estimated duration:** 1 week
-- **FTE:** 1
-- **Costs:** 3,250 USD
+- **FTE:** 3
+- **Costs:** 1,500 USD
 
 | ID  | Deliverable           | Specification                                                                               |
 | --- | --------------------- | ------------------------------------------------------------------------------------------- |
@@ -246,8 +246,8 @@ The costs we will incur are studio rental, lighting, sound, video editing, paid 
 ### Milestone 12 - produce 3 videos
 
 - **Estimated duration:** 1 week
-- **FTE:** 1
-- **Costs:** 3,250 USD
+- **FTE:** 3
+- **Costs:** 1,500 USD
 
 | ID  | Deliverable           | Specification                                                                               |
 | --- | --------------------- | ------------------------------------------------------------------------------------------- |
