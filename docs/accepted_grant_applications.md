@@ -6,11 +6,37 @@
 
 ## Table of Contents <!-- omit in toc -->
 
+- [2023](#2023)
+  - [Season 5 - First Quarter 2023](#wave-5---first-quarter-2023)
+
 - [2022](#2022)
+  - [Season 4 - Fourth Quarter 2022](#wave-4---fourth-quarter-2022)
+  - [Season 3 - Third Quarter 2022](#wave-3---third-quarter-2022)
   - [Season 2 - Second Quarter 2022](#wave-2---second-quarter-2022)
   - [Season 1 - First Quarter 2022](#wave-1---first-quarter-2022)
 
+# 2023
+
+## Wave 1 - First Quarter 2023
+
+| Team | Project Name / Application | Repo | Terminated | First Delivery | Completed
+| :--- | :------ | :--- | :--------: | :------------: | :-------: |
+| [Name](https://example.com/) | [ProjectName](../applications/application_template.md) | [GitHub](https://github.com/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+
+
 # 2022
+
+## Wave 4 - Fourth Quarter 2022
+
+| Team | Project Name / Application | Repo | Terminated | First Delivery | Completed
+| :--- | :------ | :--- | :--------: | :------------: | :-------: |
+| [Name](https://example.com/) | [ProjectName](../applications/application_template.md) | [GitHub](https://github.com/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+
+## Wave 3 - Third Quarter 2022
+
+| Team | Project Name / Application | Repo | Terminated | First Delivery | Completed
+| :--- | :------ | :--- | :--------: | :------------: | :-------: |
+| [Name](https://example.com/) | [ProjectName](../applications/application_template.md) | [GitHub](https://github.com/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 
 ## Wave 2 - Second Quarter 2022
 
