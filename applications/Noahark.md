@@ -98,13 +98,13 @@ https://github.com/NoaharkEVM/noaharkswap
 
 - **Total Estimated Duration:** 6 months (remaining 3 months)
 - **Full-Time Equivalent (FTE):** 15 FTE
-- **Total Costs (excluding audit fees):** 195,000 USD
+- **Total Costs (excluding audit fees):** 135,000 USD
 
 ### Milestone 1
 
 - **Estimated Duration:** 2 months
 - **FTE:** 15 FTE
-- **Costs:** 95,000 USD
+- **Costs:** 35,000 USD
 
  | ID     | Deliverable    | Specification    |
  | ---------- | :-----------:  | :-----------: |
@@ -121,7 +121,7 @@ https://github.com/NoaharkEVM/noaharkswap
 ### Milestone 2
 - **Estimated Duration:** 2 months
 - **FTE:** 15 FTE
-- **Costs:** 50,000 USD
+- **Costs:** 53,000 USD
 
 | ID     | Deliverable    | Specification    |
  | ---------- | :-----------:  | :-----------: |
@@ -138,7 +138,7 @@ https://github.com/NoaharkEVM/noaharkswap
  ### Milestone 3
 - **Estimated Duration:** 2 months
 - **FTE:** 15 FTE
-- **Costs:** 50,000 USD
+- **Costs:** 47,000 USD
  
  | ID     | Deliverable    | Specification    |
  | ---------- | :-----------:  | :-----------: |
@@ -151,6 +151,21 @@ https://github.com/NoaharkEVM/noaharkswap
  | 3   | Front-end development     | Provide data analysis and other user interface     |
  | 4   | Back-end development     | Provide user staking data and data analysis API, etc., to facilitate external data feed     |
  | 5   | Web site hosting/maintenance/feature fixes     | Maintain the functional integrity and security of the contract and front-end and back-end     |
+
+## Security Audit
+
+- **Security Audit items:** Milestone 1 product, Milestone 2 product, Milestone 3 product
+- **Total Audit Costs:** 60,000 USD
+- **Auditor:** Certik https://www.certik.com/
+
+### Milestone 1 Product Security Audit
+- **Costs:** 9,000 USD
+
+### Milestone 2 Product Security Audit
+- **Costs:** 27,000 USD
+
+### Milestone 3 Product Security Audit
+- **Costs:** 24,000 USD
 
 ## Additional Information
 
@@ -242,12 +257,12 @@ Noahark 是一个专注于DeFi协议开发和运营的全球区块链团队。�
 ## 里程碑总结
 - **总预计持续时间：** 6个月 （剩余3个月）
 - **全职当量 (FTE)：** 15 FTE
-- **总成本(不含审计费）：** 195,000 美元
+- **总成本(不含审计费）：** 135,000 美元
 
 ### 里程碑1
 - **预计持续时间：** 2个月
 - **全职当量 (FTE)：** 15 FTE
-- **成本：** 95,000 美元
+- **成本：** 35,000 美元
  
  | ID      | 可交付成果    | 规格    |
  | ---------- | :-----------:  | :-----------: |
@@ -264,7 +279,7 @@ Noahark 是一个专注于DeFi协议开发和运营的全球区块链团队。�
 ### 里程碑2
 - **预计持续时间：** 2个月
 - **全职当量 (FTE)：** 15 FTE
-- **成本：** 50,000 美元
+- **成本：** 53,000 美元
  
  | ID      | 可交付成果    | 规格    |
  | ---------- | :-----------:  | :-----------: |
@@ -280,7 +295,7 @@ Noahark 是一个专注于DeFi协议开发和运营的全球区块链团队。�
 ### 里程碑3
 - **预计持续时间：** 2个月
 - **全职当量 (FTE)：**15 FTE
-- **成本：** 50,000 美元
+- **成本：** 47,000 美元
  
  | ID      | 可交付成果    | 规格    |
  | ---------- | :-----------:  | :-----------: |
@@ -293,6 +308,21 @@ Noahark 是一个专注于DeFi协议开发和运营的全球区块链团队。�
  | 3  | 前端开发     | 提供数据分析等用户操作界面     |
  | 4  | 后端开发     | 提供用户质押数据及数据分析API等，方便外部收集     |
  | 5  | 网站运维     | 持续维护合约及前后端的功能完整性与安全性     |
+
+## 安全审计
+
+- **安全审计项:** 里程碑1相关产品, 里程碑2相关产品, 里程碑3相关产品
+- **安全审计费用合计:** 60,000 美元
+- **安全审计公司:** Certik https://www.certik.com/
+
+### 里程碑1相关产品安全审计
+- **成本:** 9,000 美元
+
+### 里程碑2相关产品安全审计
+- **成本:** 27,000 美元
+
+### 里程碑3相关产品安全审计
+- **成本:** 24,000 美元
 
 
 
