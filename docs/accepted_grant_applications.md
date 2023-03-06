@@ -21,7 +21,7 @@
 
 | Team | Project Name / Application | Repo | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
-| [Name](https://example.com/) | [ProjectName](../applications/application-template.md) | [GitHub](https://github.com/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Name](https://example.com/) | [ProjectName](../applications/application-template.md) | [GitHub]([https://github.com/](https://github.com/eosnetworkfoundation)) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 
 
 # 2022
@@ -30,13 +30,13 @@
 
 | Team | Project Name / Application | Repo | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
-| [Name](https://example.com/) | [ProjectName](../applications/application-template.md) | [GitHub](https://github.com/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Name](https://example.com/) | [ProjectName](../applications/application-template.md) | [GitHub]([https://github.com/](https://github.com/eosnetworkfoundation)) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 
 ## Wave 3 - Third Quarter 2022
 
 | Team | Project Name / Application | Repo | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
-| [Name](https://example.com/) | [ProjectName](../applications/application-template.md) | [GitHub](https://github.com/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Name](https://example.com/) | [ProjectName](../applications/application-template.md) | [GitHub]([https://github.com/](https://github.com/eosnetworkfoundation)) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 
 ## Wave 2 - Second Quarter 2022
 
