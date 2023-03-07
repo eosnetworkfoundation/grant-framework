@@ -53,7 +53,7 @@ DAOBOX has many powerful governance functions, such as an on-chain voting system
 
 ### Team members：15
 
-- **Team Leader:** DAOBOX
+- **Team Leader:** Jason
 - **Team member:** Yong
 
 ### Legal Structure
@@ -83,13 +83,13 @@ https://github.com/eosdaobox
 
 - **Total Estimated Duration:** 7 months (remaining 3 months)
 - **Full-Time Equivalent (FTE):** 15 FTE
-- **Total Costs (excluding audit fees):** 250,000 USD
+- **Total Costs (excluding audit fees):** 196,000 USD
 
 ### Milestone 1
 
 - **Estimated Duration:** 3 months
 - **FTE:** 15 FTE
-- **Costs:** 130,000 USD
+- **Costs:** 96,000 USD
 
  | ID     | Deliverable    | Specification    |
  | ---------- | :-----------:  | :-----------: |
@@ -105,7 +105,7 @@ https://github.com/eosdaobox
  ### Milestone 2
 - **Estimated Duration:** 2 months
 - **FTE:** 15 FTE
-- **Costs:** 60,000 USD
+- **Costs:** 50,000 USD
  
  | ID     | Deliverable    | Specification    |
  | ---------- | :-----------:  | :-----------: |
@@ -120,7 +120,7 @@ https://github.com/eosdaobox
 ### Milestone 3
 - **Estimated Duration:** 2 months
 - **FTE:** 15 FTE
-- **Costs:** 60,000 USD
+- **Costs:** 50,000 USD
 
 | ID     | Deliverable    | Specification    |
  | ---------- | :-----------:  | :-----------: |
@@ -190,7 +190,7 @@ https://github.com/eosdaobox
 
 ### 团队
 - **团队成员：** 15
-- **团队负责人：** DAOBOX
+- **团队负责人：** Jason
 - **团队成员：** Yong
 
 
@@ -213,12 +213,12 @@ DAOBOX团队是拥有前端、后端、合约、测试等以技术为核心的�
 ## 里程碑总结
 - **总预计持续时间：** 7个月 （剩余3个月）
 - **全职当量 (FTE)：** 15 FTE
-- **总成本(不含审计费）：** 250,000 美元
+- **总成本(不含审计费）：** 196,000 美元
 
 ### 里程碑1
 - **预计持续时间：** 3个月
 - **全职当量 (FTE)：** 15 FTE
-- **成本：** 130,000 美元
+- **成本：** 96,000 美元
  
  | ID      | 可交付成果    | 规格    |
  | ---------- | :-----------:  | :-----------: |
@@ -234,7 +234,7 @@ DAOBOX团队是拥有前端、后端、合约、测试等以技术为核心的�
 ### 里程碑2
 - **预计持续时间：** 2个月
 - **全职当量 (FTE)：** 15 FTE
-- **成本：** 60,000 美元
+- **成本：** 50,000 美元
  
  | ID      | 可交付成果    | 规格    |
  | ---------- | :-----------:  | :-----------: |
@@ -249,7 +249,7 @@ DAOBOX团队是拥有前端、后端、合约、测试等以技术为核心的�
 ### 里程碑3
 - **预计持续时间：** 2个月
 - **全职当量 (FTE)：**15 FTE
-- **成本：** 60,000 美元
+- **成本：** 50,000 美元
  
  | ID      | 可交付成果    | 规格    |
  | ---------- | :-----------:  | :-----------: |
