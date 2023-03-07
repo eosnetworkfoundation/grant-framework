@@ -8,27 +8,22 @@
 - **Project is Open-Source:** Yes*
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** (https://github.com/eosdaobox)
-> Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
+
 
 ## Contact
 
-- **Contact Name:** DAOBOX
+- **Contact Name:** Jason
 - **Contact Email:** teoooop3@outlook.com
 - **Website:** https://daobox.vip/
 
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Open source
 - All smart contract source code will be made available upon the full completion of ENF Grant.
 
 ## Project Overview
-
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
+- DAOBOX will create a powerful & open source governance framework, providing a complete set of decentralized governance tools for the EOS ecosystem. An on-chain BP voting portal, where it is an open source voting system for BPs and EOS voters to use; A system for creating and managing proposals for DAO; and other possible governance tools.
 
 ### Overview
-
-> Please provide the following:
-
 - **Name:** DAOBOX
 - **Brief Description:** DAOBOX is a decentralized network composed of EOS community members; it is invested and supported by the Defibox Ecological Fund. The purpose is to provide a community governance tool for various ecological projects on the EOS main network, so that everyone can become the protagonist of DAO.
 - **Relationship to EOSIO:** DAOBOX will create a powerful governance framework, providing a complete set of decentralized governance tools for the EOS ecosystem. The initial release will feature an on-chain voting system and a system for creating and managing proposals. At the same time, it also has functions such as voting governance token locking to encourage long-term pledges to motivate members to participate in community building. EOS holders can easily participate in EOS governance and gain some yields.
@@ -36,9 +31,6 @@
 
 
 ### Ecosystem Fit
-
-> Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
-
 - **Where and how does your project fit into the ecosystem?** The initial release will feature an on-chain voting system and a system for creating and managing proposals, voting governance token locking to encourage long-term pledges to motivate members to participate in community building.
 - **Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?** EOS users, project teams, BPs
 
@@ -64,26 +56,20 @@ DAOBOX has many powerful governance functions, such as an on-chain voting system
 
 DAOBOX team is a full-time development team that covers front-end, back-end, contract, operations, testing. We are mainly focused on Web 3.0 products. We have developed many Web 3.0 protocols on other chains. This is our first time on EOS, and we believe that EOS is a public chain with a huge potentials. It needs some improvement tools like DAOBOX to make a real DAO. 
 
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
-
-
 ### Team Org Repos
 
 https://github.com/eosdaobox
 
 ### Team Member Repos
 
-- https://github.com/eosdaobox <team_leader_DAOBOX>
-
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+- https://github.com/eosdaobox <team_leader_Jason>
 
 
 ## Milestone Summary
 
 - **Total Estimated Duration:** 7 months (remaining 3 months)
 - **Full-Time Equivalent (FTE):** 15 FTE
-- **Total Costs (excluding audit fees):** 196,000 USD
+- **Total Costs:** 196,000 USD
 
 ### Milestone 1
 
@@ -136,8 +122,9 @@ https://github.com/eosdaobox
  
 
 ## Additional Information
+- **Security Audit Cost:** Security audit cost is not included in the milestone.
 
-**How did you hear about the Grants Program?** We knew EOS long time ago. It drew our attention when ENF replaced Blockone by on-chain voting and we started to get fascinated by EOS DAO governance . Then we heard about the Grants Program from an ENF AMA Event and we made some new friends with some EOS developers and holders and we decided to develop DAOBOX.
+- **How did you hear about the Grants Program?** We knew EOS long time ago. It drew our attention when ENF replaced Blockone by on-chain voting and we started to get fascinated by EOS DAO governance . Then we heard about the Grants Program from an ENF AMA Event and we made some new friends with some EOS developers and holders and we decided to develop DAOBOX.
 
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -156,17 +143,18 @@ https://github.com/eosdaobox
 - **项目资源库：** https://github.com/eosdaobox
 
 ### 联系人
-- **联系人姓名：** DAOBOX
+- **联系人姓名：** Jason
 - **联系邮箱：** teoooop3@outlook.com
 - **网站：** https://daobox.vip/
 
 ## 开源
 - [ ] 收到ENF全额赞助款后将提供所有智能合约源代码
 
-### 项目概况
-**概述**
-- **名称：DAOBOX协议**
+## 项目概述
+- DAOBOX将创建一个强大的开源治理框架，为EOS生态系统提供一整套去中心化治理工具。一个链上节点投票入口，它是一个开源的投票系统，供节点和EOS投票者使用；用于创建和管理DAO提案的系统；和其他治理工具。
 
+### 概况
+- **名称：DAOBOX协议**
 - **简介：** DAOBOX是由EOS社区成员组成的去中心化网络，由Defibox生态基金投资支持。目的是为EOS主网上的各种生态项目提供一个社区治理工具，让每个人都能成为DAO的主角。DAOBOX将创建一个强大可扩展的治理框架，为EOS生态提供一套完整的去中心化治理工具。
 - **与EOSIO的关系：** DAOBOX将创建一个强大的治理框架，为EOS生态提供一整套去中心化治理工具。初始版本将包含一个链上投票系统和一个用于创建和管理提案的系统。
 - **感兴趣的原因：** DAOBOX是一场可能改变EOS治理格局的革命。EOS持有者可以轻松的参与到EOS治理中，并获得一定的收益。其他EOS项目团队在构建自己的DAO系统时可以把DAOBOX作为很好的参考。
@@ -206,14 +194,14 @@ DAOBOX团队是拥有前端、后端、合约、测试等以技术为核心的�
 
 ### 团队成员资源库
 
-- https://github.com/eosdaobox <团队负责人_DAOBOX>
+- https://github.com/eosdaobox <团队负责人_Jason>
 
 
 
 ## 里程碑总结
 - **总预计持续时间：** 7个月 （剩余3个月）
 - **全职当量 (FTE)：** 15 FTE
-- **总成本(不含审计费）：** 196,000 美元
+- **总成本：** 196,000 美元
 
 ### 里程碑1
 - **预计持续时间：** 3个月
@@ -264,7 +252,7 @@ DAOBOX团队是拥有前端、后端、合约、测试等以技术为核心的�
 
 
 
-**附加信息**
-
-**您是如何得知赠款计划的？：** 我们很久以前就知道EOS，但是真正引起我们关注的是EOS网络基金会通过链上投票取代Blockone的事件，这让我们对EOS的DAO治理产生了浓厚的兴趣。之后我们在ENF举办的在线AMA了解到了赠款计划，认识一些EOS的开发人员和爱好者，决定开发DAOBOX。
+## 附加信息
+- **安全审计费用：** 里程碑成本不包含安全审计费用
+- **您是如何得知赠款计划的？：** 我们很久以前就知道EOS，但是真正引起我们关注的是EOS网络基金会通过链上投票取代Blockone的事件，这让我们对EOS的DAO治理产生了浓厚的兴趣。之后我们在ENF举办的在线AMA了解到了赠款计划，认识一些EOS的开发人员和爱好者，决定开发DAOBOX。
 
