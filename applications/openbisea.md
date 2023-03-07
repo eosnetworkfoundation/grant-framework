@@ -6,7 +6,7 @@
 - **EOS Payment Address:** cryptoadsmar
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Pomelo Grant(s):** N/A
-- **Project is Open-Source:** No
+- **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/oleksiivinogradov/
 
@@ -29,18 +29,37 @@
 
 ### Project Details
 
-
-
 - Mock-ups/designs of any UI components
 
-https://app.openbisea.com/
+Project name: OpenBiSea
+OpenBiSea.io - Game Studio and Multi-chain NFT auctions in all-in-one place to cut any NFT deal in a few clicks with a $200M fund in $OBS.
 
-https://docs.google.com/document/d/1oVVm7VD1rXjqii_nc519EDt6m07DLN630WjGYNSoHnI/edit
+Name of company or individual applying for the grant: IXC Global Inc
+Primary name and contact information: Oleksii Vynogradov, alex@openbisea.io
+Total funding requested (in USD): $50000
 
+web application: https://app.openbisea.com/
 
 ### Ecosystem Fit
 
-https://docs.google.com/document/d/1oVVm7VD1rXjqii_nc519EDt6m07DLN630WjGYNSoHnI/edit
+Deploy smart contracts for:
+NFT marketplace
+Free NFT mint
+$OBS token
+MultiSwap (own DEX) - https://defillama.com/protocol/openbisea, LightPaper
+
+Integration all smart contracts to:
+https://app.openbisea.com
+https://t.me/openbisea_bot 
+
+Announces and marketing in social channels:
+https://twitter.com/openbisea
+https://t.me/openbisea_en
+https://discord.gg/bwbpgp9jhS
+
+
+Post integration campaign, add liquidity to MultiSwap, farm OBS, sell/buy NFT
+
 
 ## Team
 
@@ -76,15 +95,32 @@ PRODUCTION
 
 ## Development Roadmap
 
-https://docs.google.com/document/d/1oVVm7VD1rXjqii_nc519EDt6m07DLN630WjGYNSoHnI/edit
+3 week Smart contracts deploy - $20k 
+
+2 week UI (web, android app, bot) update - $15k
+
+2 week Tests $5k
+
+1 month farm OBS campaign $10k
 
 ### Milestone Summary
 
-https://docs.google.com/document/d/1oVVm7VD1rXjqii_nc519EDt6m07DLN630WjGYNSoHnI/edit
+Smart contracts deploy - $30k
+
+UI (web, android app, bot) update - $15k
+
+Tests $5k
+
+Liquidity OBS $10k
+
 
 ## Future Plans
 
-https://docs.google.com/document/d/1oVVm7VD1rXjqii_nc519EDt6m07DLN630WjGYNSoHnI/edit
+Q4 2023 Release motoDEX and dexGO, 100k+ active players
+
+Q1 2024 Top-10 in NFT marketplaces 1M+ active users
+
+Q4 2025 Top-10 play to earn market with $3B valuation
 
 
 ## Additional Information
