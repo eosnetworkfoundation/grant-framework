@@ -36,7 +36,7 @@ We propose an application that would sit behind an existing firewall such as NGI
 
 ![AntelopeIO_Firewall_Diagram](https://ipfs.animus.is/ipfs/QmZ3qEwAGuaboNYAypJdXtcGnofQX4yPrYhVStQnX5u8Vh?filename=diagram-antelope-firewall.jpg)
 
-The initial version of the application would be written in Typescript and could be easily scaled across multiple cores and operated with high uptime via pm2. The application could run on the same VM as Leap but for optimal flexibility could be hosted on a dedicated VM that scales independently.
+The initial version of the application would be written in Rust and could be easily scaled across multiple cores and operated with high uptime. The application could run on the same VM as Leap but for optimal flexibility could be hosted on a dedicated VM that scales independently.
 
 #### **Features**
 
