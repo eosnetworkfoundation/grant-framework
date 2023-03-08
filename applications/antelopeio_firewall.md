@@ -55,8 +55,6 @@ The initial version of the application would be written in Rust and could be eas
 ####  **Future additions**  
 Once the base level application has reached a production ready state and iterated based on node operator feedback there are additional developments that could improve the application.
 
-- **Codebase**  The application logic could be rewritten in Rust or C++ and used as a standalone application or integrated into Leap as a plugin. This would reduce CPU/RAM/Latency of the application but may limit some functionality and will greatly increase development cost. Therefore a Typescript version should be developed first for quick and cost-effective iteration.
-
 - **Monetization**  Node operators who offer public APIs often do so as a free service that operates at a loss. This makes it difficult for operators to sustain the hardware and manpower required for high-availability RPC nodes. A monetization feature could be added to the firewall that would allow users to pay to have their contract actions whitelisted for less rate-limiting. For example, an application developer may pay a node operator a subscription fee to whitelist their contract operations in order to ensure a smooth experience for their users. Monetization can be totally automated with a smart contract and basic logic integrated into the firewall.
 
 ####  **Feedback from node operators**  
