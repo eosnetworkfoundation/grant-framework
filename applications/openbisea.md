@@ -103,15 +103,59 @@ PRODUCTION
 
 1 month farm OBS campaign $10k
 
-### Milestone Summary
 
-Smart contracts deploy - $30k
 
 UI (web, android app, bot) update - $15k
 
 Tests $5k
 
 Liquidity OBS $10k
+
+### Milestone Summary
+
+- **Total Estimated Duration:** 2 months 
+- **Full-Time Equivalent (FTE):** 4 FTE
+- **Total Costs:** 50,000 USD
+
+### Milestone 1 Implement EOS smart contract
+
+- **Estimated duration:** 3 weeks
+- **FTE:**  2
+- **Costs:** 20,000 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT  |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can interact with smart contracts directly |
+| 1. | Smart contract write and deploy testnet/mainnet | We will create and deploy smart contracts which allow to mint NFT for free, create auction, bid/win auction, token $OBS, purchase token, clain token |  
+
+
+
+### Milestone 2 Integrate to app.openbisea.com
+
+- **Estimated Duration:** 1 month
+- **FTE:**  3
+- **Costs:** 20,000 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | Unlicense |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can mint NFT for free, create auction, bid/win auction |
+| 0c. | Tests| Core functions will be fully covered by tests to ensure functionality and robustness. |
+| 0e. | Article | We will publish an **article**/workshop that explains how to to mint NFT for free, create auction, bid/win auction.
+| 1. | Added UI functionality | to mint NFT for free, create auction, bid/win auction |  
+
+### Milestone 3 Integrate to app.openbisea.com
+
+- **Estimated Duration:** 1 month
+- **FTE:**  1
+- **Costs:** 10,000 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0e. | Article | We will publish an **article**/workshop that explains how to farm OBS.
+| 1. | Added liquidity | We will add EOS/OBS liquidity on dex | 
+| 2. | Campaign | We will add EOS/OBS liquidity on dex and Announces and marketing in social channels: https://twitter.com/openbisea https://t.me/openbisea_en https://discord.gg/bwbpgp9jhS | 
 
 
 ## Future Plans
