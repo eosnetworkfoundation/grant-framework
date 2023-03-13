@@ -151,10 +151,6 @@ Blocked allready launched Eden (an educational application https://edu.blocked.c
 
 ### Overview
 
-- **Total Estimated Duration:** 13 months
-- **Full-Time Equivalent (FTE):**  8, including PM
-- **Total Costs:** $247,000 USD
-
 ### Milestone Summary
 
 - **Total Estimated Duration:** 13 months 
