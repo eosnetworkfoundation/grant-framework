@@ -17,7 +17,7 @@ Website: https://www.challengedapp.io/
 ChallengeDac Business Service https://www.challengedapp.io/promotion/
 Project Overview
 
-ChallengeDac is a decentralized autonomous organization (DAO) built on the EOS and Telos  blockchain that aims to provide a platform for people to create, discover, and participate in Challenges. ChallengeDAC allows users to create Challenges in a variety of categories, such as education, fitness, and entertainment, and to set the terms and conditions for participation. Other users can then discover and participate in these challenges, earning rewards for successfully completing them. ChallengeDAC uses smart contracts to enforce the rules of each challenge and to automate the distribution of rewards. CurrentlychallengeDac has a user's base of over 20,000. 
+ChallengeDac is a decentralized autonomous organization (DAO) built on the EOS and Telos blockchain that aims to provide a platform for people to create, discover, and participate in Challenges. ChallengeDAC allows users to create Challenges in a variety of categories, such as education, fitness, and entertainment, and to set the terms and conditions for participation. Other users can then discover and participate in these challenges, earning rewards for successfully completing them. ChallengeDAC uses smart contracts to enforce the rules of each challenge and to automate the distribution of rewards. CurrentlychallengeDac has a user's base of over 20,000. 
  
 
 
@@ -26,27 +26,27 @@ Proposal
 
 In this proposal, we recommend the creation of 10,000 new, unique pieces of EOS-related content. 
 We plan on achieving this by creating 500-1000 new custom Challenges that will be posted on the ChallengeDac platform asking users to create their own new unique EOS-related content and rewarding 10-20 users per smart contract Challenge posted. 
-The plan will be to Post Challenges that will reward users for creating blogs, videos, tweets, and other media to help educate the public about EOS and post the content on major social platforms like Snapchat, Facebook, Instagram, and Twitter. Afterwards users can share the links of the EOS related content posts they made on the ChallengeDac Platform and be able collect their ChallengeDac rewards. 
- This will also help grow and accelerate the adoption of ChallengeDac which is one of the most used EOS dapps.
+The plan will be to Post Challenges that will reward users for creating blogs, videos, tweets, and other media to help educate the public about EOS and post the content on major social platforms like Snapchat, Facebook, Instagram, and Twitter. Afterward users can share the links of the EOS related content posts they made on the ChallengeDac Platform and be able to collect their ChallengeDac rewards. 
+ This will also help grow and accelerate the adoption of ChallengeDac which is one of the most used EOS dapp.
 
 
 Project Details
 
 ChallengeDac project has been building on the EOS.IO  protocol since July 2018. ChallengeDac has released 8 different versions of the ChallengeDac APP, each time using feedback from previous versions to build a better, more user-friendly, and more effective APP.
-The application has well over 20,000 users and has been identified as one of the most active dapps running on EOS according to DAPP Radar
+The application has well over 20,000 users and has been identified as one of the most active dapp running on EOS according to DAPP Radar
 
 Ecosystem Fit
 
 ChallengeDapp is a decentralized application (dApp) that runs on the EOS blockchain and it is designed to allow users to create and participate in a variety of challenges.
 ChallengeDapp utilizes the EOS blockchain to provide a decentralized and trustless platform where users can create and participate in Challenges. The use of smart contracts on the EOS blockchain ensures that the rules of each challenge are transparent and immutable and that the rewards for winning a challenge are automatically distributed to the winners.
 ChallengeDapp also utilizes the EOS token on the platform. Users can use EOS tokens to create new challenges, participate in existing challenges, and receive rewards for winning challenges.
-This dApp fits into the EOS ecosystem by providing a platform that can be used to create and participate in various challenges, and by incentivizing users to engage with the EOS blockchain and use EOS tokens. Additionally, it offers entertainment and educational opportunities for users and it can be seen as a way to increase the adoption and usage of EOS blockchain.
+This dApp fits into the EOS ecosystem by providing a platform that can be used to create and participate in various challenges, and by incentivizing users to engage with the EOS blockchain and use EOS tokens. Additionally, it offers entertainment and educational opportunities for users and it can be seen as a way to increase the adoption and usage of the EOS blockchain.
 
 
 
 Milestone 1 cost $5000
 
-launch a campaign to have ChallengeDac community creates the first 5,000 pieces of new EOS educational content. ETA 8 WEEKS
+launch a campaign to have the ChallengeDac community creates the first 5,000 pieces of new EOS educational content. ETA 8 WEEKS
 
 Milestone 2 cost $2000
 
@@ -58,9 +58,3 @@ Release additional 2,500 new blog videos and EOS-related pieces of content by is
 
 
 Total cost $9000
-
-
-
-
-
-
