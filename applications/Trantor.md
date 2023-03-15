@@ -32,32 +32,24 @@
 - **Relationship to EOS Network / Antelope:** Trantor integrates multiple public chains, and EOSIO plays a crucial part in the Web3 world. It is our calling to strive to promote the development of the EOS ecosystem. We would like to contribute to the prosperity of the ecosystem by motivating our user base and community to learn more about EOS and the other projects within the ecosystem.
 - **Reason for Interest:** We are attracted by EVM incentives on EOS. We believe that with EOS' high performance and EVM compatibility, Trantor will be a useful tool for projects within the ecosystem and add value to the future development of the ecosystem.
 
-### Project Details
-
-
-
-- Mock-ups/designs of any UI components
-- Data models of the core functionality
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
 ### Ecosystem Fit
 
 
 
 - Where and how does your project fit into the ecosystem?
+
 Trantor adds to the diversity of the applications in the ecosystem. As there is no similar marketing and traffic aggregation platform within the ecosystem, Trantor can act as the portal to the Web3 world for both Web2 and Web3 users. Our users and community will naturally get familiarised with the EOS ecosystem. 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+
 From a 2C perspective, we target our own users and the users of other dapps within the ecosystem, where they can experience and learn about various Web3 projects and accumulate their DID data along the way; from a 2B perspective, we target all projects and communities. They can collaborate with us for campaigns and marketing events. 
 - What need(s) does your project meet?
+
 Needs for branding and marketing in the Web3 world and the needs for DID data aggregation for both users and projects. As there are no similar projects within the EOS system currently, we are in a unique position to address the needs of EOS users. 
 - Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
   - If so, how is your project different?
   - If not, are there similar projects in related ecosystems?
+
   There is none in the EOS ecosystem. Glaxe and Quest3 can be considered similar to us. However, we are unique in terms of how we design our interactive quests with support from top notch metaverse projects and how we organise ecosystem carnivals to maximize the co-marketing impact. 
 
 ## Team
@@ -77,31 +69,49 @@ The team is made up of experienced developers who are familiar with the EOS deve
 ### Team Experience
 
 - CEO: Yvette 
+
 PKU+HKU Finance Master
+
 Extensive experience in the industry with crypto exchanges and venture investments in blockchain projects 
+
 Passionate about building in the EOS ecosystem 
 
 - CTO: Joji
+
 Full Stack developer & 3D Model Artist
+
 Previously, tech lead of compliant crypto exchange Matrix
+
 Web3 OG & Decentralization Enthusiast 
+
 Strong knowledge about technical aspects of EOS 
 
 - COO: Hera 
+
 FDU+NYU Linguistics Master
+
 Previous marketing experience with PR agency & crypto startups
+
 Experience collaborating with projects within EOS ecosystem 
 
 - Product Lead: James Li 
+
 Engaged in project management for over 10 years;
+
 Strong interest and passion in Web3 products, a master of ToB & ToC product design
 
 - Chief Scientist: Albert
+
 EOSPark Prominent Contributor 
+
 Experienced developer for games, scripts and smart contracts
+
 Over 10 years' game development experience and over 5 years' smart contract development experience 
+
 Provide ad hoc technical support to EOS ecosystem projects like Token Pocket, Starteos and Meet.one
+
 White Hat for EOS Knights project 
+
 Active in many Web3 developer communities 
 
 ### Team Org Repos
@@ -123,30 +133,9 @@ Active in many Web3 developer communities
 
 ## Development Status
 
-
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
-
 Currently, we have completed the development of the relevant modules on ETH and other EVM chains. We have performed extensive research on EOSIO, and our Chief Scientist Albert is an EOS ecosystem developer with rich experience, who is able to complete the development of relevant modules swiftly. 
 
 ## Development Roadmap
-
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to the EOS ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
 
 
 ### Milestone Summary
