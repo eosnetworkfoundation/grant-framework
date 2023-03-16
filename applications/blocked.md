@@ -2,7 +2,7 @@
 
 - **Project Name:** Blocked
 - **Team Name:** WEB3 EDUCATION INC
-- **EOS Payment Address:** 0x24aDdce8934ef32d556a7E443b1427092BfC5d9C
+- **EOS Payment Address:** freewalletin 5908986959939939
 - **[Level] 3
 - **Pomelo Grant(s):** N/A
 - **Project is Open-Source:** Yes
