@@ -1,0 +1,37 @@
+name: Test Inputs
+
+on:
+  workflow_dispatch:
+    inputs:
+      string:
+        type: string
+        description: This is a string
+      #environment:
+        #type: environment
+        #description: Select the environment
+      string2:
+        type: string
+        description: Please enter the second string here
+      boolean:
+        type: boolean
+        description: True or False
+      choice:
+        type: choice
+        description: Make a choice
+        options:
+        - foo
+        - bar
+        - baz
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: greet
+        run: | 
+          echo "string is ${{ github.event.inputs.string }}"
+          echo "environment is ${{ github.event.inputs.environment }}"
+          echo "boolean is ${{ github.event.inputs.boolean }}"
+          echo "choice is ${{ github.event.inputs.choice }}"
