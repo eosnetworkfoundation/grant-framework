@@ -1,0 +1,137 @@
+# ru-pr-received-email.yml
+#
+# This reusable component sends an acknowledgement email to the grant applicatnt contact person 
+# letting them know we recieved the PR.
+#
+# Code expanded from the original file pr-received-send-thank-you.yml - which did the parsing and 
+# email in the same file.
+#
+# https://stackoverflow.com/questions/69499645/how-to-securely-allow-github-actions-to-check-pr-and-post-results-in-comment
+# https://securitylab.github.com/research/github-actions-preventing-pwn-requests/
+#
+
+name: PR Received Email
+on:
+  workflow_call:
+    inputs:
+      project_name:
+        required: true
+        type: string
+      contact_name:
+        required: true
+        type: string
+      team_name:
+        required: true
+        type: string
+      app_email:
+        required: true
+        type: string
+      total_cost:
+        required: true
+        type: string
+      legal_entity:
+        required: true
+        type: string
+      legal_addr:
+        required: true
+        type: string
+      level:
+        required: true
+        type: string
+      eos_addr:
+        required: true
+        type: string
+      github_actor:
+        required: true
+        type: string
+      pr_no:
+        required: true
+        type: string
+      website:
+        required: true
+        type: string
+      open_source:
+        required: true
+        type: string
+      token_sale:
+        required: true
+        type: string
+    secrets:
+      gmail_password:
+        required: true
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: send email
+        uses: dawidd6/action-send-mail@v3.7.1
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: enfmailbot@eosn.foundation
+          password: ${{ secrets.gmail_password }}
+          subject: Thank you for your ENF Grant Framework Application
+          body: | 
+            Hi ${{inputs.contact_name}}, 
+
+            Thank you for your application to the ENF Grant Framework.
+
+            We received your ${{inputs.project_name}} application by the ${{inputs.team_name}} team, submitted from the ${{ github.event.pull_request.head.repo.owner.login }} Github account. 
+
+            We are working through our internal processes which includes translating the application followed by a series of meetings.  Thus it may take several weeks to get back to you.
+
+            You may notice comments and feedback on your application in Github as it is being reviewed.  Please respond to those comments and reviews as addressing each point will be required before the Application is given final approval.
+
+            Thank you for your patience and understanding.
+
+            Best,
+            ENF Grant Framework Team
+
+            Grant Information Supplied:
+            PR_ID: ${{inputs.pr_no}} Project_Name: ${{inputs.project_name}} Team_Name: ${{inputs.team_name}} Website: ${{inputs.website}}
+
+            Legal Entity: ${{inputs.legal_entity}} Legal_Address: ${{inputs.legal_addr}}
+
+            Grant_Amount: ${{inputs.total_cost}} Grant_Level: ${{inputs.level}}
+
+            Contact_Name: ${{inputs.contact_name}} Contact_Email: ${{inputs.app_email}} Github_Account: ${{github.actor}}
+
+            Open_Source: ${{inputs.open_source}} Token_Sale: ${{inputs.token_sale}}
+
+          html_body: |
+            Hi ${{inputs.contact_name}}, 
+            <br/><br/>
+            Thank you for your application to the ENF Grant Framework.
+            <br/><br/>
+            We received your <b> ${{inputs.project_name}} </b>application
+            by the<b> ${{needs.parse_app.outputs.team_name}} </b>team,
+            submitted from the<b> ${{ github.actor }} </b>Github account. 
+            <br/><br/>
+            We are working through our internal processes which includes translating the application followed by a series of meetings.  Thus it may take several weeks to get back to you.
+            <br/><br/>
+            You may notice comments and feedback on your application in Github as it is being reviewed.  Please respond to those comments and reviews as addressing each point will be required before the Application is given final approval.
+            <br/><br/>
+            Thank you for your patience and understanding.
+            <br/><br/>
+            Best,<br/>
+            ENF Grant Framework Team
+            <br/><br/>
+            <b>Grant Information Supplied:</b><br/>
+            <b>PR_ID:</b> ${{ inputs.pr_no}} <b>Project_Name:</b> ${{inputs.project_name}} <b>Team_Name:</b> ${{inputs.team_name}} <b>Website:</b> ${{inputs.website}}
+            <br/><br/>
+            <b>Legal Entity:</b> ${{inputs.legal_entity}} <b>Legal_Address:</b> ${{inputs.legal_addr}}
+            <br/><br/>
+            <b>Grant_Amount:</b> ${{inputs.total_cost}} <b>Grant_Level:</b> ${{inputs.level}}
+            <br/><br/>
+            <b>Contact_Name:</b> ${{inputs.contact_name}} <b>Contact_Email:</b> ${{inputs.app_email}} <b>Github_Account:</b> ${{github.actor}}
+            <br/><br/>
+            <b>Open_Source:</b> ${{inputs.open_source}} <b>Token_Sale:</b> ${{inputs.token_sale}}
+            <br/><br/>
+          to: ${{inputs.app_email}}
+          from: grants@eosnetwork.com
+          reply_to: grants@eosnetwork.com
+          bcc: grant-pr-received@eosnetwork.com
+
+

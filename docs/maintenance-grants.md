@@ -1,7 +1,7 @@
 
 # Maintenance Grants
 
-Maintenance Grants are yet another idea to get involved with the EOS Mainnet community. If you are a user of an open-source library that has gone out of date, or you simply want to work on small new features/fix bugs in these repos, we can support your contributions via a grant. We are happy to award rolling grants on a monthly basis, as long as the work done within each time period is performed to a quality standard deemed satisfactory by the grant evaluators.
+Maintenance Grants are yet another idea to get involved with the EOS Network community. If you are a user of an open-source library that has gone out of date, or you simply want to work on small new features/fix bugs in these repos, we can support your contributions via a grant. We are happy to award rolling grants on a monthly basis, as long as the work done within each time period is performed to a quality standard deemed satisfactory by the grant evaluators.
 
 The process of applying for a Maintenance Grant is similar to what was already outlined above, but instead of defining very detailed deliverables for each milestone upfront, we will ask you to specify, where possible:
 

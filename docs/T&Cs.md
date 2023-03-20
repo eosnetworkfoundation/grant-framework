@@ -34,17 +34,17 @@ ENF to You (i) for the development of the Software in accordance with the Specif
 
 "Intellectual Property Rights" means any (i) patents, designs, copyright and related rights, database rights, trademarks, trade names (whether registered or unregistered), and the related rights to apply for registration thereof; (ii) applications, extensions and renewals in relation to any of these rights; (iii) know-how and confidential information; and (iv) all other rights of a similar nature and/or having an equivalent effect anywhere in the world;
 
-"Milestones" mean any and all of the milestones specified in the final version of the application under Development Roadmap and  approved by the Grants Committee in accordance with the Procedure as well as placed in the applications folder of the ENF Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/master/applications>;
+"Milestones" mean any and all of the milestones specified in the final version of the application under Development Roadmap and  approved by the Grants Committee in accordance with the Procedure as well as placed in the applications folder of the ENF Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/main/applications>;
 
 "Procedure" means the procedure in connection with the EOS Network Foundation Open Grants Program, as established in Section 4 below;
 
 "Software" means the deliverables created by You during the development activities performed according to these Terms and Conditions in their final and working version, and that are to be provided to the Foundation in accordance with the Specifications, Milestones and Time Schedule;
 
-"Specifications" mean the reasonably detailed technical and/or other requirements describing the features and functionality of the Software, as specified in the final version of the application approved by the Grants Committee in accordance with the Procedure and placed in the applications folder of the ENF Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/master/applications>.
+"Specifications" mean the reasonably detailed technical and/or other requirements describing the features and functionality of the Software, as specified in the final version of the application approved by the Grants Committee in accordance with the Procedure and placed in the applications folder of the ENF Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/main/applications>.
 
 "Terms and Conditions" means this terms and conditions together with any documents referred to in it;
 
-"Time Schedule" means the time schedule specified in the final version of the application approved by the Grants Committee in accordance with the Procedure and placed in the applications folder of the ENF Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/master/applications>.
+"Time Schedule" means the time schedule specified in the final version of the application approved by the Grants Committee in accordance with the Procedure and placed in the applications folder of the ENF Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/main/applications>.
 
 ## 3.  Eligibility
 
@@ -71,8 +71,7 @@ You shall indemnify and hold harmless ENF from any third party claims (including
 To apply for the EOS Networks Foundation Grants Program, your application shall fulfill the following criteria:
 
 -  it shall be a software-based project, which contributes to the advancement of the EOS ecosystem;
--  the total amount of funding requested for the project shall be below USD 30,000 and USD 100,000 for follow-up grants at the time of submission;
--  the Software shall be released under the Apache license version 2.0.;
+-  the Software shall be released under the MIT or Apache license version 2.0.;
 -  You must accept payment in the blockchain tokens native to the EOS Network ("EOS") ;
 -  You will need to submit the application and deliver the milestones according to the process specified below;
 
@@ -86,7 +85,7 @@ To apply for a grant of the EOS Network Foundation Grants Program, the grantee n
 
 **(ii)  Application review process:**
 
-The ENF grants committee, which is specified on the [Grants-Framework GitHub repository ](https://github.com/eosnetworkfoundation/grant-framework)(the "Grants Committee"), can issue comments and request changes on the grant application pull request (the submission of the grant application on GitHub).  As soon as 1/3 of the Grants Committee approves the pull request, the terms and conditions are signed off and all requested changes are addressed, the application is officially accepted. The application is now a part of the [ENF Grant-Framwork GitHub repository](https://github.com/eosnetworkfoundation/grant-framework). The time point of the acceptance by the Grants Committee is hereby stored on GitHub and counts as the official beginning of the grant. The original submission is stored with a unique commit hash (identifier) and can not be altered by any party. The final version approved by the Grants Committee of the Specifications, the Time Schedule and Milestones will be placed  in the applications folder of the ENF Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/master/applications> via the merge function of GitHub.
+The ENF grants committee, which is specified on the [Grants-Framework GitHub repository ](https://github.com/eosnetworkfoundation/grant-framework)(the "Grants Committee"), can issue comments and request changes on the grant application pull request (the submission of the grant application on GitHub).  As soon as 1/3 of the Grants Committee approves the pull request, the terms and conditions are signed off and all requested changes are addressed, the application is officially accepted. The application is now a part of the [ENF Grant-Framwork GitHub repository](https://github.com/eosnetworkfoundation/grant-framework). The time point of the acceptance by the Grants Committee is hereby stored on GitHub and counts as the official beginning of the grant. The original submission is stored with a unique commit hash (identifier) and can not be altered by any party. The final version approved by the Grants Committee of the Specifications, the Time Schedule and Milestones will be placed  in the applications folder of the ENF Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/main/applications> via the merge function of GitHub.
 
 **(iii)  Milestone delivery process:**
 
@@ -157,7 +156,7 @@ The Parties acknowledge and agree that the requirements set out in the Milestone
 
 ## 7.  Terms of Grant Giving
 
-ENF shall grant You, as compensation for the delivery of the Software and the related deliverables and the grant of license rights on the Intellectual Property Rights to the ENF, a Grant as indicated in the application placed in the applications folder of the ENF Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/master/applications>.
+ENF shall grant You, as compensation for the delivery of the Software and the related deliverables and the grant of license rights on the Intellectual Property Rights to the ENF, a Grant as indicated in the application placed in the applications folder of the ENF Grants Program Repository at <https://github.com/eosnetworkfoundation/grant-framework/tree/main/applications>.
 
 The Parties agree that the Grant is a lump-sum payment and that no additional compensation is due for the actual development costs incurred.
 

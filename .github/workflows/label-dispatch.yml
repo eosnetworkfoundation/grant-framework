@@ -1,8 +1,9 @@
 # Label Dispatcher - check the label and dispatch to the next yaml file
 # This drives the workflow through labeling.  Workflow includes: sending emails, adding to Gsheet, adding/moving project cards
 # Ted Cahall 2022-05-23
+# Ted Cahall 14Nov2022 - retiered concept for now and move name to start with ZZ to move to end of console list.
 
-name: Label Dispatcher
+name: ZZ Label Dispatcher
 on:
   pull_request_target:
     types: labeled

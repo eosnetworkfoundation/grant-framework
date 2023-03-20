@@ -26,7 +26,7 @@ The submission should contain the following information:
 ## License
 
 In order to successfully receive grant funding for your application it is necessary for the project to have open source code.
-We prefer Apache 2.0, but MIT or Unlicense are also acceptable. If your delivery comprises multiple repositories, make sure to include the license for each of them.
+We prefer MIT, but Apache 2.0 or Unlicense are also acceptable. If your delivery comprises multiple repositories, make sure to include the license for each of them.
 
 ## Documentation
 
