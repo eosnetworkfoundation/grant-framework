@@ -18,10 +18,10 @@
 - **Team Name:** Creamy Vainilla C.A
 - **EOS Payment Address:**  eosvisionorg
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
-- **Pomelo Grant(s):** [List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)](https://pomelo.io/grants/eosvision)
+- **Pomelo Grant(s):** https://pomelo.io/grants/eosvision
 - **Project is Open-Source:** Yes/
 - **Project was part of Token sale:** Yes/No
-- **Repository where Project resides:**[ https://github.com/<your_organisation>/<project_repo>](https://github.com/eosvision1)
+- **Repository where Project resides:** https://github.com/eosvision1
 > Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
 
 ## Contact
@@ -117,7 +117,7 @@ This is a place for you to manage expectations and clarify any limitations that 
 > If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
 
 ### Team Org Repos
-- [https://github.com/<your_organization>/<project_2>](https://github.com/eosvision1)
+- https://github.com/eosvision1
 
 > Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
