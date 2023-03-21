@@ -27,7 +27,7 @@
 ## Contact
 
 - **Contact Name:** Verónica Coromoto Díaz Duran.
-- **Contact Email:**  veronica14diazdiaz@gmail.com
+- **Contact Email:** veronica14diazdiaz@gmail.com
 - **Website:** https://eosvision.io/
 - 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
@@ -160,9 +160,9 @@ For each milestone,
 > Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
 > You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
 > of all of your Milestones.  Please **DO NOT** remove the three lines below.  If you do, your grant will be rejected or delayed while you fix it.
-- **Total Estimated Duration:** 2 months 
-- **Full-Time Equivalent (FTE):** 2 FTE
-- **Total Costs:** 12,000 USD
+- **Total Estimated Duration:** 7 months 
+- **Full-Time Equivalent (FTE):** 7
+- **Total Costs:** 10,000 USD
 
 > Please note that this application is automatically parsed.<br/>
 > For the above fields, please only put the answer on that line.  If you want to add more information, please put it below these instructions.<br/>
@@ -176,7 +176,7 @@ For each milestone,
 ### Milestone 1 — Increased Reactions and Growth of Reddit and Facebook.
 
 - **Estimated duration:** 7 month
-- **FTE:**  2
+- **FTE:**  
 - **Costs:** 10,000 USD
 
 | ID | Deliverable | Specification |
