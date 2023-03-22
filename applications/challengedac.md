@@ -5,7 +5,7 @@
 - **Project Name:** ChallengeDac
 - **Team Name:** ChallengeDac
 - **EOS Payment Address:** g4ztaojzgage
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 - **Pomelo Grant(s):** [https://pomelo.io/grants/chlcontent](https://pomelo.io/grants/chlcontent)
 - **Project is Open-Source:** No
 - **Project was part of Token sale:** No
@@ -28,7 +28,7 @@ ChallengeDac is a decentralized autonomous organization (DAO) built on the EOS a
 
 ### Project Details
 
-In this proposal, we recommend the creation of 10,000 new, unique pieces of EOS-related content. We plan on achieving this by creating 2000-3000 new custom Challenges that will be posted on the ChallengeDac platform asking users to create their own new unique EOS-related content and rewarding 10-20 users per smart contract Challenge posted. The plan will be to Post Challenges that will reward users for creating blogs, videos, tweets, and other media to help educate the public about EOS and post the content on major social platforms like Snapchat, Facebook, Instagram, and Twitter. Afterward users can share the links of the EOS related content posts they made on the ChallengeDac Platform and be able to collect their ChallengeDac rewards. This will also help grow and accelerate the adoption of ChallengeDac which is one of the most used EOS dapp.
+In this proposal, we recommend the creation of 5,000 new, unique pieces of EOS-related content. We plan on achieving this by creating 1000-3000 new custom Challenges that will be posted on the ChallengeDac platform asking users to create their own new unique EOS-related content and rewarding 10-20 users per smart contract Challenge posted. The plan will be to Post Challenges that will reward users for creating blogs, videos, tweets, and other media to help educate the public about EOS and post the content on major social platforms like Snapchat, Facebook, Instagram, and Twitter. Afterward users can share the links of the EOS related content posts they made on the ChallengeDac Platform and be able to collect their ChallengeDac rewards. This will also help grow and accelerate the adoption of ChallengeDac which is one of the most used EOS dapp.
 
 ### Ecosystem Fit
 
@@ -43,6 +43,7 @@ ChallengeDapp is a decentralized application (dApp) that runs on the EOS blockch
 - **System Engineer:** Phung Ta
 
 ### Legal Structure
+
 - **Registered Legal Entity:** CALI-PUMP LLC
 - **Registered Address:** 300 Carlsbad Village Dr, Carlsbad, CA 92008
 
@@ -58,33 +59,34 @@ Chace Eskam: Has spent a number of years studying the social and economic impact
 
 ## Development Roadmap
 
+### Milestone 1 - Launch the first marketing campaign to have the ChallengeDac community creates the quality EOS public organic contents
 
-### Milestone 1 cost $6,250 - Launch the first marketing campaign to have the ChallengeDac community creates the quality EOS public organic contents
 - **Estimated duration:** 2 months
 - **FTE:**  1
-- **Costs:** 6,250 USD
+- **Costs:** 5,000 USD
 
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 1. | Milestone 1 maintainance cost | $2,250 is added to the cost of updating code base for mobile platforms and cost for system cost |
-| 2. | Reward Pool Marketing Campaign No.1 | $2,000 is added to the reward pool for content creator and user support cost|
-| 3. | Marketing Campaign No.1 | $2,000 is added to launch a campaign to have the ChallengeDac community creates the first 2,000 pieces of new EOS public organic contents |
+| ID  | Deliverable | Specification |
+| --- | ----------- | ------------- |
+| 1.  | Reward Pool Marketing Campaign No.1 | $2,000 is added to the reward pool for content creator and user support cost |
+| 2.  | Marketing Campaign No.1 | $3,000 is added to launch a campaign to have the ChallengeDac community creates the first 2,000 pieces of new EOS public organic contents |
 
-### Milestone 2 cost $6,250 - Launch a campaign to improve the app and get new users
-- **Estimated duration:** 3 months
+
+### Milestone 2 cost $4,500 - Launch a campaign to improve the app contents and get new users
+
+- **Estimated Duration:** 2 months
 - **FTE:**  1
-- **Costs:** 6,250 USD
+- **Costs:** 4,500 USD
 
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 1. | Milestone 2 new user cost | $2,000 is added to the cost of reward to users who inviting new users |
-| 2. | Reward Pool Marketing Campaign No.2 | $2,250 is added to the reward pool for content creator and user support cost|
-| 3. | Marketing Campaign No.1 | $2,000 is added to launch a campaign to have the ChallengeDac community creates another 2,000 pieces of new EOS public organic contents |
+| ID  | Deliverable | Specification |
+| --- | ----------- | ------------- |
+| 1.  | Milestone 2 new user cost | $1,500 is added to the cost of reward to users who inviting new users |
+| 2.  | Reward Pool Marketing Campaign No.2 | $1,500 is added to the reward pool for content creator and user support cost |
+| 3.  | Marketing Campaign No.2 | $1,500 is added to launch a campaign to have the ChallengeDac community creates another 1,000 pieces of new EOS public organic contents |
 
 
-#### Total cost $12,500
+#### Total cost $9,500
 
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** Personal recommendation
