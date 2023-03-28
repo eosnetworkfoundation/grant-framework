@@ -3,7 +3,7 @@
 
 - **Project Name:** Invo
 - **Team Name:** Invo Technologies Inc.
-- **EOS Payment Address:** N/A
+- **EOS Payment Address:** invoeos
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Pomelo Grant(s):** N/A
 - **Project is Open-Source:** Yes
