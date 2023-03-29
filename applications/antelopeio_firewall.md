@@ -186,7 +186,7 @@ The application firewall turns out to be a natural element that should be an int
 | ----- | ----------- | ------------- |
 | 0a. | License | MIT |
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how to configure and run, including technical draft: short document will act as an overview of the technical implementation details as part of the development planning stage. Will guide code structure and development milestones. |
-| 0c. | Deployment | We will provide a Prototype with a limited basic functionalities implemented. For example the firewall will be able to route queries to nodes and return responses with basic blacklisting functionality. Main focus will be on gRPC. |
+| 0c. | Deployment | We will provide a Prototype with a limited basic functionalities implemented. For example the firewall will be able to route queries to nodes and return responses with basic blacklisting functionality. |
 
 ### Milestone 2 — Implement Antelope Firewall MVP version
 
@@ -199,8 +199,7 @@ The application firewall turns out to be a natural element that should be an int
 | 0a. | License | MIT |
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how to configure and run Alpha and Beta version (MVP). |
 | 0c. | Deployment Alpha | We will provide a Alpha version with a major features implemented in a basic way. We will begin running on our own nodes. |
-| 0d. | Deployment Beta (MVP) | We will provide a Beta version (MVP) with all features implemented in a basic way. The app should be ready to distribute to external infra providers for feedback and testing. |
-| 0e. | HTTP gRPC and P2P Functionality | We will integrate HTTP gRPC and P2P functionality into the Antelope Firewall. |
+| 0d. | Deployment Beta (MVP) | We will provide a Beta version (MVP) with all features implemented in a basic way. The app should be ready to distribute to external infra providers for feedback and testing. HTTP RPC and P2P Functionality |
 
 ### Milestone 3 — Implement Antelope Firewall 1.0 version
 
@@ -213,9 +212,8 @@ The application firewall turns out to be a natural element that should be an int
 | 0a. | License | MIT |
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how to configure and run Antelope Firewall 1.0 version, which covers all of the application functionality and configuration. Also we will create deployment scripts for various platforms to simplify the process of getting started. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Deployment | We will provide an Antelope Firewall 1.0 version - production ready solution, based on feedback from infra providers and issues discovered during beta testing. |
-| 0e. | Article | We will publish an **article** that explains what are the features of the product, how does it work and what was achieved as part of the grant. | 
-|0f. |	HTTP gRPC and P2P Continued Development | We will continue the development of the HTTP gRPC and P2P functionality, refining and optimizing its performance, and ensuring seamless integration with the Antelope Firewall. |
+| 0d. | Deployment | We will provide an Antelope Firewall 1.0 version - production ready solution, based on feedback from infra providers and issues discovered during beta testing. HTTP RPC and P2P Functionality |
+| 0e. | Article | We will publish an **article** that explains what are the features of the product, how does it work and what was achieved as part of the grant. |
 
 ## Future Plans
 
