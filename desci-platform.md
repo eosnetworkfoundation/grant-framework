@@ -1,4 +1,4 @@
-## DeSci platform on EOS
+# EOS Network Foundation Grant Proposal
 
 - **Project Name:** DeSci platform
 - **Team Name:** DeTech.World
