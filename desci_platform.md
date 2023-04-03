@@ -16,29 +16,18 @@
 
 ## Project Overview
 
-It’s the first application of DeTech.World to the Grants Program.
-
 
 ### Overview
 
-DeTech.World is a Web3 startup focused on creating an all-in-one infrastructure for technology assets as a new asset class. Our goal is to make technology assets liquid and to facilitate the sound technology transfer and monetization processes even in early tech development phases. We do this by introducing multi-chain IP-NFTs and custom IP-NFT marketplaces to showcase unique portfolios of DAOs, research hubs, or any corporate tech R&D.
+- **Name:** DeTech.World
+- **Brief Description:** DeTech.World is a Web3 startup focused on creating an all-in-one infrastructure for technology assets as a new asset class. Our goal is to make technology assets liquid and to facilitate the sound technology transfer and monetization processes even in early tech development phases. We do this by introducing multi-chain IP-NFTs and custom IP-NFT marketplaces to showcase unique portfolios of DAOs, research hubs, or any corporate tech R&D.
+- **Relationship to EOS Network / Antelope:** We would like to introduce a DeSci segment within the EOS ecosystem and to be the first all-in-one platform for DeSci applications and to support numerous technology DAOs with our technology show-casing, co-creation, tech IP assessment, IP-NFTs and funding DeTech tools. We also would like to introduce custom IP NFT marketplaces to feature technology DAOs portfolios in a unique way which will strengthen the DeSci community. 
+- **Reason for Interest:** Our Web3 platforms enable features that blur the line between investing and innovating, such as trust-enabled showcasing technology assets, IP protection and management, co-creation, AI based assessment, matching investors and innovations, and providing novel funding, monetization, licensing, and DeFi tools for a new class of assets: Tech Assets. Our platforms are already deployed at some European and Israeli technology transfer offices and DeSci.
 
-According to ARK Invest, we will face a $210T cap for disruptive technology by 2030. We want to be at the forefront of making them liquid! By analogy, we build a sort of “Ebay for disruptive technologies and DeSci”. 
-
-Our Web3 platforms enable features that blur the line between investing and innovating, such as trust-enabled showcasing technology assets, instant IP protection, IP-NFTs, custom IP-NFT marketplaces, new forms of collaboration and co-creation, AI based tech assessment, matching investors and innovations, and providing novel funding, monetization, licensing, and DeFi tools for a new class of assets: Tech Assets. 
-
-Thus, we would like to drive the introduction of the DeSci segment within the EOS ecosystem. 
-
-Initially, we’ve built our platforms based on Graphene blockchain and now would like to implement EOS modules for the introduction of DeTech service logic and platform. In this approach we are focusing on delivering technology show-casing, co-creation, IP assessment and early stage research funding tools for the DeSci community and growing number of technological DAOs.  
-
-We would like to introduce a DeSci segment within the EOS ecosystem and to be the first all-in-one platform for DeSci applications and to support numerous technology DAOs with our technology show-casing, co-creation, tech IP assessment, IP-NFTs and funding DeTech tools. We also would like to introduce custom IP NFT marketplaces to feature technology DAOs portfolios in a unique way which will strengthen the DeSci community. 
-
-In fact, we have already implemented a variety of features for the technology transfer process and tested the product idea on TTOs. So we have realized that for keeping delivery fast and being flexible we need to enhance our DLT solution. EOS EVM is positioned to become one of the most widely adopted EVMs and enable a new wave of Ethereum developers on EOS. That's why we look at EOS as a cutting-edge opportunity for fast delivery. And we believe that Decentralized science is a segment that could enrich the EOS ecosystem to attract new users and to increase adoption.
 
 ### Project Details
 
-#### User interfaces
-
+**User interfaces**
 
 **Technology show-casing**</br>
 When a user registered to the platform it’s available to add detailed information of the project and upload any kind of documentation providing technical details of the technology such as blueprints, research paper, articles, and etc.
@@ -154,7 +143,7 @@ A consumer/contributor of Tech Asset should sign an agreement in case it was pro
 
 
 #### Architecture and overview of common interfaces 
-Each portal has following elements:
+Platform has following elements:
 
 - **Client** - Platform UI that can sign blockchain transactions and have an integration with wallets to identify Users on the portal.
 - **Server** - Back-end part of application. Applies some business logic + Communicate with Blockchain and Database to fetch/store data.
