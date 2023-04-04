@@ -4,6 +4,7 @@
 - **Team Name:** DeTech.World
 - **EOS Payment Address:** mxcexdeposit **EOS MEMO:** 187628 
 - **Level:** 3
+- **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
 
 ## Contact
