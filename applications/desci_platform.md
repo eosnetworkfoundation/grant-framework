@@ -4,8 +4,6 @@
 - **Team Name:** DeTech.World
 - **EOS Payment Address:** mxcexdeposit **EOS MEMO:** 187628 
 - **Level:** 3
-- **Pomelo Grant(s):** N/A
-- **Project is Open-Source:** No
 - **Project was part of Token sale:** No
 
 ## Contact
@@ -202,16 +200,6 @@ Platform has following elements:
     - Provides an interface to create/sell/validate ownership.
     
 
-#### Relevant prior work and research on the topic
-
-Please find below some of our foundational concepts on DeTech.World:
-1. https://uploads-ssl.webflow.com/616ead41c6be242031a0368d/618a4a611143242fbaa414fb_New%20era%20of%20investments.pdf
-2. https://uploads-ssl.webflow.com/616ead41c6be242031a0368d/61c5ad3576ce2f7eb789a64e_TERMS%20OF%20USE.pdf
-3. https://uploads-ssl.webflow.com/616ead41c6be242031a0368d/61f140de1ba9cb5db1e18b26_IP%20Assets%20Assessment.pdf
-4. https://uploads-ssl.webflow.com/616ead41c6be242031a0368d/6214b50e032e90a19ae2bbe8_Intrinsic%20Value.pdf
-5. https://uploads-ssl.webflow.com/616ead41c6be242031a0368d/618a4b999399f63cf28fda29_Perperual%20loans%20for%20all%20creators.pdf
-6. https://uploads-ssl.webflow.com/616ead41c6be242031a0368d/6214b522354202bf4d75726a_Investment%20Auctions.pdf
-
 ### Ecosystem Fit
 
 We would like to introduce the DeSci segment within the EOS ecosystem and to enable an all-in-one DeTech platform for DeSci organizations and tech DAOs.
@@ -284,7 +272,15 @@ All developments within the EOS Grants Program will be open-sourced from day one
 
 ## Development Status
 
-The platform built on Graphene has been piloted and the product/market fit has been already verified. The transition from Graphene to the EOS for DeSci applications is under evaluation. We target to enable quick roll-out for technology DAOs and other DeSci communities. This is the main motivation of this application.
+The platform built on Graphene has been piloted and the product/market fit has been already verified. The transition from Graphene to the EOS for DeSci applications is under evaluation. We target to enable quick roll-out for technology DAOs and other DeSci communities. This is the main motivation of this application. During 5 months it's going to create MVP based on EOS framework. MVP includes basic Tech Assets Showcasing, Collaboration, Assessment functionality and Commercialization tools.
+
+Relevant prior work and research on the topic:
+1. https://uploads-ssl.webflow.com/616ead41c6be242031a0368d/618a4a611143242fbaa414fb_New%20era%20of%20investments.pdf
+2. https://uploads-ssl.webflow.com/616ead41c6be242031a0368d/61c5ad3576ce2f7eb789a64e_TERMS%20OF%20USE.pdf
+3. https://uploads-ssl.webflow.com/616ead41c6be242031a0368d/61f140de1ba9cb5db1e18b26_IP%20Assets%20Assessment.pdf
+4. https://uploads-ssl.webflow.com/616ead41c6be242031a0368d/6214b50e032e90a19ae2bbe8_Intrinsic%20Value.pdf
+5. https://uploads-ssl.webflow.com/616ead41c6be242031a0368d/618a4b999399f63cf28fda29_Perperual%20loans%20for%20all%20creators.pdf
+6. https://uploads-ssl.webflow.com/616ead41c6be242031a0368d/6214b522354202bf4d75726a_Investment%20Auctions.pdf
 
 ## Development Roadmap
 
@@ -292,16 +288,14 @@ The platform built on Graphene has been piloted and the product/market fit has b
 
 - **Total Estimated Duration:** 5 months
 - **Full-Time Equivalent (FTE):** 7 FTE
-- **Total Costs:** Requested amount in USD for the whole project 99,000 USD. 
+- **Total Costs:** $99,000 USD
 
-During 5 months it's going to create MVP based on EOS framework. 
-MVP includes basic Tech Assets Showcasing, Collaboration, Assessment functionality and Commercialization tools.
 
 ### Milestone 1 - Technology showcasing basic functionality for DeSci
 
 - **Estimated duration:** 1.5 months
 - **FTE:** 7.0
-- **Costs:** 27,000 USD
+- **Costs:** $27,000 USD
 
 |  Number | Deliverable                                       | Specification                                                                                                                                                                                                                             |
 |--------:|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -321,7 +315,7 @@ MVP includes basic Tech Assets Showcasing, Collaboration, Assessment functionali
 
 - **Estimated duration:** 1.5 months
 - **FTE:** 7.0
-- **Costs:** 27,000 USD
+- **Costs:** $27,000 USD
 
 |  Number | Deliverable                               | Specification                                                                                                                                                                                                                                                                                                     |
 |--------:|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -345,7 +339,7 @@ MVP includes basic Tech Assets Showcasing, Collaboration, Assessment functionali
 
 - **Estimated duration:** 1 months
 - **FTE:** 7.0
-- **Costs:** 25,000 USD
+- **Costs:** $25,000 USD
 
 |  Number | Deliverable                     | Specification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |--------:|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -365,7 +359,7 @@ MVP includes basic Tech Assets Showcasing, Collaboration, Assessment functionali
 
 - **Estimated duration:** 1 months
 - **FTE:** 6.0
-- **Costs:** 20,000 USD
+- **Costs:** $20,000 USD
 
 |  Number | Deliverable                                                   | Specification                                                                                                                                                                                                                           |
 |--------:|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
