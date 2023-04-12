@@ -142,7 +142,7 @@
 - Name of team member 4 Victor Mykolenko
   
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity. (Birble AI)
+- **Registered Legal Entity:** Birble AI
 - **Registered Address:** Address of your registered legal entity. Please keep it in a single line. (Our team operates remotely from the Ukraine, USA, and Canada)
 
 ### Team Experience
