@@ -1,19 +1,5 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-> 
-> Please do not remove any of the mandatory lines that start with **bold labels** or as headlines! Your application will be rejected!
->
-> Please do not remove the bolding of labels (such as **Team Name:** ) as it is needed by the automated parsers - that includes the bolding on lines starting with a bullet as part of a list.
-> 
-> Please note that this application will be **automatically parsed**.  Please only put the data required in the fields following the bolded labels (such as **Team Name:** ).
->
-> Deleting lines that start with **Bold Labels:** will cause your grant to be rejected! Please fill this out carefully if you want to be approved!
->
-> All "comment" lines starting with a `>` (such as this one and the ones above and below) should be removed.
-
 - **Project Name:** Birble 
 - **Team Name:**  Birble AI
 - **EOS Payment Address:**  0xCd105861172D3AB6f70d98432373720C2f135F79 (BNB Chain)
@@ -29,8 +15,6 @@
 - **Contact Name:** Michael West
 - **Contact Email:** Hello@birble.win
 - **Website:** https://Birble.win
-
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview
 
@@ -131,8 +115,6 @@
 
 ### Ecosystem Fit
 
-> Help us locate your project in the EOS Network landscape and what problems it tries to solve by answering each of these questions:
-
 - Where and how does your project fit into the ecosystem? This project is a seamless addition to the core codebase, providing a 
   comprehensive solution for web3 and AI developers in the creation of DAPPs and advertising. All the necessary tools are conveniently 
   housed in one location for effortless utilization, education, and advertising.
@@ -170,14 +152,10 @@
     that can automate tasks, improve decision-making processes, and provide insights into complex problems. The team works closely with the community 
     to ensure that the AI solutions are tailored to their specific needs. They also use cutting-edge technologies such as natural language processing (NLP), 
     computer vision (CV), deep learning (DL), and reinforcement learning (RL) to create powerful AI systems.
-  
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here. N/A
 
 ### Team Org Repos
 
 - (https://github.com/Birblewin)
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
 ### Team Member Repos
 
@@ -216,8 +194,6 @@ For each milestone,
 - commit to providing Dockerfiles for the delivery of your project.
 - indicate milestone duration as well as number of full-time employees working on each milestone.
 - **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> :zap: If any of your deliverables is based on someone else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Milestone Summary
 
@@ -270,8 +246,6 @@ For each milestone,
 
 
 ## Future Plans
-
-> Please include here:
 
 - how you intend to use, enhance, promote and support your project in the short term, and
 - the team's long-term plans and intentions in relation to it.
