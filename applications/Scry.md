@@ -1,9 +1,9 @@
 # EOS Network Foundation Grant Proposal
 
 - **Project Name:** Scry Protocol
-- **Team Name:** Legal name of your team (e.g. Greymass, Inc.)
+- **Team Name:** Keychain INC
 - **EOS Payment Address:** EOS payment address
-0x00f0000000F11a5380Da5A184F0C563B5995fee2 EVM
+0x00f0000000F11a5380Da5A184F0C563B5995fee2 EOS EVM
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Pomelo Grant(s):** N/A
 - **Project is Open-Source:** Yes
