@@ -91,11 +91,11 @@ https://github.com/NoaharkEVM/noaharkswap
  | 1   | UX/UI Design Mockups     | Submit the original UI design drawings of liquidity mining and staking mining functions, as well as the prototype design files of the project     |
  | 2   | Smart Contracts     | Submit functions of liquidity mining and stake mining     |
  | 3   | Front-end development     | Develop user operation interface, providing users with convenient and fast interactive pages     |
- | 4   | Web site hosting/maintenance/feature fixes     | Maintain the functional integrity and security of the contract and front-end and back-end     |
  
 ## Security Audit
 
 - **Security Audit items:** Noahark_V2.0 - liquidity mining system
+- **Description:** Noah-Swap staking liquidity mining supports staking of Swap lptoken to obtain corresponding token rewards. The same lptoken pool can support multi-token rewards; this contract is a newly developed contract code, and involves lptoken assets staked by users and The release function of the reward token requires a security audit.
 - **Total Audit Costs:** 5,000 USD
 - **Auditor:** Certik https://www.certik.com/ or any other reliable security audit company
 
@@ -200,12 +200,12 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
  | 1   | UX/UI设计   | 可提交流动性挖矿以及质押挖矿功能的UI设计图原件，以及项目的原型设计文件     |
  | 2  | 智能合约     | 提交包含流动性挖矿、质押挖矿功能     |
  | 3  | 前端开发     | 开发实现用户操作界面，提供给用户方便快捷的交互页面     |
- | 4  | 网站运维     | 持续维护合约及前后端的功能完整性与安全性     |
 
 
 ## 安全审计
 
 - **安全审计项:** 诺亚协议V2.0-流动性挖矿
+- **安全审计描述:** Noah-Swap的质押挖矿，支持质押Swap的lptoken，获得相应的币种奖励，同一个lptoken池子，可支持多币种奖励；该合约属于新开发的合约代码，且涉及用户质押的lptoken资产以及奖励币种的释放功能，固需要进行安全审计
 - **安全审计费用合计:** 5,000 美元
 - **安全审计公司:** Certik https://www.certik.com/ 或者其他知名安全审计公司
 
