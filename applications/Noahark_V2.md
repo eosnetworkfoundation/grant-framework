@@ -72,7 +72,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 **V2.0 Development Plan: (excluding audit fees)**
 1. Deploy Noah V2.0 - liquidity mining system on the EVM test network (2023.05)
-2. Audit Noah V2.0 - liquidity mining system (2023.05)
+2. Security audit Noah V2.0 - liquidity mining system (2023.05)
 3. Deploy Noah V2.0 - liquidity mining system on the EVM main network (2023.05 - 2023.06)
 
 
@@ -97,7 +97,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 - **Security Audit items:** Noahark_V2.0 - liquidity mining system
 - **Total Audit Costs:** 5,000 USD
-- **Auditor:** Certik https://www.certik.com/
+- **Auditor:** Certik https://www.certik.com/ or any other reliable security audit company
 
 
 ## Total Grant
@@ -207,7 +207,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 
 - **安全审计项:** 诺亚协议V2.0-流动性挖矿
 - **安全审计费用合计:** 5,000 美元
-- **安全审计公司:** Certik https://www.certik.com/
+- **安全审计公司:** Certik https://www.certik.com/ 或者其他知名安全审计公司
 
 ## 资助款合计
 - **资助款合计（包括审计费）:** 33,000 美元
