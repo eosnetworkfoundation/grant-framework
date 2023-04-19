@@ -63,7 +63,8 @@ Devs for protocols
 Oracles and data
 - Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
   - If so, how is your project different?
-  One of the biggest issues with data and oracle infrastructure in crypto is that it is monopolized by players like Chainlink, and all alternatives suffer from the same closed systems for data through set signers or a single token as the core security. This results in a centralized approach to data, which goes against the very ethos of decentralization.
+
+One of the biggest issues with data and oracle infrastructure in crypto is that it is monopolized by players like Chainlink, and all alternatives suffer from the same closed systems for data through set signers or a single token as the core security. This results in a centralized approach to data, which goes against the very ethos of decentralization.
 
 By enabling anyone to fill requests for data, Scry allows developers and projects to choose where they source their data based on reputation for who they feel will be honest, as well as even source the data from their own community.
 
@@ -191,13 +192,13 @@ Am requesting a grant for retroactive purposes for what we've built, having spen
 https://scryprotocol.substack.com/p/understanding-scrys-hashranch-vrf
 https://docs.scry.finance/docs/morpheus/vrf-hash-ranch
 | 2. | Open Oracle Framework | 1 Contract Many Feeds
-Oracles can have a single feed or have 1 contract and submit many feeds/prices available, allowing submitFeed(uint[] feedIDs, uint[] values) to save gas for large feed sets. This allows large players to easily submit multiple feeds with 1 call and not need to manage multiple transactions/calls to multiple contracts.
+Oracles can have a single feed or have 1 contract and submit many feeds/prices available, allowing submitFeed(uint[] feedIDs, uint[] values) to save gas for large feed sets. This allows large players to easily submit multiple feeds with 1 call and not need to manage multiple transactions/calls to multiple contracts. | 
 Monetization and Incentives
-Because oracles have upkeep costs, the oracles can charge a small fee in ETH. This way they can deploy many feeds as long as they are worth the upkeep, and because we compact many feed updates into single calls, efficiency couldn’t be better. Users can then shop around for the best feed or can choose based on price, depending on risk tolerance. This creates an open oracle marketplace and revenue model and allows projects to quickly bootstrap feeds they need from providers. Oracles can then price their feeds based on upkeep and cost as well as deprecate unused feeds.
+Because oracles have upkeep costs, the oracles can charge a small fee in ETH. This way they can deploy many feeds as long as they are worth the upkeep, and because we compact many feed updates into single calls, efficiency couldn’t be better. Users can then shop around for the best feed or can choose based on price, depending on risk tolerance. This creates an open oracle marketplace and revenue model and allows projects to quickly bootstrap feeds they need from providers. Oracles can then price their feeds based on upkeep and cost as well as deprecate unused feeds. | 
 Containerization
-Oracles are created as single contracts which are owned by the oracle parties that submit feeds, these oracles then create an id for every feed they want to create, which allows for users to explore feeds offered by an oracle and select based on id, while having each oracle be completely contained, such that bad oracles do not affect good oracles and users can choose providers that are good for them.
+Oracles are created as single contracts which are owned by the oracle parties that submit feeds, these oracles then create an id for every feed they want to create, which allows for users to explore feeds offered by an oracle and select based on id, while having each oracle be completely contained, such that bad oracles do not affect good oracles and users can choose providers that are good for them. | 
 Scalability
-OOF was designed for projects, users and providers to easily create new feeds and oracles for Ethereum and other networks to have access to offchain data in a decentralized and open market model. By allowing for anyone to create an oracle with minimal knowledge and time, and setting up decentralized providers
+OOF was designed for projects, users and providers to easily create new feeds and oracles for Ethereum and other networks to have access to offchain data in a decentralized and open market model. By allowing for anyone to create an oracle with minimal knowledge and time, and setting up decentralized providers | 
 Oracles key features
 - Autonomous oracle system where devs can self deploy own feeds/oracles and use custom signers for permissionless, decentralized and secure deployment with self-controllable feed creation using custom APIs for rapid development. The nodes are able to be deployed in <15m on any EVM by devs with 0 code needed and update feeds supported in realtime as needed.
 - 200+ different feed updates with 1 tx (high scale data). Scaled with Layer 2s.
@@ -205,22 +206,22 @@ Oracles key features
 - Data lookup for historical data for all feeds natively, allows for both immutable data access, TWAP construction and onchain analytics.
 - Allows for various monetization structures at a feed level, oracle providers can charge for certain feeds to earn revenue as well as provide others for public use, subscription models for data requests at the feed level and oracle level.
 - Largest data provider for Goerli, Sepolia, Optimism, Canto, polygon and providing 3x the data Link are able to, with the ability to scale to 100x by simply updating the APIs pulled from. Stress tested with up to 500 feeds with just 1 tx, which is 10x Links entire oracle network for any Layer 2, and more than matches all oracle feeds for mainnet they offer, in 1 tx.
-- Fully decentralized and open source, the Front End, Node and Contracts are all open source and can be self hosted by teams and networks
+- Fully decentralized and open source, the Front End, Node and Contracts are all open source and can be self hosted by teams and networks | 
 https://base.dapp.scry.finance/ -will be ported
 https://github.com/scryprotocol/NodeDeploy
 | 3. | 
 Morpheus | 
-An Open, Decentralized and Permissionless Framework for Bringing On-Demand Web2 Data to Web3
-Morpheus is a framework that allows developers to request any API from web2, directly onchain for their web3 apps. This tool enables real-time data requests, any API and data to be used, and can be used on any EVM network. Morpheus has been designed to make it easier for developers to build decentralized applications that can interact with the real world, thereby bridging the gap between web2 and web3.
-One of the most significant advantages of Morpheus is its ability to access any API endpoint. This means that developers can now easily request data from sources such as social media platforms, weather APIs, and financial data APIs directly on the blockchain. This makes it possible to build applications that are more relevant to the real world such as insurance, synthetics, social dapps and that can provide more value to users.
-Morpheus is also designed to be network-agnostic, which means that it can be used on any EVM network. This makes it easier for developers to build applications that are not limited to a particular blockchain, but that can be used on any network that supports EVM.
-Morpheus is an exciting new tool that is set to revolutionize the way developers build decentralized applications. By enabling real-time data requests and access to any API endpoint, Morpheus makes it easier to create applications that are more relevant to the real world. With its network-agnostic design, Morpheus can be used on any EVM network, making it a powerful tool for developers looking to build decentralized applications.
+An Open, Decentralized and Permissionless Framework for Bringing On-Demand Web2 Data to Web3 | 
+Morpheus is a framework that allows developers to request any API from web2, directly onchain for their web3 apps. This tool enables real-time data requests, any API and data to be used, and can be used on any EVM network. Morpheus has been designed to make it easier for developers to build decentralized applications that can interact with the real world, thereby bridging the gap between web2 and web3. | 
+One of the most significant advantages of Morpheus is its ability to access any API endpoint. This means that developers can now easily request data from sources such as social media platforms, weather APIs, and financial data APIs directly on the blockchain. This makes it possible to build applications that are more relevant to the real world such as insurance, synthetics, social dapps and that can provide more value to users. | 
+Morpheus is also designed to be network-agnostic, which means that it can be used on any EVM network. This makes it easier for developers to build applications that are not limited to a particular blockchain, but that can be used on any network that supports EVM. | 
+Morpheus is an exciting new tool that is set to revolutionize the way developers build decentralized applications. By enabling real-time data requests and access to any API endpoint, Morpheus makes it easier to create applications that are more relevant to the real world. With its network-agnostic design, Morpheus can be used on any EVM network, making it a powerful tool for developers looking to build decentralized applications. | 
 - Anyone can run a data provider and earn fees from requests
 - Creates a data market and lets devs choose their oracle sources at the signer level and batch many for redundancy
 - Any API endpoint in realtime for any data
 - Custom highly secure VRF with simple verification
 - 0 Code setup and deployment, takes <60s to set up and have an operational node
-- Out of the box nodes, contract deployment and verifiers and front end 
+- Out of the box nodes, contract deployment and verifiers and front end  | 
 https://github.com/ScryProtocol/Morpheus/
 https://docs.scry.finance/docs/morpheus/morpehus
 ## Future Plans
