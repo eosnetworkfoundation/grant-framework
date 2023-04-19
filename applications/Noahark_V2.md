@@ -17,7 +17,7 @@
 
 
 ## Project Overview
-In Noah V2.0, we are going to add liquidity mining that can support several different tokens at the same time. It means for a trade pair of Token A - EOS, our liquidity mining can support mining tokens like EOS, USDT, Token A, Token B, Token C, etc. This feature will facilitate other projects for liquidity mining so that the liquidity will be boosted. Noah will be the Swap center for EOS EVM where many other communities and project teams will come to Noah to add their liquidity as well as their special mining. Users can also benefit from this multi-mining events. Overall, it is a very powerful tool that will connect all the project teams in terms of DeFi and communities yield.
+In Noah V2.0, we are going to add liquidity mining that can support several different tokens at the same time. For example, it means for a trade pair of Token A - EOS, our liquidity mining can support mining tokens like EOS, USDT, Token A, Token B, Token C, etc. This feature will facilitate other projects for liquidity mining so that the liquidity will be boosted. Noah will be the Swap center for EOS EVM where many other communities and project teams will come to Noah to add their liquidity as well as their special mining. Users can also benefit from this multi-mining events. Overall, it is a very powerful tool that will connect all the project teams in terms of DeFi and communities yield.
 
 ### Overview
 
@@ -130,7 +130,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 ### 项目概况
 **概述**
-在Noah V2.0中，我们将加入流动性挖矿，可以同时支持多种不同的代币。即对于Token A-EOS的交易对，我们的流动性挖矿可以同时支持挖EOS、USDT、代币A、代币B、代币C等各种代币，这个特性可以方便其他项目进行流动性挖矿，对生态的流动性会有很好的促进作用。 有了强大的流动性挖矿功能，Noah将成为EOS EVM的闪兑中心，许多其他社区和项目团队将使用Noah Swap增加他们的流动性以及他们的专属挖矿。用户也可以从这个多个币种挖矿活动中受益。总的来说，这是一个非常强大的工具，它将以DeFi的方式，把所有项目给整合起来。
+在Noah V2.0中，我们将加入流动性挖矿，可以同时支持多种不同的代币。比如说，对于代币A-EOS这样一个交易对，我们的流动性挖矿可以同时支持挖EOS、USDT、代币A、代币B、代币C等各种代币，这个特性可以方便其他项目进行流动性挖矿，对生态的流动性会有很好的促进作用。 有了强大的流动性挖矿功能，Noah将成为EOS EVM的闪兑中心，许多其他社区和项目团队将使用Noah Swap增加他们的流动性以及他们的专属挖矿。用户也可以从这个多个币种挖矿活动中受益。总的来说，这是一个非常强大的工具，它将以DeFi的方式，把所有项目给整合起来。
 
 - **名称：诺亚协议V2.0-流动性挖矿**
 
