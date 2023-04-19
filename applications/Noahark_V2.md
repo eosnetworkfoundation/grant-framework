@@ -1,6 +1,6 @@
 # EOS Network Foundation Grant Proposal
 
-- **Project Name:** Noahark Protocol V2.0
+- **Project Name:** Noahark Protocol V2.0 - liquidity mining
 - **Team Name:** Noahark
 - **EOS Payment Address:** btxhdbttqhgs
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
@@ -17,31 +17,28 @@
 
 
 ## Project Overview
-Noah Swap is a decentralized exchange that allows users to freely trade on the chain. As with most AMMs, trades between specific asset pairs are facilitated by holding reserves of both assets. It sets the transaction price between them according to the size of its reserves, and the price will change when the number of tokens in the pool changes. Any user can freely join or withdraw from the token liquidity pool, and those who become liquidity providers or LPs will bear part of the transaction risk in exchange for returns. Noah is composed of community members and aims to open a new generation of exchanges that are more decentralized and "0" risk.
+In Noah V2.0, we are going to add liquidity mining that can support several different tokens at the same time. It means for a trade pair of Token A - EOS, our liquidity mining can support mining tokens like EOS, USDT, Token A, Token B, Token C, etc. This feature will facilitate other projects for liquidity mining so that the liquidity will be boosted. Noah will be the Swap center for EOS EVM where many other communities and project teams will come to Noah to add their liquidity as well as their special mining. Users can also benefit from this multi-mining events. Overall, it is a very powerful tool that will connect all the project teams in terms of DeFi and communities yield.
 
 ### Overview
 
-> Please provide the following:
-
-- **Name:** Noahark
-- **Brief Description:** a Swap protocol on EOS EVM
-- **Relationship to EOSIO:** a Swap protocol for EOS EVM users. Code is open source
-- **Reason for Interest:** It provides a Swap market-making functions for exchange needs and more yields serving Trust EVM users. It will brings huge TVL to EOS EVM and returns to investors and users.
+- **Name:** Noahark V2.0 - liquidity mining
+- **Brief Description:** a liquidity mining system on Noah Swap that can support multiple tokens mining for trade pairs at the same time
+- **Relationship to EOSIO:** a liquidity mining system on Noah Swap for EOS EVM users. Code is open source
+- **Reason for Interest:** It provides a powerful liquidity mining functions for community needs and more yields serving EOS EVM users. It will brings huge TVL to EOS EVM and returns to investors and users.
 
 
 ### Ecosystem Fit
 
-- **Where and how does your project fit into the ecosystem?** Users can buy and sell the tokens for exchange purpose or add liquidity for yield purpose. It is very basic DeFi infrastructure for EOS EVM.
+- **Where and how does your project fit into the ecosystem?** We see many Swaps already launched on EOS EVM, but there isn't any liquidity mining features yet, we are going to deploy this powerful liquidity mining system, it will connect all the other projects and communities in terms of DeFi, but also gives higher yield for users who add liquidity.
 
 - **Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?** EOS EVM users, professional DEX-DEX, DEX-CEX arbitrageurs, EOS users;
 
 - **What need(s) does your project meet?** DeFi activities like Swap and market-making on EOS EVM, Noah provides supports for project teams and communities with multiple tokens mining. This will create a very good connection with all the other projects in our DeFi platform; The users can also enjoy a high yield.
 
-- **Are there any other projects similar to yours in the EOSIO ecosystem?** Yes, Swap Protocol in Defibox and DFS on EOS, also many other Swap protocols in EOS EVM.
+- **Are there any other projects similar to yours in the EOSIO ecosystem?** We are the first one in the EOS EVM that can provide such a powerful liquidity mining functions
   
 - **If so, how is your project different?**
-
-Noahark is focus on EOS EVM and our code is compatible to EVM. Our first version is 1.0 and we plan to expand to V2.0 and V3.0 in the next 6 months. The V2.0 is a major upgrade and innovation based on the V1.0. The V2.0 will evolve and upgrade on the basis of liquidity mining, providing users and project teams with more liquidity yield
+Noahark is focus on EOS EVM and our code is compatible to EVM. The V2.0 is a major upgrade and innovation based on the V1.0. The V2.0 will evolve and upgrade on the basis of liquidity mining, providing users and project teams with more liquidity yield
 
 ## Team
 
@@ -73,16 +70,10 @@ https://github.com/NoaharkEVM/noaharkswap
 
 ## Development Timeline
 
-**V1.0 Development Plan: (excluding audit fees)**
-1. Product demand design (2022.09 - 2022.12)
-2. UI design (2022.09 - 2022.12)
-3. Contract development (2022.10 - 2023.01)
-4. Front-end and back-end development from (2022.10 - 2023.01)
-5. Contract test (2022.10 - 2023.01)
-6. Front-end and back-end testing (2022.10 - 2023.01)
-7. Launch the EVM test network to optimize user experience (2023.01 - 2023.02)
-8. Launch the EVM main network (2023.03 - 2023.05, synchronized with the main network launch time)
-
+**V2.0 Development Plan: (excluding audit fees)**
+1. Deploy Noah V2.0 - liquidity mining system on the EVM test network (2023.05)
+2. Audit Noah V2.0 - liquidity mining system (2023.05)
+3. Deploy Noah V2.0 - liquidity mining system on the EVM main network (2023.05 - 2023.06)
 
 
 ## Milestone Summary
@@ -104,7 +95,7 @@ https://github.com/NoaharkEVM/noaharkswap
  
 ## Security Audit
 
-- **Security Audit items:** Noahark_V2
+- **Security Audit items:** Noahark_V2.0 - liquidity mining system
 - **Total Audit Costs:** 5,000 USD
 - **Auditor:** Certik https://www.certik.com/
 
@@ -122,7 +113,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 # Chinese中文
 
-- **项目名称：**  诺亚协议V2.0 (Noahark V2.0)
+- **项目名称：**  诺亚协议V2.0 - 流动性挖矿
 - **团队名称：**  Noahark
 - **EOS支付地址：**  btxhdbttqhgs
 - **等级：** 3
@@ -139,30 +130,30 @@ https://github.com/NoaharkEVM/noaharkswap
 
 ### 项目概况
 **概述**
-诺亚Swap是一种去中心化交易所，让用户可以在链上进行自由交易。与大多数 AMM 一样，通过持有两种资产的储备来促进特定资产对之间的交易。它根据其储备规模设定它们之间的交易价格，池内的代币数量变动则价格将会变动。任何用户可以自由加入或退出代币流动池，成为流动性提供者或 LP 的人将承担部分交易风险以换取回报。Noah由社区成员组成，旨在开放更加去中心化且“0”风险的新一代交易所。 
+在Noah V2.0中，我们将加入流动性挖矿，可以同时支持多种不同的代币。即对于Token A-EOS的交易对，我们的流动性挖矿可以同时支持挖EOS、USDT、代币A、代币B、代币C等各种代币，这个特性可以方便其他项目进行流动性挖矿，对生态的流动性会有很好的促进作用。 有了强大的流动性挖矿功能，Noah将成为EOS EVM的闪兑中心，许多其他社区和项目团队将使用Noah Swap增加他们的流动性以及他们的专属挖矿。用户也可以从这个多个币种挖矿活动中受益。总的来说，这是一个非常强大的工具，它将以DeFi的方式，把所有项目给整合起来。
 
-- **名称：诺亚协议**
+- **名称：诺亚协议V2.0-流动性挖矿**
 
-- **简介：** Trust EVM上的闪兑协议
-- **与EOSIO的关系：** 服务于EOS EVM用户的Swap协议。代码将为EOSIO资源库开源。
-- **感兴趣的原因：** 提供Swap做市功能，满足交易需求，更快服务于EOS EVM用户。它将为EOS EVM带来巨大的TVL锁仓，为投资者和用户带来回报。
+- **简介：** Noah Swap上的流动性挖矿系统，可以同时支持交易对进行多个币种同时挖矿
+- **与EOSIO的关系：** 针对EOS EVM用户的 Noah Swap流动性挖矿系统。代码是开源的
+- **感兴趣的原因：** 为社区需求提供强大的流动性挖矿功能，为EOS EVM用户提供更多收益服务。它将为EOS EVM带来巨大的TVL，为投资者和用户带来回报。
 
 
 ### 生态系统
 - **您的项目在哪里以及如何融入生态系统？**
--用户可以出于交换目的买卖代币或出于收益目的增加流动性。它是EOS EVM的DeFi基础设施。
+我们看到很多 Swaps 已经在 EOS EVM上推出，但是还没有任何流动性挖矿功能，我们将部署这个强大的流动性挖矿系统，既能够以DeFi的方式整合其他项目，也能够使用户可以添加流动性以达到收益目的。
 
 - **谁是你的目标受众（链/dapp/钱包/UI 开发人员、设计师、你自己的用户群、一些 dapp 的用户群、你自己）？**
---EOS EVM的用户,专业的DEX-DEX,DEX-CEX套利者,庞大的EOS用户群体;
+EOS EVM的用户,专业的DEX-DEX,DEX-CEX套利者,庞大的EOS用户群体;
 
 - **您的项目满足什么需求？**
--EOS EVM上的Swap和做市等DeFi活动, 提供多个币种支持的流动性挖矿，有助于和其他社区及项目进行流动性挖矿合作，同时用户也能享受到更高的收益
+EOS EVM 上的 Swap 和做市等 DeFi 活动，Noah 为项目团队和社区提供多种代币挖矿支持。这将与我们DeFi平台中的所有其他项目建立良好的联系；用户也可以享受高收益。
 
 - **在EOSIO生态系统中还有其他类似的项目吗？**
--是的，Defibox的Swap Protocol和EOS上的DFS Swap，以及EOS EVM上面的Swap
+我们是EOS EVM中第一个可以提供如此强大流动性挖矿功能的项目
 
 - **如果是这样，您的项目有何不同？**
--Noahark专注于EOS EVM，我们的代码与EVM兼容。我们即将发布的版本是1.0，并计划未来6个月扩展到V2.0以及V3.0。V2.0版本是在V1.0版本的基础上进行的重大升级和创新，V2.0版本将在多币种流动性挖矿支持进化升级，为社区以及其他项目方提供多币种流动性挖矿，同时用户也能享受到多重收益。
+Noahark 专注于 EOS EVM，我们的代码与 EVM 兼容。 V2.0是在V1.0基础上的重大升级和创新。 V2.0将在流动性挖矿的基础上进化升级，为用户和项目方提供更多的流动性收益
 
 ### 团队
 - **团队成员：** 20
@@ -190,15 +181,9 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 ## 开发路线
 
 **V1.0 开发阶段：(不包含合约审计费用)**
-1. 产品需求设计 （2022年9月 - 2022年12月）
-2. UI设计  （2022年9月 - 2022年12月）
-3. 合约开发  （2022年10月 - 2023年1月）
-4. 前端、后端开发 （2022年10月 - 2023年1月）
-5. 合约测试  （2022年10月 - 2023年1月）
-6. 前端、后端测试； （2022年10月 - 2023年1月）
-7. 上线EVM测试网，优化用户体验  （2023年1月 - 2023年2月）
-8. 上线EVM主网  （2023年3月 - 2023年5月，同步主网上线时间）
-
+1. 在EVM测试网上部署Noah V2.0——流动性挖矿系统（2023.05）
+2. 安全审计诺亚V2.0-流动性挖矿系统 (2023.05)
+3. 在EVM主网上部署Noah V2.0——流动性挖矿系统（2023.05-2023.06）
 
 ## 里程碑总结
 - **总预计持续时间：** 2个月
@@ -220,7 +205,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 
 ## 安全审计
 
-- **安全审计项:** 诺亚协议V2.0
+- **安全审计项:** 诺亚协议V2.0-流动性挖矿
 - **安全审计费用合计:** 5,000 美元
 - **安全审计公司:** Certik https://www.certik.com/
 
