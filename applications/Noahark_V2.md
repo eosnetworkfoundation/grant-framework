@@ -24,21 +24,21 @@ In Noah V2.0, we are going to add liquidity mining that can support several diff
 - **Name:** Noahark V2.0 - liquidity mining
 - **Brief Description:** a liquidity mining system on Noah Swap that can support multiple tokens mining for trade pairs at the same time
 - **Relationship to EOSIO:** a liquidity mining system on Noah Swap for EOS EVM users. Code is open source
-- **Reason for Interest:** It provides a powerful liquidity mining functions for community needs and more yields serving EOS EVM users. It will brings huge TVL to EOS EVM and returns to investors and users.
+- **Reason for Interest:** It provides a powerful liquidity mining functions for community needs and more yields serving EOS EVM users. It will brings huge TVL to EOS EVM and returns to investors and users
 
 
 ### Ecosystem Fit
 
 - **Where and how does your project fit into the ecosystem?** We see many Swaps already launched on EOS EVM, but there isn't any liquidity mining features yet, we are going to deploy this powerful liquidity mining system, it will connect all the other projects and communities in terms of DeFi, but also gives higher yield for users who add liquidity.
 
-- **Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?** EOS EVM users, professional DEX-DEX, DEX-CEX arbitrageurs, EOS users;
+- **Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?** EOS EVM users, professional DEX-DEX, DEX-CEX arbitrageurs, EOS users.
 
 - **What need(s) does your project meet?** DeFi activities like Swap and market-making on EOS EVM, Noah provides supports for project teams and communities with multiple tokens mining. This will create a very good connection with all the other projects in our DeFi platform; The users can also enjoy a high yield.
 
-- **Are there any other projects similar to yours in the EOSIO ecosystem?** We are the first one in the EOS EVM that can provide such a powerful liquidity mining functions
+- **Are there any other projects similar to yours in the EOSIO ecosystem?** We are the first one in the EOS EVM that can provide such a powerful liquidity mining functions.
   
 - **If so, how is your project different?**
-Noahark is focus on EOS EVM and our code is compatible to EVM. The V2.0 is a major upgrade and innovation based on the V1.0. The V2.0 will evolve and upgrade on the basis of liquidity mining, providing users and project teams with more liquidity yield
+Noahark is focus on EOS EVM and our code is compatible to EVM. The V2.0 is a major upgrade and innovation based on the V1.0. The V2.0 will evolve and upgrade on the basis of liquidity mining, providing users and project teams with more liquidity yield.
 
 ## Team
 
@@ -144,16 +144,16 @@ https://github.com/NoaharkEVM/noaharkswap
 我们看到很多 Swaps 已经在 EOS EVM上推出，但是还没有任何流动性挖矿功能，我们将部署这个强大的流动性挖矿系统，既能够以DeFi的方式整合其他项目，也能够使用户可以添加流动性以达到收益目的。
 
 - **谁是你的目标受众（链/dapp/钱包/UI 开发人员、设计师、你自己的用户群、一些 dapp 的用户群、你自己）？**
-EOS EVM的用户,专业的DEX-DEX,DEX-CEX套利者,庞大的EOS用户群体;
+EOS EVM的用户,专业的DEX-DEX,DEX-CEX套利者,庞大的EOS用户群体。
 
 - **您的项目满足什么需求？**
 EOS EVM 上的 Swap 和做市等 DeFi 活动，Noah 为项目团队和社区提供多种代币挖矿支持。这将与我们DeFi平台中的所有其他项目建立良好的联系；用户也可以享受高收益。
 
 - **在EOSIO生态系统中还有其他类似的项目吗？**
-我们是EOS EVM中第一个可以提供如此强大流动性挖矿功能的项目
+我们是EOS EVM中第一个可以提供如此强大流动性挖矿功能的项目。
 
 - **如果是这样，您的项目有何不同？**
-Noahark 专注于 EOS EVM，我们的代码与 EVM 兼容。 V2.0是在V1.0基础上的重大升级和创新。 V2.0将在流动性挖矿的基础上进化升级，为用户和项目方提供更多的流动性收益
+Noahark专注于EOS EVM，我们的代码与EVM兼容。 V2.0是在V1.0基础上的重大升级和创新。 V2.0将在流动性挖矿的基础上进化升级，为用户和项目方提供更多的流动性收益。
 
 ### 团队
 - **团队成员：** 20
