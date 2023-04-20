@@ -51,7 +51,7 @@ Wireframe / mock-up: https://app.moqups.com/890kc7IXkE7viaoy5LVSW8MEOUjEtJ8n/vie
 **Workflow Template Step (Proposed Format)**
 Every workflow step is a JSON object, and the Workflow Template itself is an object containing an array of steps together with some other metadata.
 
-
+``` 
 {
 	id: "927075e7-3ebb-4054-a31f-42860e5f7e6c"
 	name: "test template",
@@ -91,6 +91,7 @@ Every workflow step is a JSON object, and the Workflow Template itself is an obj
 		}
 	]
 }
+```
 
 The user defining the template steps is responsible for taking care that every referenced output exists in the steps before.
 
