@@ -229,14 +229,7 @@ This is the last, and perhaps the most important element of the Platform **for w
 | 0b. | Documentation | We will provide both documentation of the code and a basic tutorial that explains how a user can spin up a local Workflow application. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Docker | We will provide a Dockerfile that can be used to spin up a local Workflow application. |
-| 1. | Front-End / User Interface | A minimal frontend will be developed to showcase the idea of how the product might work.
-Features:
-PoC will contain the following 5 features:
-1. create a template by uploading the JSON file in the proposed format
-2. create a template by pasting the JSON content directly into the app
-3. validate the template and upload it to IPFS to get a shareable link
-4. share a link to a template
-5. process the shared template steps by opening the link and connecting MetaMask |   
+| 1. | Front-End / User Interface | A minimal frontend will be developed to showcase the idea of how the product might work. Features: PoC will contain the following 5 features: <br />1. create a template by uploading the JSON file in the proposed format <br />2. create a template by pasting the JSON content directly into the app <br />3. validate the template and upload it to IPFS to get a shareable link <br />4. share a link to a template <br />5. process the shared template steps by opening the link and connecting MetaMask |   
 
 **Deliverable:** This application will be hosted on its own domain and will be used to test and validate the idea of templates and workflows. This will enable anyone to easily define their workflows and share them with anyone by simply sending the link.
 
@@ -253,14 +246,7 @@ PoC will contain the following 5 features:
 | 0b. | Documentation | We will provide both documentation of the code and a tutorial that explains how a user can spin up a local Workflow application (backend). |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Docker | We will provide a Dockerfile that can be used to spin up a local Workflow backend and local Workflow frontend containers. |
-| 1. | Workflows Backend Service | Deliverable description: Workflows Backend Service is a REST API service exposing the APIs to enable the following:
-→ project management (create a new project which is going to contain templates)
-→ workflow templates (create, query, get all)
-→ workflow templates - generate a permalink (when opened, a new instance of the template is created)
-→ workflow instances (create, update the state, query state, get all with status)
-→ multichain support (support for different EVM chains)
-
-Backend will be implemented in the spring framework and will be packed inside the docker container. |  
+| 1. | Workflows Backend Service | Deliverable description: Workflows Backend Service is a REST API service exposing the APIs to enable the following: <br />1 project management (create a new project which is going to contain templates) <br />2 workflow templates (create, query, get all) <br />3 workflow templates - generate a permalink (when opened, a new instance of the template is created) <br />4 workflow instances (create, update the state, query state, get all with status) <br />5 multichain support (support for different EVM chains) <br />Backend will be implemented in the spring framework and will be packed inside the docker container. |  
 
 MVP-Workshop scheme - https://drive.google.com/file/d/1-gAqa2k9R2svckSUElMQ_74CcTg9f6Mb/view?usp=sharing
 *workflows.io is an imaginary domain used as an example here. We will come up with another name for this product.
@@ -283,14 +269,8 @@ Workflows v1.0  frontend contains two parts:
 | 0c. | Testing Guide | Testing of the Workflows application will be mostly covered on the backend side. For the frontend testing, the regular QA human tests will be carried out. |
 | 0d. | Docker | We will provide a Dockerfile that can be used to spin up a local Workflow backend and local Workflow frontend containers. |
 | 1. | Workflows Frontend application | Web application built with React Native, contains two modules: Dashboard & Execution Environment. | 
-| 2. | Workflows Frontend Dashboard | Design the Workflow Dashboard
-→ Create a new project
-→ Create a new template by defining steps
-→ Show existing templates
-→ Copy a permalink to an existing template
-→ Show a list of created workflows instances with their execution statuses (i.e. 5/7 steps completed) | 
-| 3. | Workflows Frontend Execution environment | → Design the Execution Environment
-→ Process workflow instance by allowing users to connect wallet (Metamask) and execute actions step by step | 
+| 2. | Workflows Frontend Dashboard | Design the Workflow Dashboard <br />→ Create a new project <br />→ Create a new template by defining steps <br />→ Show existing templates <br />→ Copy a permalink to an existing template <br />→ Show a list of created workflows instances with their execution statuses (i.e. 5/7 steps completed) | 
+| 3. | Workflows Frontend Execution environment | → Design the Execution Environment <br />→ Process workflow instance by allowing users to connect wallet (Metamask) and execute actions step by step | 
 
 **Platform access**
 [https://app.dev3.sh/home](https://app.dev3.sh/home)
