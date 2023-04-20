@@ -3,7 +3,7 @@
 - **Project Name:** Blockchain Low-Code App Development and Automation Platform
 - **Team Name:** Ampnet IO Ltd.
 - **EOS Payment Address:** ivankardum11
-- **[Level] 2
+- **[Level]** 2
 - **Pomelo Grant(s):** https://pomelo.io/grants/lowcode
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
