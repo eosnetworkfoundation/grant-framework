@@ -80,7 +80,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 - **Total Estimated Duration:** 2 months
 - **Full-Time Equivalent (FTE):** 15 FTE
-- **Total Costs (excluding audit fees):** 28,000 USD
+- **Total Costs:** 28,000 USD
 
 | ID  | Deliverable          | Specification                                                    |
 | --- | -------------------- | -----------------------------------------------------------------|
@@ -189,7 +189,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 ## 里程碑总结
 - **总预计持续时间：** 2个月
 - **全职当量 (FTE)：** 15 FTE
-- **总成本(不含审计费）：** 28,000 美元
+- **总成本：** 28,000 美元
 
  
  | ID         | 可交付成果     | 规格          |
