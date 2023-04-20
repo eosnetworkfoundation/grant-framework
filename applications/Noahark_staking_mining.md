@@ -80,7 +80,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 - **Total Estimated Duration:** 2 months
 - **Full-Time Equivalent (FTE):** 15 FTE
-- **Total Costs:** 28,000 USD
+- **Costs:** 28,000 USD
 
 | ID  | Deliverable          | Specification                                                    |
 | --- | -------------------- | -----------------------------------------------------------------|
