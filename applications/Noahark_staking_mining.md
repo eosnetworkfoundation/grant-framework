@@ -17,28 +17,28 @@
 
 
 ## Project Overview
-In Noah V2.0, we are going to add liquidity mining that can support several different tokens at the same time. For example, it means for a trade pair of Token A - EOS, our liquidity mining can support mining tokens like EOS, USDT, Token A, Token B, Token C, etc. This feature will facilitate other projects for liquidity mining so that the liquidity will be boosted. Noah will be the Swap center for EOS EVM where many other communities and project teams will come to Noah to add their liquidity as well as their special mining. Users can also benefit from this multi-mining events. Overall, it is a very powerful tool that will connect all the project teams in terms of DeFi and communities yield.
+Noah Swap has been launched on the EVM main network. Now we have developed the staking mining function, which supports the staking LP of Swap market making for obtaining corresponding reward tokens. The lp staking pool can support a variety of different reward token mining at the same time. It can promote the liquidity level. For example, for a trading pair such as Token A-EOS, our liquidity mining can simultaneously support the mining of various tokens such as EOS, USDT, Token A, Token B, Token C, etc. This feature can facilitate mining for other project teams, and it will greatly boost the TVL on EOS EVM. With the powerful liquidity mining function, Noah will become the swap center of EOS EVM, and many other communities and project teams will use Noah Swap to increase their liquidity and their exclusive mining. Users can also benefit from this multi-token mining activity. Overall, this is a very powerful tool that will integrate all projects by DeFi.
 
 ### Overview
 
-- **Name:** Noahark V2.0 - liquidity mining
-- **Brief Description:** a liquidity mining system on Noah Swap that can support multiple tokens mining for trade pairs at the same time
-- **Relationship to EOSIO:** a liquidity mining system on Noah Swap for EOS EVM users. Code is open source
-- **Reason for Interest:** It provides a powerful liquidity mining functions for community needs and more yields serving EOS EVM users. It will brings huge TVL to EOS EVM and returns to investors and users
+- **Name:** Noahark - staking mining
+- **Brief Description:** a staking mining function on Noah Swap that can support multiple tokens mining for trade pairs at the same time
+- **Relationship to EOSIO:** a staking mining function on Noah Swap for EOS EVM users. Code is open source
+- **Reason for Interest:** It provides a powerful staking mining function for community needs and more yields serving EOS EVM users. It will brings huge TVL to EOS EVM and returns to investors and users
 
 
 ### Ecosystem Fit
 
-- **Where and how does your project fit into the ecosystem?** We see many Swaps already launched on EOS EVM, but there isn't any liquidity mining features yet, we are going to deploy this powerful liquidity mining system, it will connect all the other projects and communities in terms of DeFi, but also gives higher yield for users who add liquidity.
+- **Where and how does your project fit into the ecosystem?** We see many Swaps already launched on EOS EVM, but there isn't any staking mining features yet, we are going to deploy this powerful staking mining function, it will connect all the other projects and communities in terms of DeFi, but also gives higher yield for users who add liquidity.
 
 - **Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?** EOS EVM users, professional DEX-DEX, DEX-CEX arbitrageurs, EOS users.
 
 - **What need(s) does your project meet?** DeFi activities like Swap and market-making on EOS EVM, Noah provides supports for project teams and communities with multiple tokens mining. This will create a very good connection with all the other projects in our DeFi platform; The users can also enjoy a high yield.
 
-- **Are there any other projects similar to yours in the EOSIO ecosystem?** We are the first one in the EOS EVM that can provide such a powerful liquidity mining functions.
+- **Are there any other projects similar to yours in the EOSIO ecosystem?** We are the first one in the EOS EVM that can provide such a powerful staking mining functions.
   
 - **If so, how is your project different?**
-Noahark is focus on EOS EVM and our code is compatible to EVM. The V2.0 is a major upgrade and innovation based on the V1.0. The V2.0 will evolve and upgrade on the basis of liquidity mining, providing users and project teams with more liquidity yield.
+Noahark focuses on EOS EVM. Our code is compatible with EVM, providing more Defi gameplays and stimulating the increase of liquidity.
 
 ## Team
 
@@ -70,10 +70,10 @@ https://github.com/NoaharkEVM/noaharkswap
 
 ## Development Timeline
 
-**V2.0 Development Plan: (excluding audit fees)**
-1. Deploy Noahark - staking mining system on the EVM test network (2023.05)
-2. Security audit Noahark - staking mining function  (2023.05)
-3. Deploy Noahark - staking mining function on the EVM main network (2023.05 - 2023.06)
+**V1.0 - Development Plan: (excluding audit fees)**
+1. Deploy Noahark on the EVM test network - staking mining function (2023.05)
+2. Security Audit Noah - staking Mining (2023.05)
+3. Deploy Noahark on the EVM main network - staking mining function (2023.05-2023.06)
 
 
 ## Milestone Summary
@@ -96,7 +96,7 @@ https://github.com/NoaharkEVM/noaharkswap
 ## Security Audit
 
 - **Security Audit items:** Noahark - staking mining 
-- **Description:** Noah-Swap staking liquidity mining supports staking of Swap lptoken to obtain corresponding token rewards. The same lptoken pool can support multi-token rewards; this contract is a newly developed contract code, and involves lptoken assets staked by users and The release function of the reward token requires a security audit.
+- **Description:** Noah staking mining supports staking of Swap lptoken to obtain corresponding token rewards. The same lptoken pool can support multi-token rewards; this contract is a newly developed contract code, and involves lptoken assets staked by users and The release function of the reward token requires a security audit.
 - **Total Audit Costs:** 5,000 USD
 - **Auditor:** Certik https://www.certik.com/ or any other reliable security audit company
 
@@ -148,10 +148,10 @@ Noah Swap目前已上线EVM主网，现我们开发质押挖矿功能，支持�
 EOS EVM的用户,专业的DEX-DEX,DEX-CEX套利者,庞大的EOS用户群体。
 
 - **您的项目满足什么需求？**
-EOS EVM 上的 Swap 和做市等 DeFi 活动，Noah 为项目团队和社区提供多种代币挖矿支持。这将与我们DeFi平台中的所有其他项目建立良好的联系；用户也可以享受高收益。
+- EOS EVM上做市、闪兑、多币种质押挖矿等需求，Noah为项目团队和社区提供多种代币挖矿支持。这将与我们DeFi平台中的所有其他项目建立良好的联系；用户也可以享受高收益。
 
 - **在EOSIO生态系统中还有其他类似的项目吗？**
-我们是EOS EVM中第一个可以提供如此强大流动性挖矿功能的项目。
+我们是EOS EVM中第一个可以提供如此强大质押挖矿功能的项目。
 
 - **如果是这样，您的项目有何不同？**
 Noahark专注于EOS EVM，我们的代码与EVM兼容，提供更多样的Defi玩法，刺激流动性的增加。 
