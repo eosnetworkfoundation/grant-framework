@@ -1,6 +1,6 @@
 # EOS Network Foundation Grant Proposal
 
-- **Project Name:** Noahark Protocol V2.0 - liquidity mining
+- **Project Name:** Noahark - staking mining
 - **Team Name:** Noahark
 - **EOS Payment Address:** btxhdbttqhgs
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
@@ -71,9 +71,9 @@ https://github.com/NoaharkEVM/noaharkswap
 ## Development Timeline
 
 **V2.0 Development Plan: (excluding audit fees)**
-1. Deploy Noah V2.0 - liquidity mining system on the EVM test network (2023.05)
-2. Security audit Noah V2.0 - liquidity mining system (2023.05)
-3. Deploy Noah V2.0 - liquidity mining system on the EVM main network (2023.05 - 2023.06)
+1. Deploy Noahark - staking mining system on the EVM test network (2023.05)
+2. Security audit Noahark - staking mining function  (2023.05)
+3. Deploy Noahark - staking mining function on the EVM main network (2023.05 - 2023.06)
 
 
 ## Milestone Summary
@@ -82,19 +82,20 @@ https://github.com/NoaharkEVM/noaharkswap
 - **Full-Time Equivalent (FTE):** 15 FTE
 - **Total Costs (excluding audit fees):** 28,000 USD
 
-| ID     | Deliverable    | Specification    |
- | ---------- | :-----------:  | :-----------: |
- | 0a    | License    | MIT    |
- | 0b    | Documentation     | Provide inline documentation of the code and a basic tutorial explaining how users can access our website program and send a test transaction, which will demonstrate how the new functionality works.    |
- | 0c    | Testing Guide    | Unit tests will fully cover the core functionality to ensure functionality and robustness.     |
- | 0d    | Article     | Publish an article on how the grant was used, and what work was done     |
- | 1   | UX/UI Design Mockups     | Submit the original UI design drawings of liquidity mining and staking mining functions, as well as the prototype design files of the project     |
- | 2   | Smart Contracts     | Submit functions of liquidity mining and stake mining     |
- | 3   | Front-end development     | Develop user operation interface, providing users with convenient and fast interactive pages     |
+| ID  | Deliverable          | Specification                                                    |
+| --- | -------------------- | -----------------------------------------------------------------|
+| 0a  | License              | MIT                                                              |
+| 0b  | Smart Contracts      | Submit functions of liquidity mining and stake mining            |
+| 0c  | Testing Guide        | Unit tests will fully cover the core functionality to ensure functionality and robustness.  |
+| 0d  | UX/UI Design Mockups | Submit the original UI design drawings of liquidity mining and staking mining functions, as well as the prototype design files of the project  |  
+| 0e  | Front-end development| Develop user operation interface, providing users with convenient and fast interactive pages     |
+| 0f  | Documentation        | Provide inline documentation of the code and a basic tutorial explaining how users can access our website program and send a test transaction, which will demonstrate how the new functionality works.    |
+| 0i  | Article              | Publish an article on how the grant was used, and what work was done. |
+
  
 ## Security Audit
 
-- **Security Audit items:** Noahark_V2.0 - liquidity mining system
+- **Security Audit items:** Noahark - staking mining 
 - **Description:** Noah-Swap staking liquidity mining supports staking of Swap lptoken to obtain corresponding token rewards. The same lptoken pool can support multi-token rewards; this contract is a newly developed contract code, and involves lptoken assets staked by users and The release function of the reward token requires a security audit.
 - **Total Audit Costs:** 5,000 USD
 - **Auditor:** Certik https://www.certik.com/ or any other reliable security audit company
@@ -113,7 +114,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 # Chinese中文
 
-- **项目名称：**  诺亚协议V2.0 - 流动性挖矿
+- **项目名称：**  诺亚 - 质押挖矿
 - **团队名称：**  Noahark
 - **EOS支付地址：**  btxhdbttqhgs
 - **等级：** 3
@@ -130,18 +131,18 @@ https://github.com/NoaharkEVM/noaharkswap
 
 ### 项目概况
 **概述**
-在Noah V2.0中，我们将加入流动性挖矿，可以同时支持多种不同的代币。比如说，对于代币A-EOS这样一个交易对，我们的流动性挖矿可以同时支持挖EOS、USDT、代币A、代币B、代币C等各种代币，这个特性可以方便其他项目进行流动性挖矿，对生态的流动性会有很好的促进作用。 有了强大的流动性挖矿功能，Noah将成为EOS EVM的闪兑中心，许多其他社区和项目团队将使用Noah Swap增加他们的流动性以及他们的专属挖矿。用户也可以从这个多个币种挖矿活动中受益。总的来说，这是一个非常强大的工具，它将以DeFi的方式，把所有项目给整合起来。
+Noah Swap目前已上线EVM主网，现我们开发质押挖矿功能，支持在Swap做市的lp进行质押获取相应的奖励代币，可以同一个lp的质押池子同时支持多种不同的奖励代币挖矿，促进Swap的流动性增加。比如说，对于代币A-EOS这样一个交易对，我们的流动性挖矿可以同时支持挖EOS、USDT、代币A、代币B、代币C等各种代币，这个特性可以方便其他项目进行质押挖矿，对生态的流动性会有很好的促进作用。 有了强大的流动性挖矿功能，Noah将成为EOS EVM的闪兑中心，许多其他社区和项目团队将使用Noah Swap增加他们的流动性以及他们的专属挖矿。用户也可以从这个多个币种挖矿活动中受益。总的来说，这是一个非常强大的工具，它将以DeFi的方式，把所有项目给整合起来。
 
-- **名称：诺亚协议V2.0-流动性挖矿**
+- **名称：诺亚-质押挖矿**
 
-- **简介：** Noah Swap上的流动性挖矿系统，可以同时支持交易对进行多个币种同时挖矿
-- **与EOSIO的关系：** 针对EOS EVM用户的 Noah Swap流动性挖矿系统。代码是开源的
+- **简介：** Noah Swap上的质押挖矿功能，可以同时支持交易对进行多个币种同时挖矿
+- **与EOSIO的关系：** 针对EOS EVM用户的 Noah Swap质押挖矿。代码是开源的
 - **感兴趣的原因：** 为社区需求提供强大的流动性挖矿功能，为EOS EVM用户提供更多收益服务。它将为EOS EVM带来巨大的TVL，为投资者和用户带来回报。
 
 
 ### 生态系统
 - **您的项目在哪里以及如何融入生态系统？**
-我们看到很多 Swaps 已经在 EOS EVM上推出，但是还没有任何流动性挖矿功能，我们将部署这个强大的流动性挖矿系统，既能够以DeFi的方式整合其他项目，也能够使用户可以添加流动性以达到收益目的。
+我们看到很多 Swaps 已经在 EOS EVM上推出，但是还没有任何流动性挖矿功能，我们将部署这个强大的质押挖矿系统，既能够以DeFi的方式整合其他项目，也能够使用户可以添加流动性以达到收益目的。
 
 - **谁是你的目标受众（链/dapp/钱包/UI 开发人员、设计师、你自己的用户群、一些 dapp 的用户群、你自己）？**
 EOS EVM的用户,专业的DEX-DEX,DEX-CEX套利者,庞大的EOS用户群体。
@@ -153,7 +154,7 @@ EOS EVM 上的 Swap 和做市等 DeFi 活动，Noah 为项目团队和社区提�
 我们是EOS EVM中第一个可以提供如此强大流动性挖矿功能的项目。
 
 - **如果是这样，您的项目有何不同？**
-Noahark专注于EOS EVM，我们的代码与EVM兼容。 V2.0是在V1.0基础上的重大升级和创新。 V2.0将在流动性挖矿的基础上进化升级，为用户和项目方提供更多的流动性收益。
+Noahark专注于EOS EVM，我们的代码与EVM兼容，提供更多样的Defi玩法，刺激流动性的增加。 
 
 ### 团队
 - **团队成员：** 20
@@ -181,9 +182,9 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 ## 开发路线
 
 **V1.0 开发阶段：(不包含合约审计费用)**
-1. 在EVM测试网上部署Noah V2.0——流动性挖矿系统（2023.05）
-2. 安全审计诺亚V2.0-流动性挖矿系统 (2023.05)
-3. 在EVM主网上部署Noah V2.0——流动性挖矿系统（2023.05-2023.06）
+1. 在EVM测试网上部署Noahark——质押挖矿功能（2023.05）
+2. 安全审计诺亚-质押挖矿 (2023.05)
+3. 在EVM主网上部署Noahark——质押挖矿功能（2023.05-2023.06）
 
 ## 里程碑总结
 - **总预计持续时间：** 2个月
@@ -191,20 +192,20 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 - **总成本(不含审计费）：** 28,000 美元
 
  
- | ID      | 可交付成果    | 规格    |
- | ---------- | :-----------:  | :-----------: |
+ | ID         | 可交付成果     | 规格          |
+ | ---------- | :-----------: | :-----------: |
  | 0a    | 证书     | MIT    |
- | 0b | 文档    | 我们将提供代码的内联文档和解释用户如何访问我们的网站程序并发送测试交易的基本教程，这将展示新功能的工作原理。   |
- | 0c   | 测试指导   | 单元测试将完全覆盖核心功能，以确保功能性和稳健性。     |
- | 0d   | 文章   | 我们将发布一篇文章关于资助如何使用，以及完成的工作内容     |
- | 1   | UX/UI设计   | 可提交流动性挖矿以及质押挖矿功能的UI设计图原件，以及项目的原型设计文件     |
- | 2  | 智能合约     | 提交包含流动性挖矿、质押挖矿功能     |
- | 3  | 前端开发     | 开发实现用户操作界面，提供给用户方便快捷的交互页面     |
+ | 0b    | 智能合约 | 提交包含流动性挖矿、质押挖矿功能     |
+ | 0c    | 测试指导 | 单元测试将完全覆盖核心功能，以确保功能性和稳健性。     |
+ | 0d    | UX/UI设计| 可提交流动性挖矿以及质押挖矿功能的UI设计图原件，以及项目的原型设计文件     |
+ | 0e    | 前端开发 | 开发实现用户操作界面，提供给用户方便快捷的交互页面     |
+ | 0f    | 文档     | 我们将提供代码的内联文档和解释用户如何访问我们的网站程序并发送测试交易的基本教程，这将展示新功能的工作原理。   |
+ | 0i    | 文章     | 我们将发布一篇文章关于资助如何使用，以及完成的工作内容     |
 
 
 ## 安全审计
 
-- **安全审计项:** 诺亚协议V2.0-流动性挖矿
+- **安全审计项:** 诺亚-质押挖矿
 - **安全审计描述:** Noah-Swap的质押挖矿，支持质押Swap的lptoken，获得相应的币种奖励，同一个lptoken池子，可支持多币种奖励；该合约属于新开发的合约代码，且涉及用户质押的lptoken资产以及奖励币种的释放功能，固需要进行安全审计
 - **安全审计费用合计:** 5,000 美元
 - **安全审计公司:** Certik https://www.certik.com/ 或者其他知名安全审计公司
