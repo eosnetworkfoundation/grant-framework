@@ -8,6 +8,7 @@
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/NoaharkEVM/noaharkswap
+- **Total Grants for Noahark staking mining:** 33,000 USD
 
 ## Contact
 
@@ -122,6 +123,7 @@ https://github.com/NoaharkEVM/noaharkswap
 - **项目是开源的：** 是
 - **项目是代币销售的一部分：** 否
 - **项目资源库：** https://github.com/NoaharkEVM/noaharkswap
+- **赞助款合计：** 33,000美元
 
 ### 联系人
 - **联系人姓名：** Noahark
