@@ -15,7 +15,7 @@ The EOS Network Foundation (ENF) funds development grants for "Public Good" as w
     <td valign="top"><b>Requirements</b></td>
     <td valign="top"><ul><li>No prior Pomelo grant required</li><li>Selection by Grant Committee</li><li>2 Grant Evaluator approvals</li></ul></td>
     <td valign="top"><ul><li>Prior <a href="https://pomelo.io/">Pomelo grant</a> required</li><li>Selection by Grant Committee</li><li>3 Grant Evaluator approvals</li></ul></td>
-    <td valign="top"><ul><li>Special KYC process</li><li>Selection by Grant Committee</li><li>4 Grant Evaluator approvals</li><li>Pitch Call</li><li>Grants > $100k - ENF Approval</li></ul></td>
+    <td valign="top"><ul><li>Special KYC process</li><li>Selection by Grant Committee</li><li>4 Grant Evaluator approvals</li><li>Prior <a href="https://pomelo.io/">Pomelo grant</a> recommended</li><li>Grants > $100k - ENF Approval</li></ul></td>
   </tr>
   <tr>
     <td valign="top"><b>Benefits</b></td>
