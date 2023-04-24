@@ -24,7 +24,7 @@ The EOS Network Foundation (ENF) funds development grants for "Public Good" as w
     <td valign="top"><ul><li>All benefits from Levels 1 and 2</li><li>Introductions to ENF Ventures VC partners*</li></ul></td>
   </tr>
 </table>
-* ENF Ventures will be established at a future date in 2022.
+* ENF Ventures will be established at a future date in 2023.
 
 ## Three Grant Types
 There are three types of grants that the ENF considers.  Some are originated by the community itself, and some are proposed in the form of an RFP by the ENF.
