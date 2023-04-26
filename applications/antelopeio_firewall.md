@@ -4,7 +4,7 @@
 - **Team Name:**  Animus Labs LTD (representing Boid.com)
 - **EOS Payment Address:**  animus.inc
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):**  2
-- **Pomelo Grant(s):**  [Boid Universe](https://pomelo.io/grants/boiduniverse);  [EOSPOWERUP.IO](https://pomelo.io/grants/eospowerupio);  [EOSIOIBC](https://pomelo.io/grants/eosioibc)
+
 - **Project is Open-Source:**  Yes
 - **Project was part of Token sale:**  No
 - **Repository where Project resides:**  <https://github.com/animuslabs>
@@ -32,7 +32,7 @@ This is a proposal to build a firewall/proxy that would be used in an Antelope n
 Antelope Leap nodes are easily abused without proper network infrastructure. When nodes are abused by bots and malicious attackers, they become unreliable or unusable for normal users and create considerable strain on infrastructure providers. Therefore today only a small subset of public EOS nodes are usable in production. Based on our custom eospowerup.io proxy that rotates between APIs provided by the top 50 BPs we found that less than 10 are reliable and usable for production applications.
 
 #### Proposed Solution
-We propose an application that would sit behind an existing firewall such as NGINX (or replace your firewall for more simple networks) and in front of a Nodeos API and/or p2p node. The application would monitor incoming transactions and queries to perform smart logic such as blocking, or prioritizing based on the node operator's preference. The purpose is to make running highly available RPC nodes more accessible to node operators and reduce the load on the Nodeos software. The advantage of this application vs a traditional firewall is that this application is aware of Antelope transaction and query structure and can apply complex filter logic that a traditional firewall isn’t designed for.
+We propose an application that would sit behind an existing firewall such as NGINX (or replace your firewall for more simple networks) and in front of a Nodeos API node. The application would monitor incoming transactions and queries to perform smart logic such as blocking, or prioritizing based on the node operator's preference. The purpose is to make running highly available RPC nodes more accessible to node operators and reduce the load on the Nodeos software. The advantage of this application vs a traditional firewall is that this application is aware of Antelope transaction and query structure and can apply complex filter logic that a traditional firewall isn’t designed for.
 
 ![AntelopeIO_Firewall_Diagram](https://ipfs.animus.is/ipfs/QmZ3qEwAGuaboNYAypJdXtcGnofQX4yPrYhVStQnX5u8Vh?filename=diagram-antelope-firewall.jpg)
 
@@ -78,7 +78,7 @@ Reducing the load on the Nodeos application will reduce infrastructure costs and
 Additionally, this application would make it easy for application developers to host public nodes which throttle transactions and queries unrelated to their core application.
 
 #### Existing solutions
-Running a reliable Leap RPC/P2P on EOS and other high-traffic Antelope chains requires advanced DevOps skills. Node operators are required to maintain a considerably complex network infrastructure to support such a service. Typically this involves multiple layers of specialized Leap Nodes that act as filters for transaction propagation.
+Running a reliable Leap RPC on EOS and other high-traffic Antelope chains requires advanced DevOps skills. Node operators are required to maintain a considerably complex network infrastructure to support such a service. Typically this involves multiple layers of specialized Leap Nodes that act as filters for transaction propagation.
 
 Existing EVM solutions:
 
@@ -199,8 +199,8 @@ The application firewall turns out to be a natural element that should be an int
 | --- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0a. | License               | MIT                                                                                                                                                                                                           |
 | 0b. | Documentation         | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how to configure and run Alpha and Beta version (MVP).                                                       |
-| 0c. | Deployment Alpha      | We will provide a Alpha version with a major features implemented in a basic way. We will begin running on our own nodes.                                                                                     |
-| 0d. | Deployment Beta (MVP) | We will provide a Beta version (MVP) with all features implemented in a basic way. The app should be ready to distribute to external infra providers for feedback and testing. HTTP RPC and P2P Functionality |
+| 0c. | Deployment Alpha      | We will provide a Alpha version with a major features implemented in a basic way. We will begin running on our own nodes. Our goal is to implement blacklisting, round-robin routing and special rules-based transaction handling logic.                                                                                     |
+| 0d. | Deployment Beta (MVP) | We will provide a Beta version (MVP) with all features implemented in a basic way. The app should be ready to distribute to external infra providers for feedback and testing of the HTTP RPC functionality. This release will include improvements of functionality implemented in the Alpha. Additionally this release will include statistics and monitoring endpoints for prometheus. Additionally this release will include contract and account prioritization functionality, for example queries for certain contract tables could be rate-limited at a different rate. |
 
 ### Milestone 3 — Implement Antelope Firewall 1.0 version
 
@@ -213,12 +213,12 @@ The application firewall turns out to be a natural element that should be an int
 | 0a. | License       | MIT                                                                                                                                                                                                                                                                                                                                    |
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how to configure and run Antelope Firewall 1.0 version, which covers all of the application functionality and configuration. Also we will create deployment scripts for various platforms to simplify the process of getting started. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests.                                                                                                                                                                                      |
-| 0d. | Deployment    | We will provide an Antelope Firewall 1.0 version - production ready solution, based on feedback from infra providers and issues discovered during beta testing. HTTP RPC and P2P Functionality                                                                                                                                         |
+| 0d. | Deployment    | We will provide an Antelope Firewall 1.0 version - production ready solution, based on feedback from infra providers and issues discovered during beta testing. The focus of this release is improving features from the Beta and we may add additional configuration or functionality based on beta testing feedback from infra providers.                                                                                                                                         |
 | 0e. | Article       | We will publish an **article** that explains what are the features of the product, how does it work and what was achieved as part of the grant.                                                                                                                                                                                        |
 
 ## Future Plans
 
-The Antelope Firewall probably will be useful for EOS node operators, ensuring a high level of security.
+The Antelope Firewall will be useful for EOS node operators, ensuring a high level of security.
 
 We plan to offer a solution to active block producers, in the first place to everyone we've talked to so far: EOS USA, EOS Nation, Greymass, Boid BP, GenerEOS, EOSphere, EOS Amsterdam. We assume that we will reach 30 block producers within the first 3 months from the release of version 1.0. The next step in the coming months will be reaching out to other EOS block producers.
 
