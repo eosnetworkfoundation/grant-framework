@@ -167,10 +167,10 @@ EOS ID is focused on making a highly usable wallet and makes several assumptions
 - **Team Leader:** Jack Tanner
 - Chris Verhoef
 - Mikhail Rusanov
+- Sadia Abbas
 - Suneet Bendre
 - Rebal Alhaqash
 - Milica Sequeira
-- Sadia Abbas
 - Chetana Bhardwaj
 
 ### Legal Structure
@@ -218,7 +218,16 @@ Our board member **Mikhail Rusanov** has experience as a deputy director of Publ
 ### Team Org Repos
 
 - <https://github.com/Tonomy-Foundation/>
+- <https://github.com/Tonomy-Foundation/Tonomy-ID/tree/development>
+- <https://github.com/Tonomy-Foundation/Tonomy-ID-Integration/tree/development>
+- <https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/tree/development>
+- <https://github.com/Tonomy-Foundation/Tonomy-Contracts/tree/development>
+- <https://github.com/Tonomy-Foundation/Tonomy-Communication/tree/development>
+- <https://github.com/Tonomy-Foundation/Tonomy-App-Websites/tree/development>
 - <https://github.com/Tonomy-Foundation/civic-participation/>
+- <https://github.com/Tonomy-Foundation/Antelope-SSI-Toolkit>
+- <https://github.com/Tonomy-Foundation/did-jwt>
+- <https://github.com/Tonomy-Foundation/antelope-did-resolver>
 
 ### Team Member Repos
 
@@ -229,9 +238,9 @@ Our board member **Mikhail Rusanov** has experience as a deputy director of Publ
 - <https://github.com/theblockstalk/eosio-sovereign-contract-poc/>
 - <https://github.com/theblockstalk/funnels/>
 - <https://github.com/kamitor/>
+- <https://github.com/sadiabbasi>
 - <https://github.com/bendre/>
 - <https://github.com/Rebal67/>
-- <https://github.com/sadiabbasi>
 - <https://github.com/MilicaSequeira>
 - <https://github.com/chetanabhardwaj>
 
@@ -240,9 +249,9 @@ Our board member **Mikhail Rusanov** has experience as a deputy director of Publ
 - <https://www.linkedin.com/in/jack-tanner/>
 - <https://www.linkedin.com/in/christiaanverhoef/>
 - <https://www.linkedin.com/in/rusanovmp/>
+- <https://www.linkedin.com/in/sadia-abbas-437a20124/>
 - <https://www.linkedin.com/in/suneet-bendre/>
 - <https://www.linkedin.com/in/rebal-alhaqash-683b0b174/>
-- <https://www.linkedin.com/in/sadia-abbas-437a20124/>
 - <https://www.linkedin.com/in/chetana-bhardwaj-21a26398/>
 - <https://www.linkedin.com/in/milica-sequeira-6416aa215/>
 
