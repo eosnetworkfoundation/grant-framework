@@ -5,7 +5,7 @@
 - **EOS Payment Address:** eosswedenswe
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Pomelo Grant(s):** https://pomelo.io/grants/fullhistory
-- **Project is Open-Source:** Yes/No
+- **Project is Open-Source:** No
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** -
 
@@ -15,18 +15,18 @@
 - **Website:** https://eossweden.org
 
 ## Project Overview
-This proposal is for providing and maintaining Public and Freely Availabile Non Filtered Full history Hyperion API. With the reduction in BP placement and thereby income, we have been operating this infrastructure at a loss for the last 18 months. 
+This proposal is for providing and maintaining Public and Freely Availabile Non Filtered Full history Hyperion API. With the reduction in BP placement and thereby income, we have been operating this infrastructure at a loss for the last 18 months.
 
 We have been supporting EOS since it's infancy, and wish to continue to do so, even with the changed economic situation. However, **we need support to continue to operate at this scale.**
 
 ### Overview
-- **Name:** 
+- **Name:**
 sw/eden
-- **Brief Description:** 
+- **Brief Description:**
 Operating public EOS Full-history hyperion API
-- **Relationship to EOS Network / Antelope:** 
+- **Relationship to EOS Network / Antelope:**
 Publicly accessible Full history is essential to keep the transparency and accessability of any public blockchain. This information is required for Tax Purposes, as well as providing full transaction traceability for any Block explorer, user and DAPP that might require that information.
-- **Reason for Interest:** 
+- **Reason for Interest:**
 We have been supporting EOS since the first public testnet, and has been providing an Available Full History API since Mainnet launched
 
 ![](https://eossweden.org/wp-content/uploads/2023/04/eos-hyperion.png)
@@ -34,18 +34,18 @@ We have been supporting EOS since the first public testnet, and has been providi
 ### Project Details
 With rising cost of running the hyperion service, due to rising energi costs, rents and inflation, in combination with the weak market, we have run this service with an increasing loss since end of 2021. We don't see a possibility to keep the hyperion service up running without funding from the EOS Network Foundation.
 
-This proposal is for covering the cost of running and maintaining the EOS hyperion. Milestones are divided in historical, present and future. 
+This proposal is for covering the cost of running and maintaining the EOS hyperion. Milestones are divided in historical, present and future.
 
-Currently our Elasticsearch cluster for our EOS Full History is using 40.7TB of disk. Including replicas of the data for redundancy. We store more recent data in fast and high performant drives, while older data is moved to normal Datacenter SSD drives, The oldest data is then moved to Enterprise HDD drives, as it is requested less frequently. The Elasticscluster drives are also 
-RAID 1, so we are **using more than 80TB of disk** space atm. 
+Currently our Elasticsearch cluster for our EOS Full History is using 40.7TB of disk. Including replicas of the data for redundancy. We store more recent data in fast and high performant drives, while older data is moved to normal Datacenter SSD drives, The oldest data is then moved to Enterprise HDD drives, as it is requested less frequently. The Elasticscluster drives are also
+RAID 1, so we are **using more than 80TB of disk** space atm.
 
 Our EOS Elasticsearch and Hyperion cluster is using 5 dedicated servers, plus 4 additional machines that operate Nodeos instances for the API cluster. On top of that we also have 3 dedicated servers in hetzner for backup nodes, load balancing and caching.
 
-We also have dedicated server to store backups of snapshots, blocklogs and other backups that can be required for the operation. 
+We also have dedicated server to store backups of snapshots, blocklogs and other backups that can be required for the operation.
 
 Our tech team is 4 people, to ensure we have 24/7 availability, 2 are working fulltime on our API infrastructure, Maintaining, Improving and optimizing the systems, softwares and hardware. The remaining two are part of the rotating standby schedule, as well as focusing on other tasks in our operation.
 
-We estimate that the API Infrastructure requires an average of 1.5 fulltime employees at this stage, to cover the 24/7 availability. 
+We estimate that the API Infrastructure requires an average of 1.5 fulltime employees at this stage, to cover the 24/7 availability.
 
 ### Ecosystem Fit
 **Where and how does your project fit into the ecosystem?**
@@ -55,7 +55,7 @@ The target audience is all of the above, anyone that would require account or co
 **What need(s) does your project meet?**
 Accessability of EOS Transaction and action History
 **Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?**
-We are the only team providing Hyperion Full History. 
+We are the only team providing Hyperion Full History.
 One other team is providing Full History Dfuse, which is another solution.
 **If so, how is your project different?**
 We provide **unfiltered** Full History to allow accurate query of the entire EOS History.
@@ -64,20 +64,20 @@ We provide **unfiltered** Full History to allow accurate query of the entire EOS
 According to eosnations validator, we are the only available hyperion (Last checked 2023-04-19).
 
 How our Hyperion metrics compares to other History options is hard to say. This type of data is hard to compare and verify against any known metric.
-In an attempt to present verifiable data, we can compare all valid requests passing through our Push API (status_code 20'x'). 
+In an attempt to present verifiable data, we can compare all valid requests passing through our Push API (status_code 20'x').
 
 We are then able to compare those requests with EOS onchain transactions so far in 2023. In an attempt to present recent and verifyable data that provides us with some type of indication on activity and demand on our API endpoints. Now, PUSH API and History is not the same thing, but the data shows that our endpoint is actively used. The data is until 2023-04-19.
 
 **Push API - Endpoint to push transactions onchain**
 | Month | 20x requests | compared to onchain trx |
-| ----- | ----------- | ------ | 
-| 2023-01 | 11,767,248 | 26.24% | 
-| 2023-02 | 10,833,664 | 26.02% | 
-| 2023-03 | 12,872,418 | 31.19% | 
-| 2023-04 | 7,660,719 | 36.96% | 
+| ----- | ----------- | ------ |
+| 2023-01 | 11,767,248 | 26.24% |
+| 2023-02 | 10,833,664 | 26.02% |
+| 2023-03 | 12,872,418 | 31.19% |
+| 2023-04 | 7,660,719 | 36.96% |
 
 **EOS Transactions** - onchain metrics
-| Month | Transactions | Actions | Active Accounts | 
+| Month | Transactions | Actions | Active Accounts |
 | ----- | ----------- | ----------- | ----------- |
 | 2023-01 | 44,844,302 | 100,884,790 | 599,428 |
 | 2023-02 | 41,629,907 | 94,559,996 | 1,155,722 |
@@ -87,8 +87,8 @@ We are then able to compare those requests with EOS onchain transactions so far 
 
 ## Team
 ### Team members
-- **Team Leader:** Eric 
-- Anders 
+- **Team Leader:** Eric
+- Anders
 - Joakim
 - Henrik
 - Vahid
@@ -119,14 +119,14 @@ We have been operating and pioneering the EOSIO/Antelope infrastructure ecosyste
 - https://www.linkedin.com/in/anyobservation/
 
 ## Development Status
-Public API: https://api.eossweden.org 
+Public API: https://api.eossweden.org
 Documentation: https://api.eossweden.org/v2/docs
 
 - links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
 
 ## Development Roadmap
 ### Milestone Summary
-- **Total Estimated Duration:** 9 months 
+- **Total Estimated Duration:** 9 months
 - **Full-Time Equivalent (FTE):** 1.5 FTE
 - **Total Costs:** 135,000 USD
 <br>
@@ -137,7 +137,7 @@ Since the end of 2021, we have been operating at a loss. This also covers the ex
 
 The USD value is calculated on the EOS closing price on the claimed Block and vote rewards.
 
-Net Loss past 18 months: **$287,132** 
+Net Loss past 18 months: **$287,132**
 <br>
 ![](https://eossweden.org/wp-content/uploads/2023/04/eos_hyperion_net.png)
 
@@ -153,7 +153,7 @@ Net Loss past 18 months: **$287,132**
 | 0b. | Documentation | N/A
 | 0c. | Testing Guide | N/A
 | 0e. | Article | N/A
-| 1. | Hyperion | Full History unfiltered Hyperion API Endpoint | 
+| 1. | Hyperion | Full History unfiltered Hyperion API Endpoint |
 | 1b. | Software Maintenance | Maintaining the software required to operate the Hyperion API cluster |
 | 1c. | Hardware Maintenance | Maintaining phyiscal servers, including identifying potential issues, replacing parts |
 | 1d. | 24/7 availability | We require at minimum one team member to be available at all times. |
@@ -170,7 +170,7 @@ Net Loss past 18 months: **$287,132**
 | 0b. | Documentation | N/A
 | 0c. | Testing Guide | N/A
 | 0e. | Article | N/A
-| 1. | Hyperion | Full History unfiltered Hyperion API Endpoint | 
+| 1. | Hyperion | Full History unfiltered Hyperion API Endpoint |
 | 1b. | Software Maintenance | Maintaining the software required to operate the Hyperion API cluster |
 | 1c. | Hardware Maintenance | Maintaining phyiscal servers, including identifying potential issues, replacing parts |
 | 1d. | 24/7 availability | We require at minimum one team member to be available at all times. |
@@ -187,21 +187,21 @@ Net Loss past 18 months: **$287,132**
 | 0b. | Documentation | N/A
 | 0c. | Testing Guide | N/A
 | 0e. | Article | N/A
-| 1. | Hyperion | Full History unfiltered Hyperion API Endpoint | 
+| 1. | Hyperion | Full History unfiltered Hyperion API Endpoint |
 | 1b. | Software Maintenance | Maintaining the software required to operate the Hyperion API cluster |
 | 1c. | Hardware Maintenance | Maintaining phyiscal servers, including identifying potential issues, replacing parts |
 | 1d. | 24/7 availability | We require at minimum one team member to be available at all times. |
 
 
 ## Future Plans
-We are emotionally invested in the Antelope ecosystem, and are doing our best to keep supporting the users and projects on the platforms. 
+We are emotionally invested in the Antelope ecosystem, and are doing our best to keep supporting the users and projects on the platforms.
 
 We hope to see a long-term sustainable model where EOS and the sister chains are successfull and can bring a strong connected ecosystem to fruition. Which we hope to be a significant contributor for, by providing tools and data to quickly and easy access information and get started on their projects.
 
 ![](https://media.tenor.com/FJxFggDhlWcAAAAC/party-happy.gif)
 
 ## Additional Information
-**How did you hear about the Grants Program?** 
+**How did you hear about the Grants Program?**
 Been following the development and work of ENF.
 
 #### Github Repo
