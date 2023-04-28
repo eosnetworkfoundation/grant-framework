@@ -2,9 +2,20 @@
 
 - **Project Name:** EOS Cryptography Proposal 2
 - **Team Name:** ZeroPass
-- **Payment Address:** zeropassxxxx
+- **EOS Payment Address:** zeropassxxxx
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
+- **Pomelo Grant(s)**  
+https://pomelo.io/grants/ygc2lp2oe  https://pomelo.io/grants/bot4eden
+- **Project is Open-Source:** Yes
+- **Project was part of Token sale:** No
+- **Repository where Project resides:** https://github.com/ZeroPass/ack
 
+
+## Contact
+
+- **Contact Name:** Luka Percic
+- **Contact Email:** zeropass@pm.me
+- **Website:** [zeropass.io](https://zeropass.io/)
 
 ## Project Overview
 
@@ -34,12 +45,6 @@ In short; it a real ID/Sybil building block that will enable many projects to pl
 - Luka Percic
 - Crt Vavros
 - Nejc Skerjanc
-
-### Contact
-
-- **Contact Name:** Luka Percic
-- **Contact Email:** zeropass@pm.me
-- **Website:** [zeropass.io](https://zeropass.io/)
 
 ### Legal Structure
 - **Registered Legal Entity:** ZP Aplikacije d.o.o.
