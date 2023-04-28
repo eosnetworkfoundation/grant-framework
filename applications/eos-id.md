@@ -20,7 +20,7 @@
 ### Overview
 
 - **Name:** EOS ID - A super easy-to-use non-custodial self-sovereign identity and EOS wallet for EOS users, designed for mainstream people.
-- **Brief Description:** EOS ID is a crypto and SSI wallet on Android and iOS for the EOS blockchain network. It is fully white-labelled for the EOS Network. EOS ID ensures high security and convenience for users. It provides free accounts, eliminating the need to manage their private keys and allows rapid onboarding and usage of EOS web2 and web3 apps with password-less and form-less login.
+- **Brief Description:** EOS ID is a crypto and SSI wallet on Android and iOS for the EOS blockchain network. It is fully white-labelled for the EOS Network. EOS ID ensures high security and convenience for users. It provides free accounts, eliminates the need for users to manage private keys and allows rapid onboarding and usage of EOS web2 and web3 apps with password-less and form-less login.
 - **Relationship to EOS Network / Antelope:** We will deliver a user application designed specifically for the EOS Network and its community. We will use a tech stack that is Antelope-native and can be used on any pure Antelope chain. We have plans to support other public and private Antelope networks and new markets.
 - **Reason for Interest:** Our goal is to validate and monetise the Tonomy ID smart wallet solution. We believe that EOS is an ideal choice due to our ability to provide substantial assistance with current onboarding and usability challenges within the ecosystem.
 
@@ -30,8 +30,8 @@
 
 Current solutions in the EOS market leave a large technical entry barrier for new users of EOS apps. It’s too difficult to create an account and then go on to manage it while using EOS applications. A clear indicator of this problem is that we already see several prominent EOS apps moving to no-custodial or bespoke self-managed web applications, as seen in the table below. Whether using Anchor/equivalent or bespoke solutions, user onboarding and retention is hurting in EOS. A trusted and user-friendly EOS wallet will boost application growth in the EOS ecosystem. Think of how well Metamask (which has a very difficult UX) provides an onboarding experience to all Ethereum networks by having a known, trusted wallet for all Ethereum apps.
 
-Overview of several prominent applications used in EOS and their identity system
-|            | Anchor | Google | Bespoke | Others                                              |
+Overview of several prominent applications used in EOS and their current identity system:
+| App        | Anchor | Google | Bespoke | Others                                              |
 | ---------- | ------ | ------ | ------- | --------------------------------------------------- |
 | Atomic     | ✔      |        |         | Scatter, Wombat                                     |
 | Bullish    |        |        | ✔       |                                                     |
@@ -121,16 +121,16 @@ Our direct target audience will be the EOS Network users, primarily EOS token ho
 
 Indirectly, we will collaborate with dApp providers like Atomic, Pomelo, Upland, Newdex and others to integrate the login and other features of EOS ID into their applications. We also have connections with various dApps that will benefit greatly from using EOS ID as a login system for their apps. With EOS ID, we provide an innovative, user-friendly solution for logging into applications in the EOS ecosystem while addressing key issues in the self-sovereign identity space.
 
-We directly meet the needs set out in the EOS Network Foundation’s blue papers:
-
-- EOS ID proves a unique solution to the problems associated with the self-sovereign identity (SSI) and profile avatar systems outlined in the [Core+](https://eosnetwork.com/blog/core-blue-paper/) and [Wallet+](https://eosnetwork.com/blog/wallet-blue-paper/) blue papers.
-- The Application registry provides an intuitive application management UI and addresses issues outlined in the [Wallet+](https://eosnetwork.com/blog/wallet-blue-paper/) blue paper regarding the application registry.
-
 We plan to reach an even broader audience with the more generic Tonomy ID software, which uses Antelope as a decentralized public key store for the identity data of each user. Our adoption roadmap includes collaboration with existing relationships at Newcoin and Zaizaan, who are already interested in using our technologies. We will, in good time, aim to launch Tonomy ID on all major public Antelope networks like Telos, WAX and UX.
 
 Our strategy involves showcasing the capabilities and advantages of EOS ID to communities focused on self-sovereign identity and verifiable credentials and exploring potential use cases. By doing so, we aim to expand our reach to new individuals and communities within the EOS/Antelope ecosystem.
 
 - **What need(s) does your project meet?**
+
+We directly meet the needs set out in the EOS Network Foundation’s blue papers:
+
+- EOS ID proves a unique solution to the problems associated with the self-sovereign identity (SSI) and profile avatar systems outlined in the [Core+](https://eosnetwork.com/blog/core-blue-paper/) and [Wallet+](https://eosnetwork.com/blog/wallet-blue-paper/) blue papers.
+- The Application registry provides an intuitive application management UI and addresses issues outlined in the [Wallet+](https://eosnetwork.com/blog/wallet-blue-paper/) blue paper regarding the application registry.
 
 Primarily, we solve the problem of having a secure, non-custodial wallet for EOS that has a mainstream-ready user experience. Our solution enables faster onboarding to EOS apps and provides easy transaction signing within dApps, making it ideal for users and developers. Our goal is to offer a simple and streamlined user experience that meets the needs of dApps seeking an accessible onboarding process.
 
@@ -140,18 +140,18 @@ We solve problems regarding privacy and privacy compliance in existing apps that
 
 The Anchor wallet by Greymass is currently the standard go-to non-custodial wallet for EOS (and most Antelope chains).
 
-Similar to Anchor, EOS ID is a transaction signing wallet, and we will provide documentation for developers to integrate EOS ID users to log in to their apps, sign transactions and share data.
+Similar to Anchor, EOS ID is a transaction signing wallet, and we will provide documentation for developers to integrate EOS ID users to log in to their apps, sign transactions.
 
 There a several important differences between Anchor and EOS ID:
 
 - **Open-source:** EOS ID mobile wallet is and always will be open source. Anchor desktop is open source, while Anchor mobile is not.
 - **Features:** EOS ID provides additional features
   - Apps can (optionally) sign transactions directly in the client (without confirming it in the mobile wallet).
-  - Apps can sign verifiable data with W3C Verifiable Credentials directly to the client.
+  - Apps can sign verifiable data with W3C Verifiable Credentials directly in the client.
   - Apps can sign and send peer-to-peer messages to other EOS users.
   - Form-less account signup: With EOS ID, users will be asked for their details like name, address and email once and then users will be able to share that with apps as they sign into them privately and with a click of a button making registration forms a thing of the past.
 - **White-labelled:** EOS ID is branded for the EOS Network, featuring the distinct colour scheme, logo, and symbols of EOS as its primary theme and label. Anchor does not have the option to do this across its apps, because they are a multi-chain wallet.
-- **Free account:** EOS ID comes out of the box with support for free EOS accounts indefinitely. Unlike Anchor or most other EOS wallets, which cost ~$1 per account. We expect to cover EOS account creation costs from BP vote rewards, which we expect to generate by making voting for Tonomy Foundation BP easy and accessible within EOS ID.
+- **Free accounts:** EOS ID comes out of the box with support for free EOS accounts indefinitely. Unlike Anchor or most other EOS wallets, which cost ~$1 per account. We expect to cover EOS account creation costs from BP vote rewards, which we expect to generate by making voting for Tonomy Foundation BP easy and accessible within EOS ID.
 - **Sybil protection:** We will provide a light level of Sybil account protection within EOS ID. This will be in the form of reCAPTCHA protection when accounts are created. Apps will be able to request a verifiable credential that proves that the reCAPTCHA was completed. We can make this an on-chain badge in the future if demand exists.
 - **No user key management:** Users of EOS ID never handle or even see any public/private keypairs used to authorise the account. This makes account management much simpler and more like a regular Web2 identity and is one of our primary ways of ensuring that it is ready for mainstream users.
 - **Recovery:** EOS ID uses a user-created secure password as the primary way for users to log in and log out of their accounts This is a familiar mechanism, and users can recover their accounts from memory. As a backup, users can save their passwords in a secure key manager. Anchor requires the user to back up their private key (which is impossible to commit to memory) and provides features to make it easy, however, it can still be challenging to use, particularly for non-technical users. EOS ID plans to create user-friendly non-custodial recovery options such as social recovery, hardware keycard, or security question recovery in the future, all without requiring users to manage or even see their private keys.
@@ -164,10 +164,14 @@ EOS ID is focused on making a highly usable wallet and makes several assumptions
 
 ### Team members
 
-- **Team Leader:** Name of team leader
-- Name of team member 1
-- Name of team member 2
-- Name of team member 3, etc.
+- **Team Leader:** Jack Tanner
+- Chris Verhoef
+- Mikhail Rusanov
+- Suneet Bendre
+- Rebal Alhaqash
+- Milica Sequeira
+- Sadia Abbas
+- Chetana Bhardwaj
 
 ### Legal Structure
 
@@ -176,27 +180,71 @@ EOS ID is focused on making a highly usable wallet and makes several assumptions
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
+The following work was done by project lead **Jack Tanner** during his consulting and employment with [Gimly](https://www.gimly.io/). These experiences have led him to understand the identity landscape and create a design that will enable Antelope chains to deliver one of the most advanced and empowering identity solution for web3:
 
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+- Architecting and developing the entire [Myd](https://europechain.io/identity/myd-missing-piece-puzzle-ssi/) sovereign (not self-sovereign) identity solutions for Europechain. See [myd.online](https://myd.online/).
+- Running the [EOSIO identity working group](https://www.gimly.io/eosio-identity) in which we researched and built the EOSIO DID in collaboration with the community and Block One.
+- Writing the [EOSIO DID spec](https://github.com/Gimly-Blockchain/eosio-did-spec)
+- Leading the development of the [EOSIO DID resolver](https://github.com/Gimly-Blockchain/eosio-did-resolver)
+- Leading and writing the W3C standard [Verifiable Conditions](https://github.com/w3c-ccg/verifiable-conditions) to allow Antelope and other DID methods to suitably expose multi-key material and delegated authorizations in DID Documents. This was then incorporated in the Antelope DID.
+- Researching recovery techniques, sovereign storage, locking protocols and more for the research deliverable for EU funded project [Gimly ID](https://www.gimly.io/gimly-id). This research survey existing technologies needed to build a fully self sovereign identity system.
+
+Additionally, Jack has been independently involved in several relevant prior works:
+
+- Co-writing the [EOSIO Privacy report](https://eos.io/news/blockchain-privacy/) in collaboration with the Suneet and the EOSIO community and Block One. He led the research into existing privacy architectures, very relevant for understanding and leading architecture of SSI applications.
+- Leading the development of the [Civic Participation Tool](https://theblockstalk.medium.com/civic-participation-tool-upgrade-to-openstad-e7aed01c5271#c5a3) in which the team created a direct democracy tool on EOSIO with an SSI identity integration.
+- Organising and running many [Antelope workshops](https://theblockstalk.medium.com/the-eosio-blockchain-developer-workshop-now-available-on-youtube-ddeba54f0d94) - in person and online - and writing education and practical Antelope material on [Medium](https://theblockstalk.medium.com/), [Github](https://github.com/theblockstalk) and [Twitter](https://twitter.com/theblockstalk).
+- Jack has been technically involved in blockchain since 2016 learning from Matthew Di Ferrente and Nick Johnson (core Ethereum Foundation developers) as a developer, auditor, educator and technical influencer. He has worked on many blockchain protocols and dApp architectures.
+
+Our co-founder and board member **Chris Verhoef** has experience as a director of research development at Farm Credibly, a community development manager at the New Fork, and Scrum Master for Tonomy. His natural ability to combine leadership and collaboration is an asset to all!
+
+Our board member **Mikhail Rusanov** has experience as a deputy director of Public Relations in NGO Irma, CEO in Directional Drilling Services, and international engineering endeavors. Mikhail’s critical thinking, attention to detail, and commitment to providing high-quality results
+
+**Suneet Bendre** is an experienced developer working in blockchain and self sovereign identity for the past three years. His experience includes:
+
+- Development of the SSI framework and micro-services and microservics of [Gaia-X](https://gaia-x.eu/what-is-gaia-x), an EU federated data sharing and exchange platform.
+- Contributing to the [EOSIO Privacy report](https://eos.io/news/blockchain-privacy/) with Jack Tanner.
+- Technical consulting for the Indian government&#39;s blockchain incubation project [Apiary](https://apiary.stpi.in/) including market research, problem solvin and story telling.
+- Other experience includes backend development with [Robustwealth](https://www.thewealthmosaic.com/vendors/robustwealth) wealth trading platform and [Mastercard](https://www.mastercard.com/).
+
+**Rebal Alhaqash** is our full stack developer. With 2.5 years experience with React and React native, he leads the user facing side of the application. He has previously worked on the [Farm Credibility](https://farmcredibly.com/) project creating smart contracts in Solidity and connecting these to the front-end client. He has also worked with server side technologies in JavaScript and nestjs.
+
+**Sadia Abbas** - Senior software developer specializing in back end development. A self-motivated development, as well as strong skills and ability in writing clean and efficient code IT professional.
+
+**Chetana Bhardwaj** - Dynamic, hands on, Agile Scrum Master with experience managing software development projects that meet demanding time restraints and exceed all expectations. Out of the box thinker who champions innovative technical solutions to address complex client needs and related business problems, ensuring superior outcomes.
+
+**Milica Sequeira** -
 
 ### Team Org Repos
 
-- <https://github.com/<your_organization>>
-- <https://github.com/<your_organization>/<project_1>>
-- <https://github.com/<your_organization>/<project_2>>
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+- <https://github.com/Tonomy-Foundation/>
+- <https://github.com/Tonomy-Foundation/civic-participation/>
 
 ### Team Member Repos
 
-- <https://github.com/<team_member_1>>
-- <https://github.com/<team_member_2>>
+- <https://github.com/theblockstalk/>
+- <https://github.com/theblockstalk/eosio-contracts/>
+- <https://github.com/theblockstalk/awesome-eosio/> (added several tools in some [PRs](https://github.com/DanailMinchev/awesome-eosio/pull/70))
+- <https://github.com/theblockstalk/eosworkshop1/>
+- <https://github.com/theblockstalk/eosio-sovereign-contract-poc/>
+- <https://github.com/theblockstalk/funnels/>
+- <https://github.com/kamitor/>
+- <https://github.com/bendre/>
+- <https://github.com/Rebal67/>
+- <https://github.com/sadiabbasi>
+- <https://github.com/MilicaSequeira>
+- <https://github.com/chetanabhardwaj>
 
 ### Team LinkedIn Profiles (if available)
 
-- <https://www.linkedin.com/in/<person_1>>
-- <https://www.linkedin.com/in/<person_2>>
+- <https://www.linkedin.com/in/jack-tanner/>
+- <https://www.linkedin.com/in/christiaanverhoef/>
+- <https://www.linkedin.com/in/rusanovmp/>
+- <https://www.linkedin.com/in/suneet-bendre/>
+- <https://www.linkedin.com/in/rebal-alhaqash-683b0b174/>
+- <https://www.linkedin.com/in/sadia-abbas-437a20124/>
+- <https://www.linkedin.com/in/chetana-bhardwaj-21a26398/>
+- <https://www.linkedin.com/in/milica-sequeira-6416aa215/>
 
 ## Development Status
 
@@ -327,9 +375,7 @@ New requirements for EOS ID at the end of this milestone
 | 0c  | Testing Guide                                      | Unit and integration tests will be written to show features are working.                                                                                                                                                                 |
 | 0e. | Article                                            | We will publish an article announcing the launch of EOS App Manager on EOS.                                                                                                                                                              |
 | 1.  | Design and usability testing (partially completed) | Create a full design prototype in Figma. Run usability testing with several members from the EOS community. Document the results of the testing and update the designs. Figma files are private, and testing results can be made public. |
-| 2.  | Development of the App Manager
-
-(mostly completed) | Development of the App Manager allowing dApp developers to easily manage their apps for EOS ID logins.                                                                                                                                   |
+| 2.  | Development of the App Manager                     | Development of the App Manager allowing dApp developers to easily manage their apps for EOS ID logins.                                                                                                                                   |
 | 3.  | Deployment on EOS                                  | Deployment on an EOS testnet, testing and then deployment on the EOS Network.                                                                                                                                                            |
 | 4.  | Integrators support                                | Tech support for dApps that want to integrate with EOS ID.                                                                                                                                                                               |
 
