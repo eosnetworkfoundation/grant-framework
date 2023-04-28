@@ -207,13 +207,13 @@ Our board member **Mikhail Rusanov** has experience as a deputy director of Publ
 - Technical consulting for the Indian government&#39;s blockchain incubation project [Apiary](https://apiary.stpi.in/) including market research, problem solvin and story telling.
 - Other experience includes backend development with [Robustwealth](https://www.thewealthmosaic.com/vendors/robustwealth) wealth trading platform and [Mastercard](https://www.mastercard.com/).
 
-**Rebal Alhaqash** is our full stack developer. With 2.5 years experience with React and React native, he leads the user facing side of the application. He has previously worked on the [Farm Credibility](https://farmcredibly.com/) project creating smart contracts in Solidity and connecting these to the front-end client. He has also worked with server side technologies in JavaScript and nestjs.
+**Rebal Alhaqash** is our full stack developer. With 2.5 years experience with React and React native, he leads the user facing side of the application. He has previously worked on the [Farm Credibility](https://farmcredibly.com/) project creating smart contracts in Solidity and connecting these to the front-end client. He has also worked with server side technologies in JavaScript and nestjs. Rebal was a co-author of the [Antelope SSI Toolkit](https://github.com/Tonomy-Foundation/Antelope-SSI-Toolkit) which required deep integration with the [did-jwt](https://github.com/decentralized-identity/did-jwt) and associated repositories of the Decentralized Identity Foundation.
 
-**Sadia Abbas** - Senior software developer specializing in back end development. A self-motivated development, as well as strong skills and ability in writing clean and efficient code IT professional.
+**Sadia Abbas** - is our senior software full-stack developer specializing in back end development. With over 8 years commercial experience, she is a self-motivated development, as well as strong skills and ability in writing clean and efficient code IT professional. Her interests in working with blockchain and digital identity lead her to work with Tonomy.
 
-**Chetana Bhardwaj** - Dynamic, hands on, Agile Scrum Master with experience managing software development projects that meet demanding time restraints and exceed all expectations. Out of the box thinker who champions innovative technical solutions to address complex client needs and related business problems, ensuring superior outcomes.
+**Chetana Bhardwaj** - Dynamic, hands on, Agile Scrum Master with experience managing software development projects that meet demanding time restraints and exceed all expectations. Chetana is an of the box thinker who champions innovative technical solutions to address complex client needs and related business problems, ensuring superior outcomes.
 
-**Milica Sequeira** -
+**Milica Sequeira** - Our UI/UX designer. She is a critical thinker and skillfully navigates the research, design and feedback of all aspects of building highly user friendly solutions.
 
 ### Team Org Repos
 
