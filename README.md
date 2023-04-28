@@ -27,13 +27,34 @@ The EOS Network Foundation (ENF) funds development grants for "Public Good" as w
 * ENF Ventures will be established at a future date in 2023.
 
 ## Three Grant Types
-There are three types of grants that the ENF considers.  Some are originated by the community itself, and some are proposed in the form of an RFP by the ENF.
+There are three types of grants that the ENF considers. Some are originated by the community itself, and some are 
+proposed in the form of an RFP by the ENF.
+
 ### 1. New Proposal
-Most grant applications will take the form of a "New Proposal" from a member of the EOS community.  These projects range from core chain enhancements, SDKs, tools, and applications.  These are initiated by members of the community and run through the standard [Grant Process](#grant-process) below. 
+Most grant applications will take the form of a "New Proposal" from a member of the EOS community.
+These projects range from core chain enhancements, SDKs, tools, and applications. These are initiated by members of the 
+community and run through the standard [Grant Process](#grant-process) below.
+
+> ⚠ **Grants are meant to kickstart your project, not sustain it**
+>
+> Our grant program is designed to provide initial support to projects so that they can become self-sustaining. 
+> We do not provide long-term funding, and if a project fails to become self-sustaining after reaching the minimum 
+> viable product (MVP) stage, we may consider it uninteresting to the wider community and stop approving grants for it.
+> 
+> This rule does not apply to grants that focus on components that should not have a business model, 
+> such as core chain enhancements, developer tooling, and so on. Those will always be evaluated based on the value
+> they bring to the community they are targeted at.
+
 ### 2. Maintenance Grant
-Maintenance grants are also initiated by the community to bring back support for a library, SDK or tool that has fallen out of maintenance.  These proposals are more limited in scope and milestone to ensure proper progress is made.  Maintenance grants should not be used to add feature or functionality to existing code, but to bring it up to current levels of the chain, operating system, or programming language levels.  New functionality to existing projects can be applied via a "New Proposal". Read more about [Maintenance Grants](docs/maintenance-grants.md).
+Maintenance grants are also initiated by the community to bring back support for a library, SDK or tool that has fallen 
+out of maintenance. These proposals are more limited in scope and milestone to ensure proper progress is made.  
+Maintenance grants should not be used to add feature or functionality to existing code, but to bring it up to current 
+levels of the chain, operating system, or programming language levels.  New functionality to existing projects can be 
+applied via a "New Proposal". Read more about [Maintenance Grants](docs/maintenance-grants.md).
+
 ### 3. RFP Response
 From time to time, the ENF will propose a work request to the community in the form of an RFP.  All community members, teams and companies are welcome to reply to the RFP.  Responses from multiple teams are expected.  The ENF will then select the best RFP response and award the work to the team that submitted it. [Read more on RFPs and how to reply to them](docs/rfp_info.md).
+
 <br/><br/>
 
 ## Grant Process (for New Proposals)
