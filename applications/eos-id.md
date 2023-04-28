@@ -230,92 +230,131 @@ We plan to use these tools in EOS ID further to deliver form-less onboarding fea
 
 ## Development Roadmap
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe *the functionality we should expect in as much detail as possible*, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to the EOS ecosystem. We *recommend* that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-- make sure to include a specification of your software. *Treat it as a contract*; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested *per milestone*.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> :zap: If any of your deliverables is based on someone else's work, make sure you work and publish *under the terms of the license* of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
-
 ### Milestone Summary
 
-> Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
-> You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
-> of all of your Milestones.  Please **DO NOT** remove the three lines below.  If you do, your grant will be rejected or delayed while you fix it.
+We have developed a roadmap outlining the modifications necessary to integrate and launch Tonomy ID on EOS seamlessly. It focuses on the above-mentioned features and adds compatibility for existing expectations of EOS Wallets and integration with the EOS resource model and infrastructure.
 
-- **Total Estimated Duration:** 2 months
-- **Full-Time Equivalent (FTE):** 2 FTE
-- **Total Costs:** 12,000 USD
+After our experience with the Antelope SSI Toolkit, we have grouped similar tasks and fewer milestones with more work in each. We aim to minimise disruptions caused by focus switching for the reviewers of our milestones, which we understand are under significant demand now. This also makes payments more predictable for us.
 
-> Please note that this application is automatically parsed.<br/>
-> For the above fields, please only put the answer on that line.  If you want to add more information, please put it below these instructions.<br/>
-> Please remember to delete all lines that start with `>` as they are just instructions and not needed in the application submission.<br/>
->
-> Notes on above fields:
->
-> - Total Estimated Duration: Duration of the whole project (example: 2 months or 7 weeks)
-> - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
-> - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
+- Total Estimated Duration: 4 months
+- Full-Time Equivalent (FTE): 1.5 FTE
+- Total Costs: 132,000 USD
 
-### Milestone 1 Example — Implement EOS Application
+We use our aligned consulting rate of EUR €130 / hour. Our aligned consulting rate is used when the technology we build aligns with the Tonomy Foundation's vision (we use a rate of €260 when it doesn't). It reflects our at-cost rate, which includes a buffer to cover risks and unknowns in operating costs. We are a non-profit foundation. If we make any profit, it goes back into our operating budget, which goes towards open-source societal technologies.
 
-- **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 8,000 USD
+Calculation:
 
-| ID | Deliverable | Specification |
-| ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Application interface to Antelope | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
-| 3. | Caching layer | We will create a caching layer ... |  
-| 4. | API interface to our app | We will create an API that ... |  
+| Unit          | Description             |
+| ------------- | ----------------------- |
+| 1.5           | FTE per month           |
+| 4             | Months                  |
+| 155           | Work hours per month    |
+| € 130 / hour  | Aligned consulting rate |
+| € 120,900 EUR | Total cost              |
+| $ 132,000 USD |
 
-### Milestone 2 Example — Additional features
+### Milestone 1 — Integration with EOS infrastructure
+
+- **Estimated duration:** 2 month
+- **FTE:**  1.5
+- **Costs:** 66,000 USD
+
+| ID  | Deliverable                                           | Specification                                                                                                                                                                                    |
+| --- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0a. | License                                               | Apache 2.0                                                                                                                                                                                       |
+| 0b. | Documentation                                         | Provide documentation on readthedocs.io or equivalent showing how apps can integrate and use EOS ID login and other features.                                                                    |
+| 0c  | Testing Guide                                         | Unit and integration tests will be written to cover the integration with EOS Network and to show features are working.                                                                           |
+| 0e. | Article                                               | We will publish an article announcing the launch of EOS ID on EOS.                                                                                                                               |
+| 1.  | Integrate with EOS Network’s system contracts         | Create an environment for Tonomy ID that uses the EOS system contracts. Ensure Tonomy ID still runs by checking if all integration tests are passing and manual testing has no major bugs.       |
+| 2.  | Integrate with the use EOS resource model             | Integrate the EOS resource model with CPU, NET and RAM with staking and Powerup. Ensure Tonomy ID still runs by checking integration tests are all passing and manual testing has no major bugs. |
+| 3.  | EOS ID app branding                                   | Apply the EOS logo and symbols, colours and name to Tonomy ID.                                                                                                                                   |
+| 4.  | Deploy to EOS testnet                                 | Deploy EOS ID to an EOS testnet. Test that it works.                                                                                                                                             |
+| 5.  | Account creation service with Sybil attack prevention | Build a service that creates an EOS account with a reCAPTCHA challenge. Integration tests that show it working.                                                                                  |
+| 6.  | Wallet transaction signing                            | Build the regular client-wallet request for a transaction to be signed inside of EOS ID. Write several integration tests that show the major success and failure cases.                          |
+| 7.  | Deployment on EOS                                     | Deploy EOS ID on EOS. Test that it works.                                                                                                                                                        |
+| 8.  | Integrators support                                   | Tech support for dapps that want to integrate with EOS ID.                                                                                                                                       |
+
+Requirements for EOS ID at the end of this milestone:
+
+- Functional requirements
+  - EOS ID will have all the features of Tonomy ID
+    - Users can create an account and log in to EOS ID with a username and password
+    - Users can change their password
+    - Users can Scan a QR code on an external application
+    - Users can log in to an external web application with single-sign-on flow
+    - Users can sign transactions and/or W3C verifiable credentials in external web applications (but not in the EOS ID mobile wallet)
+  - Users will need to complete a reCAPTCHA challenge to create an account
+  - Users can sign transactions in the EOS ID mobile wallet when requested by an external web application
+  - See the design preview here (DRAFT): <https://www.canva.com/design/DAFf5wI9P4Q/D5EhshbR3VsK2nEPr7necw/edit?utm_content=DAFf5wI9P4Q>
+- Non-functional requirements
+  - EOS ID will be branded to the colour and symbols of the EOS network
+  - EOS ID will be deployed on the EOS network, with no major bugs
+
+### Milestone 2 - Form-less login with personal information
 
 - **Estimated Duration:** 1 month
-- **FTE:**  2
-- **Costs:** 4,000 USD
+- **FTE:**  1.5
+- **Costs:** 33,000 USD
 
-| ID | Deliverable | Specification |
-| ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Added UI functionality | We will add UI functionality to... |  
-| 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
+| ID  | Deliverable                                         | Specification                                                                                                                                                                                                                                |
+| --- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0a. | License                                             | Apache 2.0                                                                                                                                                                                                                                   |
+| 0b. | Documentation                                       | Provide documentation on readthedocs.io or equivalent showing how apps can integrate and use EOS ID login and other features.                                                                                                                |
+| 0c  | Testing Guide                                       | Unit and integration tests will be written to show features are working.                                                                                                                                                                     |
+| 0e. | Article                                             | We will publish an article announcing the launch of EOS ID’s new features on EOS.                                                                                                                                                            |
+| 1.  | Design and usability testing  (partially completed) | Create a full design prototype in Figma. Run usability testing with several members from the EOS community. Document the results of the testing and update the designs. Figma files are private, and the testing results can be made public. |
+| 2.  | Development of the form-less login                  | Development of the feature in EOS ID to allow login to apps with personal data shared in consent screens.                                                                                                                                    |
+| 3.  | Deployment on EOS                                   | Deployment on an EOS testnet, testing and then deployment on the EOS Network.                                                                                                                                                                |
+| 4.  | Integrators support                                 | Tech support for dapps that want to integrate with EOS ID.                                                                                                                                                                                   |
 
-... Add more milestones as above as needed ...
+New requirements for EOS ID at the end of this milestone
+
+- Functional requirements
+  - Users can enter their personal information and upload a profile picture to EOS ID
+  - Users can share their personal information with external applications when requested
+  - See the design preview here (DRAFT): <https://www.canva.com/design/DAFf5wI9P4Q/D5EhshbR3VsK2nEPr7necw/edit?utm_content=DAFf5wI9P4Q>
+
+### Milestone 3 - App Manager
+
+- **Estimated Duration:** 1 month
+- **FTE:**  1.5
+- **Costs:** 33,000 USD
+
+| ID  | Deliverable                                        | Specification                                                                                                                                                                                                                            |
+| --- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0a. | License                                            | Apache 2.0                                                                                                                                                                                                                               |
+| 0b. | Documentation                                      | Provide documentation on readthedocs.io or equivalent showing how apps can integrate and use EOS App Manager.                                                                                                                            |
+| 0c  | Testing Guide                                      | Unit and integration tests will be written to show features are working.                                                                                                                                                                 |
+| 0e. | Article                                            | We will publish an article announcing the launch of EOS App Manager on EOS.                                                                                                                                                              |
+| 1.  | Design and usability testing (partially completed) | Create a full design prototype in Figma. Run usability testing with several members from the EOS community. Document the results of the testing and update the designs. Figma files are private, and testing results can be made public. |
+| 2.  | Development of the App Manager
+
+(mostly completed) | Development of the App Manager allowing dApp developers to easily manage their apps for EOS ID logins.                                                                                                                                   |
+| 3.  | Deployment on EOS                                  | Deployment on an EOS testnet, testing and then deployment on the EOS Network.                                                                                                                                                            |
+| 4.  | Integrators support                                | Tech support for dApps that want to integrate with EOS ID.                                                                                                                                                                               |
+
+New requirements for EOS ID at the end of this milestone
+
+- Functional requirements
+  - Users can see an overview of the EOS Apps that they are currently managing
+  - Users can register a new EOS App which can be used in the EOS ID single-sign-on flow
+  - Users can update the information of an EOS App
+  - Users can delete an EOS App
+  - See the design preview here (DRAFT): <https://www.canva.com/design/DAFf-JhyiPY/kAAUzPE4F3-pj6gW15CSOg/edit?utm_content=DAFf-JhyiPY>
 
 ## Future Plans
 
-> Please include here:
+We would like to support the following features on EOS ID in the future:
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+- **Increased Sybil attack prevention:** we would like to support the need for Sybil attack prevention in many popular EOS apps like Pomelo or Atomic. Several strategies exist, and we do not think any strategy is strong enough, but we would like to support several options that dApps can choose. Integrating <https://port.link> directly in the app or using a social graph would be examples of this.
+- **Sovereign recovery:** Allow users to recover their accounts if they forget their passwords. We have several mechanisms planned, such as social recovery, hardware wallet recovery or security questions that are mainstream-friendly and non-custodial.
+- **Email notifications:** Allow the user to get notifications on specific transactions and actions on EOS.
+- **Multi-factor authentication:** Allows users to sign requests with additional factors of authentication using an on-phone PIN or biometric authentication
+- **Multi-language:** The app aims to be inclusive and accessible by offering multiple language options in future releases, though for the first release, only English will be available.
+- **Sovereign storage:** Allow dApps to store data in a secure storage vault encrypted client-side by a Tonomy ID key. This would allow users a private data storage module allowing dapps to offload important user data without storing it themselves. This needs to be combined with a well-implemented recovery solution to be viable.
+
+As mentioned, we plan to launch on other Antelope chains like Telos, WAX or UX network.
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
-
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+**How did you hear about the Grants Program?** Twitter
