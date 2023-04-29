@@ -25,11 +25,11 @@ Our team decides to focus more towards bringing liquidity to EOS EVM chain more.
 - **Name:** Neutroswap
 - **Brief Description:** Community-driven AMM & Launchpad on EOS EVM
 - **Relationship to EOS Network / Antelope:** Our app brings liquidity to EOS EVM attracting more projects and users to use the chain.
-- **Reason for Interest:** Capital efficiency, impermanent loss, mitigation, higher fee rewards, reduced slippage, improved price discovery.
+- **Reason for Interest:** Capital efficiency, impermanent loss mitigation, higher fee rewards, reduced slippage, improved price discovery for our app users
 
 ### Project Details
 
-We have successfully launched Neutroswap V2. What we have done in Neutroswap V2:
+We have successfully launched Neutroswap V2:
 1. The first DApp that reached $1,000,000 in TVL
 2. The first EOS EVM token listed on Coingecko
 3. The first working app on EOS EVM and has active users.
@@ -123,7 +123,7 @@ In contrast, concentrated liquidity allows LPs to focus their liquidity within a
 - https://www.linkedin.com/in/william-wijaya-792075199/
 
 ## Development Status
-We're currently in the research phase and seeking partners to help us build the solution. While we haven't yet decided on the final UI/UX design, we can tell you that it will be similar to that of Uniswap V3.
+We're currently in the research phase and seeking partners to help us build the solution. While we haven't yet decided on the final UI/UX design, we can tell you that it will be similar to Uniswap V3.
 
 References: 
 - https://blog.uniswap.org/uniswap-v3
