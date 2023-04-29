@@ -7,7 +7,7 @@
 - **Pomelo Grant(s):** N/A
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
-- **Repository where Project resides:** https://github.com/Nava-Labs/neutroswap_v3
+- **Repository where Project resides:** https://github.com/Nava-Labs/neutroswap-contract
 
 ## Contact
 
@@ -21,8 +21,6 @@ Neutroswap is an automated market-maker (AMM) on the EOS EVM blockchain that is 
 Our team decides to focus more towards bringing liquidity to EOS EVM chain more. It will enable more users, projects and exposure due to increasing TVL in EOS EVM. 
 
 ### Overview
-
-> Please provide the following:
 
 - **Name:** Neutroswap
 - **Brief Description:** Community-driven AMM & Launchpad on EOS EVM
@@ -136,11 +134,8 @@ For each milestone,
 
 ### Milestone Summary
 
-> Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
-> You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
-> of all of your Milestones.  Please **DO NOT** remove the three lines below.  If you do, your grant will be rejected or delayed while you fix it.
 - **Total Estimated Duration:** 2 months 
-- **Full-Time Equivalent (FTE):** 5 FTE
+- **Full-Time Equivalent (FTE):** 6 FTE
 - **Total Costs:** 100,000 USD
 
 > Please note that this application is automatically parsed.<br/>
@@ -182,7 +177,6 @@ For each milestone,
 | 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
 | 2. | Analytics | User will be able to see volume, TVL, and activity in Neutroswap V3 contracts |  
 | 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
-
 
 ## Future Plans
 
