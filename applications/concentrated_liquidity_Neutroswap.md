@@ -139,8 +139,8 @@ References:
 ### V3 Interface, Indexer and Smart contract development
 
 - **Estimated duration:** 2 month
-- **FTE:**  3
-- **Costs:** 50,000 USD
+- **FTE:**  6
+- **Costs:** 100,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
@@ -148,31 +148,19 @@ References:
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a technical **tutorial** that explains concentrated liquidity works. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Threads | We will publish **twitter threads** that explains Neutroswap V3.
-| 1. | Smart contract development | User will be able to add concentrated liquidity securely |  
+| 1. | Smart contract development | User will be able to add,edit,remove concentrated liquidity securely |  
 | 2. | Design UI/UX | We will design UI/UX that covers concentrated liquidity |  
-| 3. | Front-End / User Interface | User will be able to add concentrated liquidity with ease |  
+| 3. | Front-End / User Interface | User will be able to manage concentrated liquidity with ease |  
 | 4. | Indexer | We will host & index needed data from EOS EVM |  
-
-### Analytics and Audits Improvements
-
-- **Estimated Duration:** 2 month
-- **FTE:**  3
-- **Costs:** 50,000 USD
-
-| ID | Deliverable | Specification |
-| ----- | ----------- | ------------- |
-| 0a. | License | Apache 2.0 |
-| 0b. | Tweet | We will publish an **tweet** that demonstrate Neutroswap V3
-| 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Analytics | User will be able to see volume, TVL, and activity in Neutroswap V3 contracts |  
-| 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
+| 5. | Performance Enhancements | We will create performance enhancements to show available V3 farms, pools in seconds |  
+| 6. | Analytics | User will be able to see volume, TVL, and activity in Neutroswap V3 contracts |  
+| 7. | Audit smart contracts | We will audit V3 smart contracts with reputable smart contract audit firm |  
 
 ## Future Plans
 
-With the launch of concentrated liquidity, we will open new fresh farms for people to join and stake their LP tokens. With this it will increase EOS EVM chain and our app TVL significantly. We will need to inform influencers that now high IQ defi traders can join and get all the benefits from Neutroswap V3. 
+With the launch of concentrated liquidity, we will open new fresh farms for people to join and stake their LP tokens. With this it will increase EOS EVM chain and our app TVL significantly. To ensure that the community is aware of this exciting new development, we will be reaching out to influencers and high IQ DeFi traders to encourage them to join and take advantage of the benefits offered by Neutroswap V3.
 
-Not to mention, it will lock up $NEUTRO token more.
-
+In addition, our concentrated liquidity feature will also help to lock up more $NEUTRO tokens, providing further benefits to our loyal token holders. We're confident that this new version will take Neutroswap to the next level and solidify our position as a leader in the EOS EVM DeFi space
 
 ## Additional Information
 
