@@ -138,15 +138,6 @@ For each milestone,
 - **Full-Time Equivalent (FTE):** 6 FTE
 - **Total Costs:** 100,000 USD
 
-> Please note that this application is automatically parsed.<br/>
-> For the above fields, please only put the answer on that line.  If you want to add more information, please put it below these instructions.<br/>
-> Please remember to delete all lines that start with `>` as they are just instructions and not needed in the application submission.<br/>
-> 
-> Notes on above fields:
-> - Total Estimated Duration: Duration of the whole project (example: 2 months or 7 weeks)
-> - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
-> - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
-
 ### V3 Interface, Indexer and Smart contract development
 
 - **Estimated duration:** 2 month
@@ -180,18 +171,30 @@ For each milestone,
 
 ## Future Plans
 
-> Please include here:
+With the launch of concentrated liquidity, we will open new fresh farms for people to join and stake their LP tokens. With this it will increase EOS EVM chain and our app TVL significantly. We will need to inform influencers that now high IQ defi traders can join and get all the benefits from Neutroswap V3. 
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+Not to mention, it will lock up $NEUTRO token more.
 
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** EOS Network Foundation Twitter / personal recommendation
 
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
+You need to consider the grant to bring liquidity to EOS EVM. **Neutroswap did not raise any investment from any VC.** We really hope ENF will support us, hence we can keep building on EOS EVM.
+We have done our best to trigger the initial wave of EOS EVM by becoming:
+1. The first DApp that reached $1,000,000 in TVL
+2. The first EOS EVM token listed on Coingecko
+3. The first working app on EOS EVM and has active users.
+4. Bring more than 2000+ transactions on average per day since launch
+5. Bring $150,000+ volume daily accross Neutroswap V2 DEX
+6. The first project that triggers influencers to look at EOS EVM
 
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+If you have any questions please let us know
+
+Links:
+- Website: https://neutroswap.io/
+- V2 Audit: https://github.com/solidproof/projects/tree/main/NeutroSwap
+- Docs: https://docs.neutroswap.io/
+- Defillama: https://defillama.com/protocol/neutroswap
+- Coingecko: https://www.coingecko.com/en/coins/neutroswap
+- Linktree: https://linktr.ee/Neutroswap
