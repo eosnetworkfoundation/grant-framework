@@ -17,8 +17,8 @@
 
 ## Project Overview
 
-Neutroswap is an automated market-maker (AMM) on the EOS EVM blockchain that is community-driven and offers the lowe fees for swapping assets. It also has some of the most lucrative rewards for staking and yield farming in the entire EOS EVM ecosystem, making it an appealing choice for those looking to generate returns on their assets. 
-Our team decides to focus more towards bringing liquidity to EOS EVM chain more. It will enable more users, projects and exposure due to increasing TVL in EOS EVM. 
+Neutroswap is an automated market-maker (AMM) on the EOS EVM blockchain that is community-driven and offers the low fees for swapping assets. It also has some of the most lucrative rewards for staking and yield farming in the entire EOS EVM ecosystem, making it an appealing choice for those looking to generate returns on their assets. 
+Our team decides to focus more towards bringing liquidity to EOS EVM chain more. It will enable more users, projects and exposure coming to EOS EVM due to TVL increase and project development. 
 
 ### Overview
 
@@ -29,8 +29,15 @@ Our team decides to focus more towards bringing liquidity to EOS EVM chain more.
 
 ### Project Details
 
-We have launched Neutroswap V2 and we want to move on to V3 and make our position stronger in EOS EVM. Our V3 version will cover concentrated liquidity.
+We have successfully launched Neutroswap V2. What we have done in Neutroswap V2:
+1. The first DApp that reached $1,000,000 in TVL
+2. The first EOS EVM token listed on Coingecko
+3. The first working app on EOS EVM and has active users.
+4. Bring more than 2000+ transactions on average per day since launch
+5. Bring $150,000+ volume daily accross Neutroswap V2 DEX
+6. The first project that triggers influencers to look at EOS EVM
 
+Now, we want to move on to V3 and make our position stronger in EOS EVM. Our V3 version will cover concentrated liquidity.
 Concentrated liquidity is an innovative approach to liquidity provision that allows liquidity providers (LPs) to enhance their capital efficiency and minimize impermanent loss by focusing their liquidity within a particular price range. By enabling LPs to stake specific token pairs within a designated price range, this novel method leads to a more efficient allocation of resources compared to conventional liquidity provision techniques.
 
 #### Benefits of Concentrated Liquidity
