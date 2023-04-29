@@ -37,8 +37,7 @@ We have successfully launched Neutroswap V2. What we have done in Neutroswap V2:
 5. Bring $150,000+ volume daily accross Neutroswap V2 DEX
 6. The first project that triggers influencers to look at EOS EVM
 
-Now, we want to move on to V3 and make our position stronger in EOS EVM. Our V3 version will cover concentrated liquidity.
-Concentrated liquidity is an innovative approach to liquidity provision that allows liquidity providers (LPs) to enhance their capital efficiency and minimize impermanent loss by focusing their liquidity within a particular price range. By enabling LPs to stake specific token pairs within a designated price range, this novel method leads to a more efficient allocation of resources compared to conventional liquidity provision techniques.
+Now, we want to move on to V3 and make our position stronger in EOS EVM. With V3, we're introducing concentrated liquidity, an innovative approach to liquidity provision that allows liquidity providers (LPs) to enhance their capital efficiency and minimize impermanent loss by focusing their liquidity within a particular price range. By enabling LPs to stake specific token pairs within a designated price range, this novel method leads to a more efficient allocation of resources compared to conventional liquidity provision techniques.
 
 #### Benefits of Concentrated Liquidity
 
@@ -68,7 +67,7 @@ In contrast, concentrated liquidity allows LPs to focus their liquidity within a
 
 ### Ecosystem Fit
 
-- Where and how does your project fit into the ecosystem? Currently EOS EVM needs more TVL to get organic exposure. With our launched, you might have seen the significant growth in EOS EVM. We want to continue to grow on EOS EVM by providing more value using our V3 version.
+- Where and how does your project fit into the ecosystem? Currently, EOS EVM needs more TVL to achieve organic exposure and attract new users. That's why we're thrilled to have already seen significant growth since our launch. But we're not stopping there. Our team is committed to further strengthening EOS EVM by providing even more value through our upcoming V3 version. With V3, we're confident that we can continue to drive growth and make EOS EVM an even more vibrant and successful ecosystem
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? Farmers, DeFi users, crypto users in general, traders
 - What need(s) does your project meet? Neutroswap V3 will have benefits: impermanent loss mitigation, increased flexibility, higher performance. Especially it can bring more TVL to EOS EVM.
 - Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
@@ -79,13 +78,15 @@ In contrast, concentrated liquidity allows LPs to focus their liquidity within a
 ### Team members
 
 - **Team Leader:** Jonas Aditya Sunandar
-- Wilsen Tiomajaya
 - Erwin Phanglius
 - Akramurridjal Rahman
 - Ryan Tjin
 - Kevin Jacob Surtan
 - William Wijaya
 - Might need to onboard more
+
+### Advisor
+- Wilsen Tiomajaya, Co-founder of GGG
 
 ### Legal Structure
 - **Registered Legal Entity:** PT Nava Labs
@@ -122,22 +123,12 @@ In contrast, concentrated liquidity allows LPs to focus their liquidity within a
 - https://www.linkedin.com/in/william-wijaya-792075199/
 
 ## Development Status
-We are in the researching and looking for partners phase to help us build the solution. We haven't decided the UI/UX, but it will be quite similar to Uniswap V3
+We're currently in the research phase and seeking partners to help us build the solution. While we haven't yet decided on the final UI/UX design, we can tell you that it will be similar to that of Uniswap V3.
 
 References: 
 - https://blog.uniswap.org/uniswap-v3
 
 ## Development Roadmap
-
-For each milestone,
-
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
 
 ### Milestone Summary
 
@@ -153,7 +144,7 @@ For each milestone,
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
+| 0a. | License | Apache 2.0 |
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a technical **tutorial** that explains concentrated liquidity works. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Threads | We will publish **twitter threads** that explains Neutroswap V3.
@@ -170,7 +161,7 @@ For each milestone,
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
+| 0a. | License | Apache 2.0 |
 | 0b. | Tweet | We will publish an **tweet** that demonstrate Neutroswap V3
 | 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
 | 2. | Analytics | User will be able to see volume, TVL, and activity in Neutroswap V3 contracts |  
