@@ -78,8 +78,9 @@ In contrast, concentrated liquidity allows LPs to focus their liquidity within a
 - Erwin Phanglius
 - Akramurridjal Rahman
 - Ryan Tjin
-- Kevin
+- Kevin Jacob Surtan
 - William Wijaya
+- Might need to onboard more
 
 ### Legal Structure
 - **Registered Legal Entity:** PT Nava Labs
@@ -123,10 +124,6 @@ References:
 
 ## Development Roadmap
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to the EOS ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
 For each milestone,
 
 - make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
@@ -137,16 +134,14 @@ For each milestone,
 - indicate milestone duration as well as number of full-time employees working on each milestone.
 - **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
 
-> :zap: If any of your deliverables is based on someone else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
-
 ### Milestone Summary
 
 > Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
 > You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
 > of all of your Milestones.  Please **DO NOT** remove the three lines below.  If you do, your grant will be rejected or delayed while you fix it.
 - **Total Estimated Duration:** 2 months 
-- **Full-Time Equivalent (FTE):** 2 FTE
-- **Total Costs:** 12,000 USD
+- **Full-Time Equivalent (FTE):** 5 FTE
+- **Total Costs:** 100,000 USD
 
 > Please note that this application is automatically parsed.<br/>
 > For the above fields, please only put the answer on that line.  If you want to add more information, please put it below these instructions.<br/>
@@ -157,45 +152,36 @@ For each milestone,
 > - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
 > - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
 
-### Milestone 1 Example — Implement EOS Application
+### V3 Interface, Indexer and Smart contract development
 
-- **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 8,000 USD
-
-| ID | Deliverable | Specification |
-| ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Application interface to Antelope | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
-| 3. | Caching layer | We will create a caching layer ... |  
-| 4. | API interface to our app | We will create an API that ... |  
-
-
-
-### Milestone 2 Example — Additional features
-
-- **Estimated Duration:** 1 month
-- **FTE:**  2
-- **Costs:** 4,000 USD
+- **Estimated duration:** 2 month
+- **FTE:**  3
+- **Costs:** 50,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
 | 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a technical **tutorial** that explains concentrated liquidity works. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
+| 0d. | Threads | We will publish **twitter threads** that explains Neutroswap V3.
+| 1. | Smart contract development | User will be able to add concentrated liquidity securely |  
+| 2. | Design UI/UX | We will design UI/UX that covers concentrated liquidity |  
+| 3. | Front-End / User Interface | User will be able to add concentrated liquidity with ease |  
+| 4. | Indexer | We will host & index needed data from EOS EVM |  
+
+### Analytics and Audits Improvements
+
+- **Estimated Duration:** 2 month
+- **FTE:**  3
+- **Costs:** 50,000 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
+| 0b. | Tweet | We will publish an **tweet** that demonstrate Neutroswap V3
 | 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Added UI functionality | We will add UI functionality to... |  
+| 2. | Analytics | User will be able to see volume, TVL, and activity in Neutroswap V3 contracts |  
 | 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
-
-
-... Add more milestones as above as needed ...
 
 
 ## Future Plans
