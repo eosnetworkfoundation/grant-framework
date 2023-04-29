@@ -141,7 +141,7 @@ References:
 
 ### Milestone Summary
 
-- **Total Estimated Duration:** 2 months 
+- **Total Estimated Duration:** 3 months 
 - **Full-Time Equivalent (FTE):** 6 FTE
 - **Total Costs:** 100,000 USD
 
