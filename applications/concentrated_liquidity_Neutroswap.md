@@ -166,7 +166,8 @@ In addition, our concentrated liquidity feature will also help to lock up more $
 
 **How did you hear about the Grants Program?** EOS Network Foundation Twitter / personal recommendation
 
-You need to consider the grant to bring liquidity to EOS EVM. **Neutroswap did not raise any investment from any VC.** We really hope ENF will support us, hence we can keep building on EOS EVM.
+As we look to the future of Neutroswap and EOS EVM, we believe that a grant to bring liquidity to the platform is essential. We've been proud to build Neutroswap without raising any investment from VC firms, and we're hopeful that ENF will see the value in our work and provide the support we need to continue to grow and innovate on EOS EVM.
+
 We have done our best to trigger the initial wave of EOS EVM by becoming:
 1. The first DApp that reached $1,000,000 in TVL
 2. The first EOS EVM token listed on Coingecko
@@ -175,7 +176,7 @@ We have done our best to trigger the initial wave of EOS EVM by becoming:
 5. Bring $150,000+ volume daily accross Neutroswap V2 DEX
 6. The first project that triggers influencers to look at EOS EVM
 
-If you have any questions please let us know
+We're committed to continuing this momentum and pushing the boundaries of what's possible on EOS EVM. With ENF's support, we believe that we can take Neutroswap and the EOS EVM ecosystem to new heights. Thank you for considering our proposal
 
 Links:
 - Website: https://neutroswap.io/
