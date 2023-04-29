@@ -17,7 +17,7 @@
 
 ## Project Overview
 
-Neutroswap is an automated market-maker (AMM) on the EOS EVM blockchain that is community-driven and offers the low fees for swapping assets. It also has some of the most lucrative rewards for staking and yield farming in the entire EOS EVM ecosystem, making it an appealing choice for those looking to generate returns on their assets. 
+Neutroswap is an automated market-maker (AMM) on the EOS EVM blockchain that is community-driven and offers the low fees for swapping assets. Neutroswap's staking and yield farming rewards are among the highest in the EOS EVM ecosystem, attracting those seeking profitable returns on their assets.
 Our team decides to focus more towards bringing liquidity to EOS EVM chain more. It will enable more users, projects and exposure coming to EOS EVM due to TVL increase and project development. 
 
 ### Overview
