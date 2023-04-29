@@ -17,87 +17,109 @@
 
 ## Project Overview
 
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
+Neutroswap is an automated market-maker (AMM) on the EOS EVM blockchain that is community-driven and offers the lowe fees for swapping assets. It also has some of the most lucrative rewards for staking and yield farming in the entire EOS EVM ecosystem, making it an appealing choice for those looking to generate returns on their assets. 
+Our team decides to focus more towards bringing liquidity to EOS EVM chain more. It will enable more users, projects and exposure due to increasing TVL in EOS EVM. 
 
 ### Overview
 
 > Please provide the following:
 
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOS Network / Antelope:** An indication of how your project relates to / integrates into the EOS Network or Antelope software.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+- **Name:** Neutroswap
+- **Brief Description:** Community-driven AMM & Launchpad on EOS EVM
+- **Relationship to EOS Network / Antelope:** Our app brings liquidity to EOS EVM attracting more projects and users to use the chain.
+- **Reason for Interest:** Capital efficiency, impermanent loss, mitigation, higher fee rewards, reduced slippage, improved price discovery.
 
 ### Project Details
 
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
+We have launched Neutroswap V2 and we want to move on to V3 and make our position stronger in EOS EVM. Our V3 version will cover concentrated liquidity.
 
-- Mock-ups/designs of any UI components
-- Data models of the core functionality
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+Concentrated liquidity is an innovative approach to liquidity provision that allows liquidity providers (LPs) to enhance their capital efficiency and minimize impermanent loss by focusing their liquidity within a particular price range. By enabling LPs to stake specific token pairs within a designated price range, this novel method leads to a more efficient allocation of resources compared to conventional liquidity provision techniques.
+
+#### Benefits of Concentrated Liquidity
+
+1. Capital efficiency: LPs allocate funds within a chosen price range, allowing for more effective use of capital.
+2. Impermanent loss mitigation: Concentrating liquidity in a specific range helps reduce exposure to price fluctuations, mitigating impermanent loss.
+3. Customized strategies: LPs can tailor their strategies based on risk tolerance, market outlook, and price predictions, by selecting any desired price range. The tighter the range, the more liquidity passes through the position, and the more the LP earns.
+4. Higher fee rewards: LPs can potentially earn higher trading fee rewards proportional to their contribution within the active price range.
+5. Reduced slippage: Traders benefit from deeper liquidity where it's needed the most, resulting in reduced slippage and better execution prices.
+6. Improved price discovery: Concentrated liquidity can lead to more accurate price discovery, as liquidity is focused on price ranges with higher trading activity and demand.
+
+#### V2 Pools vs Concentrated Liquidity
+V2 pools employ the XYK model, which maintains a constant balance within a liquidity pool so that the total value of one token always equals the total value of the other token in the pool, regardless of their current price against each other. In V2 pools, liquidity is spread across all possible price ranges, making it difficult for LPs to decide where to allocate liquidity. In reality, the majority of their liquidity remains unused.
+
+In contrast, concentrated liquidity allows LPs to focus their liquidity within a specific price range, resulting in better capital efficiency, reduced impermanent loss, and increased trading fee rewards. Moreover, concentrated liquidity enables LPs to create customized strategies by allocating their capital to preferred price intervals.
+
+##### V2 Pools:
+- Based on the XYK model
+- Liquidity spread across all possible price ranges
+- Difficult for LPs to decide where to allocate liquidity
+- Higher slippage and lower trading fee rewards
+
+##### Concentrated Liquidity Pools:
+- Customizable price ranges
+- More efficient use of capital
+- Reduced impermanent loss and higher trading fee rewards
+- Allows LPs to create tailored strategies
 
 ### Ecosystem Fit
 
-> Help us locate your project in the EOS Network landscape and what problems it tries to solve by answering each of these questions:
-
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
+- Where and how does your project fit into the ecosystem? Currently EOS EVM needs more TVL to get organic exposure. With our launched, you might have seen the significant growth in EOS EVM. We want to continue to grow on EOS EVM by providing more value using our V3 version.
+- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? Farmers, DeFi users, crypto users in general, traders
+- What need(s) does your project meet? Neutroswap V3 will have benefits: impermanent loss mitigation, increased flexibility, higher performance. Especially it can bring more TVL to EOS EVM.
 - Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+  - If not, are there similar projects in related ecosystems? Noahswap, Frogge might release the same solutions in the future.
 
 ## Team
 
 ### Team members
 
-- **Team Leader:** Name of team leader
-- Name of team member 1
-- Name of team member 2
-- Name of team member 3, etc.
+- **Team Leader:** Jonas Aditya Sunandar
+- Wilsen Tiomajaya
+- Erwin Phanglius
+- Akramurridjal Rahman
+- Ryan Tjin
+- Kevin
+- William Wijaya
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity. (e.g. Greymass, Inc.)
-- **Registered Address:** Address of your registered legal entity. Please keep it in a single line. (e.g. 123 Main Street, London LK1 234, UK)
+- **Registered Legal Entity:** PT Nava Labs
+- **Registered Address:** Foresta Fiore B3 No 10 BSD, Tangerang Selatan, Indonesia
 
 ### Team Experience
-
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
-
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+- EMURGO/Cardano
+- Good Games Guild
+- Whitehackers
+- Metaversepad
+- Arbipad
+- HARA token
+- Asosiasi Blockchain Indonesia
+- Coinvestasi
 
 ### Team Org Repos
 
-- https://github.com/<your_organization>
-- https://github.com/<your_organization>/<project_1>
-- https://github.com/<your_organization>/<project_2>
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+- https://github.com/Nava-Labs
+- https://github.com/Nava-Labs/neutroswap-contract
 
 ### Team Member Repos
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- https://github.com/xerod
+- https://github.com/jonassunandar
+- https://github.com/erwinphanglius
+- https://github.com/RyanTjhin
 
 ### Team LinkedIn Profiles (if available)
-
-- https://www.linkedin.com/in/<person_1>
-- https://www.linkedin.com/in/<person_2>
+- https://www.linkedin.com/in/jonas-sunandar-83307b164/
+- https://www.linkedin.com/in/wilsen-t-110533113/
+- https://www.linkedin.com/in/akramurridjal/
+- https://www.linkedin.com/in/erwin-phanglius-a22a121a6/
+- https://www.linkedin.com/in/ryan-tjhin-90b16521b/
+- https://www.linkedin.com/in/william-wijaya-792075199/
 
 ## Development Status
+We are in the researching and looking for partners phase to help us build the solution. We haven't decided the UI/UX, but it will be quite similar to Uniswap V3
 
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+References: 
+- https://blog.uniswap.org/uniswap-v3
 
 ## Development Roadmap
 
