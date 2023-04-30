@@ -2,7 +2,7 @@
 
 - **Project Name:** Scry Protocol
 - **Team Name:** Keychain INC
-- **EOS Payment Address:** EOS payment address
+- **EOS Payment Address:**
 EOS876ZWzPTGr4dEczLdZJrJDZmCfGj3Swt6Eqmtbi3pZ99opAc44
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Pomelo Grant(s):** N/A
