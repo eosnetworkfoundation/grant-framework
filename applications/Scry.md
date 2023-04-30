@@ -209,7 +209,7 @@ https://docs.scry.finance/docs/morpheus/morpehus|
 
 
 ### Milestone 4 Community Support
-- **Estimated Duration:** 1 month
+- **Estimated Duration:** 5 months 
 - **FTE:**  2
 - **Costs:** 40,000 USD
 
