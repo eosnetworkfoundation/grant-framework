@@ -203,7 +203,7 @@ Our board member **Mikhail Rusanov** has experience as a deputy director of Publ
 **Suneet Bendre** is an experienced developer working in blockchain and self sovereign identity for the past three years. His experience includes:
 
 - Development of the SSI framework and micro-services and microservics of [Gaia-X](https://gaia-x.eu/what-is-gaia-x), an EU federated data sharing and exchange platform.
-- Contributing to the [EOSIO Privacy report](https://eos.io/news/blockchain-privacy/) with Jack Tanner.
+- Contributing to the [EOSIO Privacy report](https://eos.io/news/blockchain-privacy/) with Jack Tanner with his knowledge on Hyperledge Aires and Fabric.
 - Technical consulting for the Indian government&#39;s blockchain incubation project [Apiary](https://apiary.stpi.in/) including market research, problem solvin and story telling.
 - Other experience includes backend development with [Robustwealth](https://www.thewealthmosaic.com/vendors/robustwealth) wealth trading platform and [Mastercard](https://www.mastercard.com/).
 
@@ -213,7 +213,7 @@ Our board member **Mikhail Rusanov** has experience as a deputy director of Publ
 
 **Chetana Bhardwaj** - Dynamic, hands on, Agile Scrum Master with experience managing software development projects that meet demanding time restraints and exceed all expectations. Chetana is an of the box thinker who champions innovative technical solutions to address complex client needs and related business problems, ensuring superior outcomes.
 
-**Milica Sequeira** - Our UI/UX designer. She is a critical thinker and skillfully navigates the research, design and feedback of all aspects of building highly user friendly solutions.
+**Milica Sequeira** - Our UI/UX designer. She is a critical thinker and skillfully navigates the research, design and feedback of all aspects of building highly user friendly solutions. Drawing upon her front-end development background, she brings an added dimension to her design work, ensuring that applications not only look visually appealing but also operate seamlessly.
 
 ### Team Org Repos
 
