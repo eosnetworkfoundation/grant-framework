@@ -109,6 +109,14 @@ The current SDK architecture can be explored in more detail here:
 
 <https://github.com/Tonomy-Foundation/Tonomy-ID-SDK/tree/development/src/sdk>
 
+Tech stack:
+
+1. EOS ID mobile wallet - Expo (React native)
+2. EOS ID login web portal + EOS Application Registry - Reactjs
+3. Tonomy ID SDK - Typescript (javascript)
+4. P2P communication service - Nestjs (nodejs)
+5. Smart contracts - Antelope (C++)
+
 ### Ecosystem Fit
 
 - **Where and how does your project fit into the ecosystem?**
