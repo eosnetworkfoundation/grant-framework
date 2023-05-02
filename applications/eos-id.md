@@ -297,13 +297,13 @@ We plan to use these tools in EOS ID further to deliver form-less onboarding fea
 
 ### Milestone Summary
 
+- **Total Estimated Duration:** 4 months
+- **Full-Time Equivalent (FTE):** 1.5 FTE
+- **Total Costs:** 132,000 USD
+
 We have developed a roadmap outlining the modifications necessary to integrate and launch Tonomy ID on EOS seamlessly. It focuses on the above-mentioned features and adds compatibility for existing expectations of EOS Wallets and integration with the EOS resource model and infrastructure.
 
 After our experience with the Antelope SSI Toolkit, we have grouped similar tasks and fewer milestones with more work in each. We aim to minimise disruptions caused by focus switching for the reviewers of our milestones, which we understand are under significant demand now. This also makes payments more predictable for us.
-
-- Total Estimated Duration: 4 months
-- Full-Time Equivalent (FTE): 1.5 FTE
-- Total Costs: 132,000 USD
 
 We use our aligned consulting rate of EUR €130 / hour. Our aligned consulting rate is used when the technology we build aligns with the Tonomy Foundation's vision (we use a rate of €260 when it doesn't). It reflects our at-cost rate, which includes a buffer to cover risks and unknowns in operating costs. We are a non-profit foundation. If we make any profit, it goes back into our operating budget, which goes towards open-source societal technologies.
 
