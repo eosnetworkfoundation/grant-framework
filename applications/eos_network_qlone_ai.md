@@ -1,27 +1,13 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project.
->
-> See the Grant Framework Process on how to submit a proposal.
->
-> Please do not remove any of the mandatory lines that start with bold labels or as headlines! Your application will be rejected!
->
-> Please do not remove the bolding of labels (such as Bold Label: ) as it is needed by the automated parsers - that includes the bolding on lines starting with a bullet as part of a list.
-Please note that this application will be automatically parsed. Please only put the data required in the fields following the bolded labels.
->
-> Deleting lines that start with Bold Labels: will cause your grant to be rejected! Please fill this out carefully if you want to be approved!
->
-> All "comment" lines starting with a > (such as this one and the ones above and below) should be removed.
-
 - **Project Name:** Qlone AI
 - **Team Name:** Qlone AI
-- **EOS Payment Address:** EOS payment address
+- **EOS Payment Address:** gd44ec4kcyuk
 - **Level:** 2
-- **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
-- **Project is Open-Source:** No
+- **Pomelo Grant(s):** https://pomelo.io/user/qloneai
+- **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/QLONEAI
-> Please only answer Yes or No to the Open-Source or Token sale questions. Do not explain more on that line. You may delete this line and all lines that begin with `>` from your application.
 
 ## Contact
 
@@ -29,15 +15,10 @@ Please note that this application will be automatically parsed. Please only put 
 - **Contact Email:** hi@qlone.ai
 - **Website:** https://qlone.ao 
 
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview
 
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
-
 ### Overview
-
-> Please provide the following:
 
 - **Name:** Qlone AI
 - **Brief Description:** With the leverage of AI & Blockchain, Qlone's infrastructure is aiming to provide an all-in-one solution to generate your smart-digital AR clone. A new seamless approach on how to simulate, train, personalize, and manage AI on the blockchain.
@@ -45,8 +26,6 @@ Please note that this application will be automatically parsed. Please only put 
 - **Reason for Interest:** An AI NFT generator is a really demanding tool for any blockchain. EOS ecosystem could be one of the first blockchain to integrate AI into WEB3 with the help of our team. AI cloning tools, generators are useful tools for many businesses and people. We have multiple AI models prepared to merge. Our application will be the first one to offer many AI features that are not available on mobile. To add, our AI models will be available in one infrastructure which will give seamless access to users with no need to transfer through other platforms. 
 
 ### Project Details
-
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 - Mock-ups/designs of any UI components https://docsend.com/view/8qrh7ugx864p2pi3
 - Data models of the core functionality / API specifications of the core functionality
@@ -81,8 +60,6 @@ The development team managed to generate our own GAN, RNN AI model prototypes wh
 The project will not develop all AI Models on its own in the first stages of the product, we will use some already polished 3rd party AI models. Such as Stable Diffusion, and Microsoft.
 
 ### Ecosystem Fit
-
-> Help us locate your project in the EOS Network landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
 
@@ -125,13 +102,9 @@ Craigmuir Chambers, Road Town, Tortola, VG 1110, British Virgin Islands
 
 We are 5 full-time experienced core team members with more than 5 years of experience, from Vilnius, Lithuania. 3 AI and blockchain developers, Lukas CMO and Rysard CEO. With our experience in Web 3 market, vast programming knowledge and know-how skills, we decided to make something unique and innovative that you would definitely enjoy to experience. Founders have a successful background in WEB3/WEB2 markets and great work experience, CTO Dainius has a vast knowledge of AI technology and Machine Learning development, Jonas is known for his full stack and blockchain development skills, and Arvaidas is an experienced blockchain developer. All in all, we have a well-balanced team which covers all required fields to start the project successfully and expand our company. Team has direct plan how to achieve milestones and launch in the market successfully.
 
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here. - NO
-
 ### Team Org Repos
 
 N/A
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
 ### Team Member Repos
 
@@ -145,8 +118,6 @@ N/A
 - Arvaidas Blockchain dev: https://www.linkedin.com/in/arvaidas-silgalis/
 
 ## Development Status
-
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
 - https://docsend.com/view/imej4x72rp4iuphf links to improvement proposals or RFPs (requests for proposal),
 - academic publications relevant to the problem,
@@ -209,13 +180,7 @@ For each milestone,
 - indicate milestone duration as well as number of full-time employees working on each milestone.
 - **Deliverables 0a-0c are mandatory for all milestones, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
 
->⚡ If any of your deliverables is based on someone else's work, make sure you work and publish under the terms of the license of the respective project and that you highlight this fact in your milestone documentation and in the source code if applicable! Teams that submit others' work without attributing it will be immediately terminated.
-
 ### Milestone Summary
-
-> Note: the numbers in the three lines below are examples. Please replace with your own calculations! Then delete this instruction line. 
-> You must keep these three Milestone Summary lines below for your grant to be approved. The Total Cost should add up to the costs 
-> of all of your Milestones. Please DO NOT remove the three lines below. If you do, your grant will be rejected or delayed while you fix it.
 
 ### Overview
 
@@ -264,8 +229,6 @@ Another important marketing milestone is token IDO through numerous launchpads w
 ## Additional Information
 
 **How did you hear about the Grants Program?** EOS Network Foundation Website 
-
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
 - Work you have already done.
 1. We have a functional app prototype, multiple AI models and blockchain integrations are already available.
