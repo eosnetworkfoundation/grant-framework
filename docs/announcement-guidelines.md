@@ -16,7 +16,7 @@ We also cross-promote the most recent projects and their milestones on Twitter o
 - Suggested flow for the post:
   - This is what the team has built so far.
   - These are the team's future development plans.
-  - This is how the technology will contribute to the Polkadot ecosystem.
+  - This is how the technology will contribute to the EOS ecosystem.
 
 ## Key components
 
