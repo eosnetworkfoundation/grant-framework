@@ -31,8 +31,6 @@
 
 ## Project Overview
 
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
-
 ### Overview
 
 - **Name:** 8Bit Arcade, a gaming platform by the gamers for the gamers!
@@ -83,7 +81,6 @@
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
 - Tomi: is an experienced Consultant with a demonstrated history of working in the information technology and services industry. Skilled in JavaScript, Jenkins, Ksh, Java, and React. Experienced in both project implementation and continuous development and daily maintenance with multiple business critical solutions and services. Passionate about DevOps and AWS Cloud Services. Strong consulting professional with a Bachelor of Engineering focused in Information Technology from HAMK. Tomi's has worked on the following projects:
   - Upgrading a website from ancient angularjs to current reactjs for a relatively big metaverse game. 
   - He has also worked with Finnish postal service web group.
@@ -112,8 +109,10 @@ such as TapNation, Voodoo and more.
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/in/<person_1>
-- https://www.linkedin.com/in/<person_2>
+- https://www.linkedin.com/in/russell-bryant-52419a24b/
+- https://www.linkedin.com/in/lishanth-kanthasamy-0481291b9/
+- https://www.linkedin.com/in/excelsmm/
+- https://www.linkedin.com/in/tomi-garg-kaljunen-53676333/
 
 ## Development Status
 
@@ -122,8 +121,13 @@ such as TapNation, Voodoo and more.
 - links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
 - academic publications relevant to the problem,
 - links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
+  - We have conducted some research polls on our discord server: https://discord.gg/jmFGMVQsED; we have also conducted some research over twitter: https://twitter.com/8bit_arcade1/status/1647753450112040960?s=20; other sources of information/research we have used are from GWI where alot of indusrty specific data can be obtained: https://www.gwi.com/?_ga=2.3086770.3896020.1683127924-1728898366.1683127924
 - references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
+  - Russell Bryant has been in conversation with Mell Pearce (Co Organizer for EOS London), via LinkedIn: https://www.linkedin.com/in/mell-pearce-6b546846/
 - previous interface iterations, such as mock-ups and wireframes.
+  - Our website and platform is now past the wireframe stage, we are now commencing populating pages with visuals and a library of indie games for the next phase of our development where we will invite community members to test the platform. It can be viewed by clicking the following link: https://8bit-arcade-gaming-platfo-4553c3084c07f.webflow.io/
+  - Below is the wireframe for our mobile App:
+  ![Screenshot (45)](https://user-images.githubusercontent.com/132336760/235962681-df7fbf66-5710-4df3-b995-0adbe6af1365.png)
 
 ## Development Roadmap
 
