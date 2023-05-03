@@ -2,7 +2,7 @@
 
 -   **Project Name:** Sign In with EOS
 -   **Team Name:** Mickael POULHAZAN
--   **EOS Payment Address:** mpoulhazan
+-   **EOS Payment Address:** EOS7nx2ns5ZBfe6WsidsZcmxv47ytitrnTGGpSAMz2uLa86DfzzRj
 -   **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 -   **Pomelo Grant(s):** N/A
 -   **Project is Open-Source:** Yes
