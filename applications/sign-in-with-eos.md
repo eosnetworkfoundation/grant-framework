@@ -57,8 +57,8 @@ Project will be usefull for developpers when they want to implement a secure Log
 
 ### Legal Structure
 
--   **Registered Legal Entity:** N/A
--   **Registered Address:** N/A
+-   **Registered Legal Entity:** Mickael POULHAZAN
+-   **Registered Address:** 4406 rue Drolet, H2W 2L8, Montréal, Canada
 
 ### Team Experience
 
