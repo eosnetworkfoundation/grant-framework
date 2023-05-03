@@ -73,19 +73,29 @@
 ### Team members
 
 - **Team Leader:** Russell Bryant
-- Lishanth Kavasami
+- Lishanth Kanthasamy
 - Jhed Cabreros
 - Tomi Garg-Kaljune
 
 ### Legal Structure
 - **Registered Legal Entity:** 8Bit Arcade LLC
-- **Registered Address:** 16192 Coastal Highway, Lewes,Sussex County, Delaware 19958, United States
+- **Registered Address:** 16192 Coastal Highway, Lewes, Sussex County, Delaware 19958, United States
 
 ### Team Experience
 
 > Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
-
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+- Tomi: is an experienced Consultant with a demonstrated history of working in the information technology and services industry. Skilled in JavaScript, Jenkins, Ksh, Java, and React. Experienced in both project implementation and continuous development and daily maintenance with multiple business critical solutions and services. Passionate about DevOps and AWS Cloud Services. Strong consulting professional with a Bachelor of Engineering focused in Information Technology from HAMK. Tomi's has worked on the following projects:
+  - Upgrading a website from ancient angularjs to current reactjs for a relatively big metaverse game. 
+  - He has also worked with Finnish postal service web group.
+  - Finnish govt and sokopro which is a project bank.
+ - Jhed:  is proficient at producing high-quality content that meets brand objectives. He is well-versed in analysis, organizing, planning, digital multimedia editing, omnichannel marketing, and client relationship management. He has great experience in social media marketing and worked on the folowing projects:
+  -  ................
+  -  ................
+ -  Lishanth: has a background in cybersecurity, 
+  - He has worked on the developement and design of mobile game prototypes for several publishers 
+such as TapNation, Voodoo and more. 
+  - He has more recently been working on website design for Saanmuufilms a photography outfit.
+ - Russell: is an entrepreneur and go getter! He has a BSc degree in Design & Innovation and has experience in running his own bunisses in the construction industry. His skill set lies in project management, people management, problem solving, creativity, resourcefulness and innovation.
 
 ### Team Org Repos
 
