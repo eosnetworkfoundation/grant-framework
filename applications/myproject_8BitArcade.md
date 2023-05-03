@@ -14,21 +14,20 @@
 >
 > All "comment" lines starting with a `>` (such as this one and the ones above and below) should be removed.
 
-- **Project Name:** Name of your project (e.g. Anchor Wallet)
-- **Team Name:** Legal name of your team (e.g. Greymass, Inc.)
-- **EOS Payment Address:** EOS payment address
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
+- **Project Name:** 8Bit Arcade (e.g. Anchor Wallet)
+- **Team Name:** 8Bit Arcade LLC (e.g. Greymass, Inc.)
+- **EOS Payment Address:** 
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** [3]
 - **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
-- **Project is Open-Source:** Yes/No
-- **Project was part of Token sale:** Yes/No
-- **Repository where Project resides:** https://github.com/<your_organisation>/<project_repo>
-> Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
+- **Project is Open-Source:** Yes
+- **Project was part of Token sale:** Yes
+- **Repository where Project resides:** https://etherscan.io/address/0xE2d593ee1018C6BeEADc3415316EEf1084061aB1#code
 
 ## Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** myemail@mycompany.com
-- **Website:** https://yourwebsite.com
+- **Contact Name:** Russell Bryant
+- **Contact Email:** russell.bryant@8bit-arcade.com
+- **Website:** https://8bit-arcade.com/
 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -40,47 +39,53 @@
 
 > Please provide the following:
 
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOS Network / Antelope:** An indication of how your project relates to / integrates into the EOS Network or Antelope software.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+- **Name:** 8Bit Arcade, a gaming platform by the gamers for the gamers!
+- **Brief Description:** 8Bit Arcade is a gaming platform and mobile App primarily designed to incubate indie game developers with multiple revenue stream.
+- **Relationship to EOS Network / Antelope:** We aim to onboard gaming projects into the web3 space with blockchain intergration via the EOS Network (GameFi and NFTs)
+- **Reason for Interest:** We believe and know from market research that there is a demand for indie games in the web3 space but there is no mobile ready testing and incubation facilities for independent game developers that can also provide real-time community feedback. We also strongly believe in attracting 95% of the convetional gaming community into the web3 space through a positively subversive model. The future of gaming will be crowd driven, equitable, diverse and data driven; so at 8Bit Arcade we are positioning ourselves to be at the forefront of innovation in the gaming industry which is currently experiencing a cultural shift from big gaming studio productions towards a more community and independent gaming development setup.
 
 ### Project Details
 
 > We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 - Mock-ups/designs of any UI components
+- Please visit our website to view Early platform development and info on mobile App. https://8bit-arcade.com/  To enter the PoC pages click on the BLUE button on holding page.
 - Data models of the core functionality
 - API specifications of the core functionality
 - An overview of the technology stack to be used
 - Documentation of core components, protocols, architecture, etc. to be deployed
 - PoC/MVP or other relevant prior work or research on the topic
+- We have run some market research of our own on our Discord server and Twitter account also.
 - What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+  - We are not a for hire gaming design studio for indie game developers; we are a point of contact for them to showcase their IP and also a source for providing external services that may be required through our network of contacts. Although within our Arcade their will be a space for games to be tested by our community, there will be a minimum criteria that submissions will need to meet in order to be uploaded onto our server; so as such we will only be incubating project in their Beta phases.
 
 ### Ecosystem Fit
 
-> Help us locate your project in the EOS Network landscape and what problems it tries to solve by answering each of these questions:
-
 - Where and how does your project fit into the ecosystem?
+- 8Bit Arcade will be the entry point for independent game developers wanting to enter the web3 space, we will onboard them and assist where required with technical support, crowdfunding, testing from our community and marketing through our social media outlets powered by our novel gaming highlight wreel.
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+- Our audience will made up of two demographics: independent game developers and studios + an audience of gamers on the web and mobile devices.
 - What need(s) does your project meet?
+- 8Bit Arcade is fullfiling a gap in the market for incubating independent games in their design & testing phases especially on mobile devices because this is where the majority of the market is heading and we can assist these start-ups in substancialy reducing their upfront costs in App development and market feedback whilst also supporting them with marketing.
 - Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
+- Not that we are aware of at this point in time. Our closes competitor is: excilir and they are only a web3 gaming platform for RTM games.
   - If so, how is your project different?
+  - Ours offers an incubation facility, support for indie game developer where required, a mobile ready app for their games to be tested on by our community, future funding opportunities if appropriate, an offchain ecosystem for our web2 subscribers enabling them to interact with blockchain games on our platform, a bridge between web2 and web3 for our gamers but also for games as we will have some licensed titles in our arcade too.
   - If not, are there similar projects in related ecosystems?
+  - 'Game Starter' is an incubator in the web3 space, their offering is strictly tokenized and does not directly offer an arcade or gaming area for games to be tested/played, they only cater to web3 projects and gamers thus are focussing on a relatively small (5%) section of the market.
 
 ## Team
 
 ### Team members
 
-- **Team Leader:** Name of team leader
-- Name of team member 1
-- Name of team member 2
-- Name of team member 3, etc.
+- **Team Leader:** Russell Bryant
+- Lishanth Kavasami
+- Jhed Cabreros
+- Tomi Garg-Kaljune
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity. (e.g. Greymass, Inc.)
-- **Registered Address:** Address of your registered legal entity. Please keep it in a single line. (e.g. 123 Main Street, London LK1 234, UK)
+- **Registered Legal Entity:** 8Bit Arcade LLC
+- **Registered Address:** 16192 Coastal Highway, Lewes,Sussex County, Delaware 19958, United States
 
 ### Team Experience
 
