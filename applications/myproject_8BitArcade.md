@@ -14,8 +14,8 @@
 >
 > All "comment" lines starting with a `>` (such as this one and the ones above and below) should be removed.
 
-- **Project Name:** 8Bit Arcade (e.g. Anchor Wallet)
-- **Team Name:** 8Bit Arcade LLC (e.g. Greymass, Inc.)
+- **Project Name:** 8Bit Arcade 
+- **Team Name:** 8Bit Arcade LLC 
 - **EOS Payment Address:** 
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** [3]
 - **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
@@ -29,27 +29,21 @@
 - **Contact Email:** russell.bryant@8bit-arcade.com
 - **Website:** https://8bit-arcade.com/
 
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
-
 ## Project Overview
 
 > If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
 
 ### Overview
 
-> Please provide the following:
-
 - **Name:** 8Bit Arcade, a gaming platform by the gamers for the gamers!
-- **Brief Description:** 8Bit Arcade is a gaming platform and mobile App primarily designed to incubate indie game developers with multiple revenue stream.
+- **Brief Description:** 8Bit Arcade is a gaming platform and mobile App, primarily designed to incubate indie game developers with multiple revenue streams.
 - **Relationship to EOS Network / Antelope:** We aim to onboard gaming projects into the web3 space with blockchain intergration via the EOS Network (GameFi and NFTs)
-- **Reason for Interest:** We believe and know from market research that there is a demand for indie games in the web3 space but there is no mobile ready testing and incubation facilities for independent game developers that can also provide real-time community feedback. We also strongly believe in attracting 95% of the convetional gaming community into the web3 space through a positively subversive model. The future of gaming will be crowd driven, equitable, diverse and data driven; so at 8Bit Arcade we are positioning ourselves to be at the forefront of innovation in the gaming industry which is currently experiencing a cultural shift from big gaming studio productions towards a more community and independent gaming development setup.
+- **Reason for Interest:** We believe and know from market research that there is a demand for indie games in the web3 space, but there is no mobile ready testing and incubation facilities for independent game developers that can also provide real-time community feedback. We also, strongly believe in attracting 95% of the convetional gaming community into the web3 space through a positively subversive model. The future of gaming will be crowd driven, equitable, diverse and data driven; so at 8Bit Arcade, we are positioning ourselves to be at the forefront of innovation in the gaming industry which is currently experiencing a cultural shift from big gaming studio productions towards a more community and independent gaming development setup.
 
 ### Project Details
 
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
-
 - Mock-ups/designs of any UI components
-- Please visit our website to view Early platform development and info on mobile App. https://8bit-arcade.com/  To enter the PoC pages click on the BLUE button on holding page.
+  -Please visit our website to view Early platform development and info on mobile App. https://8bit-arcade.com/  To enter the PoC pages click on the BLUE button on holding page.
 - Data models of the core functionality
 - API specifications of the core functionality
 - An overview of the technology stack to be used
@@ -57,22 +51,22 @@
 - PoC/MVP or other relevant prior work or research on the topic
 - We have run some market research of our own on our Discord server and Twitter account also.
 - What your project is _not_ or will _not_ provide or implement
-  - We are not a for hire gaming design studio for indie game developers; we are a point of contact for them to showcase their IP and also a source for providing external services that may be required through our network of contacts. Although within our Arcade their will be a space for games to be tested by our community, there will be a minimum criteria that submissions will need to meet in order to be uploaded onto our server; so as such we will only be incubating project in their Beta phases.
+  - We are not, a for hire gaming design studio for indie game developers; we are a point of contact, for them, to showcase their IP and also a source for providing external services that may be required through our network of contacts. Within our Arcade there will be a space for games to be tested by our community, for this however there will be a minimum criteria that submissions will need to meet in order to be uploaded onto our server; so as such we will only be incubating project in their Beta phases or who can demonstrate an LITE version of their game in Beta phase.
 
 ### Ecosystem Fit
 
 - Where and how does your project fit into the ecosystem?
-- 8Bit Arcade will be the entry point for independent game developers wanting to enter the web3 space, we will onboard them and assist where required with technical support, crowdfunding, testing from our community and marketing through our social media outlets powered by our novel gaming highlight wreel.
+  -8Bit Arcade will be the entry point for independent game developers wanting to enter the web3 space, we will onboard them and assist where required with technical support, crowdfunding, testing from our community and marketing through our social media outlets powered by our novel gaming highlight wreel.
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- Our audience will made up of two demographics: independent game developers and studios + an audience of gamers on the web and mobile devices.
+  -Our audience will made up of two demographics: independent game developers and studios + an audience of gamers on the web and mobile devices.
 - What need(s) does your project meet?
-- 8Bit Arcade is fullfiling a gap in the market for incubating independent games in their design & testing phases especially on mobile devices because this is where the majority of the market is heading and we can assist these start-ups in substancialy reducing their upfront costs in App development and market feedback whilst also supporting them with marketing.
+  -8Bit Arcade is fullfiling a gap in the market for incubating independent games in their design & testing phases especially on mobile devices because this is where the majority of the market is heading and we can assist these start-ups in substancialy reducing their upfront costs in App development and market feedback whilst also supporting them with marketing.
 - Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
-- Not that we are aware of at this point in time. Our closes competitor is: excilir and they are only a web3 gaming platform for RTM games.
-  - If so, how is your project different?
+  -Not that we are aware of at this point in time. Our closes competitor is: excilir and they are only a web3 gaming platform for RTM games.
+- If so, how is your project different?
   - Ours offers an incubation facility, support for indie game developer where required, a mobile ready app for their games to be tested on by our community, future funding opportunities if appropriate, an offchain ecosystem for our web2 subscribers enabling them to interact with blockchain games on our platform, a bridge between web2 and web3 for our gamers but also for games as we will have some licensed titles in our arcade too.
-  - If not, are there similar projects in related ecosystems?
-  - 'Game Starter' is an incubator in the web3 space, their offering is strictly tokenized and does not directly offer an arcade or gaming area for games to be tested/played, they only cater to web3 projects and gamers thus are focussing on a relatively small (5%) section of the market.
+- If not, are there similar projects in related ecosystems?
+  - 'Game Starter' is an incubator in the web3 space, their offering is strictly tokenized and does not directly offer an arcade or gaming area for games to be tested/played, they only cater to web3 projects and gamers, thus, are focussing on a relatively small (5%) section of the market.
 
 ## Team
 
