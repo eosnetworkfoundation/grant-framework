@@ -128,6 +128,9 @@ such as TapNation, Voodoo and more.
   - Our website and platform is now past the wireframe stage, we are now commencing populating pages with visuals and a library of indie games for the next phase of our development where we will invite community members to test the platform. It can be viewed by clicking the following link: https://8bit-arcade-gaming-platfo-4553c3084c07f.webflow.io/
   - Below is the wireframe for our mobile App:
   ![Screenshot (45)](https://user-images.githubusercontent.com/132336760/235962681-df7fbf66-5710-4df3-b995-0adbe6af1365.png)
+  - Below is the wireframe for our web-based gaming platform:
+  ![Screenshot (46)](https://user-images.githubusercontent.com/132336760/236163277-2c3d430f-aebe-4c53-a50e-ab381c6deed0.png)
+
 
 ## Development Roadmap
 
