@@ -155,9 +155,9 @@ For each milestone,
 > Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
 > You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
 > of all of your Milestones.  Please **DO NOT** remove the three lines below.  If you do, your grant will be rejected or delayed while you fix it.
-- **Total Estimated Duration:** 2 months 
-- **Full-Time Equivalent (FTE):** 2 FTE
-- **Total Costs:** 12,000 USD
+- **Total Estimated Duration:** 4 months 
+- **Full-Time Equivalent (FTE):** 4 FTE
+- **Total Costs:** 179,000 USD
 
 > Please note that this application is automatically parsed.<br/>
 > For the above fields, please only put the answer on that line.  If you want to add more information, please put it below these instructions.<br/>
@@ -168,11 +168,11 @@ For each milestone,
 > - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
 > - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
 
-### Milestone 1 Example — Implement EOS Application
+### Milestone 1 — Implement EOS Application
 
 - **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 8,000 USD
+- **FTE:**  1
+- **Costs:** 4,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
@@ -188,11 +188,11 @@ For each milestone,
 
 
 
-### Milestone 2 Example — Additional features
+### Milestone 2 — Additional features
 
-- **Estimated Duration:** 1 month
-- **FTE:**  2
-- **Costs:** 4,000 USD
+- **Estimated Duration:** 4 month
+- **FTE:**  3
+- **Costs:** 85,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
@@ -206,8 +206,23 @@ For each milestone,
 | 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
 
 
-... Add more milestones as above as needed ...
 
+### Milestone 3 — Licensing & Marketing
+
+- **Estimated Duration:** 4 month
+- **FTE:**  3
+- **Costs:** 90,000 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
+| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
+| 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
+| 2. | Added UI functionality | We will add UI functionality to... |  
+| 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
 
 ## Future Plans
 
