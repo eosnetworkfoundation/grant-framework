@@ -145,7 +145,7 @@ For each milestone,
 
 - **Estimated duration:** 1 month
 - **FTE:**  1
-- **Costs:** 5,000 USD
+- **Costs:** 10,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
@@ -157,7 +157,9 @@ For each milestone,
 | 1. | Intergration | We will create an intergration into our Discord server for governance functionalities |  
 | 2. | Front-End / User Interface | We will create a UI that connects to holders wallets (metamask, Trustwallet, Trezor, etc...) |  
 | 3. | Add. Front-End |  Holders will be permitted to mint NFTs for special access |
-| 4. | API interface to our app | We will create/develop an API that works with EVM protocal and can enable transactions on chain |  
+| 4. | Add. Front-End |  Creation of an off-chain token that can interact with standard paymnent methods and also blockchain wallets. |
+| 5. | API interface to our app | We will create/develop an API that works with EVM protocal and can enable transactions on chain |  
+
 
 
 
@@ -165,7 +167,7 @@ For each milestone,
 
 - **Estimated Duration:** 4 month
 - **FTE:**  3
-- **Costs:** 85,000 USD
+- **Costs:** 80,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
