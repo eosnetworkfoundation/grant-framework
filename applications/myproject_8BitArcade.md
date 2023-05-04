@@ -121,6 +121,8 @@ such as TapNation, Voodoo and more.
 ## Development Status
 
 - links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
+  - We are about to upload our first two games onto our platform anyday; here are the links to them: https://nickmckinnis.itch.io/breakfast-defenders ![Screenshot (47)](https://user-images.githubusercontent.com/132336760/236222844-8777bdc2-fbaf-4822-8c09-ac29285975bb.png)
+ and https://generativedungeon.com/#welcome ![Logo-Transparency](https://user-images.githubusercontent.com/132336760/236224174-4517a3bd-5696-431e-a9ee-a08f7864986a.png)
 - academic publications relevant to the problem,
   - https://www.gwi.com/reports/the-gaming-playbook
 - links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
