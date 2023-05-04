@@ -181,7 +181,7 @@ For each milestone,
 | 0e. | Article | We will publish an **article**/workshop that explains [NBBL]. (Content, language and medium should reflect your target audience described above.)
 | 1. | Intergration | We will create an intergration into our Discord server for governance functionalities |  
 | 2. | Front-End / User Interface | We will create a UI that connects to holders wallets |  
-| 3. | Add. Front-End |  Holders will be permitted to mint NFTs for special access
+| 3. | Add. Front-End |  Holders will be permitted to mint NFTs for special access |
 | 4. | API interface to our app | We will create/develop an API that works with EVM protocal and can enable transactions on chain |  
 
 
@@ -195,14 +195,17 @@ For each milestone,
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
 | 0a. | License | Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a users can intergrate into our platform, how to intergrate with EOS (evm) for their GameFi economics. |
+| 0c. | Testing Guide | Core functions will be run through at test, In the guide, we will describe how to run these tests. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Added UI functionality | We will add UI functionality to... |  
-| 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
-
+| 0e. | Article | We will publish an **article**/workshop that explains to [Game Developers] how to on-board onto our platform. |
+| 1. | Working Library | We will create performance enhancements to  (Please list the functionality that will be implemented for the first milestone) |  
+| 2. | STORE | We will add a store section to our platform e-commerce functionality |  
+| 3. | Evervault | We will add Evervault third party intergration for customer (traditional) sign-up | 
+| 4. | Finalizing platform | Majority of pages for the platform to be completed and functioning by Sep.23 |
+| 5. | Mobile App | Deliver Free to Play mobile App for download on Apple App store and Google Playstore by Sep.23 |
+| 6. | Discord | We will have intergrated a LIVE functioning feedback loop between platform (portal) and the Discord App, for game feedback purposes |
+| 7. | Uploading | A new portal (within the platform) will be LIVE for developers to upload their offerings for review, this will be a semi-automated function |
 
 
 ### Milestone 3 — Licensing, Marketing & Legal milestones
