@@ -238,5 +238,5 @@ For each milestone,
 
 > Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
-- Work you have already done.
 - Here is a link to the KYC certificate for Russell Bryant - Founder & CEO of 8Bit Arcade LLC https://identi.tech/kyc-for-crypto/8bit-arcade/
+- Current partnerships with: https://www.telos.net/; https://metaverse-standards.org/; https://apeswap.finance/; https://www.swapsicle.io/; https://www.dapp-playstore.com/; https://spy-daproductions.com/
