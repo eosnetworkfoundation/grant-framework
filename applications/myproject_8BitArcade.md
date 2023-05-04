@@ -216,9 +216,8 @@ For each milestone,
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of our progress in developing our platform and App, any code relating to the platform will be published. |
-| 0c. | Announcements | Licensing deals and partnerships will be announced through our social channels. |
+| 0a. | Documentation | We will provide both **inline documentation** of our progress in developing our platform and App, any code relating to the platform will be published. |
+| 0b. | Announcements | Licensing deals and partnerships will be announced through our social channels. |
 | 1. | Games Library | We will negotiate terms with gaming brands for licensing of ceratin titles to host on our platform |  
 | 2. | Reddit | We will run a specific campaign targeting gaming developers in the web2 space to be on-boarded onto out platform |  
 | 3. | Social Media | We will do marketing through social media influencers, gaming streamers and the likes to attract gamers to our platform and mobile App |  
