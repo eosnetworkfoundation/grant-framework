@@ -161,7 +161,7 @@ For each milestone,
 > of all of your Milestones.  Please **DO NOT** remove the three lines below.  If you do, your grant will be rejected or delayed while you fix it.
 - **Total Estimated Duration:** 6 months 
 - **Full-Time Equivalent (FTE):** 6 FTE
-- **Total Costs:** 179,000 USD
+- **Total Costs:** 200,000 USD
 
 > - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
 > - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
