@@ -41,7 +41,7 @@
 ### Project Details
 
 - Mock-ups/designs of any UI components
-  -Please visit our website to view Early platform development and info on mobile App. https://8bit-arcade.com/  To enter the PoC pages click on the BLUE button on holding page.
+  -Please visit our website to view Early platform development and info on mobile App. https://8bit-arcade.com/  To enter the PoC pages click on the BLUE button on the holding page.
 - Data models of the core functionality
 - API specifications of the core functionality
 - An overview of the technology stack to be used
