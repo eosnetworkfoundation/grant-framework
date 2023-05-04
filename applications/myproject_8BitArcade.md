@@ -34,7 +34,7 @@
 ### Overview
 
 - **Name:** 8Bit Arcade, a gaming platform by the gamers for the gamers!
-- **Brief Description:** 8Bit Arcade is a gaming platform and mobile App, primarily designed to incubate indie game developers with multiple revenue streams.
+- **Brief Description:** 8Bit Arcade is a gaming platform and mobile App, primarily designed to incubate indie game developers. Ou business model is based on multiple revenue streams: subscription, crowdfunding fees, royalties, advertising, ecommerce and partnership referral fees.
 - **Relationship to EOS Network / Antelope:** We aim to onboard gaming projects into the web3 space with blockchain intergration via the EOS Network (GameFi and NFTs)
 - **Reason for Interest:** We believe and know from market research that there is a demand for indie games in the web3 space, but there is no mobile ready testing and incubation facilities for independent game developers that can also provide real-time community feedback. We also, strongly believe in attracting 95% of the convetional gaming community into the web3 space through a positively subversive model. The future of gaming will be crowd driven, equitable, diverse and data driven; so at 8Bit Arcade, we are positioning ourselves to be at the forefront of innovation in the gaming industry which is currently experiencing a cultural shift from big gaming studio productions towards a more community and independent gaming development setup.
 
