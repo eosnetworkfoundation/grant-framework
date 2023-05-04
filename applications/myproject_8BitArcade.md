@@ -54,8 +54,7 @@
 ### Ecosystem Fit
 
 - Where and how does your project fit into the ecosystem?
-  
-  -8Bit Arcade will be the entry point for independent game developers wanting to enter the web3 space, we will onboard them and assist them where required with technical support, crowdfunding, in-game testing from our community and marketing through our social media outlets powered by our novel gaming highlight reel.
+  - 8Bit Arcade will be the entry point for independent game developers wanting to enter the web3 space, we will onboard them and assist them where required with technical support, crowdfunding, in-game testing from our community and marketing through our social media outlets powered by our novel gaming highlight reel.
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
   - Our audience will made up of two demographics: independent game developers and studios + an audience of gamers on the web and mobile devices.
 - What need(s) does your project meet?
