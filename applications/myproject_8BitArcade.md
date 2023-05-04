@@ -73,10 +73,10 @@
 
 ### Team members
 
-- **Team Leader:** Russell Bryant
-- Lishanth Kanthasamy
-- Jhed Cabreros
-- Tomi Garg-Kaljune
+- **Team Leader:** Russell Bryant ![110237_2](https://user-images.githubusercontent.com/132336760/236187619-d5bbaec5-b814-4527-878f-177f2096c46d.png)
+- Lishanth Kanthasamy ![Lish](https://user-images.githubusercontent.com/132336760/236187673-5c8d0724-9130-48a5-b698-71c1f8c0d13e.png)
+- Jhed Cabreros ![Jhed 2](https://user-images.githubusercontent.com/132336760/236187725-bbe7772a-f7ed-487e-a4e5-c35a954692c2.png)
+- Tomi Garg-Kaljune (image pending)
 
 ### Legal Structure
 - **Registered Legal Entity:** 8Bit Arcade LLC
