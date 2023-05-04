@@ -240,4 +240,3 @@ For each milestone,
 
 - Work you have already done.
 - Here is a link to the KYC certificate for Russell Bryant - Founder & CEO of 8Bit Arcade LLC https://identi.tech/kyc-for-crypto/8bit-arcade/
-- Previous grants you may have applied for.
