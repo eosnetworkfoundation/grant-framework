@@ -204,6 +204,7 @@ For each milestone,
 | 3. | Evervault | We will add Evervault third party intergration for customer (traditional) sign-up and card payment system | 
 | 4. | Finalizing platform | Majority of pages for the platform to be completed and functioning by Sep.23 |
 | 5. | Mobile App | Deliver Free to Play mobile App for download on Apple App store and Google Playstore by Sep.23 |
+| 5b. | Mobile App | Subscription version of App to be made available for testing and downloadable direct from our platform by Sept23. |
 | 6. | Discord | We will have intergrated a LIVE functioning feedback loop between platform (portal) and the Discord App, for game feedback purposes |
 | 7. | Uploading | A new portal (within the platform) will be LIVE for developers to upload their offerings for review, this will be a semi-automated function |
 
