@@ -120,6 +120,7 @@ such as TapNation, Voodoo and more.
 
 - links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
 - academic publications relevant to the problem,
+  - https://www.gwi.com/reports/the-gaming-playbook
 - links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
   - We have conducted some research polls on our discord server: https://discord.gg/jmFGMVQsED; we have also conducted some research over twitter: https://twitter.com/8bit_arcade1/status/1647753450112040960?s=20; other sources of information/research we have used are from GWI where alot of indusrty specific data can be obtained: https://www.gwi.com/?_ga=2.3086770.3896020.1683127924-1728898366.1683127924
 - references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
