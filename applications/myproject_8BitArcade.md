@@ -108,8 +108,9 @@ such as TapNation, Voodoo and more.
 ### Team Member Repos
 
 - https://github.com/Russell-Bryant
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- http://www.lishanth.co.uk
+- https://excelsmm.my.canva.site/
+- 
 
 ### Team LinkedIn Profiles (if available)
 
