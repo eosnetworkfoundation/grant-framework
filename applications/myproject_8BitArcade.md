@@ -85,13 +85,14 @@
   - Upgrading a website from ancient angularjs to current reactjs for a relatively big metaverse game. 
   - He has also worked with Finnish postal service web group.
   - Finnish govt and sokopro which is a project bank.
- - Jhed:  is proficient at producing high-quality content that meets brand objectives. He is well-versed in analysis, organizing, planning, digital multimedia editing, omnichannel marketing, and client relationship management. He has great experience in social media marketing and worked on the folowing projects:
-  - Founded and created the branding strategy of fb.com/QuarterClubPH, an initiative aimed to foster financial inclusivity for all Filipinos
-  - Financial advisor for SunLife a leading financial services organization, Jhed has been responsible for policy reviews, conprehensive strategy, reparing and interpreting financial document summaries, investment performance reports, and income projections for clients. Jhed has been awarded the Gold Medallion Award, one of the highest measures for the top-performing advisors nationwide whilst working for SunLife.
- -  Lishanth: has a background in cybersecurity, 
-  - He has worked on the developement and design of mobile game prototypes for several publishers 
+ - Jhed:  is proficient at producing high-quality content that meets brand objectives. He is well-versed in analysis, organizing, planning, digital multimedia editing, omnichannel marketing, and client relationship management. He has great experience in social media marketing and worked on the folowing projects: 
+    - Founded and created the branding strategy of fb.com/QuarterClubPH, an initiative aimed to foster financial inclusivity for all Filipinos
+    - Financial advisor for SunLife a leading financial services organization, Jhed has been responsible for policy reviews, conprehensive strategy, reparing and interpreting financial document summaries, investment performance reports, and income projections for clients. Jhed has been awarded the Gold Medallion Award, one of the highest measures for the top-performing advisors nationwide whilst working for SunLife.
+ -  Lishanth: 
+    - He has a background in cybersecurity.
+    - He has worked on the developement and design of mobile game prototypes for several publishers 
 such as TapNation, Voodoo and more. 
-  - He has more recently been working on website design for Saanmuufilms a photography outfit.
+    - He has more recently been working on website design for Saanmuufilms a photography outfit.
  - Russell: is an entrepreneur and go getter! He has a BSc degree in Design & Innovation and has experience in running his own bunisses in the construction industry. His skill set lies in project management, people management, problem solving, creativity, resourcefulness and innovation.
 
 ### Team Org Repos
