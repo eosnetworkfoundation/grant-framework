@@ -76,7 +76,7 @@
   - Finnish govt and sokopro which is a project bank.
  - Jhed:  is proficient at producing high-quality content that meets brand objectives. He is well-versed in analysis, organizing, planning, digital multimedia editing, omnichannel marketing, and client relationship management. He has great experience in social media marketing and worked on the folowing projects: 
     - Founded and created the branding strategy of fb.com/QuarterClubPH, an initiative aimed to foster financial inclusivity for all Filipinos
-    - Financial advisor for SunLife a leading financial services organization, Jhed has been responsible for policy reviews, conprehensive strategy, reparing and interpreting financial document summaries, investment performance reports, and income projections for clients. Jhed has been awarded the Gold Medallion Award, one of the highest measures for the top-performing advisors nationwide whilst working for SunLife.
+    - Financial advisor for SunLife a leading financial services organization, Jhed has been responsible for policy reviews, conprehensive strategy, repairing and interpreting financial document summaries, investment performance reports, and income projections for clients. Jhed has been awarded the Gold Medallion Award, one of the highest measures for the top-performing advisors nationwide whilst working for SunLife.
  -  Lishanth: has a background in cybersecurity.
     - He has worked on the developement and design of mobile game prototypes for several publishers 
 such as TapNation, Voodoo and more. 
