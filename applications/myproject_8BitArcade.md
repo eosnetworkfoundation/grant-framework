@@ -99,7 +99,7 @@ such as TapNation, Voodoo and more.
 
 ### Team Org Repos
 
-- https://github.com/<your_organization>
+- https://github.com/Russell-Bryant/8Bit-Arcade
 - https://github.com/<your_organization>/<project_1>
 - https://github.com/<your_organization>/<project_2>
 
@@ -107,6 +107,7 @@ such as TapNation, Voodoo and more.
 
 ### Team Member Repos
 
+- https://github.com/Russell-Bryant
 - https://github.com/<team_member_1>
 - https://github.com/<team_member_2>
 
@@ -118,8 +119,6 @@ such as TapNation, Voodoo and more.
 - https://www.linkedin.com/in/tomi-garg-kaljunen-53676333/
 
 ## Development Status
-
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
 - links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
 - academic publications relevant to the problem,
@@ -152,19 +151,11 @@ For each milestone,
 - indicate milestone duration as well as number of full-time employees working on each milestone.
 - **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
 
-> :zap: If any of your deliverables is based on someone else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
-
 ### Milestone Summary
 
-> Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
-> You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
-> of all of your Milestones.  Please **DO NOT** remove the three lines below.  If you do, your grant will be rejected or delayed while you fix it.
 - **Total Estimated Duration:** 6 months 
 - **Full-Time Equivalent (FTE):** 6 FTE
 - **Total Costs:** 200,000 USD
-
-> - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
-> - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
 
 ### Milestone 1 — Implement EOS Application
 
