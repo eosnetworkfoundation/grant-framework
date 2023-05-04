@@ -178,8 +178,8 @@ For each milestone,
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) purchase tokens on the EOS network, it will also show them how to make use of the governance system and future utilities. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. The contract code will be run through a testnet. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [NBBL] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Intergration | We will create an intergration into our Discord server for governance functionalities (Please list the functionality that will be implemented for the first milestone) |  
+| 0e. | Article | We will publish an **article**/workshop that explains [NBBL]. (Content, language and medium should reflect your target audience described above.)
+| 1. | Intergration | We will create an intergration into our Discord server for governance functionalities |  
 | 2. | Front-End / User Interface | We will create a UI that connects to holders wallets |  
 | 3. | Add. Front-End |  Holders will be permitted to mint NFTs for special access
 | 4. | API interface to our app | We will create/develop an API that works with EVM protocal and can enable transactions on chain |  
