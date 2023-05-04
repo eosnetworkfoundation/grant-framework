@@ -87,8 +87,6 @@ such as TapNation, Voodoo and more.
 
 - https://github.com/Russell-Bryant/8Bit-Arcade
 
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
-
 ### Team Member Repos
 
 - https://github.com/Russell-Bryant
