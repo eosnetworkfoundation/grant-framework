@@ -21,7 +21,7 @@
 - **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** Yes
-- **Repository where Project resides:** https://etherscan.io/address/0xE2d593ee1018C6BeEADc3415316EEf1084061aB1#code
+- **Repository where Project resides:** https://github.com/Russell-Bryant/8Bit-Arcade
 
 ## Contact
 
