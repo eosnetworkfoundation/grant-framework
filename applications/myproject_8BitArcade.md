@@ -211,7 +211,7 @@ For each milestone,
 
 
 
-### Milestone 3 — Licensing & Marketing
+### Milestone 3 — Licensing, Marketing & Legal milestones
 
 - **Estimated Duration:** 6 month
 - **FTE:**  3
