@@ -190,13 +190,13 @@ For each milestone,
 
 ### Milestone 2 — Additional features
 
-- **Estimated Duration:** 4 month
+- **Estimated Duration:** 6 month
 - **FTE:**  3
 - **Costs:** 85,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
+| 0a. | License | Unlicense |
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
@@ -229,6 +229,9 @@ For each milestone,
 > Please include here:
 
 - how you intend to use, enhance, promote and support your project in the short term, and
+  - Our PoC is nearing completion with frst couple of games due to be uploaded shortly, then after, we will concentrate on attracting more indie games to our platform on a FREE basis. We will be advertising in Reddit for game developers wanting to join our community and list their offerings; all of this will occure during the Beta testing of our platform. Simultaneously we will be negotiating licensing deals with gaming labels for certain titles to be hosted on our platform.
+  - Towards July-August time we will have started to on-board subscription membership through our platform as a result of a targeted advertising campaign and collaborations with relevant gaming guilds.
+  - Come September time we will aim to Go LIVE with the platform and subscription to our paid for service.
 - the team's long-term plans and intentions in relation to it.
 
 
