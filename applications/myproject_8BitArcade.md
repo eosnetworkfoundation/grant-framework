@@ -217,13 +217,15 @@ For each milestone,
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
 | 0a. | License | Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Added UI functionality | We will add UI functionality to... |  
-| 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
+| 0b. | Documentation | We will provide both **inline documentation** of our progress in developing our platform and App, any code relating to the platform will be published. |
+| 0c. | Announcements | Licensing deals and partnerships will be announced through our social channels. |
+| 1. | Games Library | We will negotiate terms with gaming brands for licensing of ceratin titles to host on our platform |  
+| 2. | Reddit | We will run a specific campaign targeting gaming developers in the web2 space to be on-boarded onto out platform |  
+| 3. | Social Media | We will do marketing through social media influencers, gaming streamers and the likes to attract gamers to our platform and mobile App |  
+| 4. | Content | Our mascot will be used to create video content for our brand to be published on YouTube and TikTok + Twitch | 
+| 5. | Branding | Application will be made to have 8Bit Arcade logo, mascot and certain IP registered with the appropriated authorities | 
+| 6. | Legal | We will seek legal advice on jurisdictions, gaming legislation around the globe, privacy policy setup and other necessary requirements for us to function as a global brand in the gaming sector | 
+| 7. | Promotion | Seek to attend some gaming conferences to bolster our brand within the industry. |
 
 ## Future Plans
 
