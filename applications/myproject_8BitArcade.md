@@ -159,16 +159,10 @@ For each milestone,
 > Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
 > You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
 > of all of your Milestones.  Please **DO NOT** remove the three lines below.  If you do, your grant will be rejected or delayed while you fix it.
-- **Total Estimated Duration:** 4 months 
-- **Full-Time Equivalent (FTE):** 6.2 FTE
+- **Total Estimated Duration:** 6 months 
+- **Full-Time Equivalent (FTE):** 6 FTE
 - **Total Costs:** 179,000 USD
 
-> Please note that this application is automatically parsed.<br/>
-> For the above fields, please only put the answer on that line.  If you want to add more information, please put it below these instructions.<br/>
-> Please remember to delete all lines that start with `>` as they are just instructions and not needed in the application submission.<br/>
-> 
-> Notes on above fields:
-> - Total Estimated Duration: Duration of the whole project (example: 2 months or 7 weeks)
 > - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
 > - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
 
@@ -215,7 +209,7 @@ For each milestone,
 
 - **Estimated Duration:** 6 month
 - **FTE:**  3
-- **Costs:** 90,000 USD
+- **Costs:** 111,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
