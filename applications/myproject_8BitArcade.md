@@ -86,8 +86,6 @@ such as TapNation, Voodoo and more.
 ### Team Org Repos
 
 - https://github.com/Russell-Bryant/8Bit-Arcade
-- https://github.com/<your_organization>/<project_1>
-- https://github.com/<your_organization>/<project_2>
 
 > Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
@@ -96,7 +94,6 @@ such as TapNation, Voodoo and more.
 - https://github.com/Russell-Bryant
 - http://www.lishanth.co.uk
 - https://excelsmm.my.canva.site/
-- 
 
 ### Team LinkedIn Profiles (if available)
 
