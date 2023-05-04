@@ -201,7 +201,7 @@ For each milestone,
 | 0e. | Article | We will publish an **article**/workshop that explains to [Game Developers] how to on-board onto our platform. |
 | 1. | Working Library | We will create performance enhancements to  (Please list the functionality that will be implemented for the first milestone) |  
 | 2. | STORE | We will add a store section to our platform e-commerce functionality |  
-| 3. | Evervault | We will add Evervault third party intergration for customer (traditional) sign-up | 
+| 3. | Evervault | We will add Evervault third party intergration for customer (traditional) sign-up and card payment system | 
 | 4. | Finalizing platform | Majority of pages for the platform to be completed and functioning by Sep.23 |
 | 5. | Mobile App | Deliver Free to Play mobile App for download on Apple App store and Google Playstore by Sep.23 |
 | 6. | Discord | We will have intergrated a LIVE functioning feedback loop between platform (portal) and the Discord App, for game feedback purposes |
