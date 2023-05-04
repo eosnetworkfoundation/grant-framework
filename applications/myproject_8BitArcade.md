@@ -243,7 +243,7 @@ For each milestone,
 
 **How did you hear about the Grants Program?** Personal recommendation by Mell Pearce, Co Organizer @ EOS London. 
 
-- FURTHER INFO ON OUR FAILED LAUNCHES: Although our governance token did launch eventualy, it was not succesful! We had a failed launch with PinkSale in February and then we only just got our token listed on a DEX and just scrapped in with a few dollars to spare at just over $1k when our unofficial soft cap was at $25k. Here is the link to failed pinksale listing: https://www.pinksale.finance/launchpad/0x4F869E5d49783290Cb799b31DA907B317df2adb6?chain=ETH
+- FURTHER INFO ON OUR FAILED LAUNCHES: Although our governance token did launch eventualy, it was not succesful! We had a failed launch with PinkSale in February and then we only just got our token listed on a DEX and just scrapped in with a few dollars to spare at just over $1k when our unofficial soft cap was at $25k. Here is the link to failed pinksale listing: https://www.pinksale.finance/launchpad/0x4F869E5d49783290Cb799b31DA907B317df2adb6?chain=ETH since the governance token has not generated any capital for us we are looking at Grants, Loans and private investments as a meant to finance our development going forward. I feel this is important to clarify as it seems to be relevant to our case and your pre-requisits for successful grants.
 - Here is a link to the KYC certificate for Russell Bryant - Founder & CEO of 8Bit Arcade LLC https://identi.tech/kyc-for-crypto/8bit-arcade/
 - Current partnerships with: https://www.telos.net/; https://metaverse-standards.org/; https://apeswap.finance/; https://www.swapsicle.io/; https://www.dapp-playstore.com/; https://spy-daproductions.com/
 - Copy of our Pitch Deck: https://github.com/Russell-Bryant/8Bit-Arcade
