@@ -240,8 +240,6 @@ For each milestone,
 
 **How did you hear about the Grants Program?** Personal recommendation by Mell Pearce, Co Organizer @ EOS London. 
 
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
 - Here is a link to the KYC certificate for Russell Bryant - Founder & CEO of 8Bit Arcade LLC https://identi.tech/kyc-for-crypto/8bit-arcade/
 - Current partnerships with: https://www.telos.net/; https://metaverse-standards.org/; https://apeswap.finance/; https://www.swapsicle.io/; https://www.dapp-playstore.com/; https://spy-daproductions.com/
 - Copy of our Pitch Deck: https://github.com/Russell-Bryant/8Bit-Arcade
