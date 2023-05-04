@@ -54,10 +54,13 @@
 ### Ecosystem Fit
 
 - Where and how does your project fit into the ecosystem?
+  
   -8Bit Arcade will be the entry point for independent game developers wanting to enter the web3 space, we will onboard them and assist them where required with technical support, crowdfunding, in-game testing from our community and marketing through our social media outlets powered by our novel gaming highlight reel.
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+  
   -Our audience will made up of two demographics: independent game developers and studios + an audience of gamers on the web and mobile devices.
 - What need(s) does your project meet?
+  
   -8Bit Arcade is fullfiling a gap in the market for incubating independent games in their design & testing phases especially on mobile devices because this is where the majority of the market is heading and we can assist these start-ups in substancialy reducing their upfront costs in App development and market feedback whilst also supporting them with marketing.
 - Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
   -Not that we are aware of at this point in time. Our closes competitor is: excilir and they are only a web3 gaming platform for RTM games.
