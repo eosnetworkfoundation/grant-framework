@@ -209,13 +209,13 @@ For each milestone,
 
 ### Milestone 3 — Licensing & Marketing
 
-- **Estimated Duration:** 4 month
+- **Estimated Duration:** 6 month
 - **FTE:**  3
 - **Costs:** 90,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
+| 0a. | License | Unlicense |
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
