@@ -4,7 +4,7 @@
 - **Team Name:** 8Bit Arcade LLC 
 - **EOS Payment Address:** 
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** [3]
-- **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
+- **Pomelo Grant(s):** N/A
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** Yes
 - **Repository where Project resides:** https://github.com/Russell-Bryant/8Bit-Arcade
