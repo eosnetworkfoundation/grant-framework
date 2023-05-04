@@ -229,13 +229,18 @@ For each milestone,
 
 ## Future Plans
 
-> Please include here:
-
-- how you intend to use, enhance, promote and support your project in the short term, and
+- How you intend to use, enhance, promote and support your project in the short term?
   - Our PoC is nearing completion with frst couple of games due to be uploaded shortly, then after, we will concentrate on attracting more indie games to our platform on a FREE basis. We will be advertising in Reddit for game developers wanting to join our community and list their offerings; all of this will occure during the Beta testing of our platform. Simultaneously we will be negotiating licensing deals with gaming labels for certain titles to be hosted on our platform.
   - Towards July-August time we will have started to on-board subscription membership through our platform as a result of a targeted advertising campaign and collaborations with relevant gaming guilds.
-  - Come September time we will aim to Go LIVE with the platform and subscription to our paid for service.
-- the team's long-term plans and intentions in relation to it.
+  - Come September time we will aim to Go LIVE with the platform and subscription for our paid for service.
+  - The core team will be attending gaming events in the web2 and web3 space to highlight our offering and promote our platform to an ever growing community of independent game developers.
+  - Our founder regularly participated in Twitter spaces over the subject of gaming to voice our prescence and network within the sector.vWe will also be attending some trade shows towards the end of the yesr.
+  - The founder is also currently seeking private funding to help with capital and ensure we have the necessary funds to bootstrap our roadmap moving forward over the next few years.
+- The team's long-term plans and intentions in relation to the project?
+  - To be the go to destination for indie game developers in the web2 and web3 space.
+  - By the end of year one we would want to be able to host competitions and gaming meets with prize pools in collaboration with other platforms and gaming guilds.
+  - In years 2-3 we would like to be in a position to establishing multiple prescences in key metaverse projects with an ARCADE and interoperable avatars, this would be an extention to our web-based platform and the next evolution of the project.
+  - In year 4-5 we would like to be ready to franchise our brand and create the first 8Bit Arcade gaming HUB. Then branch our into key metropolitan cities around the globe.
 
 
 ## Additional Information
