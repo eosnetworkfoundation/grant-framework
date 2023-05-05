@@ -1,0 +1,274 @@
+# EOS Network Foundation Grant Proposal
+
+- **Project Name:** The Lost Diamond
+- **Team Name:** Time2Discover AS (Norway) https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=925474746
+- **EOS Payment Address:** time2discovr
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
+- **Pomelo Grant(s):** https://pomelo.io/grants/lostdiamond
+- **Project is Open-Source:** Yes
+- **Project was part of Token sale:** No
+- **Repository where Project resides:** https://github.com/bjornomsland/CaptainBlackBillSmartContract
+
+## Contact
+
+- **Contact Name:** Bjørn Omsland
+- **Contact Email:** bomsland@gmail.com
+- **Website:** https://www.time2discover.no/
+
+## Project Overview
+
+Follow-up grant from TheLostDiamond_BjornOmsland.
+https://github.com/eosnetworkfoundation/grant-framework/blob/main/applications/TheLostDiamond_BjornOmsland.md
+
+### Overview
+
+- **Name:** The Lost Diamond Adventure Race.
+- **Brief Description:** The Lost Diamond is a real-world P2E treasure hunt where the goal is to find The Lost Diamond by conquering checkpoint NFTs all around the world.
+A fun, exciting and easy-to-understand GameFi project to let people discover and learn about EOS, Web3 and NFTs.
+
+Please watch this updated pitch: https://youtu.be/GUlSCTZtXZc   
+YouTube-channel: https://www.youtube.com/@thelostdiamondrace   
+This 90 second intro video will give a good overview: https://youtu.be/3BKr1uY6nZ8
+
+- **Relationship to EOS Network / Antelope:** 
+The EOS Mainnet is the only technology platform available that has the requirements needed to make The Lost Diamond Adventure Race work:
+
+- Send money to anyone in the world in less than three seconds with no fees.
+- With a VISA-card from Coinbase, users can spend that money in their local store just a few minutes later.
+- Antelope has user friendly tools (e.g. Anchor, Port, Bloks.io)
+
+- **Reason for Interest:** An indication of why your team is interested in creating this project.
+Our team has been involved in EOS since 2018 and we want to contribute to the ecosystem's growth.
+
+The problem: The EOS blockchain does not have a good YouTube-presence. EOS needs to reach out to more people - especially outside the crypto space to be successful. 
+
+The EOS blockchain is maybe the first financial platform in the world - that is able to send money to anyone in the world in less than three seconds with no fees.
+That message needs to be delivered. With entertaining use-cases that people outside the crypto space understand.
+The Lost Diamond is custom made to do that.
+
+### Project Details
+
+Our team has an ambitious goal to be one of the first projects to achieve mass adoption on a Web3-platform. 
+To build one of the most popular social platforms for outdoor activities, with millions of monthly active users.
+
+150 million people are hunting virtual monsters on PokémonGo. 150 million people subscribe to YouTuber MrBeast's entertaining challenges where 
+money is given back to the show's participants. By utilizing the EOS, we can do this better. We have the opportunity and advantage to replace
+virtual monsters with real money. And publish entertaining challenges on YouTube where money can be sent to participants all over the world
+in less than three seconds.
+
+For people to adapt a new technology in mass, it needs to improve their lives by an order of magnitude. 
+It’s not an easy task to motivate non-tech people to create an EOS-account, download and learn how to use Anchor sign-in or create a Coinbase account. It’s a steep learning curve. TheLostDiamond solves this by having a $1,000 dollar lost diamond as incentive for participating. 
+
+The Lost Diamond is free to use for everyone. Everyone can conquer one checkpoint per day in the free tier.
+A premium paid tier is available, where participants pay a $7 dollar monthly fee to conquer unlimited checkpoints per day. 
+
+The Lost Diamond business model was updated in 2023. The old business model had only one source of income; users that pay a $7 dollar monthly subscription.
+The new business model has five income sources and a free tier to make The Lost Diamond easily available for everyone.
+- A free tier
+- Participants paying a $7 dollar monthly subscription
+- Sponsorships on YouTube-videos
+- YouTube Monetization
+- Racing fees from public events
+- Selling merch - like books/treasure maps/travel-guides to our fan-base.
+
+The smart contract returns 80% back to the Play2Earn model to fund the lost diamonds. A true Web3 application where everyone can
+create, own and monetize their content.
+
+We are aiming for 1M+ users (0.65% market share from PokémonGo) within four years.
+
+TheLostDiamond will be self-sustaining at 5,000 active users per month. 
+
+Until we reach a self-sustaining level, we need to fund the $1,000 dollar lost diamonds from sponsors, grants,
+investors and/or entry fees from other single-event races. 
+
+The value of The Lost Diamond is now $1,000 dollars (funded by the ENF GF grant i Milestone 1). The Lost Diamond
+treasure hunt is online. If you sign in with Anchor - and if you find The Lost Diamond, you and the checkpoint creator will
+both get $1,000 dollars - instantly paid out to your EOS-account. And if you have a VISA-card from Coinbase, you can spend
+that money in your local store just minutes later.
+
+The goal for Milestone 1 was to prove that The Lost Diamond MVP could onboard participants that paid a $7 dollar monthly subscription fee and obtain a 22% monthly growth rate over two months. That was not possible to achieve on The Lost Diamond version 2022. A major reconstruction and several improvements were needed.
+Execution of deliverables in Milestone 1 was therefore postponed to February 2023 and was consider accomplished by our team April 30th.   
+
+As conclusion from Milestone 1: 
+- The Lost Diamond MVP is not a good user-experience. 50 unique people have started the step for sign-in-with-anchor, but aborted when it gets too complicated. The Lost Diamond needs to deliver a high-quality user experience to be successful.
+- We need more work and focus on creating YouTube-videos with great stories around the hunt for the lost diamond and how the EOS blockchain makes it possible to send money to anyone in the world in less than three seconds, to onboard users. 
+
+What is the definition of a user: A user that conquers, creates or gets rewarded when a NFT Checkpoint challenge is solved.
+What is the current user baseline: 17 users (https://cptblackbill.com/start Scoreboard April 2023).
+
+What is the definition of a follower: A YouTube subscriber on The Lost Diamond Adventure Race YouTube-channel.
+What is the current follower baseline: 58 YouTube-subscribers. (https://www.youtube.com/@thelostdiamondrace)
+
+What is the Objective Key Result for The Lost Diamond project:
+- Objective: To build The Lost Diamond to be a successful YouTube-GameFi-show and the most exciting treasure hunt everyone will love. As a channel
+to promote the awesome capabilities the EOS blockchain has - to people that are outside the crypto space.
+
+Key Results:
+- 22% monthly growth in YouTube subscribers.
+- 22% monthly growth in organic views.
+- 22% monthly active users growth in TheLostDiamond $7 dollar subscription fee.
+
+What is the explicit target number of followers, users and transactions given the baseline:
+- 1M+ YouTube-subscribers
+- 1M+ monthly active users
+- We are ranking in the top five on EOS Dapp-radar.
+
+### Ecosystem Fit
+
+- Where and how does your project fit into the ecosystem?
+The main goal of TheLostDiamond project is ecosystem growth.
+
+- Who is your target audience?
+People outside the crypto space. From YouTube channel analytics: Male (57%) and female (43%). Age 18-44 (70%) 44+ (20%) 
+
+- What need(s) does your project meet?
+For the eos-ecosystem: A project that has the potential to get mass adoption and 1M+ monthly active users.
+For users: Entertainment. The most exciting global treasure hunt everyone loves. 
+
+- Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
+We are not aware of other similar real-world P2E adventure game projects in the Antelope ecosystems.
+
+## Team
+
+### Team members
+
+- **Team Leader:** Bjørn Omsland
+- Ann Magrit Monhof
+- Siv Anne Balslev
+- Jørn Balslev
+
+### Legal Structure
+- **Registered Legal Entity:** Time2Discover AS (Norway) https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=925474746
+- **Registered Address:** Rosenholmveien 25, 1414 Trollåsen, NORWAY
+
+### Team Experience
+
+We are four creative outdoor enthusiasts from Norway with backgrounds in the travel industry, logistics, project management and programming.
+
+We have hosted several Lost Diamond events in Norway, utilizing the EOS-Mainnet, for more than 1,500 users to test and improve TheLostDiamond race.
+
+Our programmer (Bjørn Omsland) has twenty years experience as a full stack developer and five year experience as a smart contract developer on the EOS-blockchain. 
+
+TheLostDiamond project has been part of Pomelo Season 2-5. 
+
+### Team Org Repos
+
+- https://github.com/bjornomsland
+- https://github.com/bjornomsland/CaptainBlackBillSmartContract
+
+### Team Member Repos
+
+- N/A
+
+### Team LinkedIn Profiles (if available)
+
+- https://www.linkedin.com/in/bjornomsland/
+- https://www.linkedin.com/in/ann-magrit-monhof-55785610/
+- https://www.linkedin.com/in/jorn-balslev/
+- https://www.linkedin.com/in/sivbalslev/
+
+
+## Development Status
+
+We have a working MVP that has been used for testing the application in several single-event races in Norway and for testing The Lost Diamond global adventure race during the Milestone 1 period. 
+
+The smart contract is located on the EOS-Mainnet account cptblackbill. The code is available at https://github.com/bjornomsland/CaptainBlackBillSmartContract
+
+The frontend is developed in NodeJs and hosted on Google Clouds. 
+
+We need (and are working to get funding for) The Lost Diamond app. To improve user experience.
+
+Video-presentation from Milestone 1, improvements, developement status: https://youtu.be/GUlSCTZtXZc 
+
+## Development Roadmap
+
+This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
+
+Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to the EOS ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
+
+For each milestone,
+
+- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
+- include the amount of funding requested _per milestone_.
+- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
+- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
+- commit to providing Dockerfiles for the delivery of your project.
+- indicate milestone duration as well as number of full-time employees working on each milestone.
+- **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
+
+### Milestone Summary
+
+> Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
+> You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
+> of all of your Milestones.  Please **DO NOT** remove the three lines below.  If you do, your grant will be rejected or delayed while you fix it.
+- **Total Estimated Duration:** 2 months 
+- **Full-Time Equivalent (FTE):** 2 FTE
+- **Total Costs:** 12,000 USD
+
+> Please note that this application is automatically parsed.<br/>
+> For the above fields, please only put the answer on that line.  If you want to add more information, please put it below these instructions.<br/>
+> Please remember to delete all lines that start with `>` as they are just instructions and not needed in the application submission.<br/>
+> 
+> Notes on above fields:
+> - Total Estimated Duration: Duration of the whole project (example: 2 months or 7 weeks)
+> - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
+> - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
+
+### Milestone 1 Example — Implement EOS Application
+
+- **Estimated duration:** 1 month
+- **FTE:**  2
+- **Costs:** 8,000 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
+| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
+| 1. | Application interface to Antelope | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
+| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
+| 3. | Caching layer | We will create a caching layer ... |  
+| 4. | API interface to our app | We will create an API that ... |  
+
+
+
+### Milestone 2 Example — Additional features
+
+- **Estimated Duration:** 1 month
+- **FTE:**  2
+- **Costs:** 4,000 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
+| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
+| 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
+| 2. | Added UI functionality | We will add UI functionality to... |  
+| 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
+
+
+... Add more milestones as above as needed ...
+
+
+## Future Plans
+
+> Please include here:
+
+- how you intend to use, enhance, promote and support your project in the short term, and
+- the team's long-term plans and intentions in relation to it.
+
+
+## Additional Information
+
+**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+
+> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
+
+- Work you have already done.
+- If there are any other teams who have already contributed (financially) to the project.
+- Previous grants you may have applied for.
