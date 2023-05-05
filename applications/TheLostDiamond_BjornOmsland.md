@@ -3,7 +3,7 @@
 - **Project Name:** The Lost Diamond
 - **Team Name:** Time2Discover
 - **Payment Address:** time2discovr (EOS Mainnet)
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 
 ## Project Overview
 
@@ -11,46 +11,31 @@ This application is in response to an RFP. (Open application process)
 
 ### Overview
 
-The Lost Diamond is a real-world P2E treasure hunt where the goal is to find The Lost Diamond by conquering checkpoints all around the world.
-A fun, exciting and easy-to-understand GameFi project to let people discover and learn about EOS, Web3 and NFTs.
+The Lost Diamond is a real-world P2E adventure race where the goal is to find The Lost Diamond by conquering checkpoints all around the world.
 
-Please watch this updated pitch: https://youtu.be/GUlSCTZtXZc   
-YouTube-channel: https://www.youtube.com/@thelostdiamondrace   
 This 90 second intro video will give a good overview: https://youtu.be/3BKr1uY6nZ8
 
-The EOS blockchain is maybe the first financial platform in the world - that is able to send money to anyone in the world in less than three seconds with no fees.
+The EOS Mainnet is the only technology platform available that has the requirements needed to make TheLostDiamond race work: 
+- Instant transactions to anyone in the world
+- No fees for the users 
+- The option to transfer EOS-tokens to Coinbase/Binance to let the users spend the money earned by using a crypto debit card.
+- The most user friendly tools (e.g. Anchor, Port, Bloks.io) 
 
-That message needs to be delivered! With entertaining use-cases that people outside the crypto space understand!
-
-The Lost Diamond is custom made to do exactly that. With a golden thread in every video:
-
-“_The EOS blockchain can send money to anyone in the world in less than three seconds.  And with a VISA-card from Coinbase, you can spend that money in your local store just a few minutes later_.”
-
-Our team has been involved in EOS since 2018 and we want to contribute to the ecosystem's growth and teach people outside the crypto space how blockchain technology can be used in a fun and educational way.
+Our team has been involved in EOS since 2018 and we want to contribute to the ecosystem's growth and teach non-tech people how blockchain technology can be used in a fun and educational way.
 
 
 ### Project Details
 
-Our team has an ambitious and long term commitment to make TheLostDiamond one of the most popular social platforms for outdoor activities, with millions of monthly active users.
+Our team has an ambitious long term commitment to make TheLostDiamond one of the most popular social platforms for outdoor activities, with millions of monthly active users.
 
-150 million people are hunting virtual monsters on PokémonGo. 150 million people subscribe to YouTuber MrBeast's entertaining challenges where money is given back to the show's participants. By utilizing the EOS, we can do this better. We have the opportunity and advantage to replace virtual monsters with real money. And publish entertaining challenges on YouTube where money can be sent to participants all over the world in less than three seconds.
+150 million people are hunting virtual monsters on PokémonGo. By utilizing EOS, we have the opportunity and advantage to replace virtual monsters with real money in a new real-world adventure game that is fun and exciting for everyone. This is a great way to teach non-tech people about the EOS-ecosystem and the possibilities in web3 applications.
 
 For people to adapt a new technology in mass, it needs to improve their lives by an order of magnitude. 
-It’s not an easy task to motivate non-tech people to create an EOS-account, download and learn how to use Anchor sign-in or create a Coinbase account. It’s a steep learning curve. TheLostDiamond solves this by having a $1,000 dollar lost diamond as incentive for participating. 
+It’s not an easy task to motivate non-tech people to create an EOS-account, download and learn how to use Anchor sign-in or create a Coinbase account. It’s a steep learning curve.
 
-The Lost Diamond is free to use for everyone. Everyone can conquer one checkpoint per day in the free tier.
-A premium paid tier is available, where participants pay a $7 dollar monthly fee to conquer unlimited checkpoints per day. 
+TheLostDiamond solves this by having a $1,000 dollar lost diamond as incentive for participating. Also, the concept of a treasure hunt is fun and easy to understand for everyone. 
 
-The Lost Diamond business model was updated in 2023. The old business model had only one source of income; users that pay a $7 dollar monthly subscription.
-The new business model has five income sources and a free tier to make The Lost Diamond easily available for everyone.
-- A free tier
-- Participants paying a $7 dollar monthly subscription
-- Sponsorships on YouTube-videos
-- YouTube Monetization
-- Racing fees from public events
-- Selling merch - like books/treasure maps/travel-guides to our fan-base.
-
-The smart contract returns 80% back to the Play2Earn model to fund the lost diamonds. A true Web3 application where everyone can create, own and monetize their content.
+We will take a $7 dollar monthly subscription fee to participate and the smartcontract returns 80-90% back to the Play2Earn model to fund the lost diamonds. A true Web3 application where everyone can create, own and monetize their content.
 
 We are aiming for 1 million users (0.65% market share from PokémonGo) within four years.
 
@@ -58,47 +43,71 @@ TheLostDiamond will be self-sustaining at 5,000 active users per month.
 
 Until we reach a self-sustaining level, we need to fund the $1,000 dollar lost diamonds from sponsors, grants, investors and/or entry fees from other single-event races. 
 
-The value of The Lost Diamond is now $1,000 dollars (funded by the ENF GF grant i Milestone 1). The Lost Diamond treasure hunt is online. If you sign in with Anchor - and if you find The Lost Diamond, you and the checkpoint creator will both get $1,000 dollars - instantly paid out to your EOS-account. And if you have a VISA-card from Coinbase, you can spend that money in your local store just minutes later.
+The current value of The Lost Diamond is $440 dollars. The Lost Diamond race is online, if you sign in with Anchor - and if you find The Lost Diamond, you and the checkpoint creator will both get $400 dollars - instantly paid out to your EOS-account.
 
-The goal for Milestone 1 was to prove that The Lost Diamond MVP could onboard participants that paid a $7 dollar monthly subscription fee and obtain a 22% monthly growth rate over two months. That was not possible to achieve on The Lost Diamond version 2022. A major reconstruction and several improvements were needed.
-Execution of deliverables in Milestone 1 was therefore postponed to February 2023 and was consider accomplished by our team April 30th.   
+Our first milestone is to prove that we can onboard participants, that pay a $7 dollar monthly subscription fee, to the MVP and obtain a 22% monthly growth rate over several months. Showing detailed traction is crucial for future funding from e.g. investors, sponsors, ENF and/or Pomelo. 
 
-As conclusion from Milestone 1: 
-- The Lost Diamond MVP is not a good user-experience. 50 unique people have started the step for sign-in-with-anchor, but aborted when it gets too complicated. The Lost Diamond needs to deliver a high-quality user experience to be successful.
-- We need more work and focus on creating YouTube-videos with great stories around the hunt for the lost diamond and how the EOS blockchain makes it possible to send money to anyone in the world in less than three seconds, to onboard users. 
+The first $1,000 dollar diamond will be announced in the beginning of May 2022 and will be self-funded.
 
-What is the definition of a user: A user that conquers, creates or gets rewarded when a NFT Checkpoint challenge is solved.
-What is the current user baseline: 17 users (https://cptblackbill.com/start Scoreboard April 2023).
+What is the definition of a participant: A participant that pay a $7 dollar monthly subscription fee to participate in TheLostDiamond adventure race.
 
-What is the definition of a follower: A YouTube subscriber on The Lost Diamond Adventure Race YouTube-channel.
-What is the current follower baseline: 58 YouTube-subscribers. (https://www.youtube.com/@thelostdiamondrace)
+What is the current baseline: 0 participants. We have not started marketing.   
 
-What is the Objective Key Result for The Lost Diamond project:
-- Objective: To build The Lost Diamond to be a successful YouTube-GameFi-show and the most exciting treasure hunt everyone will love. As a channel to promote the awesome capabilities the EOS blockchain has - to people that are outside the crypto space.
+What is the explicit target number of users given the baseline:
+First milestone is to get 100 non-tech users to participate.
 
-Key Results:
-- 22% monthly growth in YouTube subscribers.
-- 22% monthly growth in organic views.
-- 22% monthly active users growth in TheLostDiamond $7 dollar subscription fee.
-
-What is the explicit target number of followers, users and transactions given the baseline:
-- 1 million YouTube-subscribers
-- 50,000 mau are paying a $7 monthly subscription fee.
-- We are ranking in the top five on EOS Dapp-radar.
+Then our goal is a 22% monthly growth:
+- Month  1: 100 users + 22% growth = 122 active users per month
+- Month  2: 122 users + 22% growth = 148 active users per month
+- Month  3: 148 users + 22% growth = 181 active users per month
+- Month  4: 181 users + 22% growth = 221 active users per month
+- Month  5: 221 users + 22% growth = 270 active users per month
+- Month  6: 270 users + 22% growth = 329 active users per month
+- Month  7: 329 users + 22% growth = 402 active users per month
+- Month  8: 402 users + 22% growth = 490 active users per month
+- Month  9: 490 users + 22% growth = 598 active users per month
+- Month 10: 598 users + 22% growth = 730 active users per month
+- Month 11: 730 users + 22% growth = 891 active users per month
+- **Month 12: 891 users + 22% growth = 1,087 active users per month**
+- Month 13: 1,087 users + 22% growth = 1,326 active users per month
+- Month 14: 1,326 users + 22% growth = 1,618 active users per month
+- Month 15: 1,618 users + 22% growth = 1,974 active users per month
+- Month 16: 1,974 users + 22% growth = 2,408 active users per month
+- Month 17: 2,408 users + 22% growth = 2,938 active users per month
+- Month 18: 2,938 users + 22% growth = 3,584 active users per month
+- Month 19: 3,584 users + 22% growth = 4,373 active users per month
+- Month 20: 4,373 users + 22% growth = 5,335 active users per month
+- Month 21: 5,335 users + 22% growth = 6,509 active users per month
+- Month 22: 6,509 users + 22% growth = 7,941 active users per month
+- Month 23: 7,941 users + 22% growth = 9,688 active users per month
+- **Month 24: 9,688 users + 22% growth = 11,820 active users per month**
+- Month 25: 11,820 users + 22% growth = 14,421 active users per month
+- Month 26: 14,421 users + 22% growth = 17,593 active users per month
+- Month 27: 17,593 users + 22% growth = 21,464 active users per month
+- Month 28: 21,464 users + 22% growth = 26,186 active users per month
+- Month 29: 26,186 users + 22% growth = 31,947 active users per month
+- Month 30: 31,947 users + 22% growth = 38,975 active users per month
+- Month 31: 38,975 users + 22% growth = 47,550 active users per month
+- Month 32: 47,550 users + 22% growth = 58,011 active users per month
+- Month 33: 58,011 users + 22% growth = 70,774 active users per month
+- Month 34: 70,774 users + 22% growth = 86,344 active users per month
+- Month 35: 86,344 users + 22% growth = 105,340 active users per month
+- **Month 36: 105,340 users + 22% growth = 128,515 active users per month**
 
 ### Ecosystem Fit
 
 The main goal of TheLostDiamond project is ecosystem growth.
 
-The EOS blockchain is maybe the first financial platform in the world - that is able to send money to anyone in the world in less than three seconds with no fees.
+The EOS Mainnet has solved one of the biggest problems in the world - how to transfer money instantly to anyone in the world as easy as sending an email.
 
-That message needs to be delivered! With entertaining use-cases that people outside the crypto space understand.
+The EOS-community needs ambitious projects that can show that advantage to a larger audience.  
 
-The Lost Diamond is custom made to do exactly that. With a golden thread in every video
+The EOS Mainnet has 5 millions accounts. Important EOS-projects, e.g. the implementation of the EVM, are targeting the 20 million users in the Ethereum ecosystem. Our target audience is the 150 million users hunting virtual monsters on PockémonGo.
 
-“The EOS blockchain can send money to anyone in the world in less than three seconds. And with a VISA-card from Coinbase, you can spend that money in your local store just a few minutes later.”
+EOS has the opportunity and technology to replace virtual monsters with real money. And the EOS ecosystem needs projects that are targeting non-tech users in an order of magnitude from outside the smaller crypto community.
 
 We are not aware of other similar real-world P2E adventure game projects in the EOSIO or other related ecosystems. 
+
 
 ## Team
 
@@ -122,7 +131,7 @@ We are not aware of other similar real-world P2E adventure game projects in the 
 
 We are four creative outdoor enthusiasts from Norway with backgrounds in the travel industry, logistics, project management and programming.
 
-We have hosted several Lost Diamond events in Norway, utilizing the EOS-Mainnet, for more than 1,500 users to test and improve TheLostDiamond race.
+We have hosted several Lost Diamond events in Norway, utilizing the EOS-Mainnet, for more than 1,000 users to test and improve TheLostDiamond race.
 
 Our programmer (Bjørn Omsland) has twenty years experience as a full stack developer and four year experience as a smart contract developer on the EOS-blockchain. 
 
@@ -144,27 +153,28 @@ N/A
 
 ## Development Status
 
-We have a working MVP that has been used for testing the application in several single-event races in Norway and for testing The Lost Diamond global adventure race during the Milestone 1 period. 
+We have a working MVP that has been used for testing the application in several single-event races in Norway. https://cptblackbill.com/
 
-The smart contract is located on the EOS-Mainnet account cptblackbill. The code is available at https://github.com/bjornomsland/CaptainBlackBillSmartContract
+The smartcontract is located on the EOS-Mainnet account cptblackbill. The code is available at https://github.com/bjornomsland/CaptainBlackBillSmartContract
 
 The frontend is developed in NodeJs and hosted on Google Clouds. 
 
-We need (and are working to get funding for) The Lost Diamond app. To improve user experience.
+Different single-event races can have different unique domain names. E.g. our biggest single-event race is “Discover Oslo Adventure Race”. We will host our third Discover Oslo Adventure Race on June 11th. https://opplevoslo.app The feedback from our Discover Oslo participants has been exceptionally good. 98% say they will participate in the upcoming Discover Oslo race.
+
+Development, testing and feedback from all the single-event races is the foundation for our main goal - launching The Lost Diamond 24/7 Global Adventure Race. The Lost Diamond 24/7 Global Adventure Race is ready for Test Marketing, where the goal is to find out how many people will participate in a pure crypto-based adventure race and see if we can obtain a 22% monthly growth rate. 
+
 
 ## Development Roadmap
 
 **Marketing Roadmap**
 
-Continuously publish at least three YouTube-videos per week. Publish, test, learn and improve on every video.
-
-The market rollout strategy is divided into 24 monthly marketing campaigns. Each with a key result goal of 22% average growth rate.
+The first milestone (2 months duration) is to get a baseline of 100 non-tech people paying a $7 dollar monthly subscription fee to participate in The Lost Diamond adventure race. 
 
 ### Overview
 
-- **Total Estimated Duration:** 24 months
-- **Full-Time Equivalent (FTE):**  3 FTE
-- **Total Costs:** 1,060,000 USD 
+- **Total Estimated Duration:** 2 months (for the first milestone)
+- **Full-Time Equivalent (FTE):**  1 FTE
+- **Total Costs:** 10,000 USD (for the first milestone. The whole project will take two years and the estimated total need for funding is $500,000 USD)
 
 ### Milestone 1 — Prove that TheLostDiamond MVP can get a baseline of 100 participants and obtain a 22% monthly growth rate.
 
@@ -183,67 +193,45 @@ The market rollout strategy is divided into 24 monthly marketing campaigns. Each
 | 6. | Marketing Campaign No.2 | Diamond No.6 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. Objective: Get monthly active participants. Key result: 20 users pay $7 monthly subscription fee. |  
 | 7. | Marketing Campaign No.2 | Diamond No.7 $1,000 is added to The Lost Diamond. $500 dollar is used in marketing. Publish a YouTube-video about hunting the lost diamond. Objective: Get monthly active participants. Key result: We have a baseline of 100 users paying a $7 monthly subscription fee. |  
 
-### Milestone 2 - Continue to publish YouTube-videos and prove that TheLostDiamond MVP has a 22% monthly growth rate in YouTube subscribers, organic YouTube-views and monthly active users.
+### Milestone 2 - Get funding for the next ten $1,000 dollar diamonds
 
-- **Estimated Duration:** 4 months
-- **FTE:**  2
-- **Costs:** 50,000 USD
-- Marketing Campaigns 3-6
-- GoldenThread in every deliverable: "EOS can send money to anyone in the world in less than three seconds."  
+- **Estimated Duration:** TBA in the next grant application
+- **FTE:**  1
+- **Costs:** x USD
 
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 1. | The Lost Diamond No.8 | A YouTube-long video presenting the hunt for the $1,000 diamond No.8. Including 5 YouTube-shorts videos. $100 in Google-skippable in-stream ads. Objective: Get followers and users. Key Result: 22% growth |
-| 2. | The Lost Diamond No.9 | A YouTube-long video presenting the hunt for the $1,000 diamond No.9. Including 5 YouTube-shorts videos. $100 in Google-skippable in-stream ads. Objective: Get followers and users. Key Result: 22% growth |
-| 3. | The Lost Diamond No.10 | A YouTube-long video presenting the hunt for the $1,000 diamond No.10. Including 5 YouTube-shorts videos. $100 in Google-skippable in-stream ads. Objective: Get followers and users. Key Result: 22% growth|
-| 4. | The Lost Diamond No.11 | A YouTube-long video presenting the hunt for the $1,000 diamond No.11. Including 5 YouTube-shorts videos. $100 in Google-skippable in-stream ads. Objective: Get followers and users. Key Result: 22% growth |
-| 5. | The Lost Diamond No.12 | A YouTube-long video presenting the hunt for the $1,000 diamond No.12. Including 5 YouTube-shorts videos. $100 in Google-skippable in-stream ads. Objective: Get followers and users. Key Result: 22% growth
-| 6. | The Lost Diamond No.13 |A YouTube-long video presenting the hunt for the $1,000 diamond No.13. Including 5 YouTube-shorts videos. $100 in Google-skippable in-stream ads. Objective: Get followers and users. Key Result: 22% growth |  
-| 7. | The Lost Diamond No.14 | A YouTube-long video presenting the hunt for the $1,000 diamond No.14. Including 5 YouTube-shorts videos. $100 in Google-skippable in-stream ads. Objective: Get followers and users. Key Result: 22% growth |
-| 8. | The Lost Diamond No.15 | A YouTube-long video presenting the hunt for the $1,000 diamond No.15. Including 5 YouTube-shorts videos. $100 in Google-skippable in-stream ads. Objective: Get followers and users. Key Result: 22% growth | 
-| 9. | The Lost Diamond No.16 | A YouTube-long video presenting the hunt for the $1,000 diamond No.16. Including 5 YouTube-shorts videos. $100 in Google-skippable in-stream ads. Objective: Get followers and users. Key Result: 22% growth | 
+...
 
-### Milestone 3 - Build and launch The Lost Diamond app. Continue to publish YouTube-videos, maintain a 22% monthly growth rate. 
-
-- **Estimated Duration:** 6 months
-- **FTE:**  2
-- **Costs:** 500,000 USD (from the EOS Network Ventures)
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 1. | Execute the UX-process | The Lost Diamond MVP is the base. Objective: Create a high-quality user user experience. |
-| 2. | Execute the Visual design process | Create a great visual design for The Lost Diamond app |
-| 3. | App development process  | Find a company/developer team that can develop the lost diamond app. Can Greymass do the job? |
-| 4. | Test and launch The Lost Diamond App | The Lost Diamond app is launched on App Store and Google Play |
-| 5. | Marketing Campaigns 7-12 | The Lost Diamond No.17-31. 15 YouTube-long videos presenting the hunt for 15 $1,000 diamonds. Including 75 YouTube-shorts videos. $100 in Google-skippable in-stream-ad per video. Objective: Get followers and users. Key Result: 22% growth |
-
-### Milestone 4 - Finish the 24 month rollout-plan, maintain a 22% monthly growth rate. We have reached 1 million YouTube-subscribers, 10,000 monthly active users and we are ranking in the top five on EOS Dapp-radar. We have a self-sustainable web3 application.
-
-- **Estimated Duration:** 12 months
-- **FTE:**  3
-- **Costs:** 500,000 USD (from the EOS Network Ventures)
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 1. | Marketing Campaigns 13-24 | The Lost Diamond No.32-100. 70 YouTube-long videos presenting the hunt for 70 $1,000 diamonds. Including 350 YouTube-shorts videos. |
-| 2. | Extended Marketing | Create and publish great YouTube-videos with entertaining stories around the most exciting web3 treasure hunt and travel experiences everyone loves. |
 
 ## Future Plans
+
+The market rollout strategy is divided into 24 monthly marketing campaigns. Each with a key result goal of 22% average growth rate.
+
+The main capital of Norway is our starting point with a new $1,000 dollar diamond every week, acting as the main motivation for the users to join the game.
 
 With a 22% monthly average growth rate, the goal is to reach 10,000 monthly users within 24 months. And one million monthly users within four years.
 The first $10,000 dollar diamond will be added to the game when we reach 5,000 monthly users.
 
-To build The Lost Diamond to be a successful YouTube-GameFi-show and the most exciting treasure hunt everyone will love. As a channel to promote the awesome capabilities the EOS blockchain has - to people that are outside the crypto space.
+Building trust and success stories around The Lost Diamond brand, will be the most important success factor for onboarding users to a new technology.  
 
-The Lost Diamond Business Vision: To be a major social web3 platform for outdoor activities, challenges and exciting travel experiences in the world.
+We will host public diamond-events around big cities, invite social media influencers and use the traditional media to build trust around The Lost Diamond brand over a long period of time.
+
+Weekly tweets and YouTube videos will be published to promote The Lost Diamond and the eos-ecosystem. 
 
 ## Additional Information
 
 **How did you hear about the Grants Program?** EOS Fireside chat
 
-TheLostDiamond project was included in the first Helios incubator light program.
+After a long period of uncertainty for the eos ecosystem, we are very pleased to see all the positive activity happening in the EOS community. 
+
+TheLostDiamond project was included in the first Helios incubator light program. Resulting in a much better pitch deck for our project and a Helios Sunrise interview.
 - The Lost Diamond Pitch Deck: https://youtu.be/FZ_wQFm5ImA
 - Helios Sunrise Interview: https://youtu.be/KjZWk-wsgCM
 - Helios Pitch Deck with appendixes: https://t2d.no/documents/TheLostDiamond-PitchDeck-March2022.pdf
 
-We have been approved for the Pomelo Season 2, 3, 4 and 5. https://pomelo.io/grants/lostdiamond
+We have also been approved for the Pomelo Season 2. https://pomelo.io/grants/lostdiamond
+
+Our business model has two different versions depending on how our project will be funded: 
+- An investor versjon, where a 20% dividend of the revenue is paid out to the investor. 
+- A public good version, where all revenue is returned back to the users. 
+
+Our project has been self-funded since we launched the first version of the smartcontract on July 2018. 
