@@ -163,7 +163,7 @@ For each milestone,
 
 ### Milestone 1(a) — Developer login
 
-- **Estimated duration:** 2 weeks
+- **Estimated duration:** 2.5 weeks
 - **FTE:**  2
 - **Costs:** 10,000 USD
 
