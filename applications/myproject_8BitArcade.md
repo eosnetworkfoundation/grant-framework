@@ -161,13 +161,29 @@ For each milestone,
 | 5. | API interface to our app | We will create/develop an API that works with EVM protocal and can enable transactions on chain |  
 
 
+### Milestone 1(a) — Developer login
 
+- **Estimated duration:** 2 weeks
+- **FTE:**  2
+- **Costs:** 10,000 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) purchase tokens on the EOS network, it will also show them how to make use of the governance system and future utilities. |
+| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. The contract code will be run through a testnet. |
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 1. | Intergration | We will create an intergration into our Discord server + private channel for our indie developers |  
+| 2. | Front-End / User Interface | We will create a UI with login and privilidges for our indie developers |  
+| 3. | Add. Front-End |  Create a portal for indie developers to upload there own updates to games |
+| 5. | Add. Front-End | Add ability for indie developers to upload new version of mobile App updates for their games |  
+| 6. | Add. Front-End | Add form to platform & discord for indie developers to submit application request for listings | 
 
 ### Milestone 2 — Additional features
 
 - **Estimated Duration:** 4 month
 - **FTE:**  3
-- **Costs:** 80,000 USD
+- **Costs:** 70,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
