@@ -5,7 +5,7 @@
 - **EOS Payment Address:** eosswedenswe
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Pomelo Grant(s):** https://pomelo.io/grants/fullhistory
-- **Project is Open-Source:** No
+- **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** -
 
