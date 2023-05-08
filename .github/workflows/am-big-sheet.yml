@@ -1,0 +1,78 @@
+name: Reusable Gsheet Update
+on:
+  workflow_call:
+    inputs:
+      project_name:
+        required: true
+        type: string
+      contact_name:
+        required: true
+        type: string
+      team_name:
+        required: true
+        type: string
+      app_email:
+        required: true
+        type: string
+      total_cost:
+        required: true
+        type: string
+      legal_entity:
+        required: true
+        type: string
+      legal_addr:
+        required: true
+        type: string
+      level:
+        required: true
+        type: string
+      eos_addr:
+        required: true
+        type: string
+      github_actor:
+        required: true
+        type: string
+      pr_no:
+        required: true
+        type: string
+      website:
+        required: true
+        type: string
+      open_source:
+        required: true
+        type: string
+      token_sale:
+        required: true
+        type: string
+      basename:
+        required: true
+        type: string
+
+    secrets:
+      gsheet_private_key:
+        required: true
+  
+jobs:
+  appendrow:
+    runs-on: ubuntu-latest
+    steps:
+      - id: 'update_worksheet'
+        uses: jroehl/gsheet.action@v1.2.0
+        with:
+          spreadsheetId: 128L-4NQpOT0f2MLRcd5NiNAMsxS_Y1XGqFRXnyxtfLk
+          commands: |
+            [
+              { "command": "appendData", "args": { "data": [["${{ inputs.pr_no }}", "${{ inputs.project_name }}", 
+                "${{ inputs.team_name }}", 
+                "${{ inputs.open_source }}", "${{ inputs.token_sale }}", 
+                "${{ inputs.level }}", "${{ inputs.total_cost }}", 
+                "${{ inputs.eos_addr }}",
+                "${{ inputs.github_actor }}", 
+                "${{ inputs.website }}", "${{ inputs.basename }}",
+                "${{ inputs.contact_name }}", "${{ inputs.app_email }}", 
+                "${{ inputs.legal_entity }}", "${{ inputs.legal_addr }}"
+                ]], "worksheetTitle": "GrantInfo", "minCol": 1 }}
+            ]
+        env:
+          GSHEET_CLIENT_EMAIL: enf-grant-service-account@sonorous-haven-350712.iam.gserviceaccount.com
+          GSHEET_PRIVATE_KEY: ${{ secrets.gsheet_private_key }}
