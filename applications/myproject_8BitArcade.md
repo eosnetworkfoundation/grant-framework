@@ -150,10 +150,9 @@ For each milestone,
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
 | 0a. | License | MIT |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) purchase tokens on the EOS network, it will also show them how to make use of the governance system and future utilities. |
-| 0c. | Testing Guide | Platform will be open to view, and test with two games in arcade. |
+| 0b. | Documentation | We will provide both **inline documentation** of the code. |
+| 0c. | Testing Guide | Platform will be open to view, and test with two games in the arcade. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | 
 | 1. | Intergration | We will create an intergration into our Discord, Telegram and Twitter accounts from our server |  
 | 2. | Front-End / User Interface | We will create a platform UI that reflect brand with two main pages setup (Homepage & Arcade) + wireframe for rest of the site. |  
 | 3. | Add. Front-End |  2x Games will be available to test and be open to play |
