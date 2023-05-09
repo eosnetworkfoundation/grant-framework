@@ -155,7 +155,7 @@ For each milestone,
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
 | 0e. | 
 | 1. | Intergration | We will create an intergration into our Discord, Telegram and Twitter accounts from our server |  
-| 2. | Front-End / User Interface | We will create a platform UI that reflect brand with two main pages setup (Homepage & Arcade) |  
+| 2. | Front-End / User Interface | We will create a platform UI that reflect brand with two main pages setup (Homepage & Arcade) + wireframe for rest of the site. |  
 | 3. | Add. Front-End |  2x Games will be available to test and be open to play |
 | 5. | Add. Front-End | All wireframe and code for platfrom will be made available in Github | 
 
