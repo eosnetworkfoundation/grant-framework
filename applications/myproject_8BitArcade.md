@@ -141,11 +141,11 @@ For each milestone,
 - **Full-Time Equivalent (FTE):** 6 FTE
 - **Total Costs:** 200,000 USD
 
-### Milestone 1 — Implement EOS Application
+### Milestone 1 — Building (early v.) of Platform
 
-- **Estimated duration:** 2 month
+- **Estimated duration:** 2.5 month
 - **FTE:**  2
-- **Costs:** 22,000 USD
+- **Costs:** 33,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
@@ -183,7 +183,7 @@ For each milestone,
 
 - **Estimated duration:** 2.5 weeks
 - **FTE:**  2
-- **Costs:** 10,000 USD
+- **Costs:** 12,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
@@ -201,7 +201,7 @@ For each milestone,
 
 - **Estimated Duration:** 3 month
 - **FTE:**  2
-- **Costs:** 48,000 USD
+- **Costs:** 55,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
@@ -224,7 +224,7 @@ For each milestone,
 
 - **Estimated Duration:** 6 month
 - **FTE:**  3
-- **Costs:** 110,000 USD
+- **Costs:** 90,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
