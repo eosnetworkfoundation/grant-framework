@@ -2,7 +2,7 @@
 # Alysha Mims copy of Ted Cahall 12Nov2022
 #
 
-name: Scrape Application to Gsheet
+name: AM Scrape Application to Gsheet
 
 on:
   workflow_dispatch:
