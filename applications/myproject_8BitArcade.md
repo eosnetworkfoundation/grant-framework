@@ -76,12 +76,12 @@
   - Finnish govt and sokopro which is a project bank.
  - Jhed:  is proficient at producing high-quality content that meets brand objectives. He is well-versed in analysis, organizing, planning, digital multimedia editing, omnichannel marketing, and client relationship management. He has great experience in social media marketing and worked on the folowing projects: 
     - Founded and created the branding strategy of fb.com/QuarterClubPH, an initiative aimed to foster financial inclusivity for all Filipinos
-    - Financial advisor for SunLife a leading financial services organization, Jhed has been responsible for policy reviews, conprehensive strategy, repairing and interpreting financial document summaries, investment performance reports, and income projections for clients. Jhed has been awarded the Gold Medallion Award, one of the highest measures for the top-performing advisors nationwide whilst working for SunLife.
+    - Financial advisor for SunLife a leading financial services organization, Jhed has been responsible for policy reviews, comprehensive strategy, repairing and interpreting financial document summaries, investment performance reports, and income projections for clients. Jhed has been awarded the Gold Medallion Award, one of the highest measures for the top-performing advisors nationwide whilst working for SunLife.
  -  Lishanth: has a background in cybersecurity.
-    - He has worked on the developement and design of mobile game prototypes for several publishers 
+    - He has worked on the development and design of mobile game prototypes for several publishers 
 such as TapNation, Voodoo and more. 
     - He has more recently been working on website design for Saanmuufilms a photography outfit.
- - Russell: is an entrepreneur and go getter! He has a BSc degree in Design & Innovation and has experience in running his own bunisses in the construction industry. His skill set lies in project management, people management, problem solving, creativity, resourcefulness and innovation.
+ - Russell: is an entrepreneur and go getter! He has a BSc degree in Design & Innovation and has experience in running his own business in the construction industry. His skill set lies in project management, people management, problem solving, creativity, resourcefulness and innovation.
 
 ### Team Org Repos
 
@@ -137,7 +137,7 @@ For each milestone,
 
 ### Milestone Summary
 
-- **Total Estimated Duration:** 6 months 
+- **Total Estimated Duration:** 6 months
 - **Full-Time Equivalent (FTE):** 6 FTE
 - **Total Costs:** 200,000 USD
 
@@ -152,11 +152,12 @@ For each milestone,
 | 0a. | License | MIT |
 | 0b. | Documentation | We will provide both **inline documentation** of the code. |
 | 0c. | Testing Guide | Platform will be open to view, and test with two games in the arcade. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 1. | Intergration | We will create an intergration into our Discord, Telegram and Twitter accounts from our server |  
+| 0d. | Docker        | We will provide a Dockerfile that can be used to test back-end the functionality delivered with this milestone. Front-end is built on webflow |
+| 1. | Integration    | We will create an integration into our Discord, Telegram and Twitter accounts from our server |  
 | 2. | Front-End / User Interface | We will create a platform UI that reflect brand with two main pages setup (Homepage & Arcade) + wireframe for rest of the site. |  
 | 3. | Add. Front-End |  2x Games will be available to test and be open to play |
-| 5. | Add. Front-End | All wireframe and code for platfrom will be made available in Github | 
+| 5. | Add. Front-End | All wireframe and code for platfrom will be made available in GitHub |
+| 6. | Add. Back-End / tests | GCP platform for storing games and Cloud Functions in python to run our back-end serverless |
 
 
 ### Milestone 1(a) — Implement EOS Application
@@ -172,11 +173,11 @@ For each milestone,
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. The contract code will be run through a testnet. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
 | 0e. | Article | We will publish an **article**/workshop that explains [NBBL]. (Content, language and medium should reflect your target audience described above.)
-| 1. | Intergration | We will create an intergration into our Discord server for governance functionalities |  
+| 1. | Integration | We will create an integration into our Discord server for governance functionalities |  
 | 2. | Front-End / User Interface | We will create a UI that connects to holders wallets (metamask, Trustwallet, Trezor, etc...) |  
-| 3. | Add. Front-End |  Holders will be permitted to mint NFTs for special access |
-| 4. | Add. Front-End |  Creation of an off-chain token that can interact with standard paymnent methods and also blockchain wallets. |
-| 5. | API interface to our app | We will create/develop an API that works with EVM protocal and can enable transactions on chain |  
+| 3. | Add. Front-End / Back-end |  Holders will be permitted to mint NFTs for special access |
+| 4. | Add. Front-End / Back-end |  Creation of an off-chain token that can interact with standard payment methods and also blockchain wallets. |
+| 5. | API interface to our app | We will create/develop an API that works with EVM protocol and can enable transactions on chain |  
 
 ### Milestone 1(b) — Developer login
 
@@ -190,11 +191,11 @@ For each milestone,
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) purchase tokens on the EOS network, it will also show them how to make use of the governance system and future utilities. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. The contract code will be run through a testnet. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 1. | Intergration | We will create an intergration into our Discord server + private channel for our indie developers |  
-| 2. | Front-End / User Interface | We will create a UI with login and privilidges for our indie developers |  
-| 3. | Add. Front-End |  Create a portal for indie developers to upload there own updates to games |
-| 5. | Add. Front-End | Add ability for indie developers to upload new version of mobile App updates for their games |  
-| 6. | Add. Front-End | Add form to platform & discord for indie developers to submit application request for listings | 
+| 1. | Integration | We will create an integration into our Discord server + private channel for our indie developers |  
+| 2. | Front-End / User Interface | We will create a UI with login and privileges for our indie developers |  
+| 3. | Add. Front-End / Custom code |  Create a portal for indie developers to upload there own updates to games |
+| 5. | Add. Front-End / Back-end / GCP | Add ability for indie developers to upload new version of mobile App updates for their games |  
+| 6. | Add. Front-End / Back-end | Add form to platform & discord for indie developers to submit application request for listings |
 
 ### Milestone 2 — Additional features
 
@@ -205,17 +206,17 @@ For each milestone,
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
 | 0a. | License | Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a users can intergrate into our platform, how to intergrate with EOS (evm) for their GameFi economics. |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a users can integrate into our platform, how to integrate with EOS (evm) for their GameFi economics. |
 | 0c. | Testing Guide | Core functions will be run through at test, In the guide, we will describe how to run these tests. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
 | 0e. | Article | We will publish an **article**/workshop that explains to [Game Developers] how to on-board onto our platform. |
 | 1. | Working Library | We will create performance enhancements to  (Please list the functionality that will be implemented for the first milestone) |  
 | 2. | STORE | We will add a store section to our platform e-commerce functionality |  
-| 3. | Evervault | We will add Evervault third party intergration for customer (traditional) sign-up and card payment system | 
+| 3. | Evervault | We will add Evervault third party integration for customer (traditional) sign-up and card payment system | 
 | 4. | Finalizing platform | Majority of pages for the platform to be completed and functioning by Sep.23 |
 | 5. | Mobile App | Deliver Free to Play mobile App v1.0 for download on Apple App store and Google Playstore by Sep.23 |
 | 5b. | Mobile App | Subscription v1.0 of App to be made available for testing and downloadable direct from our platform by Sept23. |
-| 6. | Discord | We will have intergrated a LIVE functioning feedback loop between platform (portal) and the Discord App, for game feedback purposes |
+| 6. | Discord | We will have integrated a LIVE functioning feedback loop between platform (portal) and the Discord App, for game feedback purposes |
 | 7. | Uploading | A new portal (within the platform) will be LIVE for developers to upload their offerings for review, this will be a semi-automated function |
 
 
@@ -231,27 +232,27 @@ For each milestone,
 | 0b. | Documentation | We will provide both **inline documentation** of our progress in signing agreements with third parties, licensing arrangements and marketing strategy as well as any legal related developments. |
 | 0c. | Testing Guide | Milestone 3 is, research oriented, and as such there is no code to test |
 | 0d. | Announcements | Licensing deals and partnerships will be announced through our social channels. |
-| 1. | Games Library | We will negotiate terms with gaming brands for licensing of ceratin titles to host on our platform ($20k) |  
+| 1. | Games Library | We will negotiate terms with gaming brands for licensing of certain titles to host on our platform ($20k) |  
 | 2. | Reddit | We will run a specific campaign targeting gaming developers in the web2 space to be on-boarded onto out platform ($3k per month)|  
 | 3. | Social Media | We will do marketing through social media influencers, gaming streamers and the likes to attract gamers to our platform and mobile App ($13.5k) |  
-| 4. | Content | Our mascot will be used to create video content for our brand to be published on YouTube and TikTok + Twitch ($1.5k per month) | 
-| 5. | Branding | Application will be made to have 8Bit Arcade logo, mascot and certain IP registered with the appropriated authorities ($5k) | 
-| 6. | Legal | We will seek legal advice on jurisdictions, gaming legislation around the globe, privacy policy setup and other necessary requirements for us to function as a global brand in the gaming sector | 
+| 4. | Content | Our mascot will be used to create video content for our brand to be published on YouTube and TikTok + Twitch ($1.5k per month) |
+| 5. | Branding | Application will be made to have 8Bit Arcade logo, mascot and certain IP registered with the appropriated authorities ($5k) |
+| 6. | Legal | We will seek legal advice on jurisdictions, gaming legislation around the globe, privacy policy setup and other necessary requirements for us to function as a global brand in the gaming sector |
 | 7. | Promotion | Seek to attend some gaming conferences to bolster our brand within the industry. |
 
 ## Future Plans
 
 - How you intend to use, enhance, promote and support your project in the short term?
-  - Our PoC is nearing completion with frst couple of games due to be uploaded shortly, then after, we will concentrate on attracting more indie games to our platform on a FREE basis. We will be advertising in Reddit for game developers wanting to join our community and list their offerings; all of this will occure during the Beta testing of our platform. Simultaneously we will be negotiating licensing deals with gaming labels for certain titles to be hosted on our platform.
+  - Our PoC is nearing completion with first couple of games due to be uploaded shortly, then after, we will concentrate on attracting more indie games to our platform on a FREE basis. We will be advertising in Reddit for game developers wanting to join our community and list their offerings; all of this will occure during the Beta testing of our platform. Simultaneously we will be negotiating licensing deals with gaming labels for certain titles to be hosted on our platform.
   - Towards July-August time we will have started to on-board subscription membership through our platform as a result of a targeted advertising campaign and collaborations with relevant gaming guilds.
   - Come September time we will aim to Go LIVE with the platform and subscription for our paid for service.
   - The core team will be attending gaming events in the web2 and web3 space to highlight our offering and promote our platform to an ever growing community of independent game developers.
-  - Our founder regularly participated in Twitter spaces over the subject of gaming to voice our prescence and network within the sector.vWe will also be attending some trade shows towards the end of the yesr.
-  - The founder is also currently seeking private funding to help with capital and ensure we have the necessary funds to bootstrap our roadmap moving forward over the next few years.
+  - Our founder regularly participated in Twitter spaces over the subject of gaming to voice our presence and network within the sector.vWe will also be attending some trade shows towards the end of the year.
+  - The founder is also currently seeking private funding to help with capital and ensure we have the necessary funds to bootstrap our road map moving forward over the next few years.
 - The team's long-term plans and intentions in relation to the project?
   - To be the go to destination for indie game developers in the web2 and web3 space.
   - By the end of year one we would want to be able to host competitions and gaming meets with prize pools in collaboration with other platforms and gaming guilds.
-  - In years 2-3 we would like to be in a position to establishing multiple prescences in key metaverse projects with an ARCADE and interoperable avatars, this would be an extention to our web-based platform and the next evolution of the project.
+  - In years 2-3 we would like to be in a position to establishing multiple presences in key metaverse projects with an ARCADE and interoperable avatars, this would be an extension to our web-based platform and the next evolution of the project.
   - In year 4-5 we would like to be ready to franchise our brand and create the first 8Bit Arcade gaming HUB. Then branch our into key metropolitan cities around the globe.
 
 
@@ -259,7 +260,7 @@ For each milestone,
 
 **How did you hear about the Grants Program?** Personal recommendation by Mell Pearce, Co Organizer @ EOS London. 
 
-- FURTHER INFO ON OUR FAILED LAUNCHES: Although our governance token did launch eventualy, it was not succesful! We had a failed launch with PinkSale in February and then we only just got our token listed on a DEX and just scrapped in with a few dollars to spare at just over $1k when our unofficial soft cap was at $25k. Here is the link to failed pinksale listing: https://www.pinksale.finance/launchpad/0x4F869E5d49783290Cb799b31DA907B317df2adb6?chain=ETH since the governance token has not generated any capital for us we are looking at Grants, Loans and private investments as a means to finance our development going forward. I feel this is important to clarify as it seems to be relevant to our case and your pre-requisits for successful grants.
+- FURTHER INFO ON OUR FAILED LAUNCHES: Although our governance token did launch eventually, it was not successful! We had a failed launch with PinkSale in February and then we only just got our token listed on a DEX and just scrapped in with a few dollars to spare at just over $1k when our unofficial soft cap was at $25k. Here is the link to failed pinksale listing: https://www.pinksale.finance/launchpad/0x4F869E5d49783290Cb799b31DA907B317df2adb6?chain=ETH since the governance token has not generated any capital for us we are looking at Grants, Loans and private investments as a means to finance our development going forward. I feel this is important to clarify as it seems to be relevant to our case and your pre-requisites for successful grants.
 - Here is a link to the KYC certificate for Russell Bryant - Founder & CEO of 8Bit Arcade LLC https://identi.tech/kyc-for-crypto/8bit-arcade/
 - Current partnerships with: https://www.telos.net/; https://metaverse-standards.org/; https://apeswap.finance/; https://www.swapsicle.io/; https://www.dapp-playstore.com/; https://spy-daproductions.com/
 - Copy of our Pitch Deck: https://github.com/Russell-Bryant/8Bit-Arcade
