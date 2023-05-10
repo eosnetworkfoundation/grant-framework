@@ -176,7 +176,7 @@ For each milestone,
 | 1. | Integration | We will create an integration into our Discord server for governance functionalities |  
 | 2. | Front-End / User Interface | We will create a UI that connects to holders wallets (metamask, Trustwallet, Trezor, etc...) |  
 | 3. | Add. Front-End / Back-end |  Holders will be permitted to mint NFTs for special access |
-| 4. | Add. Front-End / Back-end |  Creation of an off-chain token that can interact with standard payment methods and also blockchain wallets. |
+| 4. | Add. Front-End / Back-end |  Creation of a (*off-chain*) token that can interact with standard payment methods and also blockchain wallets. |
 | 5. | API interface to our app | We will create/develop an API that works with EVM protocol and can enable transactions on chain |  
 
 ### Milestone 1(b) — Developer login
