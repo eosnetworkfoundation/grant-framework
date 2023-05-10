@@ -13,7 +13,7 @@
 
 - **Contact Name:** Rysard Gvozdovic
 - **Contact Email:** hi@qlone.ai
-- **Website:** https://qlone.ao 
+- **Website:** https://qlone.ai 
 
 
 ## Project Overview
@@ -119,11 +119,8 @@ N/A
 
 ## Development Status
 
-- https://docsend.com/view/imej4x72rp4iuphf links to improvement proposals or RFPs (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+- Available and upcoming features - https://docsend.com/view/sc6kcaxq64hmqw9v
+- 3D clones & Short demo video - https://drive.google.com/drive/folders/16YrSG1vqhvrdie7q6VgsLT9_55SQpAtd?usp=share_link
 
 ## Development Roadmap
 
