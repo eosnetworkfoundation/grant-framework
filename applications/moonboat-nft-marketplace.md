@@ -1,13 +1,13 @@
 # EOS Network Foundation Grant Proposal
 
--   **Project Name:** Moonboat NFT Marketplace
--   **Team Name:** Moonboat Team
--   **EOS Payment Address:** moonboatfund
--   **Level:** 2
--   **Pomelo Grant(s):** https://pomelo.io/grants/totoro
--   **Project is Open-Source:** Yes
--   **Project was part of Token sale:** No
--   **Repository where Project resides:** https://github.com/moonboatnft/
+- **Project Name:** Moonboat NFT Marketplace
+- **Team Name:** Moonboat Team
+- **EOS Payment Address:** moonboatfund
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
+- **Pomelo Grant(s):** https://pomelo.io/grants/totoro
+- **Project is Open-Source:** Yes
+- **Project was part of Token sale:** No
+- **Repository where Project resides:** https://github.com/moonboatnft/
 
 ## Contact
 
@@ -239,9 +239,9 @@ A: 目前来看AtomicHub主要是服务于WAX，在EOS上并没有太大的交�
 
 **法律结构**
 
--   **注册法律实体：** N/A 
--   **注册地址：** N/A
--   **备注：** 我们已信息发送到grants@eosnetwork.com
+- **注册法律实体：** N/A 
+- **注册地址：** N/A
+- **备注：** 我们已信息发送到grants@eosnetwork.com
 
 ### 团队经验
 
