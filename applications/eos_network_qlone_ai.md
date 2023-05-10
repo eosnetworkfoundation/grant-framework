@@ -92,11 +92,8 @@ Within the scope of the blockchain and AI industries, Qlone does not face any di
 
 ### Legal Structure
 
-- **Registered Legal Entity:** Qlone AI
-- **Registered Address:** 
-Studio Meta Ltd
-2098889
-Craigmuir Chambers, Road Town, Tortola, VG 1110, British Virgin Islands
+- **Registered Legal Entity:** Studio Meta Ltd
+- **Registered Address:** Craigmuir Chambers, Road Town, Tortola, VG 1110, British Virgin Islands
 
 ### Team Experience
 
