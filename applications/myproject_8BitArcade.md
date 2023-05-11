@@ -36,21 +36,21 @@
 - API specifications of the core functionality
   - Can be provided at a later date
 - An overview of the technology stack to be used
-  - Figma, Webflow, Google cloud/AWS, 
+  - Figma, Webflow, Google cloud/AWS, Evervault (encryption of customer data)
 - Documentation of core components, protocols, architecture, etc. to be deployed
   - nodejs, noSQL, PostgreSQL
 - PoC/MVP or other relevant prior work or research on the topic
   - All PoC and prior work can be seen further down this application or by viewing our PoC web page by going to: https://8bit-arcade-gaming-platfo-4553c3084c07f.webflow.io/
-  - We have run some market research of our own on our Discord server and Twitter account also.
+  - We have run market research of our own on our Discord server and Twitter account also. These poles include questions on: Gaming interface, Demographics, NFTs
 - What your project is _not_ or will _not_ provide or implement
   - We are not, a for hire, gaming design studio for indie game developers; we are a point of contact, for them, to showcase their IP and also a source for providing external services that may be required through our network of contacts. Within our Arcade there will be a space for games to be tested by our community, for this however there will be a minimum criteria that submissions will need to meet in order to be uploaded onto our server; so as such we will only be incubating project in their Beta phases or who can demonstrate a LITE version of their game in Beta phase.
 
 ### Ecosystem Fit
 
 - Where and how does your project fit into the ecosystem?
-  - 8Bit Arcade will be the entry point for independent game developers wanting to enter the web3 space, we will onboard them and assist them where required with technical support, crowdfunding, in-game testing from our community and marketing through our social media outlets powered by our novel gaming highlight reel.
+  - 8Bit Arcade will be the entry point for independent game developers wanting to enter the web2/3 space, we will onboard them and assist them where required with technical support, crowdfunding, in-game testing from our community and marketing through our social media outlets powered by our novel gaming highlight reel.
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-  - Our audience will made up of two demographics: independent game developers and studios + an audience of gamers on the web and mobile devices.
+  - Our audience, will made up of two demographics: independent game developers and studios + an audience of gamers on web and mobile devices.
 - What need(s) does your project meet?
   - 8Bit Arcade is fullfiling a gap in the market for incubating independent games in their design & testing phases especially on mobile devices because this is where the majority of the market is heading and we can assist these start-ups in substancialy reducing their upfront costs in App development and market feedback whilst also supporting them with marketing.
 - Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
