@@ -3,7 +3,7 @@
 - **Project Name:** 8Bit Arcade 
 - **Team Name:** 8Bit Arcade LLC 
 - **EOS Payment Address:** 
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** [Company/Large]
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** [Company/Large - 3]
 - **Pomelo Grant(s):** N/A
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** Yes
