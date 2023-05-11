@@ -32,18 +32,18 @@
 - Mock-ups/designs of any UI components
   - Please visit our website to view Early platform development and info on mobile App. https://8bit-arcade.com/  To enter the PoC pages click on the BLUE button on the holding page.
 - Data models of the core functionality
-  -Can be provided at a later date
+  - Can be provided at a later date
 - API specifications of the core functionality
-  -Can be provided at a later date
+  - Can be provided at a later date
 - An overview of the technology stack to be used
-  -Figma, Webflow, Google cloud/AWS, 
+  - Figma, Webflow, Google cloud/AWS, 
 - Documentation of core components, protocols, architecture, etc. to be deployed
-  -nodejs, noSQL, PostgreSQL
+  - nodejs, noSQL, PostgreSQL
 - PoC/MVP or other relevant prior work or research on the topic
-  -All PoC and prior work can be seen further down this application or by viewing our PoC web page by going to: https://8bit-arcade-gaming-platfo-4553c3084c07f.webflow.io/
-  -We have run some market research of our own on our Discord server and Twitter account also.
+  - All PoC and prior work can be seen further down this application or by viewing our PoC web page by going to: https://8bit-arcade-gaming-platfo-4553c3084c07f.webflow.io/
+  - We have run some market research of our own on our Discord server and Twitter account also.
 - What your project is _not_ or will _not_ provide or implement
-  -We are not, a for hire, gaming design studio for indie game developers; we are a point of contact, for them, to showcase their IP and also a source for providing external services that may be required through our network of contacts. Within our Arcade there will be a space for games to be tested by our community, for this however there will be a minimum criteria that submissions will need to meet in order to be uploaded onto our server; so as such we will only be incubating project in their Beta phases or who can demonstrate a LITE version of their game in Beta phase.
+  - We are not, a for hire, gaming design studio for indie game developers; we are a point of contact, for them, to showcase their IP and also a source for providing external services that may be required through our network of contacts. Within our Arcade there will be a space for games to be tested by our community, for this however there will be a minimum criteria that submissions will need to meet in order to be uploaded onto our server; so as such we will only be incubating project in their Beta phases or who can demonstrate a LITE version of their game in Beta phase.
 
 ### Ecosystem Fit
 
