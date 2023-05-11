@@ -240,7 +240,7 @@ For each milestone,
 | 3. | Social Media | We will do marketing through social media influencers, gaming streamers and the likes to attract gamers to our platform and mobile App ($13.5k) |  
 | 4. | Content | Our mascot will be used to create video content for our brand to be published on YouTube and TikTok + Twitch ($1.5k per month) |
 | 5. | Branding | Application will be made to have 8Bit Arcade logo, mascot and certain IP registered with the appropriated authorities ($5k) |
-| 6. | Legal | We will seek legal advice on jurisdictions, gaming legislation around the globe, privacy policy setup and other necessary requirements for us to function as a global brand in the gaming sector |
+| 6. | Legal | We will seek legal advice on jurisdictions, gaming legislation around the globe, privacy policy setup, various contract drafting and other necessary requirements for us to function as a global brand in the gaming sector |
 | 7. | Promotion | Seek to attend some gaming conferences to bolster our brand within the industry. |
 
 ## Future Plans
