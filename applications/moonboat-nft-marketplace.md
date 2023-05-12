@@ -69,9 +69,8 @@ And in EVM, we will be the first marketplace. We will work with the EVM team to 
 
 ### Legal Structure
 
-- **Registered Legal Entity:** N/A
-- **Registered Address:** N/A 
-- **Note::** We have sent the information to grants@eosnetwork.com
+- **Registered Legal Entity:** MOONBOAT LIMITED
+- **Registered Address:** RM 10 FL 8, ST JAMES HOUSE PENDLETON WAY, SALFORD, MANCHESTER, UK
 
 ### Team Experience
 
@@ -239,9 +238,8 @@ A: 目前来看AtomicHub主要是服务于WAX，在EOS上并没有太大的交�
 
 **法律结构**
 
-- **注册法律实体：** N/A 
-- **注册地址：** N/A
-- **备注：** 我们已信息发送到grants@eosnetwork.com
+- **注册法律实体：** MOONBOAT LIMITED
+- **注册地址：** RM 10 FL 8, ST JAMES HOUSE PENDLETON WAY, SALFORD, MANCHESTER, UK
 
 ### 团队经验
 
