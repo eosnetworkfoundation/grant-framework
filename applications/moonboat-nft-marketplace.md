@@ -12,7 +12,7 @@
 ## Contact
 
 - **Contact Name:** Hongshu
-- **Contact Email:** mailto:team@moonboat.io
+- **Contact Email:** team@moonboat.io
 - **Website:** https://moonboat.io
 
 ## Project Overview
