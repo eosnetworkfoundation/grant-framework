@@ -100,72 +100,56 @@ We have a fully functional decentralized NFT marketplace working on EOS, address
 
 ### Milestone Summary
 
-- **Total Estimated Duration:**6 weeks
+- **Total Estimated Duration:** 6 weeks
 - **Full-Time Equivalent (FTE):** 6 FTE
 - **Total Costs:** 49,000 USD
 
 ### Milestone 1 — Minimum Viable Product Development
 
 - **Estimated Duration:** 6 weeks
+- **Estimated launch time:** Early June 2023
 - **FTE:** 6
 - **Costs:** 49,000 USD
 
 | # | Deliverables | Details |
 | --- | --- | --- |
-| 0a. | License | MIT license |
-| 0b. | Documentation | Provide and update documentation for this milestone, in the form of a guide and example in the repository, guidance on how to run the tests in the README file, and provide a more in-depth introduction in our articles. |
-| 0c. | Testing Guidelines | The functionality for this milestone can be tested by running the unit tests we provide, and guidance on how to run these tests is provided in the README file. |
-| 1. | Core Contract Development: 10,000 USD | We will develop smart contracts based on the Seaport protocol and modify them to fit our needs. |
-| 2. | Contract Audit: 14,000 USD | We will conduct a security audit of the core code, and if any issues are found, we will make modifications and conduct a re-audit. |
+| 1. | Core Contract Development| We will develop smart contracts based on the Seaport protocol and modify them to fit our needs. |
+| 2. | Contract Audit | We will give the core code to a security company for a security audit, and if any issues are found, we will make modifications and conduct a re-audit. |
 | 3. | Contract Deployment | We will deploy contracts on both the EVM testnet and mainnet. |
-| 4. | UI Design: 2,000 USD | The designer will complete the frontend UI design work based on the requirements document. |
-| 5. | Logging Middleware: 3,000 USD | We will use Gloang to develop a logging middleware that will receive EVM logs and store them in a queue, which will be processed by a consumer for data processing. |
-| 6. | Data Search System: 3,000 USD | We will analyze the data and store it in Elasticsearch in a classified manner for the system to perform various dimensional searches conveniently. |
-| 7. | Market Management System: 3,000 USD | Develop a backend system for managing NFT-related collections and artworks to meet operational requirements. |
-| 8. | API Interface: 3,000 USD | Connect the frontend and backend by developing corresponding data interfaces. |
-| 9. | Frontend Development: 5,000 USD | Develop the frontend interface based on UI design, improve functions, and connect with wallets. |
-| 10. | Servers: 6,000 USD | Four high-performance frontend and backend servers, and MySQL, Redis, Elasticsearch. |
+| 4. | UI Design | The designer will complete the frontend UI design work based on the requirements document. |
+| 5. | Logging Middleware | We will use Gloang to develop a logging middleware that will receive EVM logs and store them in a queue, which will be processed by a consumer for data processing. |
+| 6. | Data Search System | We will analyze the data and store it in Elasticsearch in a classified manner for the system to perform various dimensional searches conveniently. |
+| 7. | Market Management System | Develop a backend system for managing NFT-related collections and artworks to meet operational requirements. |
+| 8. | API Interface | Connect the frontend and backend by developing corresponding data interfaces. |
+| 9. | Frontend Interface Development | Develop the frontend interface based on UI design, improve functions, and connect with wallets. |
+| 10. | Server Deployment and launch | Deploy all services online and go live on time |
+| 11. | User Goals | To reach more than 1000 users in the early stage of the launch through operational activities |
+| 12. | NFT Quantity Goals | To reach more than 10,000 NFTs by holding events and inviting project parties to join | 13.
+| 13. | Dayly trading volume Goals | To reach the maximum daily trading volume of 10,000 EOS through campaign operation and marketing  
 
-### Milestone 2 - Function Upgrade
+## More information
 
-- **Estimated Duration:** 12 weeks
-- **FTE:** 12
-- **Costs:** 100,000 USD (not included in this grant)
+###  Future development plans
 
-| No. | Deliverables | Details |
-| --- | --- | --- |
-| 1. | More Blockchain Networks | In addition to EOS and EVM networks, more blockchain networks can be supported, such as BSC and Polygon. This can expand the user base of the platform. |
-| 2. | More Types of Digital Assets | Currently, the platform only supports NFTs, but other types of digital assets can be considered, such as FT (fungible token) and other types of digital securities. |
-| 3. | Enhancement of Social Functions | In addition to trading and auction functions, social functions can be added, such as personal pages, community forums, and social sharing. This can increase user stickiness and the social effect of the platform. |
-| 4. | Better User Experience | The platform's UI/UX can be optimized, with more features added such as search, filter, and sort functions, making it easier for users to find the digital assets they want. |
-| 5. | Market Data Analysis and Reports | By collecting and analyzing transaction data, more market analysis and reports can be provided to users, such as NFT market trends, most popular digital assets, and average prices. This can help users make wiser investment decisions. |
+- More Blockchain Networks: In addition to EOS and EVM networks, more blockchain networks can be supported, such as BSC and Polygon. This can expand the user base of the platform. 
+- More Types of Digital Assets: Currently, the platform only supports NFTs, but other types of digital assets can be considered, such as FT (fungible token) and other types of digital securities. 
+- Enhancement of Social Functions: In addition to trading and auction functions, social functions can be added, such as personal pages, community forums, and social sharing. This can increase user stickiness and the social effect of the platform. 
+- Better User Experience: The platform's UI/UX can be optimized, with more features added such as search, filter, and sort functions, making it easier for users to find the digital assets they want. 
+- Market Data Analysis and Reports: By collecting and analyzing transaction data, more market analysis and reports can be provided to users, such as NFT market trends, most popular digital assets, and average prices. This can help users make wiser investment decisions. 
 
-### Milestone 3 - Platform Operation Numbers
+### Future operating plans
 
-- **Estimated Duration:** 24 weeks
-- **FTE:** 24
-- **Costs:** 60,000 USD (not included in this grant)
-
-| No. | Deliverables | Details |
-| --- | --- | --- |
-| 1. | Increase in User Base | Monthly new users reach 1,000. |
-| 2. | Cumulative Transaction Volume | Reaching 10,000 NFTs. |
-| 3. | Monthly Active Users | Exceeding 5,000 users. |
-| 4. | Popular Albums | Establishing partnerships with important artists, creators, and brands. |
-
-## Market Operations
-
-*   Community building: Building an active community is crucial, which can be achieved by constantly promoting the market, interacting and communicating with users, and organizing a series of events. The platform can interact with users through social media, Telegram, WeChat, and other social channels, allowing users to share and promote their NFT works, interact and communicate with other users, which can help increase user stickiness and retention rate.
+-   Community building: Building an active community is crucial, which can be achieved by constantly promoting the market, interacting and communicating with users, and organizing a series of events. The platform can interact with users through social media, Telegram, WeChat, and other social channels, allowing users to share and promote their NFT works, interact and communicate with other users, which can help increase user stickiness and retention rate.
     
-*   Promotional activities: The platform can regularly hold promotional activities, such as raffles, competitions, NFT art exhibitions, and thematic lectures, to attract more users to join and use the platform. These activities can be organized in collaboration with the platform's partners, artists, NFT enthusiasts, and other relevant parties, thus increasing the platform's visibility and attractiveness.
+-  Promotional activities: The platform can regularly hold promotional activities, such as raffles, competitions, NFT art exhibitions, and thematic lectures, to attract more users to join and use the platform. These activities can be organized in collaboration with the platform's partners, artists, NFT enthusiasts, and other relevant parties, thus increasing the platform's visibility and attractiveness.
     
-*   Continuous technological upgrades: Technological upgrades and updates can help the platform maintain competitiveness and attractiveness. Moonboat platform can consider introducing new technologies, features, and services to meet the constantly changing market and user demands.
+-   Continuous technological upgrades: Technological upgrades and updates can help the platform maintain competitiveness and attractiveness. Moonboat platform can consider introducing new technologies, features, and services to meet the constantly changing market and user demands.
     
-*   Security and guarantee: In blockchain transactions, security and guarantee are very important factors. Moonboat platform should take a series of security measures, such as strengthening user identity verification, multi-signature, smart contract auditing, and risk control, to ensure the safety of user assets and platform security stability.
+-   Security and guarantee: In blockchain transactions, security and guarantee are very important factors. Moonboat platform should take a series of security measures, such as strengthening user identity verification, multi-signature, smart contract auditing, and risk control, to ensure the safety of user assets and platform security stability.
     
-*   Expanding partnerships: Moonboat platform can consider cooperating with other NFT platforms, digital currency exchanges, and relevant organizations to expand the platform's influence and user base. The platform can provide users with more choices and transaction channels, thus attracting more users and transaction volume.
+-   Expanding partnerships: Moonboat platform can consider cooperating with other NFT platforms, digital currency exchanges, and relevant organizations to expand the platform's influence and user base. The platform can provide users with more choices and transaction channels, thus attracting more users and transaction volume.
     
-*   Data analysis and marketing strategies: The platform can understand user needs and market trends through data analysis and market research, in order to formulate more targeted marketing strategies and business plans. The platform can use various marketing methods, such as SEO optimization, social media marketing, advertising, and content marketing, to improve brand awareness and user conversion rate.
+-   Data analysis and marketing strategies: The platform can understand user needs and market trends through data analysis and market research, in order to formulate more targeted marketing strategies and business plans. The platform can use various marketing methods, such as SEO optimization, social media marketing, advertising, and content marketing, to improve brand awareness and user conversion rate.
 
 # Chinese Translation 中文翻译
 
@@ -276,63 +260,42 @@ EVM版本我们已经完成了初始架构，目前正在开发中。
 ### 里程碑1 — 最简化可实行产品开发
 
 - **预估周期:** 6 周
+- **预估上线时间:** 2023年6月初
 - **FTE:**  6
 - **花费:** 49,000 USD
 
 | 序号 | 可交付成果 | 明细 |
 | -----: | ----------- | ------------- |
-| 0a. | 许可 | MIT license |
-| 0b. | 文档 | 为这一里程碑提供并更新文件，其形式为指导文件和仓库中的示例，在自述文件中提供指导，并在我们的文章中提供更深入的介绍。 |
-| 0c. | 测试指导 | 这个里程碑的功能可以通过运行我们提供的单元测试来测试，在自述文件中提供了如何运行这些测试的指导。 |
-| 1. | 核心合约开发: 10,000 USD| 我们将在Seaport协议的基础上开发智能合约，并修改以适配我们的需求。  |  
-| 2. | 合约审计: 14,000 USD| 我们将对核心代码进行安全审计，如果存在问题将进行修改并重新审计。 |  
+| 1. | 核心合约开发 | 我们将在Seaport协议的基础上开发智能合约，并修改以适配我们的需求。  |  
+| 2. | 合约审计 | 将核心代码交给安全公司进行安全审计，如果存在问题将进行修改并重新审计。 |  
 | 3. | 部署合约 | 我们将在EVM测试网以及主网上分别部署合约。 |  
-| 4. | UI设计: 2,000 USD	| 设计师根据需求文件完成前端UI设计工作。 | 
-| 5. | 日志中间件: 3,000 USD | 我们将使用Gloang开发一个日志中间件来接收EVM日志，并将日志存储在一个队列中，业务服务将通过消费者处理数据。 |  
-| 6. | 数据搜索系统: 3,000 USD | 我们将数据进行后台分析并归类存储到elasticsearch中，方便系统进行各种维度的检索。 |  
-| 7. | 市场管理系统: 3,000 USD | 开发一个后台系统，用于管理与NFT相关的收藏品、艺术品，并满足运营要求。 |  
-| 8. | API接口: 3,000 USD | 对接前端，开发相应的数据接口，以连接前端和后端。 |  
-| 9. | 前端开发: 5,000 USD | 通过UI设计来开发前台界面，完善功能，并对接钱包。 |  
-| 10. | 服务器: 6,000 USD | 4台高性能前端后端服务器，以及Mysql，Redis，ElasticSearch。 |
+| 4. | UI设计	| 设计师根据需求文件完成前端UI设计工作。 | 
+| 5. | 日志中间件 | 我们将使用Gloang开发一个日志中间件来接收EVM日志，并将日志存储在一个队列中，业务服务将通过消费者处理数据。 |  
+| 6. | 数据搜索系统 | 我们将数据进行后台分析并归类存储到elasticsearch中，方便系统进行各种维度的检索。 |  
+| 7. | 市场管理系统 | 开发一个后台系统，用于管理与NFT相关的收藏品、艺术品，并满足运营要求。 |  
+| 8. | API接口 | 对接前端，开发相应的数据接口，以连接前端和后端。 |  
+| 9. | 前端界面开发 | 通过UI设计来开发前台界面，完善功能，并对接钱包。 |  
+| 10. | 服务器部署和上线 | 将所有服务部署到线上并准时上线 |
+| 11. | 用户目标 | 通过运营活动在上线初期达到1000以上用户使用 |
+| 12. | NFT数量目标 | 举办活动邀请项目方入驻等方式让NFT数量能够达到10,000枚以上 |
+| 13. | 日交易量目标 | 通过活动运营和市场推广达到最高日交易10,000 EOS |
 
-### 里程碑2 — 功能升级
+## 更多信息
 
-- **预估周期:** 12 周
-- **FTE:**  12
-- **花费:** 100,000 USD (不在此次grant内)
+### 未来的开发规划
 
-| 序号 | 可交付成果 | 明细 |
-| -----: | ----------- | ------------- |
-| 1. | 更多区块链网络 | 除了EOS和EVM网络之外，可以考虑支持更多的区块链网络，例如BSC、Polygon等。这样可以扩大平台的用户群体。 |  
-| 2. | 更多的数字资产类型 | 目前平台仅支持NFT，但是可以考虑增加其他类型的数字资产，例如FT（fungible token）和其他类型的数字证券。 |  
-| 3. | 社交功能的增强 | 除了交易和拍卖功能之外，可以增加社交功能，例如个人主页、社区论坛、社交分享等。这可以提高用户粘性和平台的社交效应。 |  
-| 4. | 更好的用户体验 | 可以优化平台的UI/UX，增加更多的功能，例如搜索、筛选、排序等，使用户可以更方便地找到他们想要的数字资产。 |  
-| 5. | 市场数据分析和报告 | 过收集和分析交易数据，可以为用户提供更多的市场分析和报告，例如NFT市场趋势、最受欢迎的数字资产、平均价格等。这可以帮助用户做出更明智的投资决策。 |  
-
-### 里程碑3 — 平台运营数
-
-- **预估周期:** 24 周
-- **FTE:**  24
-- **花费:** 60,000 USD (不在此次grant内)
-
-| 序号 | 可交付成果 | 明细 |
-| -----: | ----------- | ------------- |
-| 1. | 用户新增量 | 月新增量达到1,000人。 |  
-| 2. | 累计交易量 | 达到10,000枚NFT。 |  
-| 3. | 月活跃用户数 | 突破5,000人。 |  
-| 4. | 热门专辑 | 与重要艺术家、创作者和品牌建立合作关系。 | 
+- 开发更多区块链网络：除了EOS和EVM网络之外，可以考虑支持更多的区块链网络，例如BSC、Polygon等。这样可以扩大平台的用户群体。 
+- 支持更多的数字资产类型：目前平台仅支持NFT，但是可以考虑增加其他类型的数字资产，例如FT（fungible token）和其他类型的数字证券。 
+- 社交功能的增强： 除了交易和拍卖功能之外，可以增加社交功能，例如个人主页、社区论坛、社交分享等。这可以提高用户粘性和平台的社交效应。 
+- 更好的用户体验： 可以优化平台的UI/UX，增加更多的功能，例如搜索、筛选、排序等，使用户可以更方便地找到他们想要的数字资产。 
+- 市场数据分析和报告：过收集和分析交易数据，可以为用户提供更多的市场分析和报告，例如NFT市场趋势、最受欢迎的数字资产、平均价格等。这可以帮助用户做出更明智的投资决策。 
 
 
-## 市场运营
+### 市场运营的规划
 
 - 社区建设：建立一个活跃的社区是至关重要的，这可以通过不断地进行市场推广、与用户进行互动和交流以及举办一系列活动来实现。平台可以通过社交媒体、电报、微信和其他社交渠道来与用户互动，让用户分享和推广自己的NFT作品，与其他用户互动和交流，这可以帮助平台增加用户粘性和留存率。
-
 - 推广活动：平台可以定期举办推广活动，例如抽奖、比赛、NFT艺术品展览和专题讲座等，以吸引更多的用户加入并使用平台。这些活动可以与平台的合作伙伴、艺术家、NFT爱好者和其他相关方合作举办，从而增加平台的知名度和吸引力。
-
 - 持续的技术升级：平台的技术升级和更新可以帮助平台保持竞争力和吸引力。Moonboat平台可以考虑引入新的技术、功能和服务，以满足不断变化的市场需求和用户需求。
-
 - 安全和保障：在区块链交易中，安全和保障是非常重要的因素。Moonboat平台应该采取一系列的安全措施，如加强用户身份验证、多重签名、智能合约审计和风险控制等，以保障用户的资产安全和平台的安全稳定。
-
 - 拓展合作伙伴：Moonboat平台可以考虑与其他NFT平台、数字货币交易所和相关机构进行合作，以拓展平台的影响力和用户基础。平台可以为用户提供更多的选择和交易渠道，从而吸引更多的用户和交易量。
-
 - 数据分析和营销策略：平台可以通过数据分析和市场调查来了解用户需求和市场趋势，以制定更有针对性的营销策略和业务方案。平台可以采用各种营销手段，如SEO优化、社交媒体营销、广告投放和内容营销等，以提高品牌知名度和用户转化率。
