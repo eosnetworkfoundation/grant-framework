@@ -25,7 +25,7 @@ jobs:
         if: ${{ endsWith(github.event.inputs.string, '.md') }}
         run: |
           echo "filename ends with .md"
-      - name: testno:
+      - name: testno
         if: ${{ !endsWith(github.event.inputs.string, '.md') }}
         run: |
           echo "filename does not end with .md"
