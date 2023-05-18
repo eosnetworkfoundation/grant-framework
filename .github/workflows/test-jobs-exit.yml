@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: echofile
     steps:
-      - name: tets-has-md
+      - name: test-has-md
         if: ${{ endsWith(github.event.inputs.filename, '.md') }}
         run: |
           echo "filename ${{github.event.inputs.filename}} ends with .md"
