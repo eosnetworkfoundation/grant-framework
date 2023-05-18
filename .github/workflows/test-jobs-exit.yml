@@ -29,6 +29,15 @@ jobs:
         if: ${{ !endsWith(github.event.inputs.string, '.md') }}
         run: |
           echo "filename does not end with .md"
+          echo "This job has aborted"
+          exit 1
+          
+  nextjobstep:
+    runs-on: ubuntu-latest
+    steps:
+      - name: finaljob
+        run: |
+          echo "job completed successfully"
           
       
           
