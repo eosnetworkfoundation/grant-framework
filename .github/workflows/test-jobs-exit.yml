@@ -29,9 +29,9 @@ jobs:
       - name: testno
         if: ${{ !endsWith(github.event.inputs.filename, '.md') }}
         uses: actions/github-script@v3
-          with:
-            script: |
-              core.setFailed('filename ${{github.event.inputs.filename}} does not end with .md')
+        with:
+          script: |
+            core.setFailed('filename ${{github.event.inputs.filename}} does not end with .md')
           
   nextjobstep:
     runs-on: ubuntu-latest
