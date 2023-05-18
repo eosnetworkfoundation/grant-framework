@@ -37,7 +37,7 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            core.setFailed('filename ${{github.event.inputs.filename}} cannot contain spaces.  Exiting.')
+            core.setFailed('filename \'${{github.event.inputs.filename}}\' cannot contain spaces.  Exiting.')
           
   nextjobstep:
     runs-on: ubuntu-latest
