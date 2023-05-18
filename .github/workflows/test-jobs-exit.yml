@@ -16,7 +16,7 @@ jobs:
 
       - name: echofilename
         run: | 
-          echo "string is ${{ github.event.inputs.filename }}"
+          echo "The filename is ${{ github.event.inputs.filename }}"
           
   testfile:
     runs-on: ubuntu-latest
