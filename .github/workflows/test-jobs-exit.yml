@@ -1,3 +1,10 @@
+# This is a test job to test various filenames for two known error conditions:
+# 1) missing the ".md" file extension
+# 2) embedded spaced in the filename
+# The job will exit and print an error message to the Annotations (Console) so others can diagnose.
+#
+# Ted Cahall 18May2023
+#
 name: Test Jobs Exit plus file test
 
 on:
@@ -10,10 +17,8 @@ on:
 jobs:
   echofile:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
-
       - name: echofilename
         run: | 
           echo "The filename is ${{ github.event.inputs.filename }}"
