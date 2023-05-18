@@ -1,0 +1,34 @@
+name: Test Jobs Exit plus file test
+
+on:
+  workflow_dispatch:
+    inputs:
+      string:
+        type: string
+        description: Enter a sample filename with or without extension
+
+jobs:
+  echofile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: greet
+        run: | 
+          echo "string is ${{ github.event.inputs.string }}"
+          
+  testfile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: testyes
+        if: ${{ endsWith(github.event.inputs.string, '.md') }}
+        run: |
+          echo "filename ends with .md"
+      - name: testno:
+        if: ${{ !endsWith(github.event.inputs.string, '.md') }}
+        run: |
+          echo "filename does not end with .md"
+          
+      
+          
