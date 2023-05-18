@@ -28,10 +28,10 @@ jobs:
           echo "filename ${{github.event.inputs.filename}} ends with .md"
       - name: testno
         if: ${{ !endsWith(github.event.inputs.filename, '.md') }}
-        run: |
-          echo "::error filename ${{github.event.inputs.filename}} does not end with .md"
-          echo "This job has aborted"
-          exit 1
+        uses: actions/github-script@v3
+          with:
+            script: |
+              core.setFailed('filename ${{github.event.inputs.filename}} does not end with .md')
           
   nextjobstep:
     runs-on: ubuntu-latest
