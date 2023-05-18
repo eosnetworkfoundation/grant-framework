@@ -26,12 +26,18 @@ jobs:
         if: ${{ endsWith(github.event.inputs.filename, '.md') }}
         run: |
           echo "filename ${{github.event.inputs.filename}} ends with .md"
-      - name: testno
+      - name: testmissingmd
         if: ${{ !endsWith(github.event.inputs.filename, '.md') }}
         uses: actions/github-script@v6
         with:
           script: |
             core.setFailed('filename ${{github.event.inputs.filename}} does not end with .md')
+      - name: testspaces
+        if: ${{ contains(github.event.inputs.filename, ' ') }}
+        uses: actions/github-script@v6
+        with:
+          script: |
+            core.setFailed('filename ${{github.event.inputs.filename}} cannot contain spaces.  Exiting.')
           
   nextjobstep:
     runs-on: ubuntu-latest
