@@ -5,7 +5,7 @@
 #
 # Ted Cahall 18May2023
 #
-name: Test Jobs Exit plus file test
+name: Test Reusable Check Filename
 
 on:
   workflow_dispatch:
