@@ -31,6 +31,7 @@ jobs:
   
   job-complete:
     runs-on: ubuntu-latest
+    needs: testfile
     steps:
       - name: echofilename
         run: | 
