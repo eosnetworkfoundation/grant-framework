@@ -30,11 +30,11 @@ jobs:
         with:
           filter: 'applications/*.md'
 
-#  testfile:
-#    needs: get_filename
-#    uses: ./.github/workflows/ru-check-filename.yml
-#    with:
-#      filename: "${{ needs.get_filename.outputs.filename }}"
+  testfile:
+    uses: ./.github/workflows/ru-check-filename.yml
+    with:
+      filename: "${{ needs.get_filename.outputs.filename }}"
+    needs: get_filename
 
   call-parser:
     uses: ./.github/workflows/ru-big-parser.yml
