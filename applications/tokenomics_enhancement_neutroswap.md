@@ -30,8 +30,15 @@ Neutroswap is an automated market-maker (AMM) on the EOS EVM blockchain that is 
 
 We have successfully launched $NEUTRO token alongside our Neutroswap V1:
 
-1. The first DApp that reached $1,500,000 in TVL
-2. The first EOS EVM token listed on best platform [Crypto.com](https://crypto.com/price/neutroswap), [Coingecko](https://www.coingecko.com/en/coins/neutroswap), CoinMarketCap, [Debank](https://debank.com/protocols/eos_neutroswap/assets), [GeckoTerminal](https://www.geckoterminal.com/eos-evm/pools/0xb3fb2548287bcadd5a045270b3182c1fc6318684), [DappRadar](https://dappradar.com/dapp/neutroswap), [Ave.ai](https://ave.ai/token/0xf4bd487a8190211e62925435963d996b59a860c0-eos?from=Default)
+1. The first DApp that reached $1,500,000 in TVL in EOS EVM
+2. The first EOS EVM token listed on best platforms:
+- [Debank](https://debank.com/protocols/eos_neutroswap/assets)
+- [Crypto.com](https://crypto.com/price/neutroswap)
+- [Coingecko](https://www.coingecko.com/en/coins/neutroswap)
+- [CoinMarketCap](https://coinmarketcap.com/dexscan/networks/eos-evm/)
+- [GeckoTerminal](https://www.geckoterminal.com/eos-evm/pools/0xb3fb2548287bcadd5a045270b3182c1fc6318684)
+- [DappRadar](https://dappradar.com/dapp/neutroswap)
+- [Ave.ai](https://ave.ai/token/0xf4bd487a8190211e62925435963d996b59a860c0-eos?from=Default) 
 3. The first working app on EOS EVM and has active users.
 4. Bring more than 7500+ transactions on average per day since launch.
 5. Bring $150,000+ volume daily accross Neutroswap pool.
@@ -75,7 +82,7 @@ We applied a few mechanism that will increase the buying pressure of $NEUTRO wit
 ### Ecosystem Fit
 
 - Where and how does your project fit into the ecosystem?
-
+Currently, EOS EVM needs more TVL to achieve organic exposure and attract new users. That's why we're thrilled to have already seen significant growth since our launch. But we're not stopping there. Our team is committed to further strengthening EOS EVM by providing even more value through our upcoming V2 version. With V2, we're confident that we can continue to drive growth and make EOS EVM an even more vibrant and successful ecosystem
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
   Farmers, DeFi users, crypto users in general, traders
@@ -106,7 +113,7 @@ We applied a few mechanism that will increase the buying pressure of $NEUTRO wit
 
 ### Legal Structure
 
-- **Registered Legal Entity:** PT Nava Labs
+- **Registered Legal Entity:** Nava Labs Inc.
 - **Registered Address:** Foresta Fiore B3 No 10 BSD, Tangerang Selatan, Indonesia
 
 ### Team Experience
@@ -224,13 +231,21 @@ Upon implementing all the aforementioned updates, we anticipate a notable surge 
 As we look to the future of Neutroswap and EOS EVM, we believe that a grant to bring liquidity to the platform is essential. We've been proud to build Neutroswap without raising any investment from VC firms, and we're hopeful that ENF will see the value in our work and provide the support we need to continue to grow and innovate on EOS EVM.
 
 We have done our best to trigger the initial wave of EOS EVM by becoming:
-
-1. The first DApp that reached $1,000,000 in TVL
-2. The first EOS EVM token listed on Coingecko
+1. The first DApp that reached $1,500,000 in TVL in EOS EVM
+2. The first EOS EVM token listed on best platforms:
+- [Debank](https://debank.com/protocols/eos_neutroswap/assets)
+- [Crypto.com](https://crypto.com/price/neutroswap)
+- [Coingecko](https://www.coingecko.com/en/coins/neutroswap)
+- [CoinMarketCap](https://coinmarketcap.com/dexscan/networks/eos-evm/)
+- [GeckoTerminal](https://www.geckoterminal.com/eos-evm/pools/0xb3fb2548287bcadd5a045270b3182c1fc6318684)
+- [DappRadar](https://dappradar.com/dapp/neutroswap)
+- [Ave.ai](https://ave.ai/token/0xf4bd487a8190211e62925435963d996b59a860c0-eos?from=Default) 
 3. The first working app on EOS EVM and has active users.
-4. Bring more than 2000+ transactions on average per day since launch
-5. Bring $150,000+ volume daily accross Neutroswap V2 DEX
-6. The first project that triggers influencers to look at EOS EVM
+4. Bring more than 7500+ transactions on average per day since launch.
+5. Bring $150,000+ volume daily accross Neutroswap pool.
+6. The first project that triggers influencers to look at EOS EVM.
+7. $NEUTRO all-time price $0.41
+8. [Burned 98% of max supply](https://twitter.com/Neutroswap/status/1653759171664429056?s=20) (980,000,000 $NEUTRO)
 
 By supporting Neutroswap as a catalyst project, ENF can help to attract the attention of other EVM developers and encourage them to build on EOS EVM. This can lead to an influx of proposals seeking grants, which would be a welcome problem for ENF to have. However, the most important thing is to generate traction, volume, TVL, and attract more users, especially builders, to the EOS EVM ecosystem. With ENF's support, we can continue to lead the charge and set the standard for innovation and growth in EOS EVM.
 
@@ -239,7 +254,7 @@ Thank you for considering our proposal
 Links:
 
 - Website: https://neutroswap.io/
-- Audit: https://github.com/solidproof/projects/tree/main/NeutroSwap
+- V1 Audit: https://github.com/solidproof/projects/tree/main/NeutroSwap
 - Docs: https://docs.neutroswap.io/
 - DefiLlama: https://defillama.com/protocol/neutroswap
 - Debank: https://debank.com/protocols/eos_neutroswap/assets
