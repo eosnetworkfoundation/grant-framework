@@ -10,7 +10,7 @@
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/web3devs/<legacyledger>
-
+-
 
 ## Contact
 
