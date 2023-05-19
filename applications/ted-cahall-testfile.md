@@ -1,6 +1,6 @@
 # EOS Network Foundation Grant Proposal
 
-- **Project Name:** Ted Cahall New Mail Test 30
+- **Project Name:** Ted Cahall New Mail Test 31
 - **Team Name:** Cahall Labs, Inc.
 - **EOS Payment Address:** tedcahall.gm
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
