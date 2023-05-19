@@ -198,20 +198,20 @@ We have completed the [technical documentation](https://docs.neutroswap.io/neutr
 | 5.  | Testnet Deployment   | Deploy the new contract, subgraphs, and web to the EOSEVM Testnet environment                                                                                                                            |
 | 6.  | Medium Post          | All contract addresses and public subgraph links will be available on both Discord and Medium account                                                                                                    |
 
-### Milestone 3 - Neutroswap V3 Mainnet Deployment
+### Milestone 3 - Neutroswap Updates Mainnet Deployment
 
 - **Estimated duration:** 2 weeks
 - **FTE:** 2
 - **Costs:** 30,000 USD
 
-| ID  | Deliverable               | Specification                                                                     |
-| --- | ------------------------- | --------------------------------------------------------------------------------- |
-| 0a. | License                   | Apache 2.0                                                                        |
-| 0b. | Testnet Integration Test  | Do integration testing on testnet before migrating the whole stack to the mainnet |
-| 1.  | Smart Contract Deployment | Deploy smart contract to the EOS-EVM mainnet                                      |
-| 2.  | Graph Node Deployment     | Publish a private graph-node instance for the EOS-EVM mainnet environment         |
-| 3.  | Subgraph Deployment       | Publish public subgraphs for Neutroswap V3 and start indexing EOS-EVM mainnet     |
-| 4.  | V3 UI Deployment          | Deploy the new UI to Production                                                   |
+| ID  | Deliverable               | Specification                                                                      |
+| --- | ------------------------- | ---------------------------------------------------------------------------------- |
+| 0a. | License                   | Apache 2.0                                                                         |
+| 0b. | Testnet Integration Test  | Do integration testing on testnet before migrating the whole stack to the mainnet  |
+| 1.  | Smart Contract Deployment | Deploy smart contract to the EOS-EVM mainnet                                       |
+| 2.  | Graph Node Deployment     | Publish a private graph-node instance for the EOS-EVM mainnet environment          |
+| 3.  | Subgraph Deployment       | Publish public subgraphs for Neutroswap updates and start indexing EOS-EVM mainnet |
+| 4.  | New UI Deployment         | Deploy the new UI to Production                                                    |
 
 ## Future Plans
 
