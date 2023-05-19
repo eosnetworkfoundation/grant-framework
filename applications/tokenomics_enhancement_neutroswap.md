@@ -114,7 +114,7 @@ Currently, EOS EVM needs more TVL to achieve organic exposure and attract new us
 ### Legal Structure
 
 - **Registered Legal Entity:** Nava Labs Inc.
-- **Registered Address:** Foresta Fiore B3 No 10 BSD, Tangerang Selatan, Indonesia
+- **Registered Address:** 8 The Green STE R Dover, DE 19901 Delaware
 
 ### Team Experience
 
