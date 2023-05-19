@@ -28,13 +28,13 @@ Neutroswap is an automated market-maker (AMM) on the EOS EVM blockchain that is 
 
 ### Project Details
 
-We have successfully launched $NEUTRO token alongside our Neutroswap V2:
+We have successfully launched $NEUTRO token alongside our Neutroswap V1:
 
-1. The first DApp that reached $1,000,000 in TVL
-2. The first EOS EVM token listed on Coingecko
+1. The first DApp that reached $1,500,000 in TVL
+2. The first EOS EVM token listed on best platform [Crypto.com](https://crypto.com/price/neutroswap), [Coingecko](https://www.coingecko.com/en/coins/neutroswap), CoinMarketCap, [Debank](https://debank.com/protocols/eos_neutroswap/assets), [GeckoTerminal](https://www.geckoterminal.com/eos-evm/pools/0xb3fb2548287bcadd5a045270b3182c1fc6318684), [DappRadar](https://dappradar.com/dapp/neutroswap), [Ave.ai](https://ave.ai/token/0xf4bd487a8190211e62925435963d996b59a860c0-eos?from=Default)
 3. The first working app on EOS EVM and has active users.
-4. Bring more than 2000+ transactions on average per day since launch.
-5. Bring $150,000+ volume daily accross Neutroswap V2 pool.
+4. Bring more than 7500+ transactions on average per day since launch.
+5. Bring $150,000+ volume daily accross Neutroswap pool.
 6. The first project that triggers influencers to look at EOS EVM.
 7. $NEUTRO all-time price $0.41
 8. [Burned 98% of max supply](https://twitter.com/Neutroswap/status/1653759171664429056?s=20) (980,000,000 $NEUTRO)
@@ -239,9 +239,11 @@ Thank you for considering our proposal
 Links:
 
 - Website: https://neutroswap.io/
-- V2 Audit: https://github.com/solidproof/projects/tree/main/NeutroSwap
+- Audit: https://github.com/solidproof/projects/tree/main/NeutroSwap
 - Docs: https://docs.neutroswap.io/
 - DefiLlama: https://defillama.com/protocol/neutroswap
+- Debank: https://debank.com/protocols/eos_neutroswap/assets
+- Crypto.com: https://crypto.com/price/neutroswap
 - CoinGecko: https://www.coingecko.com/en/coins/neutroswap
 - CoinMarketCap: https://coinmarketcap.com/dexscan/eos%20evm/0xb3fb2548287bcadd5a045270b3182c1fc6318684/
 - Linktree: https://linktr.ee/Neutroswap
