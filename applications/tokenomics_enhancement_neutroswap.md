@@ -46,9 +46,11 @@ We have successfully launched $NEUTRO token alongside our Neutroswap V1:
 7. $NEUTRO all-time price $0.41
 8. [Burned 98% of max supply](https://twitter.com/Neutroswap/status/1653759171664429056?s=20) (980,000,000 $NEUTRO)
 
+### New tokenomics
+
 We are shifting our focus to enhance the utility and value of the $NEUTRO token. Previously, it was primarily utilized for incentivizing users through Neutro Farms and Vaults. Our plan now includes introducing $xNEUTRO, a locked version of the token similar to $veCRV by Curve Finance. Additionally, we will implement various updates such as Plugins, a new distribution mechanism for protocol revenue, a deflationary mechanism, and spNFTs.
 
-[**xNEUTRO**](https://docs.neutroswap.io/neutroswap-v2-coming-soon/xneutro-token)
+#### [**1. xNEUTRO**](https://docs.neutroswap.io/neutroswap-v2-coming-soon/xneutro-token)
 
 $xNEUTRO will be non-transferable and act as our governance token. $xNEUTRO main utility is the ability for it to be allocated by users to our various [plugins](https://docs.neutroswap.io/neutroswap-v2-coming-soon/plugins) such as:
 
@@ -56,11 +58,11 @@ $xNEUTRO will be non-transferable and act as our governance token. $xNEUTRO main
 - [Yield Multiplier](https://docs.neutroswap.io/neutroswap-v2-coming-soon/plugins/yield-multiplier): Boosting users' yield up to 2x
 - [Launchpad](https://docs.neutroswap.io/neutroswap-v2-coming-soon/plugins/launchpad): Giving priority access to $xNEUTRO holders allocating to this plugin more exclusivity access to Neutroswap upcoming Launchpad
 
-[**Staked Positions NFT (spNFTs)**](https://docs.neutroswap.io/neutroswap-v2-coming-soon/staked-positions-spnfts)
+#### [**2. Staked Positions NFT (spNFTs)**](https://docs.neutroswap.io/neutroswap-v2-coming-soon/staked-positions-spnfts)
 
 The upcoming mechanism will replace the existing Neutro Farms as they both serve similar purposes. The key distinction is that instead of solely depositing LP tokens into the Farms smart contract, users will receive spNFTs in exchange for their deposited LP tokens, making it tradeable.
 
-[**Protocol Revenue Distribution**](https://docs.neutroswap.io/neutroswap-v2-coming-soon/protocol-revenue)
+#### [**3. Protocol Revenue Distribution**](https://docs.neutroswap.io/neutroswap-v2-coming-soon/protocol-revenue)
 
 The protocol-generated revenue will be distributed as follows:
 
@@ -71,7 +73,7 @@ The protocol-generated revenue will be distributed as follows:
 
 The Core Contributors funds will be solely utilized to cover operational expenses. At the end of each month, any remaining unused amount will be reallocated at the team's discretion, either towards Dividends or for Buyback and Burn purposes.
 
-[**Deflationary Mechanism**](https://docs.neutroswap.io/neutroswap-v2-coming-soon/deflationary-mechanism)
+#### [**4. Deflationary Mechanism**](https://docs.neutroswap.io/neutroswap-v2-coming-soon/deflationary-mechanism)
 
 We applied a few mechanism that will increase the buying pressure of $NEUTRO with the aim of making it for attractive for future investors, while increasing value for $NEUTRO holders.
 
@@ -82,7 +84,8 @@ We applied a few mechanism that will increase the buying pressure of $NEUTRO wit
 ### Ecosystem Fit
 
 - Where and how does your project fit into the ecosystem?
-Currently, EOS EVM needs more TVL to achieve organic exposure and attract new users. That's why we're thrilled to have already seen significant growth since our launch. But we're not stopping there. Our team is committed to further strengthening EOS EVM by providing even more value through our upcoming V2 version. With V2, we're confident that we can continue to drive growth and make EOS EVM an even more vibrant and successful ecosystem
+Currently, EOS EVM needs more TVL to achieve organic exposure and attract new users. That's why we're thrilled to have already seen significant growth since our launch. But we're not stopping there. Our team is committed to further strengthening EOS EVM by providing even more value through our new tokenomics. With $xNEUTRO, we're confident that we can continue to drive growth and make EOS EVM an even more vibrant and successful ecosystem
+
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
   Farmers, DeFi users, crypto users in general, traders
