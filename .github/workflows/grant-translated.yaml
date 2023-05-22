@@ -16,7 +16,7 @@ jobs:
     steps:
       - name: Get grant application file name
         id: 'files'
-        uses: Ana06/get-changed-files@v2.0.0
+        uses: Ana06/get-changed-files@v2.2.0
         with:
           filter: 'applications/*.md'
           
@@ -64,7 +64,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - id: 'update_worksheet'
-        uses: jroehl/gsheet.action@v1.2.0
+        uses: jroehl/gsheet.action@v2.0.1
         with:
           #spreadsheetId: 1FsNUKcfAJAorZGHpEzbRKLVYWbpZ_93Ts-R-JTpRK_A #This is the DummyTest sheet
           spreadsheetId: 1RdSK5Y_URnTSzg__fRHV51jwO90x4AUMy0ym0ytWwKA
