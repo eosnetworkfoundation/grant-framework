@@ -40,7 +40,7 @@ jobs:
     uses: ./.github/workflows/ru-big-parser.yml
     with:
       filename: "${{ needs.get_filename.outputs.filename }}"
-    needs: get_filename
+    needs: [get_filename, testfile]
 
   echo-the-returned-fields:
     runs-on: ubuntu-latest
