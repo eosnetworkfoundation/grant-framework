@@ -50,6 +50,8 @@ We have successfully launched $NEUTRO token alongside our Neutroswap V1:
 
 We are shifting our focus to enhance the utility and value of the $NEUTRO token. Previously, it was primarily utilized for incentivizing users through Neutro Farms and Vaults. Our plan now includes introducing $xNEUTRO, a locked version of the token similar to $veCRV by Curve Finance. Additionally, we will implement various updates such as Plugins, a new distribution mechanism for protocol revenue, a deflationary mechanism, and spNFTs.
 
+![Neutroswap V2 Plugins](https://drive.google.com/uc?export=view&id=1mk7WXKT4kBm8e272KN55_GdxFv1OANlb)  
+
 #### [**1. xNEUTRO**](https://docs.neutroswap.io/neutroswap-v2-coming-soon/xneutro-token)
 
 $xNEUTRO will be non-transferable and act as our governance token. $xNEUTRO main utility is the ability for it to be allocated by users to our various [plugins](https://docs.neutroswap.io/neutroswap-v2-coming-soon/plugins) such as:
