@@ -100,13 +100,13 @@ We have a fully functional decentralized NFT marketplace working on EOS, address
 
 ### Milestone Summary
 
-- **Total Estimated Duration:** 6 weeks
+- **Total Estimated Duration:** 2 weeks
 - **Full-Time Equivalent (FTE):** 6 FTE
 - **Total Costs:** 49,000 USD
 
 ### Milestone 1 — Minimum Viable Product Development
 
-- **Estimated Duration:** 6 weeks
+- **Estimated Duration:** 2 weeks
 - **Estimated launch time:** Early June 2023
 - **FTE:** 6
 - **Costs:** 49,000 USD
@@ -257,13 +257,13 @@ EVM版本我们已经完成了初始架构，目前正在开发中。
 
 ### 里程碑总结
 
-- **总共周期:** 6 周
+- **总共周期:** 2 周
 - **全职当量 (FTE):** 6 FTE
 - **总计花费:** 49,000 USD
 
 ### 里程碑1 — 最简化可实行产品开发
 
-- **预估周期:** 6 周
+- **预估周期:** 2 周
 - **预估上线时间:** 2023年6月初
 - **FTE:**  6
 - **花费:** 49,000 USD
