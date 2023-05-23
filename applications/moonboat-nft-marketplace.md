@@ -113,8 +113,8 @@ We have a fully functional decentralized NFT marketplace working on EOS, address
 
 | # | Deliverables | Details |
 | --- | --- | --- |
-| 1. | EVM Contract Development| We will develop smart contracts based on the Seaport protocol and modify them to fit our needs. |
-| 3. | Contract testing and Deployment | We will perform a complete test of the contract and wiill deploy contracts on both the EVM testnet and mainnet. |
+| 1. | EVM Contracts Development| We will develop smart contracts based on the Seaport protocol and modify them to fit our needs. |
+| 3. | Contracts testing and Deployment | We will perform a complete test of the contracts and wiill deploy them on both the EVM testnet and mainnet. |
 | 3. | UI Design | The designer will complete the frontend UI design work based on the requirements document. |
 | 4. | Logging Middleware | We will use Gloang to develop a logging middleware that will receive EVM logs and store them in a queue, which will be processed by a consumer for data processing. |
 | 5. | Data Search System | We will analyze the data and store it in Elasticsearch in a classified manner for the system to perform various dimensional searches conveniently. |
@@ -149,7 +149,7 @@ We can quickly provide an efficient and reliable NFT marketplace for EOS EVM, so
     
 -   Continuous technological upgrades: Technological upgrades and updates can help the platform maintain competitiveness and attractiveness. Moonboat platform can consider introducing new technologies, features, and services to meet the constantly changing market and user demands.
     
--   Security and guarantee: In blockchain transactions, security and guarantee are very important factors. Moonboat platform should take a series of security measures, such as strengthening user identity verification, multi-signature, smart contract auditing, and risk control, to ensure the safety of user assets and platform security stability.
+-   Security and guarantee: In blockchain transactions, security and guarantee are very important factors. Moonboat platform should take a series of security measures, such as strengthening user identity verification, multi-signature, smart contracts auditing, and risk control, to ensure the safety of user assets and platform security stability.
     
 -   Expanding partnerships: Moonboat platform can consider cooperating with other NFT platforms, digital currency exchanges, and relevant organizations to expand the platform's influence and user base. The platform can provide users with more choices and transaction channels, thus attracting more users and transaction volume.
     
