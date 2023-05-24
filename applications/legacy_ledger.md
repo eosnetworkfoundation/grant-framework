@@ -86,7 +86,9 @@ This is a new project.
 
 
 ### Milestone Summary
-
+- **Estimated Duration:** 3 month
+- **FTE:**  2
+- **Costs:** 38,300 USD
 
 ### Milestone 1 Design phase
 
@@ -136,10 +138,6 @@ This is a new project.
 | 1. | Testing  | Allow testing on testnet to Alpha group. |  
 | 2. | Publish to Mainnet |  Allow the estate attorney to test on mainnet | 
 
-Milestone Summary
-Total Estimated Duration: 3 months
-Full-Time Equivalent (FTE): 2 FTE
-Total Costs: 38,300 USD
 
 ## Future Plans
 
