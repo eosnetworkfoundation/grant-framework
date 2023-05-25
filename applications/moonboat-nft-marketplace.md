@@ -100,44 +100,48 @@ We have a fully functional decentralized NFT marketplace working on EOS, address
 
 ### Milestone Summary
 
-- **Total Estimated Duration:** 6 weeks
+- **Total Estimated Duration:** 2 weeks
 - **Full-Time Equivalent (FTE):** 6 FTE
 - **Total Costs:** 49,000 USD
 
 ### Milestone 1 — Minimum Viable Product Development
 
-- **Estimated Duration:** 6 weeks
+- **Estimated Duration:** 2 weeks
 - **Estimated launch time:** Early June 2023
 - **FTE:** 6
 - **Costs:** 49,000 USD
 
 | # | Deliverables | Details |
 | --- | --- | --- |
-| 1. | Core Contract Development| We will develop smart contracts based on the Seaport protocol and modify them to fit our needs. |
-| 2. | Contract Audit | We will give the core code to a security company for a security audit, and if any issues are found, we will make modifications and conduct a re-audit. |
-| 3. | Contract Deployment | We will deploy contracts on both the EVM testnet and mainnet. |
-| 4. | UI Design | The designer will complete the frontend UI design work based on the requirements document. |
-| 5. | Logging Middleware | We will use Gloang to develop a logging middleware that will receive EVM logs and store them in a queue, which will be processed by a consumer for data processing. |
-| 6. | Data Search System | We will analyze the data and store it in Elasticsearch in a classified manner for the system to perform various dimensional searches conveniently. |
-| 7. | Market Management System | Develop a backend system for managing NFT-related collections and artworks to meet operational requirements. |
-| 8. | API Interface | Connect the frontend and backend by developing corresponding data interfaces. |
-| 9. | Frontend Interface Development | Develop the frontend interface based on UI design, improve functions, and connect with wallets. |
-| 10. | Server Deployment and launch | Deploy all services online and go live on time |
-| 11. | User Goals | To reach more than 1000 users in the early stage of the launch through operational activities |
-| 12. | NFT Quantity Goals | To reach more than 10,000 NFTs by holding events and inviting project parties to join | 13.
-| 13. | Dayly trading volume Goals | To reach the maximum daily trading volume of 10,000 EOS through campaign operation and marketing  
+| 1. | EVM Contracts Development| We will develop smart contracts based on the Seaport protocol and modify them to fit our needs. |
+| 3. | Contracts testing and Deployment | We will perform a complete test of the contracts and wiill deploy them on both the EVM testnet and mainnet. |
+| 3. | UI Design | The designer will complete the frontend UI design work based on the requirements document. |
+| 4. | Logging Middleware | We will use Gloang to develop a logging middleware that will receive EVM logs and store them in a queue, which will be processed by a consumer for data processing. |
+| 5. | Data Search System | We will analyze the data and store it in Elasticsearch in a classified manner for the system to perform various dimensional searches conveniently. |
+| 6. | Market Management System | Develop a backend system for managing NFT-related collections and artworks to meet operational requirements. |
+| 7. | API Interface | Connect the frontend and backend by developing corresponding data interfaces. |
+| 8. | Frontend Interface Development | Develop the frontend interface based on UI design, improve functions, and connect with wallets. |
+| 9. | Server Deployment and launch | Deploy all services online and go live on time |
+| 10. | Monthly active users Goals | To reach more than 1,000 monthly active users through marketing activities |
+| 11. | NFT Quantity Goals | To reach more than 10,000 NFTs by holding events and inviting project parties to join | 13.
+| 12. | Dayly trading volume Goals | To reach the maximum daily trading volume of 10,000 EOS through campaign operation and marketing  
 
 ## More information
 
-###  Future development plans
+### Why apply for grant and what it can bring to EOS ecology
 
-- More Blockchain Networks: In addition to EOS and EVM networks, more blockchain networks can be supported, such as BSC and Polygon. This can expand the user base of the platform. 
+Our team is very good at developing and operating projects, but we need some financial and marketing resources support, if we have grant, it can help us solve some financial problems, so we can focus on development and operation. Also with the support of ENF, it can give my team members more confidence to make the project better.  
+We can quickly provide an efficient and reliable NFT marketplace for EOS EVM, so that EOS EVM can connect to more Gamefi project parties, and at the same time out operations have some influence on the blockchains (outside the EOS ecology), we can bring more users from other blockchains, this grant we applied for does not cover our development costs, because we will spend most of our grant funds on marketing and gaining more users to expand the EOS ecosystem.
+
+###  Our future development plans
+
+- More Blockchain Networks: In addition to EOS and EVM networks, more blockchain networks can be supported, such as Arbitrum, zKsync, etc., let EOS be the home base, bring the product to a larger ecosystem. 
 - More Types of Digital Assets: Currently, the platform only supports NFTs, but other types of digital assets can be considered, such as FT (fungible token) and other types of digital securities. 
 - Enhancement of Social Functions: In addition to trading and auction functions, social functions can be added, such as personal pages, community forums, and social sharing. This can increase user stickiness and the social effect of the platform. 
 - Better User Experience: The platform's UI/UX can be optimized, with more features added such as search, filter, and sort functions, making it easier for users to find the digital assets they want. 
 - Market Data Analysis and Reports: By collecting and analyzing transaction data, more market analysis and reports can be provided to users, such as NFT market trends, most popular digital assets, and average prices. This can help users make wiser investment decisions. 
 
-### Future operating plans
+### Our future operating plans
 
 -   Community building: Building an active community is crucial, which can be achieved by constantly promoting the market, interacting and communicating with users, and organizing a series of events. The platform can interact with users through social media, Telegram, WeChat, and other social channels, allowing users to share and promote their NFT works, interact and communicate with other users, which can help increase user stickiness and retention rate.
     
@@ -145,7 +149,7 @@ We have a fully functional decentralized NFT marketplace working on EOS, address
     
 -   Continuous technological upgrades: Technological upgrades and updates can help the platform maintain competitiveness and attractiveness. Moonboat platform can consider introducing new technologies, features, and services to meet the constantly changing market and user demands.
     
--   Security and guarantee: In blockchain transactions, security and guarantee are very important factors. Moonboat platform should take a series of security measures, such as strengthening user identity verification, multi-signature, smart contract auditing, and risk control, to ensure the safety of user assets and platform security stability.
+-   Security and guarantee: In blockchain transactions, security and guarantee are very important factors. Moonboat platform should take a series of security measures, such as strengthening user identity verification, multi-signature, smart contracts auditing, and risk control, to ensure the safety of user assets and platform security stability.
     
 -   Expanding partnerships: Moonboat platform can consider cooperating with other NFT platforms, digital currency exchanges, and relevant organizations to expand the platform's influence and user base. The platform can provide users with more choices and transaction channels, thus attracting more users and transaction volume.
     
@@ -253,13 +257,13 @@ EVM版本我们已经完成了初始架构，目前正在开发中。
 
 ### 里程碑总结
 
-- **总共周期:** 6 周
+- **总共周期:** 2 周
 - **全职当量 (FTE):** 6 FTE
 - **总计花费:** 49,000 USD
 
 ### 里程碑1 — 最简化可实行产品开发
 
-- **预估周期:** 6 周
+- **预估周期:** 2 周
 - **预估上线时间:** 2023年6月初
 - **FTE:**  6
 - **花费:** 49,000 USD
@@ -267,31 +271,35 @@ EVM版本我们已经完成了初始架构，目前正在开发中。
 | 序号 | 可交付成果 | 明细 |
 | -----: | ----------- | ------------- |
 | 1. | 核心合约开发 | 我们将在Seaport协议的基础上开发智能合约，并修改以适配我们的需求。  |  
-| 2. | 合约审计 | 将核心代码交给安全公司进行安全审计，如果存在问题将进行修改并重新审计。 |  
-| 3. | 部署合约 | 我们将在EVM测试网以及主网上分别部署合约。 |  
-| 4. | UI设计	| 设计师根据需求文件完成前端UI设计工作。 | 
-| 5. | 日志中间件 | 我们将使用Gloang开发一个日志中间件来接收EVM日志，并将日志存储在一个队列中，业务服务将通过消费者处理数据。 |  
-| 6. | 数据搜索系统 | 我们将数据进行后台分析并归类存储到elasticsearch中，方便系统进行各种维度的检索。 |  
-| 7. | 市场管理系统 | 开发一个后台系统，用于管理与NFT相关的收藏品、艺术品，并满足运营要求。 |  
-| 8. | API接口 | 对接前端，开发相应的数据接口，以连接前端和后端。 |  
-| 9. | 前端界面开发 | 通过UI设计来开发前台界面，完善功能，并对接钱包。 |  
-| 10. | 服务器部署和上线 | 将所有服务部署到线上并准时上线 |
-| 11. | 用户目标 | 通过运营活动在上线初期达到1000以上用户使用 |
-| 12. | NFT数量目标 | 举办活动邀请项目方入驻等方式让NFT数量能够达到10,000枚以上 |
-| 13. | 日交易量目标 | 通过活动运营和市场推广达到最高日交易10,000 EOS |
+| 2. | 测试和部署合约 | 我们将对合约进行完整的测试并在EVM测试网以及主网上分别部署合约。 |  
+| 3. | UI设计	| 设计师根据需求文件完成前端UI设计工作。 | 
+| 4. | 日志中间件 | 我们将使用Gloang开发一个日志中间件来接收EVM日志，并将日志存储在一个队列中，业务服务将通过消费者处理数据。 |  
+| 5. | 数据搜索系统 | 我们将数据进行后台分析并归类存储到elasticsearch中，方便系统进行各种维度的检索。 |  
+| 6. | 市场管理系统 | 开发一个后台系统，用于管理与NFT相关的收藏品、艺术品，并满足运营要求。 |  
+| 7. | API接口 | 对接前端，开发相应的数据接口，以连接前端和后端。 |  
+| 8. | 前端界面开发 | 通过UI设计来开发前台界面，完善功能，并对接钱包。 |  
+| 9. | 服务器部署和上线 | 将所有服务部署到线上并准时上线 |
+| 10. | 月活用户目标 | 通过市场运营活动在上线后达到1,000以上的月活用户 |
+| 11. | NFT数量目标 | 通过举办活动邀请项目方入驻等方式让NFT数量能够达到10,000枚以上 |
+| 12. | 日交易量目标 | 通过活动运营和市场推广达到最高日交易10,000 EOS的目标  |
 
 ## 更多信息
 
-### 未来的开发规划
+### 为何申请grant，能为生态带来什么
 
-- 开发更多区块链网络：除了EOS和EVM网络之外，可以考虑支持更多的区块链网络，例如BSC、Polygon等。这样可以扩大平台的用户群体。 
+我们团队非常擅长开发和运营项目，但是我们需要一些资金及市场资源的支持，如果有了grant，可以帮助我们解决一些资金问题，让我们可以专注于开发和运营。同时有了ENF的支持，也能给我团队成员增加信心，把项目做得更完善。  
+我们可以快速的为EOS EVM提供一个高效可靠的NFT市场，让EOS EVM能够对接更多Gamefi项目方，同时我们在EOS圈外的运营影响力都非常不错，我们可以带来更多的圈外用户，我们申请的这笔grant费用并不能cover我们的开发成本，因为我们会将grant的大部分资金用于市场推广，获取更多用户来壮大EOS生态。
+
+### 我们未来的开发规划
+
+- 开发更多区块链网络：除了EOS和EVM网络之外，可以考虑支持更多的区块链网络，例如Arbitrum、zKsync等，以EOS为大本营，将产品带到更大的生态中去。 
 - 支持更多的数字资产类型：目前平台仅支持NFT，但是可以考虑增加其他类型的数字资产，例如FT（fungible token）和其他类型的数字证券。 
 - 社交功能的增强： 除了交易和拍卖功能之外，可以增加社交功能，例如个人主页、社区论坛、社交分享等。这可以提高用户粘性和平台的社交效应。 
 - 更好的用户体验： 可以优化平台的UI/UX，增加更多的功能，例如搜索、筛选、排序等，使用户可以更方便地找到他们想要的数字资产。 
 - 市场数据分析和报告：过收集和分析交易数据，可以为用户提供更多的市场分析和报告，例如NFT市场趋势、最受欢迎的数字资产、平均价格等。这可以帮助用户做出更明智的投资决策。 
 
 
-### 市场运营的规划
+### 我们市场运营的规划
 
 - 社区建设：建立一个活跃的社区是至关重要的，这可以通过不断地进行市场推广、与用户进行互动和交流以及举办一系列活动来实现。平台可以通过社交媒体、电报、微信和其他社交渠道来与用户互动，让用户分享和推广自己的NFT作品，与其他用户互动和交流，这可以帮助平台增加用户粘性和留存率。
 - 推广活动：平台可以定期举办推广活动，例如抽奖、比赛、NFT艺术品展览和专题讲座等，以吸引更多的用户加入并使用平台。这些活动可以与平台的合作伙伴、艺术家、NFT爱好者和其他相关方合作举办，从而增加平台的知名度和吸引力。
