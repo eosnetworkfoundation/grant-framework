@@ -6,15 +6,15 @@
 
 ## Table of Contents <!-- omit in toc -->
 
-- [2023](https://github.com/eosnetworkfoundation/grant-framework/main/docs/accepted_grant_applications.md#2023)
-   - [Season 6 - Second Quarter 2023](https://github.com/eosnetworkfoundation/grant-framework/main/docs/accepted_grant_applications.md#season-6---second-quarter-2023)
-   - [Season 5 - First Quarter 2023](https://github.com/eosnetworkfoundation/grant-framework/main/docs/accepted_grant_applications.md#season-5---first-quarter-2023)
+- [2023](https://github.com/eosnetworkfoundation/grant-framework/blob/main/docs/accepted_grant_applications.md#2023)
+   - [Season 6 - Second Quarter 2023](https://github.com/eosnetworkfoundation/grant-framework/blob/main/docs/accepted_grant_applications.md#season-6---second-quarter-2023)
+   - [Season 5 - First Quarter 2023](https://github.com/eosnetworkfoundation/grant-framework/blob/main/docs/accepted_grant_applications.md#season-5---first-quarter-2023)
 
-- [2022](https://github.com/eosnetworkfoundation/grant-framework/main/docs/accepted_grant_applications.md#2022)
-   - [Season 4 - Fourth Quarter 2022](https://github.com/eosnetworkfoundation/grant-framework/main/docs/accepted_grant_applications.md#season-4---fourth-quarter-2022)
-   - [Season 3 - Third Quarter 2022](https://github.com/eosnetworkfoundation/grant-framework/main/docs/accepted_grant_applications.md#season-3---third-quarter-2022)
-   - [Season 2 - Second Quarter 2022](https://github.com/eosnetworkfoundation/grant-framework/main/docs/accepted_grant_applications.md#season-2---second-quarter-2022)
-   - [Season 1 - First Quarter 2022](https://github.com/eosnetworkfoundation/grant-framework/main/docs/accepted_grant_applications.md#season-1---first-quarter-2022)
+- [2022](https://github.com/eosnetworkfoundation/grant-framework/blob/main/docs/accepted_grant_applications.md#2022)
+   - [Season 4 - Fourth Quarter 2022](https://github.com/eosnetworkfoundation/grant-framework/blob/main/docs/accepted_grant_applications.md#season-4---fourth-quarter-2022)
+   - [Season 3 - Third Quarter 2022](https://github.com/eosnetworkfoundation/grant-framework/blob/main/docs/accepted_grant_applications.md#season-3---third-quarter-2022)
+   - [Season 2 - Second Quarter 2022](https://github.com/eosnetworkfoundation/grant-framework/blob/main/docs/accepted_grant_applications.md#season-2---second-quarter-2022)
+   - [Season 1 - First Quarter 2022](https://github.com/eosnetworkfoundation/grant-framework/blob/main/docs/accepted_grant_applications.md#season-1---first-quarter-2022)
 
 # 2023
 
