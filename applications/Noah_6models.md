@@ -28,7 +28,7 @@
 - Marketing promotion: In-depth cooperation with many well-known media, 100+ KOL volunteers, and 50+ communities
 
 **2nd Stage goal**
-- Product modules: Multiple modules will jointly create a brand new Noah Finance, bringing better services to users and a richer ecology for EOS EVM. Liquidity mining can also obtain different levels of rewards according to the user's pledge situation, bringing a new reward method for liquidity providers; NOAH equity proof can obtain more rewards in the pledge pool, and will destroy more NOAH, making NOAH more valuable; liquidity incentive allocation voting, which is a combination of Noah tokens and mining incentive governance; esNOAH unlocking, a current innovative unlocking and release method, can make Noah Swap lockup , transaction volume, token price, user activity, etc. continue to rise, entering the positive cycle of DeFi; the bribery function will attract more projects to establish liquidity in Swap, and at the same time bring more gameplay and benefits to users; equity bonus includes liquidity The addition of market-making rewards, staking rewards, voting governance benefits, handling fee rewards, and bribery rewards has further enriched Noah's DeFi gameplay.
+- Product modules: Multiple modules will jointly create a brand new Noah Finance, bringing better services to users and a richer ecology for EOS EVM. Liquidity mining can also obtain different levels of rewards according to the user staking situation, bringing a new reward method for liquidity providers; NOAH equity proof can obtain more rewards in the pledge pool, and will destroy more NOAH, making NOAH more valuable; liquidity incentive allocation voting, which is a combination of Noah tokens and mining incentive governance; NOAH unlocking, a current innovative unlocking and release method, can make Noah Swap lockup , transaction volume, token price, user activity, etc. continue to rise, entering the positive cycle of DeFi; the bribery function will attract more projects to establish liquidity in Swap, and at the same time bring more gameplay and benefits to users; equity bonus includes liquidity The addition of market-making rewards, staking rewards, voting governance benefits, handling fee rewards, and bribery rewards has further enriched Noah's DeFi gameplay.
 - Marketing: Noah main community attracts 10,000 people, and the daily online users breaks 2,000; the in-depth cooperation community reaches 50+, effectively covering 20,000 users; the number of Twitter followers pass 10,000.
 
 **Support needed**
@@ -37,11 +37,11 @@
 - Media resources: Utilize the ENF media and community resources to support Noah in a full range of media coverage and community resources, providing a comprehensive media exposure for Noah.
 
 ## Project Overview
-Noah Swap is currently launched on the EVM main network. We will develop 6 new modules, including liquidity mining, NOAH proof of equity, liquidity incentive distribution voting, esNOAH unlocking, bribery, equity bonus and data statistics, etc. These two modules will jointly create a brand new Noah Finance, bringing better services to users and a richer ecology for EOS EVM.
+Noah Swap is currently launched on the EVM main network. We will develop 6 new modules, including liquidity mining, NOAH proof of equity, liquidity incentive distribution voting, NOAH unlocking, bribery, equity bonus and data statistics, etc. These two modules will jointly create a brand new Noah Finance, bringing better services to users and a richer ecology for EOS EVM.
 - Liquidity Mining: Provide liquidity for Swap to obtain liquidity incentives, make up for impermanent losses caused by transactions and obtain more profits. According to the user's pledge situation, different levels of rewards can also be obtained, bringing a new reward method for liquidity providers.
 - NOAH Proof of Equity: Depending on how the user pledges NOAH, different degrees of equity can be obtained.
 - Liquidity Incentive Allocation Voting: Voting users with NOAH pledge rights can obtain part of the handling fee of the liquidity pool.
-- esNOAH Unlocking: An innovative DeFi gameplay. Through the combination of multiple rules, different linear unlocking can be obtained, which can make Noah Swap's lockup volume, transaction volume, token price, user activity, etc. continue to increase, Enter the positive cycle of DeFi.
+- NOAH Unlocking: An innovative DeFi gameplay. Through the combination of multiple rules, different linear unlocking can be obtained, which can make Noah Swap's lockup volume, transaction volume, token price, user activity, etc. continue to increase, Enter the positive cycle of DeFi.
 - Bribe: The bribe function will attract more projects to build liquidity in Swap, and at the same time bring more gameplay and benefits to users.
 - Stake bonus: In NOAH Finance, users who pledge governance tokens can get more bonus bonus.
 
@@ -49,7 +49,7 @@ Noah Swap is currently launched on the EVM main network. We will develop 6 new m
 ### Overview
 
 - **Name:** Noahark - governance / incentive system
-- **Brief Description:** Noah Swap provides liquidity mining, NOAH equity certification, liquidity incentive distribution voting, esNOAH unlocking, bribery, equity bonus and statistics, and multiple modules will jointly create a brand new Noah Finance.
+- **Brief Description:** Noah Swap provides liquidity mining, NOAH equity certification, liquidity incentive distribution voting, NOAH unlocking, bribery, equity bonus and statistics, and multiple modules will jointly create a brand new Noah Finance.
 - **Relationship to EOSIO:** For EOS EVM users' Noah Swap liquidity mining, NOAH equity proof, liquidity incentive distribution voting, esNOAH unlocking, bribery, equity bonus and data statistics, multiple modules will jointly create a brand new Noah Finance, bringing users Better service and a richer ecology for EOS EVM.
 . The code is open source and anyone can refer to it.
 - **Reason for Interest:** It provides powerful functions for community needs and more yields serving EOS EVM users. It will brings huge TVL to EOS EVM and returns to investors and users
@@ -63,10 +63,10 @@ Noah Swap is currently launched on the EVM main network. We will develop 6 new m
 
 - **What need(s) does your project meet?** DeFi activities like Swap and market-making on EOS EVM, Noah provides supports for project teams and communities with multiple tokens mining. This will create a very good connection with all the other projects in our DeFi platform; The users can also enjoy a high yield.
 
-- **Are there any other projects similar to yours in the EOSIO ecosystem?** We are the first innovative DeFi project in EOS EVM that can provide 6 modules, including liquidity mining, NOAH proof of equity, liquidity incentive allocation voting, esNOAH unlocking, bribery, equity bonus and data statistics.
+- **Are there any other projects similar to yours in the EOSIO ecosystem?** We are the first innovative DeFi project in EOS EVM that can provide 6 modules, including liquidity mining, NOAH proof of equity, liquidity incentive allocation voting, NOAH unlocking, bribery, equity bonus and data statistics.
   
 - **If so, how is your project different?**
-6 major modules, including liquidity mining, NOAH proof of equity, liquidity incentive allocation voting, esNOAH unlocking, bribery, equity bonus and data statistics innovative DeFi project. This is an innovative DeFi protocol in the current EOS EVM and even the entire Ethereum-based DeFi gameplay.
+6 major modules, including liquidity mining, NOAH proof of equity, liquidity incentive allocation voting, NOAH unlocking, bribery, equity bonus and data statistics innovative DeFi project. This is an innovative DeFi protocol in the current EOS EVM and even the entire Ethereum-based DeFi gameplay.
 
 ## Team
 
@@ -101,7 +101,7 @@ https://github.com/NoaharkEVM/noaharkswap
 1. Noah’s liquidity staking mining function (2023.06)
 2. NOAH Proof of Equity (2023.06)
 3. Liquidity incentive distribution voting (2023.06)
-4. esNOAH Unlocked (2023.07)
+4. NOAH Unlock (2023.07)
 5. Bribery (2023.07)
 6. Equity addition and statistics (2023.07)
 
@@ -136,9 +136,9 @@ https://github.com/NoaharkEVM/noaharkswap
  | 0b | Documentation | We will provide inline documentation of the code and a basic tutorial explaining how users can access our website program and send a test transaction, which will demonstrate how the new functionality works. |
  | 0c | Testing Guidance | Unit tests will fully cover the core functionality to ensure functionality and robustness. |
  | 0d | Article | We will publish an article on how the grant was used, and what work was done |
- | 1 | Product Design | You can submit the original UI design drawings of the NOAH token pledge module, liquidity mining module, equity addition module and esNOAH unlocking module, as well as the prototype design files of the project |
- | 2 | Smart Contract | Submission includes token pledge contract, liquidity mining contract and esNOAH unlock contract |
- | 3 | Front-end development | Develop and realize user stake NOAH, participate in liquidity mining, receive multiple rewards and esNOAH linear unlocking function and other interfaces, providing users with convenient and fast interactive experience |
+ | 1 | Product Design | You can submit the original UI design drawings of the NOAH token pledge module, liquidity mining module, equity addition module and NOAH unlocking module, as well as the prototype design files of the project |
+ | 2 | Smart Contract | Submission includes token pledge contract, liquidity mining contract and NOAH unlock contract |
+ | 3 | Front-end development | Develop and realize user stake NOAH, participate in liquidity mining, receive multiple rewards and NOAH linear unlocking function and other interfaces, providing users with convenient and fast interactive experience |
  | 4 | Back-end development | Provide stake data, unlock data and mining reward data API, etc., to facilitate external collection |
 
 - **Milestone 3**
@@ -167,7 +167,7 @@ https://github.com/NoaharkEVM/noaharkswap
 ## Security Audit
 
 - **Security audit items:** Noah-6 modules
-- **Security Audit Description:** Noah 6 major modules include liquidity mining, NOAH proof of equity, liquidity incentive allocation voting, esNOAH unlocking, bribery, equity bonus and data statistics
+- **Security Audit Description:** Noah 6 major modules include liquidity mining, NOAH proof of equity, liquidity incentive allocation voting, NOAH unlocking, bribery, equity bonus and data statistics
 - **Total Security Audit Fee:** $20,000
 - **Security Auditing Company:** Certik https://www.certik.com/ or other well-known security auditing companies
 
@@ -205,11 +205,11 @@ https://github.com/NoaharkEVM/noaharkswap
 - 诺亚代币已通过首轮空投的形式发射，共计空投274,295.5诺亚代币，通过交互任务和社区任务等形式，全部发放给社区3024个账户，无任何私募。
 
 **第二期路线图**
-- 产品开发，诺亚准备围绕Swap我们将开发全新的6个模块，其中包括流动性挖矿、NOAH权益证明、流动性激励分配投票、esNoah解锁、贿赂、权益加成及数据统计；
+- 产品开发，诺亚准备围绕Swap我们将开发全新的6个模块，其中包括流动性挖矿、NOAH权益证明、流动性激励分配投票、Noah解锁、贿赂、权益加成及数据统计；
 - 市场宣传：与多个知名媒体、100+KOL志愿者、50+社区进行深度合作
 
 **第二期目标**
-- 产品模块：多个模块将共同打造一个全新的Noah Finance，为用户带来更优质的服务，同时为EOS EVM带来更丰富的生态。流动性挖矿可根据用户的质押情况还可以获得不同程度的奖励加成，为流动性提供者带来全新的奖励方式；NOAH权益证明可根据Rebase机制，质押占比越大，质押池可获得更多奖励，同时将销毁更多NOAH，让NOAH更有价值；流动性激励分配投票，这是诺亚代币与挖矿激励治理的结合；esNOAH解锁，一种目前创新性解锁释放的玩法，能使诺亚Swap的锁仓量、交易量、代币价格、用户活跃度等不断上涨，进入DeFi正循环；贿赂功能将吸引更多项目在Swap中建立流动性，同时为用户带来更多玩法和收益；权益加成包括流动性做市奖励加成、质押奖励加成、投票治理权益加成、手续费奖励加成及贿赂奖励的加成等，又进一步丰富了诺亚的DeFi玩法。
+- 产品模块：多个模块将共同打造一个全新的Noah Finance，为用户带来更优质的服务，同时为EOS EVM带来更丰富的生态。流动性挖矿可根据用户的质押情况还可以获得不同程度的奖励加成，为流动性提供者带来全新的奖励方式；NOAH权益证明可根据Rebase机制，质押占比越大，质押池可获得更多奖励，同时将销毁更多NOAH，让NOAH更有价值；流动性激励分配投票，这是诺亚代币与挖矿激励治理的结合；NOAH解锁，一种目前创新性解锁释放的玩法，能使诺亚Swap的锁仓量、交易量、代币价格、用户活跃度等不断上涨，进入DeFi正循环；贿赂功能将吸引更多项目在Swap中建立流动性，同时为用户带来更多玩法和收益；权益加成包括流动性做市奖励加成、质押奖励加成、投票治理权益加成、手续费奖励加成及贿赂奖励的加成等，又进一步丰富了诺亚的DeFi玩法。
 - 市场推广：诺亚主社群人数超过10,000人，日常在线人数2000人；深度合作社区50+，有效覆盖2万个用户；推特关注数1万人以上。
 
 **所需支持**
@@ -223,14 +223,14 @@ Noah Swap目前已上线EVM主网，围绕Swap我们将开发全新的6个模块
 - 流动性挖矿：为Swap提供流动性可以获得流动性激励，弥补交易带来的无常损失同时获得更多收益。根据用户的质押情况还可以获得不同程度的奖励加成，为流动性提供者带来全新的奖励方式。
 - NOAH权益证明：根据用户质押NOAH的情况，可以获得不同程度的权益。
 - 流动性激励分配投票：拥有NOAH质押权益的投票用户可获得该流动池的部分手续费。**
-- esNOAH解锁：一种DeFi创新性玩法，通过多种规则结合，可以获得不同的线性解锁，能使诺亚Swap的锁仓量、交易量、代币价格、用户活跃度等不断上涨，进入DeFi正循环。
+- NOAH解锁：一种DeFi创新性玩法，通过多种规则结合，可以获得不同的线性解锁，能使诺亚Swap的锁仓量、交易量、代币价格、用户活跃度等不断上涨，进入DeFi正循环。
 - 贿赂：贿赂功能将吸引更多项目在Swap中建立流动性，同时为用户带来更多玩法和收益。
 - 权益加成：在NOAH Finance中，质押治理代币的用户可以获得更多的权益加成。
 
 - 名称：诺亚 治理系统 / 激励系统
 
 - **简介：** Noah Swap提供了流动性挖矿、NOAH权益证明、流动性激励分配投票、esNOAH解锁、贿赂、权益加成及数据统计，多个模块将共同打造一个全新的Noah Finance。
-- **与EOSIO的关系：** 针对EOS EVM用户的Noah Swap流动性挖矿、NOAH权益证明、流动性激励分配投票、esNOAH解锁、贿赂、权益加成及数据统计，多个模块将共同打造一个全新的Noah Finance，为用户带来更优质的服务，同时为EOS EVM带来更丰富的生态。
+- **与EOSIO的关系：** 针对EOS EVM用户的Noah Swap流动性挖矿、NOAH权益证明、流动性激励分配投票、NOAH解锁、贿赂、权益加成及数据统计，多个模块将共同打造一个全新的Noah Finance，为用户带来更优质的服务，同时为EOS EVM带来更丰富的生态。
 。代码是开源的，任何人都可以进行借鉴参考。
 - **感兴趣的原因：** 为社区需求提供强大的功能，为EOS EVM用户提供更多收益服务。它将为EOS EVM带来巨大的TVL，为投资者和用户带来回报。
 
@@ -246,10 +246,10 @@ EOS EVM的用户,专业的DEX-DEX,DEX-CEX套利者,庞大的EOS用户群体。
 - EOS EVM上做市、闪兑、多币种质押挖矿等需求，Noah为项目团队和社区提供多种代币挖矿支持。这将与我们DeFi平台中的所有其他项目建立良好的联系；用户也可以享受高收益。
 
 - **在EOSIO生态系统中还有其他类似的项目吗？**
-我们是EOS EVM中第一个可以提供6个模块，其中包括流动性挖矿、NOAH权益证明、流动性激励分配投票、esNOAH解锁、贿赂、权益加成及数据统计的创新型DeFi项目。
+我们是EOS EVM中第一个可以提供6个模块，其中包括流动性挖矿、NOAH权益证明、流动性激励分配投票、NOAH解锁、贿赂、权益加成及数据统计的创新型DeFi项目。
 
 - **如果是这样，您的项目有何不同？**
-6大模块，其中包括流动性挖矿、NOAH权益证明、流动性激励分配投票、esNOAH解锁、贿赂、权益加成及数据统计的创新型DeFi项目。这是目前EOS EVM乃至整个以太坊系DeFi玩法中，属于创新性的DeFi协议。
+6大模块，其中包括流动性挖矿、NOAH权益证明、流动性激励分配投票、NOAH解锁、贿赂、权益加成及数据统计的创新型DeFi项目。这是目前EOS EVM乃至整个以太坊系DeFi玩法中，属于创新性的DeFi协议。
 
 ### 团队
 - **团队成员：** 20
@@ -280,7 +280,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 1. 诺亚流动性质押挖矿功能（2023.06）
 2. NOAH权益证明 （2023.06）
 3. 流动性激励分配投票 （2023.06）
-4. esNOAH解锁 （2023.07）
+4. NOAH解锁 （2023.07）
 5. 贿赂 （2023.07）
 6. 权益加成及数据统计 （2023.07）
 
@@ -315,8 +315,8 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
  | 0b    | 文档 | 我们将提供代码的内联文档和解释用户如何访问我们的网站程序并发送测试交易的基本教程，这将展示新功能的工作原理。|
  | 0c    | 测试指导 | 单元测试将完全覆盖核心功能，以确保功能性和稳健性。     |
  | 0d    | 文章| 我们将发布一篇文章关于资助如何使用，以及完成的工作内容     |
- | 1    | 产品设计 | 可提交NOAH代币质押模块、流动性挖矿模块、权益加成模块和esNOAH解锁模块的UI设计图原件，以及项目的原型设计文件     |
- | 2    | 智能合约     | 提交包含代币质押合约、流动性挖矿合约和esNOAH解锁合约   |
+ | 1    | 产品设计 | 可提交NOAH代币质押模块、流动性挖矿模块、权益加成模块和NOAH解锁模块的UI设计图原件，以及项目的原型设计文件     |
+ | 2    | 智能合约     | 提交包含代币质押合约、流动性挖矿合约和NOAH解锁合约   |
  | 3    | 前端开发     | 开发实现用户质押NOAH、参与流动性挖矿、领取多个奖励及esNOAH线性解锁功能等界面，提供给用户方便快捷的交互体验     |
  | 4    | 后端开发     | 提供质押数据、解锁数据和挖矿奖励数据API等，方便外部收集     |
 
