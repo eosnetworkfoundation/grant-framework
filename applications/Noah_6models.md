@@ -24,7 +24,7 @@
 - Noah tokens have been launched in the form of the first round of airdrops, with a total of 274,295.5 Noah tokens airdropped to 3024 accounts in the community through interactive tasks and community tasks, without any private sales.
 
 **2nd Stage development plan**
-- Product development: Noah is preparing to develop 6 new modules, including liquidity mining, NOAH proof of equity, liquidity incentive distribution voting, esNoah unlocking, bribery, equity bonus and data statistics;
+- Product development: Noah is preparing to develop 6 new modules, including liquidity mining, NOAH proof of equity, liquidity incentive distribution voting, Noah unlocking, bribery, equity bonus and data statistics;
 - Marketing promotion: In-depth cooperation with many well-known media, 100+ KOL volunteers, and 50+ communities
 
 **2nd Stage goal**
@@ -50,7 +50,7 @@ Noah Swap is currently launched on the EVM main network. We will develop 6 new m
 
 - **Name:** Noahark - governance / incentive system
 - **Brief Description:** Noah Swap provides liquidity mining, NOAH equity certification, liquidity incentive distribution voting, NOAH unlocking, bribery, equity bonus and statistics, and multiple modules will jointly create a brand new Noah Finance.
-- **Relationship to EOSIO:** For EOS EVM users' Noah Swap liquidity mining, NOAH equity proof, liquidity incentive distribution voting, esNOAH unlocking, bribery, equity bonus and data statistics, multiple modules will jointly create a brand new Noah Finance, bringing users Better service and a richer ecology for EOS EVM.
+- **Relationship to EOSIO:** For EOS EVM users' Noah Swap liquidity mining, NOAH equity proof, liquidity incentive distribution voting, NOAH unlocking, bribery, equity bonus and data statistics, multiple modules will jointly create a brand new Noah Finance, bringing users Better service and a richer ecology for EOS EVM.
 . The code is open source and anyone can refer to it.
 - **Reason for Interest:** It provides powerful functions for community needs and more yields serving EOS EVM users. It will brings huge TVL to EOS EVM and returns to investors and users
 
@@ -219,7 +219,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 ### 项目概况
 **概述**
-Noah Swap目前已上线EVM主网，围绕Swap我们将开发全新的6个模块，其中包括流动性挖矿、NOAH权益证明、流动性激励分配投票、esNOAH解锁、贿赂、权益加成及数据统计，多个模块将共同打造一个全新的Noah Finance，为用户带来更优质的服务，同时为EOS EVM带来更丰富的生态。
+Noah Swap目前已上线EVM主网，围绕Swap我们将开发全新的6个模块，其中包括流动性挖矿、NOAH权益证明、流动性激励分配投票、NOAH解锁、贿赂、权益加成及数据统计，多个模块将共同打造一个全新的Noah Finance，为用户带来更优质的服务，同时为EOS EVM带来更丰富的生态。
 - 流动性挖矿：为Swap提供流动性可以获得流动性激励，弥补交易带来的无常损失同时获得更多收益。根据用户的质押情况还可以获得不同程度的奖励加成，为流动性提供者带来全新的奖励方式。
 - NOAH权益证明：根据用户质押NOAH的情况，可以获得不同程度的权益。
 - 流动性激励分配投票：拥有NOAH质押权益的投票用户可获得该流动池的部分手续费。**
@@ -229,7 +229,7 @@ Noah Swap目前已上线EVM主网，围绕Swap我们将开发全新的6个模块
 
 - 名称：诺亚 治理系统 / 激励系统
 
-- **简介：** Noah Swap提供了流动性挖矿、NOAH权益证明、流动性激励分配投票、esNOAH解锁、贿赂、权益加成及数据统计，多个模块将共同打造一个全新的Noah Finance。
+- **简介：** Noah Swap提供了流动性挖矿、NOAH权益证明、流动性激励分配投票、NOAH解锁、贿赂、权益加成及数据统计，多个模块将共同打造一个全新的Noah Finance。
 - **与EOSIO的关系：** 针对EOS EVM用户的Noah Swap流动性挖矿、NOAH权益证明、流动性激励分配投票、NOAH解锁、贿赂、权益加成及数据统计，多个模块将共同打造一个全新的Noah Finance，为用户带来更优质的服务，同时为EOS EVM带来更丰富的生态。
 。代码是开源的，任何人都可以进行借鉴参考。
 - **感兴趣的原因：** 为社区需求提供强大的功能，为EOS EVM用户提供更多收益服务。它将为EOS EVM带来巨大的TVL，为投资者和用户带来回报。
@@ -317,7 +317,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
  | 0d    | 文章| 我们将发布一篇文章关于资助如何使用，以及完成的工作内容     |
  | 1    | 产品设计 | 可提交NOAH代币质押模块、流动性挖矿模块、权益加成模块和NOAH解锁模块的UI设计图原件，以及项目的原型设计文件     |
  | 2    | 智能合约     | 提交包含代币质押合约、流动性挖矿合约和NOAH解锁合约   |
- | 3    | 前端开发     | 开发实现用户质押NOAH、参与流动性挖矿、领取多个奖励及esNOAH线性解锁功能等界面，提供给用户方便快捷的交互体验     |
+ | 3    | 前端开发     | 开发实现用户质押NOAH、参与流动性挖矿、领取多个奖励及NOAH线性解锁功能等界面，提供给用户方便快捷的交互体验     |
  | 4    | 后端开发     | 提供质押数据、解锁数据和挖矿奖励数据API等，方便外部收集     |
 
 - **里程碑3**
@@ -345,7 +345,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 ## 安全审计
 
 - **安全审计项:** 诺亚-6大模块
-- **安全审计描述:** 诺亚-6大模块包括流动性挖矿、NOAH权益证明、流动性激励分配投票、esNOAH解锁、贿赂、权益加成及数据统计
+- **安全审计描述:** 诺亚-6大模块包括流动性挖矿、NOAH权益证明、流动性激励分配投票、NOAH解锁、贿赂、权益加成及数据统计
 - **安全审计费用合计:** 20,000 美元
 - **安全审计公司:** Certik https://www.certik.com/ 或者其他知名安全审计公司
 
