@@ -105,7 +105,7 @@ https://github.com/NoaharkEVM/noaharkswap
 5. Bribery (2023.07)
 6. Equity addition and statistics (2023.07)
 
-## Milestone Summary
+## Milestone Summary (excluding contract audit fees)
 ### Total Estimated Duration: 4 months
 ### Full Time Equivalent (FTE): 15 FTE
 ### Total Cost: $128,000
