@@ -106,14 +106,14 @@ https://github.com/NoaharkEVM/noaharkswap
 6. Equity addition and statistics (2023.07)
 
 ## Milestone Summary
-- **Total Estimated Duration:** 4 months
-- **Full Time Equivalent (FTE):** 15 FTE
-- **Total Cost:** $95,000
+### Total Estimated Duration: 4 months
+### Full Time Equivalent (FTE): 15 FTE
+### Total Cost: $95,000
 
 **Milestone 1**
-**Estimated duration:** 0.5 months
-**Full Time Equivalent (FTE):** 5 FTE
-**Cost:** $15,000
+- **Estimated duration:** 0.5 months
+- **Full Time Equivalent (FTE):** 5 FTE
+- **Cost:** $15,000
  
 | ID | Deliverables | Specifications |
  | ---------- | :-----------: | :-----------: |
@@ -125,10 +125,10 @@ https://github.com/NoaharkEVM/noaharkswap
  | 2 | Smart contract | Submit the contract file containing the airdrop function |
  | 3 | Front-end development | Development and realization of user interface such as receiving airdrops for users who meet the active conditions |
 
-**Milestone 2**
-**Estimated duration:** 2 months
-**Full Time Equivalent (FTE):** 15 FTE
-**Cost:** $45,000
+- **Milestone 2**
+- **Estimated duration:** 2 months
+- **Full Time Equivalent (FTE):** 15 FTE
+- **Cost:** $45,000
 
 | ID | Deliverables | Specifications |
  | ---------- | :-----------: | :-----------: |
@@ -141,10 +141,10 @@ https://github.com/NoaharkEVM/noaharkswap
  | 3 | Front-end development | Develop and realize user stake NOAH, participate in liquidity mining, receive multiple rewards and esNOAH linear unlocking function and other interfaces, providing users with convenient and fast interactive experience |
  | 4 | Back-end development | Provide stake data, unlock data and mining reward data API, etc., to facilitate external collection |
 
-**Milestone 3**
-**Estimated duration:** 1.5 months
-**Full Time Equivalent (FTE):** 15 FTE
-**Cost:** $35,000
+- **Milestone 3**
+- **Estimated duration:** 1.5 months
+- **Full Time Equivalent (FTE):** 15 FTE
+- **Cost:** $35,000
 
 | ID | Deliverables | Specifications |
  | ---------- | :-----------: | :-----------: |
@@ -158,23 +158,23 @@ https://github.com/NoaharkEVM/noaharkswap
  | 4 | Back-end development | Provide liquidity incentive voting data content and related data statistics API, etc., to facilitate external collection |
  
  
-## market dissemination
-- **Marketing items:** Noah media promotion and community development
-- **Market Propaganda Description:** Covering 5 well-known blockchain media publicity for 5,000 USDs; 5 top influencers for 5,000 USD; 20 community leaders or small or influencers for 3,000 USD; Marketing events, such as lottery, trading contest, and airdrops for 2,000 USD
+## Market Promotions
+- **Marketing:** Noah media promotion and community development
+- **Market Promotion Description:** Covering 5 well-known blockchain media publicity for 5,000 USDs; 5 top influencers for 5,000 USD; 20 community leaders or small or influencers for 3,000 USD; Marketing events, such as lottery, trading contest, and airdrops for 2,000 USD
 - **Total Marketing Expenses:** $15,000
 
 
-## security audit
+## Security Audit
 
 - **Security audit items:** Noah-6 modules
 - **Security Audit Description:** Noah 6 major modules include liquidity mining, NOAH proof of equity, liquidity incentive allocation voting, esNOAH unlocking, bribery, equity bonus and data statistics
 - **Total Security Audit Fee:** $20,000
 - **Security Auditing Company:** Certik https://www.certik.com/ or other well-known security auditing companies
 
-## Total funding
-- **Total funding (including development costs 95,000 USD + marketing costs 15,000 USD + audit fees 20,000 USD):** $130,000
+## Total Funding
+### Total funding (including development + marketing costs + audit fees):** $130,000
 
-## other information
+## Other Information
 - **How did you hear about the grant program? :** EOS EVM Hackathon
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -285,14 +285,14 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 6. 权益加成及数据统计 （2023.07）
 
 ## 里程碑总结
-- **总预计持续时间：** 4个月
-- **全职当量 (FTE)：** 15 FTE
-- **总成本：** 95,000 美元
+### 总预计持续时间：4个月
+### 全职当量 (FTE)：15 FTE
+### 总成本：95,000 美元
 
-**里程碑1**
-**预计持续时间：** 0.5个月
-**全职当量 (FTE)：** 5 FTE
-**成本：** 15,000 美元
+- **里程碑1**
+- **预计持续时间：** 0.5个月
+- **全职当量 (FTE)：** 5 FTE
+- **成本：** 15,000 美元
  
  | ID         | 可交付成果     | 规格          |
  | ---------- | :-----------: | :-----------: |
@@ -304,10 +304,11 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
  | 2    | 智能合约     | 提交包含空投功能的合约文件   |
  | 3    | 前端开发     | 开发实现满足活跃条件的用户领取空投等用户操作界面     |
 
-**里程碑2**
-**预计持续时间：** 2个月
-**全职当量 (FTE)：** 15 FTE
-**成本：** 45,000 美元
+- **里程碑2**
+- **预计持续时间：** 2个月
+- **全职当量 (FTE)：** 15 FTE
+- **成本：** 45,000 美元
+
  | ID         | 可交付成果     | 规格          |
  | ---------- | :-----------: | :-----------: |
  | 0a    | 证书     | MIT    |
@@ -319,10 +320,11 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
  | 3    | 前端开发     | 开发实现用户质押NOAH、参与流动性挖矿、领取多个奖励及esNOAH线性解锁功能等界面，提供给用户方便快捷的交互体验     |
  | 4    | 后端开发     | 提供质押数据、解锁数据和挖矿奖励数据API等，方便外部收集     |
 
-**里程碑3**
-**预计持续时间：** 1.5个月
-**全职当量 (FTE)：** 15 FTE
-**成本：** 35,000 美元
+- **里程碑3**
+- **预计持续时间：** 1.5个月
+- **全职当量 (FTE)：** 15 FTE
+- **成本：** 35,000 美元
+
  | ID         | 可交付成果     | 规格          |
  | ---------- | :-----------: | :-----------: |
  | 0a    | 证书     | MIT    |
@@ -348,7 +350,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 - **安全审计公司:** Certik https://www.certik.com/ 或者其他知名安全审计公司
 
 ## 资助款合计
-- **资助款合计（包括开发费用+市场费用+审计费）:** 130,000 美元
+### 资助款合计（包括开发费用+市场费用+审计费）:** 130,000 美元
 
 ## 其他信息
 - **您是如何得知赠款计划的？：** EOS EVM 黑客马拉松活动
