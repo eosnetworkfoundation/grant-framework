@@ -2,7 +2,7 @@
 
 - **Project Name:** Clout Finance
 - **EOS Payment Address:** NA
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Project was part of Token sale:** No
 
 ## Contact
