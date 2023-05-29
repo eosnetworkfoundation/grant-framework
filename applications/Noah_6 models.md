@@ -15,7 +15,7 @@
 - **Contact Email:** graystone66666@gmail.com
 - **Website:** https://noahark.pro
 
-### Current status, goals, and support
+## Current status, goals, and support
 
 **Current status**
 - Noah Swap has been launched, and the contract has passed Certik audit and is open source. The product has functions such as Swap, liquidity provision, market data viewing, statistics tracking available;
