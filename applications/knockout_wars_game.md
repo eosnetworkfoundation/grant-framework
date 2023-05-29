@@ -150,8 +150,8 @@ Transaction fee feature will be split into the following
 
 ERC20 token for EOS EVM with Bridging 
 - Develop token 
-- Testing token 
-Bridge the original token over to EOS EVM 
+- Test token 
+- Bridge the original token over to EOS EVM 
 - Test the bridging 
 
 Development Costs: 7,000 USD 
@@ -220,4 +220,4 @@ After successfully implementing our #Influence&Earn program and establishing a s
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** While discussing about it Yves La Rose
+**How did you hear about the Grants Program?** While discussing about it with Yves La Rose
