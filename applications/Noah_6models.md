@@ -15,35 +15,45 @@
 - **Contact Email:** graystone66666@gmail.com
 - **Website:** https://noahark.pro
 
-## Current status, goals and support
+## Current status, Stage 2 goals, execution plan and support needed
 
 **Current status**
-- Noah Swap has been launched, and the contract has passed Certik audit and is open source. The product has functions such as Swap, liquidity provision, market data viewing, statistics tracking available;
-- Noah TVL around $1 million, and the average daily transaction volume is $50,000, ranking first in EOS EVM；**
-- The Chinese and English telegram community has 4,000  members, 1,000 daily active users, and 35+ other cooperative communities, effectively covering 10,000 users; Twitter has 5,000 followers; Noah community is the most active community of EOS EVM.
-- Noah tokens have been launched in the form of the first round of airdrops, with a total of 274,295.5 Noah tokens airdropped to 3024 accounts in the community through interactive tasks and community tasks, without any private sales.
+- The goals in Noah Stage 1 Grant are all achieved; Noah Swap has been launched, and the contract has passed Certik audit and is open source. Functions like Swap, liquidity, market data viewing, and statistics tracking available;
+- Noah TVL around $1 million, and the average daily transaction volume is $50,000, ranking 1st in EOS EVM；**
+- The Chinese and English telegram community has 4,000  members, 500 daily active users, and 35+ other cooperative communities, effectively covering 10,000 users; Twitter has 5,000 followers; Noah community is the most active community of EOS EVM.
+- Noah tokens have been launched in the form of the first round of airdrops, with a total of 274,295.5 Noah tokens airdropped to 3029 accounts in the community through interactive tasks and community tasks, without any private sales.
 
-**2nd Stage development plan**
-- Product development: Noah is preparing to develop 6 new modules, including liquidity mining, NOAH proof of equity, liquidity incentive distribution voting, Noah unlocking, bribery, equity bonus and data statistics;
-- Marketing promotion: In-depth cooperation with many well-known media, 100+ KOL volunteers, and 50+ communities
+**Stage 2 goal**
+- Product modules: At the end of June 2023, 6 major modules will be developed to create a brand new Noah Finance that can support liquidity mining, token equity proof, liquidity incentive voting, Noah unlocking, bribery, equity bonus functions of innovative DeFi. It can make Noah the flag of DeFi on EOS EVM;
+- Marketing: At the end of July, the number of Noah main community users exceed 8,000, daily active users exceed 1,000; 50+ in-depth cooperative communities effectively covered 20,000 user; Twitter followers exceed 10,000 people and remain the most active community of EOS EVM
+- DeFi data: At the end of July, the TVL exceed 2 million USD ranking 1st in EOS EVM; NOAH token holders exceed 3,000; the price of Noah tokens increase significantly, several times higher from the bottom price;
 
-**2nd Stage goal**
-- Product modules: Multiple modules will jointly create a brand new Noah Finance, bringing better services to users and a richer ecology for EOS EVM. Liquidity mining can also obtain different levels of rewards according to the user staking situation, bringing a new reward method for liquidity providers; NOAH equity proof can obtain more rewards in the pledge pool, and will destroy more NOAH, making NOAH more valuable; liquidity incentive allocation voting, which is a combination of Noah tokens and mining incentive governance; NOAH unlocking, a current innovative unlocking and release method, can make Noah Swap lockup , transaction volume, token price, user activity, etc. continue to rise, entering the positive cycle of DeFi; the bribery function will attract more projects to establish liquidity in Swap, and at the same time bring more gameplay and benefits to users; equity bonus includes liquidity The addition of market-making rewards, staking rewards, voting governance benefits, handling fee rewards, and bribery rewards has further enriched Noah's DeFi gameplay.
-- Marketing: Noah main community attracts 10,000 people, and the daily online users breaks 2,000; the in-depth cooperation community reaches 50+, effectively covering 20,000 users; the number of Twitter followers pass 10,000.
+**Stage 2 execution plan**
+- Product modules: 6 major modules to create a brand new Noah Finance, bring better services to users, and bring a richer ecology to EOS EVM.
+1. Liquidity mining can also obtain different levels of rewards according to the user staking, bringing a new reward method for liquidity providers;
+2. The proof of NOAH rights and interests can be based on the Rebase mechanism. The larger the stake ratio, the more rewards the stake pool can get, and more NOAH will be destroyed at the same time, making NOAH more valuable;
+3. Liquidity incentive allocation voting, which is a combination of Noah tokens and mining incentive governance;
+4. NOAH unlocking, a current innovative unlocking and release mode, can make Noah Swap TVL, transaction volume, token price, user activity, etc. continue to increase, and enter the positive cycle of DeFi;
+5. The bribery function will attract more projects to build liquidity in Swap, and at the same time bring more models and benefits to users;
+6. Equity bonuses include liquidity market-making bonus, staking bonus, voting governance bonus, handling fee bonus, and bribery bonus, etc., which further enriches Noah’s DeFi model;
+- The marketing plan:
+1. Make full use of the existing resources from ENF and coorperate with well-known blockchain media;
+2. Promotions with 10+ top influencers and 50+ small and medium influencers;
+3. Cooperate with 50+ large and medium-sized communities, carrying out promotion events such as AMA, airdrops, pinned message, etc.;
 
 **Support needed**
-- Liquidity: including EOS, USDT, ETH, BNB, BTC, well-known meme coins and other valuable assets;
-- Relationship network: assist Noah to carry out in-depth cooperation with well-known investment institutions, top 10 exchanges, well-known communities, etc.;
-- Media resources: Utilize the ENF media and community resources to support Noah in a full range of media coverage and community resources, providing a comprehensive media exposure for Noah.
+- Liquidity: provide liquidity support that including EOS, USDT, ETH, BNB, BTC, well-known meme coins and other valuable assets;
+- Network: assist Noah to carry out in-depth cooperation with well-known investment institutions, top 10 exchanges, well-known communities, etc.;
+- Media: utilize the ENF media and community resources to support Noah in a full range of media coverage and community resources, providing a comprehensive media exposure for Noah.
 
 ## Project Overview
 Noah Swap is currently launched on the EVM main network. We will develop 6 new modules, including liquidity mining, NOAH proof of equity, liquidity incentive distribution voting, NOAH unlocking, bribery, equity bonus and data statistics, etc. These two modules will jointly create a brand new Noah Finance, bringing better services to users and a richer ecology for EOS EVM.
-- Liquidity Mining: Provide liquidity for Swap to obtain liquidity incentives, make up for impermanent losses caused by transactions and obtain more profits. According to the user's pledge situation, different levels of rewards can also be obtained, bringing a new reward method for liquidity providers.
-- NOAH Proof of Equity: Depending on how the user pledges NOAH, different degrees of equity can be obtained.
-- Liquidity Incentive Allocation Voting: Voting users with NOAH pledge rights can obtain part of the handling fee of the liquidity pool.
-- NOAH Unlocking: An innovative DeFi gameplay. Through the combination of multiple rules, different linear unlocking can be obtained, which can make Noah Swap's lockup volume, transaction volume, token price, user activity, etc. continue to increase, Enter the positive cycle of DeFi.
-- Bribe: The bribe function will attract more projects to build liquidity in Swap, and at the same time bring more gameplay and benefits to users.
-- Stake bonus: In NOAH Finance, users who pledge governance tokens can get more bonus bonus.
+- Liquidity Mining: Provide liquidity for Swap to obtain liquidity incentives, make up for impermanent losses caused by transactions and obtain more profits. According to the user staking, different levels of rewards can also be obtained, bringing a new reward method for liquidity providers.
+- NOAH Proof of Equity: Depending on how the user stake NOAH, different degrees of equity can be obtained.
+- Liquidity Incentive Allocation Voting: Voting users with NOAH stake rights can obtain part of the handling fee of the liquidity pool.
+- NOAH Unlocking: An innovative DeFi design. Through the combination of multiple rules, different linear unlocking can be obtained, which can make Noah Swap's lockup volume, transaction volume, token price, user activity, etc. continue to increase, Enter the positive cycle of DeFi.
+- Bribe: The bribe function will attract more projects to build liquidity in Swap, and at the same time bring more designs and benefits to users.
+- Stake bonus: In NOAH Finance, users who stake governance tokens can get more bonus bonus.
 
 
 ### Overview
@@ -66,7 +76,7 @@ Noah Swap is currently launched on the EVM main network. We will develop 6 new m
 - **Are there any other projects similar to yours in the EOSIO ecosystem?** We are the first innovative DeFi project in EOS EVM that can provide 6 modules, including liquidity mining, NOAH proof of equity, liquidity incentive allocation voting, NOAH unlocking, bribery, equity bonus and data statistics.
   
 - **If so, how is your project different?**
-6 major modules, including liquidity mining, NOAH proof of equity, liquidity incentive allocation voting, NOAH unlocking, bribery, equity bonus and data statistics innovative DeFi project. This is an innovative DeFi protocol in the current EOS EVM and even the entire Ethereum-based DeFi gameplay.
+6 major modules, including liquidity mining, NOAH proof of equity, liquidity incentive allocation voting, NOAH unlocking, bribery, equity bonus and data statistics innovative DeFi project. This is an innovative DeFi protocol in the current EOS EVM and even the entire Ethereum-based DeFi design.
 
 ## Team
 
@@ -97,7 +107,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 ## Development Plan
 
-**6 major module development: (excluding contract audit fees)**
+**6 major module development:**
 1. Noah’s liquidity staking mining function (2023.06)
 2. NOAH Proof of Equity (2023.06)
 3. Liquidity incentive distribution voting (2023.06)
@@ -105,75 +115,73 @@ https://github.com/NoaharkEVM/noaharkswap
 5. Bribery (2023.07)
 6. Equity addition and statistics (2023.07)
 
-## Milestone Summary (excluding contract audit fees)
-### Total Estimated Duration: 4 months
+## Milestone Summary
+### Total Estimated Duration: 5 months
 ### Full Time Equivalent (FTE): 15 FTE
-### Total Cost: $128,000
+### Total Cost: $148,000
 
 **Milestone 1**
-- **Estimated duration:** 0.5 months
+- **Estimated duration:** 1 month
 - **Full Time Equivalent (FTE):** 5 FTE
 - **Cost:** $30,000
  
-| ID | Deliverables | Specifications |
+ | ID         | Item     | Detail          |
  | ---------- | :-----------: | :-----------: |
- | 0a | License | MIT |
- | 0b | Documentation | We will provide inline documentation of the code and a basic tutorial explaining how users can access our website program and send a test transaction, which will demonstrate how the new functionality works. |
- | 0c | Testing Guidance | Unit tests will fully cover the core functionality to ensure functionality and robustness. |
- | 0d | Article | We will publish an article on how the grant was used, and what work was done |
- | 1 | Product Design | Can provide NOAH airdrop function and original UI design drawings |
- | 2 | Smart contract | Submit the contract file containing the airdrop function |
- | 3 | Front-end development | Development and realization of user interface such as receiving airdrops for users who meet the active conditions |
+ | 1    | Goal    | Through the 100% community airdrop model, the project launch will attract users including the EOS chain and other chains to participate in the EOS EVM, experience Noah, realize that the project is 100% from the community, and the Noah token launch will drive 3029 EOS EVM user participation, established an initial liquidity pool NOAH/EOS, with a total value of ~$20,000 (completed)    |
+ | 2    | Product delivery | The Noah airdrop claim page has been launched and related functions have been implemented; relevant documents such as NOAH airdrop function, original UI design diagram, airdrop function contract document, etc. can be provided|
+ | 3    | Marketing | Formed a Noah volunteer team of 75 people, 50 opinion leaders, 35 cooperative communities, and community influence covering 3,000 users; NOAH Exchange has launched CMC and geckoterminal, and NOAH tokens have been listed on CMC; Cooperation resources for in-depth secondary cooperation  |
+ | 4    | Support needed| The project's primary fee, initial liquidity pool fee and development fee total $30,000     |
+
+
 
 - **Milestone 2**
 - **Estimated duration:** 2 months
 - **Full Time Equivalent (FTE):** 15 FTE
 - **Cost:** $53,000
 
-| ID | Deliverables | Specifications |
+ | ID         | Item     | Detail          |
  | ---------- | :-----------: | :-----------: |
- | 0a | License | MIT |
- | 0b | Documentation | We will provide inline documentation of the code and a basic tutorial explaining how users can access our website program and send a test transaction, which will demonstrate how the new functionality works. |
- | 0c | Testing Guidance | Unit tests will fully cover the core functionality to ensure functionality and robustness. |
- | 0d | Article | We will publish an article on how the grant was used, and what work was done |
- | 1 | Product Design | You can submit the original UI design drawings of the NOAH token pledge module, liquidity mining module, equity addition module and NOAH unlocking module, as well as the prototype design files of the project |
- | 2 | Smart Contract | Submission includes token pledge contract, liquidity mining contract and NOAH unlock contract |
- | 3 | Front-end development | Develop and realize user stake NOAH, participate in liquidity mining, receive multiple rewards and NOAH linear unlocking function and other interfaces, providing users with convenient and fast interactive experience |
- | 4 | Back-end development | Provide stake data, unlock data and mining reward data API, etc., to facilitate external collection |
+ | 1    | Goal     | Realize the functions of Noah token staking, liquidity mining, equity addition and Noah unlocking, give users a convenient and fast DeFi interactive experience, bring more DeFi models and benefits to users, and establish a DeFi platform flag on EOS EVM    |
+ | 2    | Product delivery | Submit the original UI design drawings and project prototype design files of the NOAH token stake module, liquidity mining module, equity addition module, and NOAH unlocking module; submit the token stake  contract, liquidity mining contract and NOAH unlocking contract; develop Realize interfaces such as users stake NOAH, participate in liquidity mining, receive multiple rewards, and NOAH linear unlocking functions; provide stake data, unlock data and mining reward data APIs, etc., to facilitate external collection |
+ | 3    | Marketing | Provide marketing activities and tutorials to attract users to participate in Noah related functions and increase user participation rate    |
+ | 4    | Support needed     | Development costs $53,000   |
+
 
 - **Milestone 3**
-- **Estimated duration:** 1.5 months
+- **Estimated duration:** 1 month
 - **Full Time Equivalent (FTE):** 15 FTE
 - **Cost:** $30,000
 
-| ID | Deliverables | Specifications |
+ | ID         | Item     | Detail         |
  | ---------- | :-----------: | :-----------: |
- | 0a | Certificate | MIT |
- | 0b | Documentation | We will provide inline documentation of the code and a basic tutorial explaining how users can access our website program and send a test transaction, which will demonstrate how the new functionality works. |
- | 0c | Testing Guidance | Unit tests will fully cover the core functionality to ensure functionality and robustness. |
- | 0d | Article | We will publish an article on how the grant was used, and what work was done |
- | 1 | Product Design | You can submit the original UI design drawings of the liquidity incentive distribution voting module, bribe reward module and related data statistics module, as well as the prototype design file of the project |
- | 2 | Smart contract | Submit the contract file that includes the liquidity incentive voting distribution module and the bribery reward module system |
- | 3 | Front-end development | Provide a user interface that supports users to complete the voting function of liquidity incentive distribution, the function of users to bribe and reward the liquidity pool, and related data statistics |
- | 4 | Back-end development | Provide liquidity incentive voting data content and related data statistics API, etc., to facilitate external collection |
+ | 1    | Goal          | Support users to complete the liquidity incentive distribution voting function, the user's bribery reward function for the liquidity pool and related data statistics, etc., bring liquidity voting and bribery DeFi into EOS EVM, and increase the enthusiasm of users and other cooperative project parties to participate in DeFi , bringing higher activity to the EOS EVM ecology    |
+ | 2    | Product delivery  | You can submit the original UI design drawings of the pages of the liquidity incentive distribution voting module, bribery reward module and related data statistics module, as well as the prototype design files of the project; submit the contract documents including the liquidity incentive voting distribution module and bribery reward module system; provide Support users to complete the user interface such as the liquidity incentive distribution voting function, the user's bribery reward function for the liquidity pool, and related data statistics; provide liquidity incentive voting data content and related data statistics API, etc., to facilitate external collection|
+ | 3    | Marketing     | Provide marketing activities and tutorials to attract users to participate in Noah related functions and increase user participation rate   |
+ | 4    | Support needed     | Development costs $30,000     |
  
- - **Milestone 4**
-- **Estimated duration:** 1 months
+- **Milestone 4**
+- **Estimated duration:** 0.5 month
 - **Full Time Equivalent (FTE):** 15 FTE
 - **Cost:** $15,000
-- **Marketing:** Noah media promotion and community development
-- **Market Promotion Description:** Covering 5 well-known blockchain media publicity for 4,000 USDs; 5 top influencers for 4,000 USD; 20 community leaders or small or influencers for 4,000 USD; Marketing events, such as lottery, trading contest, and airdrops for 3,000 USD
 
+ | ID         | Item     | Detail          |
+ | ---------- | :-----------: | :-----------: |
+ | 1    | Goal        | Noah community users exceeds 8,000, daily online users exceeds 1,000; the in-depth cooperation community 50+, effectively covering 20,000 users; Twitter exceeds 10,000 followers, maintaining the most active community in EOS EVM. The attention of EOS chain and external chain users to Noah indirectly drains EOS EVM and increases the popularity of EOS EVM   |
+ | 2    | Product delivery | Noah volunteer team exceeds 100 people, including 30 elite volunteers, 50 community leaders, 10 well-known cooperative media, and 50+ cooperative communities |
+ | 3    | Marketing     | Utilize ENF existing media resources to broadcast about Noah; conduct community growth promotions with 10+ top influencers and 50+ small and medium influencers; conduct in-depth community cooperation with 50+ large and medium-sized communities and have different marketing activities;|
+ | 4    | Support needed     | $15,000 for marketing expenditure plus free media support from EOS Network Foundation|
 
-## Security Audit
+- **Milestone 5**
+- **Estimated duration:** 0.5 month
+- **Full Time Equivalent (FTE):** 15 FTE
+- **Cost:** $20,000
 
-- **Security audit items:** Noah-6 modules
-- **Security Audit Description:** Noah 6 major modules include liquidity mining, NOAH proof of equity, liquidity incentive allocation voting, NOAH unlocking, bribery, equity bonus and data statistics
-- **Total Security Audit Fee:** $20,000
-- **Security Auditing Company:** Certik https://www.certik.com/ or other well-known security auditing companies
-
-## Total Funding
-### Total funding (including development + marketing costs + audit fees):** $148,000
+ | ID         | Item     | Detail          |
+ | ---------- | :-----------: | :-----------: |
+ | 1    | Goal        | Conduct contract security audits on the six modules of Noah’s newly launched liquidity mining, token equity proof, liquidity incentive voting, Noah’s unlocking, bribery, and equity addition to improve Noah’s security and increase users’ trust in Noah and EOS EVM   |
+ | 2    | Product delivery | Audit report on the Noah Stage 2 products from Certik or other well-known security audit companies  |
+ | 3    | Marketing     | Through community communication, media announcements and other forms, focus on the safety of the product to attract more users|
+ | 4    | Support needed     | Audit costs $20,000   |
 
 ## Other Information
 - **How did you hear about the grant program? :** EOS EVM Hackathon
@@ -197,26 +205,36 @@ https://github.com/NoaharkEVM/noaharkswap
 - **联系邮箱：** graystone66666@gmail.com
 - **网站：** https://noahark.pro
 
-### 项目现状、近期目标、所需支持
+### 项目进展、第二期目标、路径图实现、所需支持
 
 **项目进展**
-- 诺亚Swap已上线，合约通过Certik审计并开源。产品具备基本的闪兑、提供流动性、查看市场详情，全站数据统计等功能；
-- 诺亚锁仓量平均在100万美元上下，日均交易额5万美金，在EOS EVM排行第一；
-- 电报社区中英文合计4000人，日常在线人数1000人，其他合作社区35+，有效覆盖1万个用户；推特关注人数5千，是目前EOS EVM最为活跃的社区。
-- 诺亚代币已通过首轮空投的形式发射，共计空投274,295.5诺亚代币，通过交互任务和社区任务等形式，全部发放给社区3024个账户，无任何私募。
-
-**第二期路线图**
-- 产品开发，诺亚准备围绕Swap我们将开发全新的6个模块，其中包括流动性挖矿、NOAH权益证明、流动性激励分配投票、Noah解锁、贿赂、权益加成及数据统计；
-- 市场宣传：与多个知名媒体、100+KOL志愿者、50+社区进行深度合作
+- 诺亚第一期基金会赞助申请的目标全部完成，诺亚Swap已上线，合约通过Certik审计并开源。产品具备基本的闪兑、提供流动性、查看市场详情，全站数据统计等功能；
+- 诺亚锁仓量平均在100万美元上下，日均交易额5万美金，在EOS EVM排行第一；电报社区中英文合计4,000人，日常在线人数500人，其他合作社区35+，有效覆盖1万个用户；推特关注人数5千，是目前EOS EVM最为活跃的社区。
+- 诺亚代币已通过首轮空投的形式发射，共计空投274,295.5诺亚代币，通过交互任务和社区任务等形式，全部发放给社区3029个账户，无任何私募。
 
 **第二期目标**
-- 产品模块：多个模块将共同打造一个全新的Noah Finance，为用户带来更优质的服务，同时为EOS EVM带来更丰富的生态。流动性挖矿可根据用户的质押情况还可以获得不同程度的奖励加成，为流动性提供者带来全新的奖励方式；NOAH权益证明可根据Rebase机制，质押占比越大，质押池可获得更多奖励，同时将销毁更多NOAH，让NOAH更有价值；流动性激励分配投票，这是诺亚代币与挖矿激励治理的结合；NOAH解锁，一种目前创新性解锁释放的玩法，能使诺亚Swap的锁仓量、交易量、代币价格、用户活跃度等不断上涨，进入DeFi正循环；贿赂功能将吸引更多项目在Swap中建立流动性，同时为用户带来更多玩法和收益；权益加成包括流动性做市奖励加成、质押奖励加成、投票治理权益加成、手续费奖励加成及贿赂奖励的加成等，又进一步丰富了诺亚的DeFi玩法。
-- 市场推广：诺亚主社群人数超过10,000人，日常在线人数2000人；深度合作社区50+，有效覆盖2万个用户；推特关注数1万人以上。
+- 产品模块：在2023年6月底开发完成6大模块，共同打造一个全新的Noah Finance，让诺亚成为一个具有流动性挖矿、代币权益证明、流动性激励投票、诺亚解锁、贿赂、权益加成这6大功能创新型DeFi，成为EOS EVM上DeFi的标杆；
+- 市场推广：在第二期产品上线后的30天内，即7月底，诺亚主社群人数超过8,000人，日常在线人数突破1,000人；深度合作社区50+，有效覆盖2万个用户；推特关注数1万人以上，保持EOS EVM最活跃社区的地位
+- DeFi数据：在第二期产品上线后的30天内，即7月底，锁仓量突破200万美元，保持EOS EVM链排行第一；诺亚持币用户数增长至300%，即持币用户数突破3,000；诺亚代币价格有显著的提升，较底部价格有数倍的上涨；
+
+**路径图实现**
+- 产品模块：6大模块将共同打造一个全新的Noah Finance，为用户带来更优质的服务，同时为EOS EVM带来更丰富的生态。
+1. 流动性挖矿可根据用户的质押情况还可以获得不同程度的奖励加成，为流动性提供者带来全新的奖励方式；
+2. NOAH权益证明可根据Rebase机制，质押占比越大，质押池可获得更多奖励，同时将销毁更多NOAH，让NOAH更有价值；
+3. 流动性激励分配投票，这是诺亚代币与挖矿激励治理的结合；
+4. NOAH解锁，一种目前创新性解锁释放的模式，能使诺亚Swap的锁仓量、交易量、代币价格、用户活跃度等不断上涨，进入DeFi正循环；
+5. 贿赂功能将吸引更多项目在Swap中建立流动性，同时为用户带来更多模式和收益；
+6. 权益加成包括流动性做市奖励加成、质押奖励加成、投票治理权益加成、手续费奖励加成及贿赂奖励的加成等，又进一步丰富了诺亚的DeFi模式；
+- 市场计划：
+1. 充分利用基金会已有的资源，与多个知名区块链媒体进行曝光引流；
+2. 与10+的头部KOL及50+中小KOL志愿者进行粉丝裂变；
+3. 与50+大中型社区进行深度社区合作，包括置顶、接龙、空投、AMA等活动；
+
 
 **所需支持**
-- 流动性：包括EOS、USDT、ETH、BNB、BTC、知名meme币等价值资产；
+- 流动性：提供包括EOS、USDT、ETH、BNB、BTC、知名meme币等价值资产流动性支持；
 - 关系网络：协助诺亚与知名的投资机构、前10大交易所、知名社区等进行深度合作；
-- 媒体资源：利用基金会在主流媒体以及社区资源，对诺亚进行全范围的媒体覆盖支持，媒介资源及社区对诺亚进行全方位的媒体曝光和引流。
+- 媒体资源：提供基金会在主流媒体以及社区资源，对诺亚进行全范围的媒体社区覆盖、曝光和引流。
 
 ### 项目概况
 **概述**
@@ -224,8 +242,8 @@ Noah Swap目前已上线EVM主网，围绕Swap我们将开发全新的6个模块
 - 流动性挖矿：为Swap提供流动性可以获得流动性激励，弥补交易带来的无常损失同时获得更多收益。根据用户的质押情况还可以获得不同程度的奖励加成，为流动性提供者带来全新的奖励方式。
 - NOAH权益证明：根据用户质押NOAH的情况，可以获得不同程度的权益。
 - 流动性激励分配投票：拥有NOAH质押权益的投票用户可获得该流动池的部分手续费。**
-- NOAH解锁：一种DeFi创新性玩法，通过多种规则结合，可以获得不同的线性解锁，能使诺亚Swap的锁仓量、交易量、代币价格、用户活跃度等不断上涨，进入DeFi正循环。
-- 贿赂：贿赂功能将吸引更多项目在Swap中建立流动性，同时为用户带来更多玩法和收益。
+- NOAH解锁：一种创新性DeFi模式，通过多种规则结合，可以获得不同的线性解锁，能使诺亚Swap的锁仓量、交易量、代币价格、用户活跃度等不断上涨，进入DeFi正循环。
+- 贿赂：贿赂功能将吸引更多项目在Swap中建立流动性，同时为用户带来更多模式和收益。
 - 权益加成：在NOAH Finance中，质押治理代币的用户可以获得更多的权益加成。
 
 - 名称：诺亚 治理系统 / 激励系统
@@ -250,7 +268,7 @@ EOS EVM的用户,专业的DEX-DEX,DEX-CEX套利者,庞大的EOS用户群体。
 我们是EOS EVM中第一个可以提供6个模块，其中包括流动性挖矿、NOAH权益证明、流动性激励分配投票、NOAH解锁、贿赂、权益加成及数据统计的创新型DeFi项目。
 
 - **如果是这样，您的项目有何不同？**
-6大模块，其中包括流动性挖矿、NOAH权益证明、流动性激励分配投票、NOAH解锁、贿赂、权益加成及数据统计的创新型DeFi项目。这是目前EOS EVM乃至整个以太坊系DeFi玩法中，属于创新性的DeFi协议。
+6大模块，其中包括流动性挖矿、NOAH权益证明、流动性激励分配投票、NOAH解锁、贿赂、权益加成及数据统计的创新型DeFi项目。这是目前EOS EVM乃至整个以太坊系DeFi模式中，属于创新性的DeFi协议。
 
 ### 团队
 - **团队成员：** 20
@@ -277,7 +295,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 
 ## 开发路线
 
-**6大模块开发：(不含合约审计费用)**
+**6大模块开发：**
 1. 诺亚流动性质押挖矿功能（2023.06）
 2. NOAH权益证明 （2023.06）
 3. 流动性激励分配投票 （2023.06）
@@ -285,75 +303,73 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 5. 贿赂 （2023.07）
 6. 权益加成及数据统计 （2023.07）
 
-## 里程碑总结 (不含合约审计费用)
-### 总预计持续时间：4个月
+## 里程碑总结
+### 总预计持续时间：5个月
 ### 全职当量 (FTE)：15 FTE
-### 总成本：128,000 美元
+### 总成本：148,000 美元
 
 - **里程碑1**
-- **预计持续时间：** 0.5个月
+- **预计持续时间：** 1个月
 - **全职当量 (FTE)：** 5 FTE
 - **成本：** 30,000 美元
  
- | ID         | 可交付成果     | 规格          |
+ | ID         | 项     | 描述          |
  | ---------- | :-----------: | :-----------: |
- | 0a    | 证书     | MIT    |
- | 0b    | 文档 | 我们将提供代码的内联文档和解释用户如何访问我们的网站程序并发送测试交易的基本教程，这将展示新功能的工作原理。|
- | 0c    | 测试指导 | 单元测试将完全覆盖核心功能，以确保功能性和稳健性。     |
- | 0d    | 文章| 我们将发布一篇文章关于资助如何使用，以及完成的工作内容     |
- | 1    | 产品设计 | 可提供NOAH空投功能及UI设计图原件     |
- | 2    | 智能合约     | 提交包含空投功能的合约文件   |
- | 3    | 前端开发     | 开发实现满足活跃条件的用户领取空投等用户操作界面     |
+ | 1    | 目标     | 通过100%源于社区空投的模式进行项目启发射，吸引包括EOS链和其他链的用户参与到EOS EVM，体验诺亚，实现项目100%源于社区，诺亚代币发射，带动了3029个EOS EVM用户的参与度，建立了初始流动池NOAH/EOS，总价值为约2万美元（已完成）    |
+ | 2    | 产品交付 | 诺亚空投领取页面已上线，并实现了相关功能；可提供NOAH空投功能、UI设计图原件、空投功能的合约文件等相关文档|
+ | 3    | 市场营销 | 组建了诺亚志愿者团队75人、意见领袖50名、已合作社区35个、社区影响力覆盖3000名用户；NOAH交易所已经上线CMC、geckoterminal，NOAH代币已上线CMC；后续可利用这些已合作资源进行深度二次合作  |
+ | 4    | 所需支持| 项目初期各类费用、初始流动池费用及开发费合计30,000美元     |
+
 
 - **里程碑2**
 - **预计持续时间：** 2个月
 - **全职当量 (FTE)：** 15 FTE
 - **成本：** 53,000 美元
 
- | ID         | 可交付成果     | 规格          |
+ | ID         | 项     | 描述          |
  | ---------- | :-----------: | :-----------: |
- | 0a    | 证书     | MIT    |
- | 0b    | 文档 | 我们将提供代码的内联文档和解释用户如何访问我们的网站程序并发送测试交易的基本教程，这将展示新功能的工作原理。|
- | 0c    | 测试指导 | 单元测试将完全覆盖核心功能，以确保功能性和稳健性。     |
- | 0d    | 文章| 我们将发布一篇文章关于资助如何使用，以及完成的工作内容     |
- | 1    | 产品设计 | 可提交NOAH代币质押模块、流动性挖矿模块、权益加成模块和NOAH解锁模块的UI设计图原件，以及项目的原型设计文件     |
- | 2    | 智能合约     | 提交包含代币质押合约、流动性挖矿合约和NOAH解锁合约   |
- | 3    | 前端开发     | 开发实现用户质押NOAH、参与流动性挖矿、领取多个奖励及NOAH线性解锁功能等界面，提供给用户方便快捷的交互体验     |
- | 4    | 后端开发     | 提供质押数据、解锁数据和挖矿奖励数据API等，方便外部收集     |
+ | 1    | 目标     | 实现诺亚代币质押、流动性挖矿、权益加成和诺亚解锁的功能，给用户方便快捷的DeFi交互体验，给用户带来更多的DeFi模式和收益，在EOS EVM树立一个DeFi的标杆    |
+ | 2    | 产品交付 | 提交NOAH代币质押模块、流动性挖矿模块、权益加成模块、NOAH解锁模块的UI设计图原件、项目原型设计文件；提交包含代币质押合约、流动性挖矿合约和NOAH解锁合约；开发实现用户质押NOAH、参与流动性挖矿、领取多个奖励及NOAH线性解锁功能等界面；提供质押数据、解锁数据和挖矿奖励数据API等，方便外部收集 |
+ | 3    | 市场营销 | 提供市场活动以及教程文档，吸引用户参与到诺亚相关功能，增加用户留存度和参与度    |
+ | 4    | 所需支持     | 开发费用53,000美元   |
+
 
 - **里程碑3**
-- **预计持续时间：** 1.5个月
+- **预计持续时间：** 1个月
 - **全职当量 (FTE)：** 15 FTE
 - **成本：** 30,000 美元
 
- | ID         | 可交付成果     | 规格          |
+ | ID         | 项     | 描述          |
  | ---------- | :-----------: | :-----------: |
- | 0a    | 证书     | MIT    |
- | 0b    | 文档 | 我们将提供代码的内联文档和解释用户如何访问我们的网站程序并发送测试交易的基本教程，这将展示新功能的工作原理。|
- | 0c    | 测试指导 | 单元测试将完全覆盖核心功能，以确保功能性和稳健性。     |
- | 0d    | 文章| 我们将发布一篇文章关于资助如何使用，以及完成的工作内容     |
- | 1    | 产品设计 | 可提交流动性激励分配投票模块、贿赂奖励模块及相关数据统计模块等页面的UI设计图原件，以及项目的原型设计文件    |
- | 2    | 智能合约     | 提交包含流动性激励投票分配模块、贿赂奖励模块系统的合约文件   |
- | 3    | 前端开发     | 提供支持用户完成流动性激励分配投票功能、用户对流动池进行贿赂奖励功能及相关数据统计等用户操作界面     |
- | 4    | 后端开发     | 提供流动性激励投票数据内容以及相关数据统计API等，方便外部收集     |
+ | 1    | 目标          | 支持用户完成流动性激励分配投票功能、用户对流动池进行贿赂奖励功能及相关数据统计等功能，把流动性投票和贿赂的DeFi带入到EOS EVM，提高用户以及其他合作项目方参与DeFi的积极性，给EOS EVM生态带来更高的活跃度    |
+ | 2    | 产品交付  | 可提交流动性激励分配投票模块、贿赂奖励模块及相关数据统计模块等页面的UI设计图原件，以及项目的原型设计文件；提交包含流动性激励投票分配模块、贿赂奖励模块系统的合约文件；提供支持用户完成流动性激励分配投票功能、用户对流动池进行贿赂奖励功能及相关数据统计等用户操作界面；提供流动性激励投票数据内容以及相关数据统计API等，方便外部收集|
+ | 3    | 市场营销     | 开启市场活动，提供教程文档，吸引用户参与到诺亚相关功能，增加用户留存度和参与度   |
+ | 4    | 所需支持     | 开发费用30,000美元     |
 
 - **里程碑4**
-- **预计持续时间：** 1个月
+- **预计持续时间：** 0.5个月
 - **全职当量 (FTE)：** 15 FTE
 - **成本：** 15,000 美元
-- **市场宣传项:** 诺亚媒体宣传与社区发展
-- **市场宣传描述:** 覆盖5个区块链知名媒体宣传费用，合计4000美元；5位币圈超级大V，合计4000美元；20位社区长或者推特电报等中小V，合计4000美元；AMA、抽奖、交易大赛、裂变空投等市场活动，合计3000美元
 
+ | ID         | 项     | 描述          |
+ | ---------- | :-----------: | :-----------: |
+ | 1    | 目标        | 诺亚主社群人数超过8,000人，日常在线人数突破1,000人；深度合作社区50+，有效覆盖2万个用户；推特关注数1万人以上，保持EOS EVM最活跃社区的地位，通过吸引EOS链以及外链用户对诺亚的关注，间接对EOS EVM进行引流，增加EOS EVM知名度    |
+ | 2    | 产品功能交付 | 诺亚将拥有一个超过100人志愿者团队，其中精英志愿者30名、各大社区领袖50名、知名合作媒体10名、已合作社区50+ |
+ | 3    | 市场营销     | 充分利用基金会已有的资源，与多个知名区块链媒体进行曝光引流；与10+的头部KOL及50+中小KOL志愿者进行粉丝裂变；与50+大中型社区进行深度社区合作，包括置顶、接龙、空投、AMA等活动；|
+ | 4    | 所需支持     | EOS网络基金会的媒体资源、社区资源以及市场费用15,000美元   |
 
-## 安全审计
+- **里程碑5**
+- **预计持续时间：** 0.5个月
+- **全职当量 (FTE)：** 15 FTE
+- **成本：** 20,000 美元
 
-- **安全审计项:** 诺亚-6大模块
-- **安全审计描述:** 诺亚-6大模块包括流动性挖矿、NOAH权益证明、流动性激励分配投票、NOAH解锁、贿赂、权益加成及数据统计
-- **安全审计费用合计:** 20,000 美元
-- **安全审计公司:** Certik https://www.certik.com/ 或者其他知名安全审计公司
+ | ID         | 项     | 描述          |
+ | ---------- | :-----------: | :-----------: |
+ | 1    | 目标        | 对诺亚新上线的流动性挖矿、代币权益证明、流动性激励投票、诺亚解锁、贿赂、权益加成这6大模块进行合约安全审计，提升诺亚的安全性，增加用户对诺亚及EOS EVM资产安全的信任度    |
+ | 2    | 产品功能交付 | Certik或者其他知名安全审计公司关于诺亚第二期产品的审计报告 |
+ | 3    | 市场营销     | 通过社区传播、媒体宣发等形式，主打产品的安全性，吸引更多用户|
+ | 4    | 所需支持     | 审计费20,000美元   |
 
-## 资助款合计
-### 资助款合计（包括开发费用+市场费用+审计费）:** 148,000 美元
 
 ## 其他信息
 - **您是如何得知赠款计划的？：** EOS EVM 黑客马拉松活动
