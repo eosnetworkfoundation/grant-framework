@@ -19,9 +19,9 @@
 
 **Current status**
 - The goals in Noah Stage 1 Grant are all achieved; Noah Swap has been launched, and the contract has passed Certik audit and is open source. Functions like Swap, liquidity, market data viewing, and statistics tracking available;
-- Noah TVL around $1 million, and the average daily transaction volume is $50,000, ranking 1st in EOS EVM；**
+- Noah TVL around $1 million, and the average daily transaction volume is $50,000, ranking 1st in EOS EVM；https://defillama.com/chain/EOS%20EVM
 - The Chinese and English telegram community has 4,000  members, 500 daily active users, and 35+ other cooperative communities, effectively covering 10,000 users; Twitter has 5,000 followers; Noah community is the most active community of EOS EVM.
-- Noah tokens have been launched in the form of the first round of airdrops, with a total of 274,295.5 Noah tokens airdropped to 3029 accounts in the community through interactive tasks and community tasks, without any private sales.
+- Noah tokens have been launched in the form of the first round of airdrops, with a total of 274,295.5 Noah tokens airdropped to 3029 accounts in the community through interactive tasks and community tasks, without any private sales. https://noah-finance.gitbook.io/noah/noah-airdrop-rules-2023-05-15
 
 **Stage 2 goal**
 - Product modules: At the end of June 2023, 6 major modules will be developed to create a brand new Noah Finance that can support liquidity mining, token equity proof, liquidity incentive voting, Noah unlocking, bribery, equity bonus functions of innovative DeFi. It can make Noah the flag of DeFi on EOS EVM;
@@ -209,8 +209,8 @@ https://github.com/NoaharkEVM/noaharkswap
 
 **项目进展**
 - 诺亚第一期基金会赞助申请的目标全部完成，诺亚Swap已上线，合约通过Certik审计并开源。产品具备基本的闪兑、提供流动性、查看市场详情，全站数据统计等功能；
-- 诺亚锁仓量平均在100万美元上下，日均交易额5万美金，在EOS EVM排行第一；电报社区中英文合计4,000人，日常在线人数500人，其他合作社区35+，有效覆盖1万个用户；推特关注人数5千，是目前EOS EVM最为活跃的社区。
-- 诺亚代币已通过首轮空投的形式发射，共计空投274,295.5诺亚代币，通过交互任务和社区任务等形式，全部发放给社区3029个账户，无任何私募。
+- 诺亚锁仓量平均在100万美元上下，日均交易额5万美金，在EOS EVM排行第一；电报社区中英文合计4,000人，日常在线人数500人，其他合作社区35+，有效覆盖1万个用户；推特关注人数5千，是目前EOS EVM最为活跃的社区。https://defillama.com/chain/EOS%20EVM
+- 诺亚代币已通过首轮空投的形式发射，共计空投274,295.5诺亚代币，通过交互任务和社区任务等形式，全部发放给社区3029个账户，无任何私募。https://noah-finance.gitbook.io/noah/noah-airdrop-rules-2023-05-15
 
 **第二期目标**
 - 产品模块：在2023年6月底开发完成6大模块，共同打造一个全新的Noah Finance，让诺亚成为一个具有流动性挖矿、代币权益证明、流动性激励投票、诺亚解锁、贿赂、权益加成这6大功能创新型DeFi，成为EOS EVM上DeFi的标杆；
