@@ -29,7 +29,7 @@
 | Team | Project Name / Application | Repo | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
 | [FACINGS, Inc.](https://facings.io) | [NFT Collection Manager Stage 2](../applications/facings-nft-collection-manager-stage-2.md) | [GitHub](https://github.com/FACINGS) | <ul><li>[ ] </li></ul> |  <ul><li>[X] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Animus Labs LTD (representing Boid.com)](https://www.animus.is) | [Antelope Firewall](../applications/antelopeio_firewall.md) | [GitHub](https://github.com/mchosc) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Animus Labs LTD (rep Boid.com)](https://www.animus.is) | [Antelope Firewall](../applications/antelopeio_firewall.md) | [GitHub](https://github.com/mchosc) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Creamy Vainilla C.A](https://eosvision.io/) | [EOS VISIONS](../applications/eosreddit2.md) | [GitHub](https://github.com/Creamyvanill) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Alphabox Solutions Pte. Ltd.](https://alphaday.com/) | [Alphaday](../applications/alphaday.md) | [GitHub](https://github.com/Mikael337) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 
