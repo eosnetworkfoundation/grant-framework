@@ -131,3 +131,4 @@ We would like to see this community grow on its own as well as see the treasury 
 ## Additional Information
 
 We would like to know if there is a way for EOS to apply for a CA/Root cert for this project? This would help create a moat around this community and technology. 
+This would also be used as a public utility for other services that need notorization of documentations. 
