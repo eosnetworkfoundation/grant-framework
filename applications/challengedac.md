@@ -65,7 +65,7 @@ Chace Eskam: Has spent a number of years studying the social and economic impact
 - **Full-Time Equivalent (FTE):** 1 FTE
 - **Total Costs:** 18,500 USD
 
-### Milestone 1 - Develop DacDart, a decentralized SDK, using EOS Node API to hook to ChallengeDac application blocks to view accounts, performs smart contracts
+### Milestone 1 - Develop DacDart, a decentralized SDK, using EOS based blockchain ECC, and EOS Node API to hook to ChallengeDac application blocks to view accounts, performs smart contracts, and manage EOS private key
 
 - **Estimated duration:** 2 months
 - **FTE:**  1
@@ -73,7 +73,7 @@ Chace Eskam: Has spent a number of years studying the social and economic impact
 
 | ID  | Deliverable | Specification |
 | --- | ----------- | ------------- |
-| 1.  | Refactor EOS Node APIs | $7,000 is added to the development of refactoring the EOS Node APIs to seperate modules written in Dart |
+| 1.  | Refactor EOS based blockchain ECC (Elliptic curve cryptography), and EOS get_table_rows API to DacDart module | $7,000 is added to the development of refactoring the based blockchain ECC (Elliptic curve cryptography), and EOS get_table_rows API to a seperate module written in Dart |
 | 2.  | Quality Assurance and Documentation | $2,000 to test the code reliability and stability of the SDK in different platforms |
 
 ### Milestone 2 - Launch the first marketing campaign to have the ChallengeDac community creates the quality EOS public organic contents
