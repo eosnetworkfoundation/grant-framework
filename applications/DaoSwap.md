@@ -25,23 +25,23 @@
 
 > https://github.com/eosdaoswap/daoswapooooo
 - [x] "DaoSwap" smart contract source code will be made available (*.cpp)
-- [x] Prebuilt WASM binaries *.wasm & *.abi (with version control)
-- [x] General documentation README.md
-- [x] Contract audit
+- [x]  "DaoSwap" Prebuilt WASM binaries *.wasm & *.abi (with version control)
+- [x]  "DaoSwap" General documentation README.md
+- [x]  "DaoSwap" Contract audit
 
 **Stage Two (not completed)**
 
 - [ ] “Red Envelope” smart contract source code will be made available (*.cpp)
-- [ ] Prebuilt WASM binaries *.wasm & *.abi (with version control)
-- [ ] General documentation README.md
-- [ ] Contract audit
+- [ ] “Red Envelope”  Prebuilt WASM binaries *.wasm & *.abi (with version control)
+- [ ] “Red Envelope”  General documentation README.md
+- [ ] “Red Envelope”  Contract audit
 
 **Stage Three (not completed) **
 
 - [ ] “Anonymous Bank” smart contract source code will be made available (*.cpp)
-- [ ] Prebuilt WASM binaries *.wasm & *.abi (with version control)
-- [ ] General documentation README.md
-- [ ] Contract audit
+- [ ] “Anonymous Bank” Prebuilt WASM binaries *.wasm & *.abi (with version control)
+- [ ] “Anonymous Bank” General documentation README.md
+- [ ] “Anonymous Bank” Contract audit
 
 ## Project Overview
 
@@ -168,21 +168,21 @@ https://github.com/eosdaoswap
 - [x] 提供daoswap项目智能合约源代码 接口
 - [x] 预构建的 WASM 二进制文件 *.wasm 和 *.abi（带版本控制）
 - [x] 通用文档 README.md
-- [x] 合约审计
+- [x] Sentnl 合约审计
 
 **第二阶段（未完成）“柚子红包项目”**
 
 - [x] 提供柚子红包项目智能合约源代码 接口
 - [x] 预构建的 WASM 二进制文件 *.wasm 和 *.abi（带版本控制）
 - [x] 通用文档 README.md
-- [x] 合约审计
+- [x] Sentnl 合约审计
 
 **第三阶段（未完成）“匿名银行项目”**
 
 - [x] 提供匿名银行项目智能合约源代码 接口
 - [x] 预构建的 WASM 二进制文件 *.wasm 和 *.abi（带版本控制）
 - [x] 通用文档 README.md
-- [x] 合约审计
+- [x] Sentnl 合约审计
 
 ### 项目概况
 **概述**
