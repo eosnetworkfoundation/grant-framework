@@ -140,7 +140,7 @@ https://github.com/defiboxswap
 - **Pomelo资助：** https://pomelo.io/grants/vault
 - **项目是开源的：** 是*
 - **项目是代币销售的一部分：** 否
-- **项目资源库：** https://github.com/eosdaoswap/daoswapooooo
+- **项目资源库：** https://github.com/eosdaoswap
 
 ### 联系人
 - **联系人姓名：** Smith.Di
@@ -151,7 +151,7 @@ https://github.com/defiboxswap
 
 **第一阶段（已完成）“Beta 版 v0.1.0”**
 
-> https://github.com/defiboxswap/DefiboxVault-interface
+> https://github.com/eosdaoswap/daoswapooooo
 
 - [x] 包括 *.hpp 接口
 - [x] 预构建的 WASM 二进制文件 *.wasm 和 *.abi（带版本控制）
