@@ -120,7 +120,7 @@ https://github.com/NoaharkEVM/noaharkswap
 - **Full Time Equivalent (FTE):** 15 FTE
 - **Total Cost:** $148,000
 
-### Milestone 1
+### Development Milestone 1
 - **Estimated duration:** 1 month
 - **FTE:** 10 FTE
 - **Costs:** $30,000
@@ -134,7 +134,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 
 
-### Milestone 2
+### Development Milestone 2
 - **Estimated duration:** 2 months
 - **FTE:** 15 FTE
 - **Costs:** $48,000
@@ -147,7 +147,7 @@ https://github.com/NoaharkEVM/noaharkswap
  | 4    | Support needed     | Development costs $53,000   |
 
 
-### Milestone 3
+### Development Milestone 3
 - **Estimated duration:** 1 month
 - **FTE:** 15 FTE
 - **Costs:** $24,000
@@ -159,7 +159,7 @@ https://github.com/NoaharkEVM/noaharkswap
  | 3    | Marketing     | Provide marketing activities and tutorials to attract users to participate in Noah related functions and increase user participation rate   |
  | 4    | Support needed     | Development costs $30,000     |
  
-### Milestone 4
+### Marketing Milestone 4
 - **Estimated duration:** 0.5 month
 - **FTE:** 15 FTE
 - **Costs:** $10,000
@@ -171,10 +171,10 @@ https://github.com/NoaharkEVM/noaharkswap
  | 3    | Marketing     | Utilize ENF existing media resources to broadcast about Noah; conduct community growth promotions with 10+ top influencers and 50+ small and medium influencers; conduct in-depth community cooperation with 50+ large and medium-sized communities and have different marketing activities;|
  | 4    | Support needed     | $15,000 for marketing expenditure plus free media support from EOS Network Foundation|
 
-### Milestone 5
-- **Estimated duration:** 0.5 month
-- **FTE:** 15 FTE
-- **Costs:** $36,000
+### Security Audit Milestone 5
+- **Unit price:** $12,000 per man-week
+- **Man-power:** 3 man-weeks
+- **Total costs:** $36,000
 
  | ID         | Item     | Detail          |
  | ---------- | :-----------: | :-----------: |
@@ -308,7 +308,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 - **全职当量 (FTE)：** 15 FTE
 - **总成本：** 148,000  美元
 
-### 里程碑1
+### 开发里程碑1
 - **预计持续时间：** 1个月
 - **全职当量 (FTE)：** 5 FTE
 - **成本：** 30,000 美元
@@ -321,7 +321,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
  | 4    | 所需支持| 项目初期各类费用、初始流动池费用及开发费合计30,000美元     |
 
 
-### 里程碑2
+### 开发里程碑2
 - **预计持续时间：** 2个月
 - **全职当量 (FTE)：** 15 FTE
 - **成本：** 48,000 美元
@@ -334,7 +334,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
  | 4    | 所需支持     | 开发费用53,000美元   |
 
 
-### 里程碑3
+### 开发里程碑3
 - **预计持续时间：** 1个月
 - **全职当量 (FTE)：** 15 FTE
 - **成本：** 24,000 美元
@@ -346,7 +346,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
  | 3    | 市场营销     | 开启市场活动，提供教程文档，吸引用户参与到诺亚相关功能，增加用户留存度和参与度   |
  | 4    | 所需支持     | 开发费用30,000美元     |
 
-### 里程碑4
+### 市场里程碑4
 - **预计持续时间：** 0.5个月
 - **全职当量 (FTE)：** 15 FTE
 - **成本：** 10,000 美元
@@ -358,10 +358,10 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
  | 3    | 市场营销     | 充分利用基金会已有的资源，与多个知名区块链媒体进行曝光引流；与10+的头部KOL及50+中小KOL志愿者进行粉丝裂变；与50+大中型社区进行深度社区合作，包括置顶、接龙、空投、AMA等活动；|
  | 4    | 所需支持     | EOS网络基金会的媒体资源、社区资源以及市场费用15,000美元   |
 
-### 里程碑5
-- **预计持续时间：** 0.5个月
-- **全职当量 (FTE)：** 15 FTE
-- **成本：** 36,000 美元
+### 安全审计里程碑5
+- **单位价格（Unit price）：** 12,000 美元 /周
+- **人力资源（Man-Power）：**  3周
+- **总成本：** 36,000 美元
 
  | ID         | 项     | 描述          |
  | ---------- | :-----------: | :-----------: |
