@@ -134,7 +134,7 @@ https://github.com/defiboxswap
 # Chinese Translation 中文翻译
 
 - **项目名称：**  PINK粉红梦庄园（PINK）
-- **团队名称：**  PKDAO
+- **团队名称：**  MIXDAO
 - **EOS支付地址：**  daoyieldoooo
 - **等级：** 3
 - **Pomelo资助：** https://pomelo.io/grants/pinkertoken
@@ -206,7 +206,7 @@ https://github.com/defiboxswap
 - **注册地址：** 海南省海口市琼山区振发一横路金科嘉园D栋623
 
 **团队经验**
--PKDAO是粉红梦庄园项目的DAO组织，在EOS生态上运营了3年，一直致力于EOS生态公共产品的开发与创新，是目前EOS链最活跃的团体之一。
+-MIXDAO是粉红梦庄园项目的DAO组织，在EOS生态上运营了3年，一直致力于EOS生态公共产品的开发与创新，是目前EOS链最活跃的团体之一，定期开展腾讯会议来宣传EOS生态。
 
 **团队组织**
 -https://github.com/eosdaoswap
