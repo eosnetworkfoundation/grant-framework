@@ -133,19 +133,19 @@ https://github.com/defiboxswap
 
 # Chinese Translation 中文翻译
 
-- **项目名称：**  金库协议 (Vault)
-- **团队名称：**  Defibox
-- **EOS支付地址：**  liquid.defi
+- **项目名称：**  DaoSwap
+- **团队名称：**  MIXD
+- **EOS支付地址：**  daoyieldoooo
 - **等级：** 3
 - **Pomelo资助：** https://pomelo.io/grants/vault
 - **项目是开源的：** 是*
 - **项目是代币销售的一部分：** 否
-- **项目资源库：** https://github.com/defiboxswap/DefiboxVault-interface
+- **项目资源库：** https://github.com/eosdaoswap/daoswapooooo
 
 ### 联系人
-- **联系人姓名：** Raven
-- **联系邮箱：** raven@defibox.io
-- **网站：** https://eos.defibox.io/vault
+- **联系人姓名：** Smith.Di
+- **联系邮箱：** uabcontafed@gmail.com
+- **网站：** https://swapdao.app
 
 ## 开源 - 时间表
 
