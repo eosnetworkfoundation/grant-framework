@@ -1,20 +1,20 @@
 # EOS Network Foundation Grant Proposal
 
-- **Project Name:** Vault Protocol
-- **Team Name:** Defibox
-- **EOS Payment Address:** liquid.defi
+- **Project Name:** PINK Pink Dream Estate (PINK)
+- **Team Name:** MIXDAO
+- **EOS Payment Address:** daoyieldoooo
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
-- **Pomelo Grant(s):** https://pomelo.io/grants/vault
+- **Pomelo Grant(s):** https://pomelo.io/grants/pinkertoken
 - **Project is Open-Source:** Yes*
 - **Project was part of Token sale:** No
-- **Repository where Project resides:** https://github.com/defiboxswap/DefiboxVault-interface
+- **Repository where Project resides:** https://github.com/eosdaoswap
 > Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
 
 ## Contact
 
-- **Contact Name:** Raven
-- **Contact Email:** raven@defibox.io
-- **Website:** https://eos.defibox.io/vault
+- **Contact Name:** Smith.Di
+- **Contact Email:** uabcontafed@gmail.com
+- **Website:** https://swapdao.app
 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -23,23 +23,25 @@
 
 **Stage One (completed) "Version Beta v0.1.0"**
 
-> https://github.com/defiboxswap/DefiboxVault-interface
-
-- [x] Includes *.hpp interface
+> https://github.com/eosdaoswap/daoswapooooo
+- [x] "DaoSwap" smart contract source code will be made available (*.cpp)
 - [x] Prebuilt WASM binaries *.wasm & *.abi (with version control)
 - [x] General documentation README.md
-- [x] Protocol Design (diagram)
+- [x] Contract audit
 
 **Stage Two (not completed)**
 
-- [ ] Protocol Design Definition (translated in English/Korean/Chinese)
-- [ ] SC development (production)
-- [ ] User documentation
-- [ ] Automatic Contracts Tests
+- [ ] “Red Envelope” smart contract source code will be made available (*.cpp)
+- [ ] Prebuilt WASM binaries *.wasm & *.abi (with version control)
+- [ ] General documentation README.md
+- [ ] Contract audit
 
-**Stage Three (re-evaluation 2nd Security Audit from Certik) “Version v1.0.0”**
+**Stage Three (not completed) **
 
-- [ ] All smart contract source code will be made available (*.cpp)
+- [ ] “Anonymous Bank” smart contract source code will be made available (*.cpp)
+- [ ] Prebuilt WASM binaries *.wasm & *.abi (with version control)
+- [ ] General documentation README.md
+- [ ] Contract audit
 
 ## Project Overview
 
@@ -49,10 +51,12 @@
 
 > Please provide the following:
 
-- **Name:** Vault, a decentralized single-token staking protocol
-- **Brief Description:** The Vault protocol is the first single-token lossless yield protocol launched by Defibox. Users can earn corresponding token income by depositing tokens. The assets can be flexibly deposited and withdrawn with open and transparent on chain data. Vault income mainly comes from Defibox protocol income, Yield+ rewards, BP income, REX income, etc. At the same time, in order to improve the utility, the protocol will issue a standard EOS token called sToken, which represents a deposit certificate. sToken can be used in multiple DeFi protocols to obtain more benefits.
-- **Relationship to EOSIO:** a public use that provides a variety of staking strategies to EOS users and project teams for more yields. Code will be open source for contribution to EOSIO repository.
-- **Reason for Interest:** It provides a variety of staking strategies to EOS users and project teams for more yields. It will brings TVL and income to Defibox team while giving benefits to participants. Ecosystem Boost: attract inactive EOS tokens which will prosper ecosystem
+- **Name:** DaoSwap
+- **Brief Description:** DaoSwap is a decentralized project platform that provides EOS users and project teams with various services, such as trading, mining, wealth management, account registration, CPU purchase, memory purchase, resource free transfer, red envelope sending, anonymous banking, NFT trading, and other functions; Among them, anonymous banks and pomelo red envelopes are their innovative projects. For example, sending red envelopes is an important social behavior of Chinese people, which can effectively improve user activity. pomelo red envelopes are the first red envelope DAPP on pomelo, making efforts to explore the application of EOS and expanding the scope of EOS's smart contracts and NFT applications. It draws on the idea of WeChat red envelopes and implements its functions on the blockchain. Due to the smooth trading status of EOS, the effect of grabbing red envelopes on blockchain is comparable to grabbing red envelopes on WeChat. Our red envelope grabbing technology has a wide range of usability. In the future, when the technology matures, it will be open source to the community, allowing all DAPPs with red envelope grabbing needs to use this technology for customized red envelope grabbing services. For anonymous banks, we develop anonymous smart contracts to achieve this goal by adding an additional layer of anonymity and privacy, making user transactions untraceable and protecting user privacy. Our privacy transfer technology has wide availability and will be open source to the community when the technology matures in the future, allowing all DAPPs with privacy transfer needs to use this technology for customized privacy service upgrades.
+- **Relationship to EOSIO:** A public facility that provides more services for EOS users and project teams, provides multiple interactions to generate more revenue, and provides open source, which will contribute to the EOSIO code repository.
+- **Reason for Interest:** It provides more services for EOS users and project teams to generate more revenue. It will bring lock-in volume and revenue to the MIXDAO team, while benefiting participants. Ecosystem improvement: attract inactive EOS tokens, which will prosper the ecosystem.
+
+
 
 
 ### Ecosystem Fit
@@ -60,7 +64,7 @@
 > Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem? 
-Users can earn corresponding token income by depositing tokens. The assets can be flexibly deposited and withdrawn with open and transparent on chain data. Vault income mainly comes from Defibox protocol income, Yield+ rewards, BP income, REX income, etc. At the same time, in order to improve the utility, the protocol will issue a standard EOS token called sToken, which represents a deposit certificate. sToken can be used in multiple DeFi protocols to obtain more benefits.
+Provide project teams with services such as pomelo red envelopes, anonymous banking, and market mining, without the need for repeated development by the project team. Provide EOS users with pomelo red envelopes, anonymous banking, market mining, account registration, CPU purchase, and resource free transfer services, allowing EOS users to experience multiple EOS interactive experiences in a one-stop manner.
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? 
 EOS users including any dapp user and project teams
@@ -69,33 +73,34 @@ EOS users including any dapp user and project teams
 For generating yield and income when holding EOS
 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
-Yes, BSS from Defibox
+NO
   
   - If so, how is your project different?
-Vault is widely supporting all the users on EOS while BSS is only available for Defibox users who have BOX tokens.
+NO
 
 ## Team
 
-### Team members：16
+### Team members：12
 
-- **Team Leader:** Eason
+- **Team Leader:** Rowney
 
 
 ### Legal Structure
-- **Registered Legal Entity:** METABOXTECHNOLOGYPTE.LTD.
-- **Registered Address:** 160 ROBINSONROAD #14-04 SINGAPORE (068914)
+- **Registered Legal Entity:** Hainan Pink Dream Investment Co., Ltd.
+- **Registered Address:** 623, Building D, Jinke Jiayuan, Zhenfa Yiheng Road, Qiongshan District, Haikou City, Hainan Province
+
 
 ### Team Experience
 
 > Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
-Defibox team is a full-time team that covers front-end, back-end, contract, operations, testing, and business on EOS, WAX and BSC. We have developed Swap, USN, Lending and many other DeFi protocols on EOS. We have been the leading DeFi on EOS in terms of TVL and running safely over 2 years. Besides this, we also co-developed major projects like Yield+ portal, etc.
+MIXDAO is the DAO organization of the Pink Dream Manor project, which has been operating on the EOS ecosystem for 3 years. It has been committed to the development and innovation of EOS ecological public products and is currently one of the most active groups in the EOS chain. It regularly holds Tencent meetings to promote the EOS ecosystem.
 
 > If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
 
 
 ### Team Org Repos
 
-https://github.com/defiboxswap
+https://github.com/eosdaoswap
 
 
 > Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
@@ -104,22 +109,29 @@ https://github.com/defiboxswap
 
 ### Milestone Summary
 
-- **Total Estimated Duration:** 3 months (remaining 3 weeks)
-- **Full-Time Equivalent (FTE):** 5 FTE
+- **Total Estimated Duration:** 4 months (remaining 3 weeks)
+- **Full-Time Equivalent (FTE):** 6 FTE
 - **Total Costs:** 80,000 USD
 
 - **Deliverables:**
 
  | Deliverable      | Status    | Cost    |
  | ---------- | :-----------:  | :-----------: |
- | Protocol Design - Diagram     | Completed     | $3,000     |
- | Protocol Design - Definitions (EN/KO/CN)     | Not completed     | $5,000     |
- | SC development (prototype)     | Completed     | $12,000     |
- | SC development (production)     | Not completed     | $12,000     |
- | Developer documentation     | Completed     | $4,000     |
- | User documentation     | Not completed     | $6,000     |
- | Automatic Contracts Tests     | Not completed     | $14,000     |
- | Certik Audit     | Completed     | $24,000     |
+ | SC development (prototype)     | Completed     | $6,000     |
+ | SC development (production)     | Completed     | $8,000     |
+ | Developer documentation     | Not completed     | $3,000     |
+ | User documentation     | Not completed     | $2,500     |
+ | Sentnl Audit     | Completed     | $8,500     |
+ | SC development (prototype)     | Completed     | $6,000     |
+ | SC development (production)     | Completed     | $6,000     |
+ | Developer documentation     | Not completed     | $3,000     |
+ | User documentation     | Not completed     | $2,500     |
+ | Sentnl Audit     | Not completed     | $8,500     |
+ | SC development (prototype)     | Completed     | $6,000     |
+ | SC development (production)     | Completed     | $6,000     |
+ | Developer documentation     | Not completed     | $3,000     |
+ | User documentation     | Not completed     | $2,500     |
+ | Sentnl Audit     | Not completed     | $8,500     |
 
 
 ## Additional Information
