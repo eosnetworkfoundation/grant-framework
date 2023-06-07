@@ -1,6 +1,6 @@
 # EOS Network Foundation Grant Proposal
 
-- **Project Name:** Noahark - 6 modules
+- **Project Name:** Noahark - LP mining, incentives, and voting
 - **Team Name:** Noahark
 - **EOS Payment Address:** btxhdbttqhgs
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
@@ -107,7 +107,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 ## Development Plan
 
-**6 major module development:**
+**6 major modules partly development:**
 1. Noah’s liquidity staking mining function (2023.06)
 2. NOAH Proof of Equity (2023.06)
 3. Liquidity incentive distribution voting (2023.06)
@@ -115,15 +115,15 @@ https://github.com/NoaharkEVM/noaharkswap
 5. Bribery (2023.07)
 6. Equity addition and statistics (2023.07)
 
-### Milestone Summary
-- **Total Estimated Duration:** 5 months
+**Milestone Summary**
+- **Total Estimated Duration:** 3 months
 - **Full Time Equivalent (FTE):** 15 FTE
-- **Total Cost:** $148,000
+- **Total Cost:** $48,500
 
-### Development Milestone 1
+**Development Milestone 1**
 - **Estimated duration:** 1 month
 - **FTE:** 10 FTE
-- **Costs:** $30,000
+- **Costs:** $20,000
  
  | ID         | Item     | Detail          |
  | ---------- | :-----------: | :-----------: |
@@ -134,10 +134,10 @@ https://github.com/NoaharkEVM/noaharkswap
 
 
 
-### Development Milestone 2
+**Development Milestone 2**
 - **Estimated duration:** 2 months
 - **FTE:** 15 FTE
-- **Costs:** $48,000
+- **Costs:** $28,500
 
  | ID         | Item     | Detail          |
  | ---------- | :-----------: | :-----------: |
@@ -146,35 +146,12 @@ https://github.com/NoaharkEVM/noaharkswap
  | 3    | Marketing | Provide marketing activities and tutorials to attract users to participate in Noah related functions and increase user participation rate    |
  | 4    | Support needed     | Development costs $53,000   |
 
-
-### Development Milestone 3
-- **Estimated duration:** 1 month
-- **FTE:** 15 FTE
-- **Costs:** $24,000
-
- | ID         | Item     | Detail         |
- | ---------- | :-----------: | :-----------: |
- | 1    | Goal          | Support users to complete the liquidity incentive distribution voting function, the user's bribery reward function for the liquidity pool and related data statistics, etc., bring liquidity voting and bribery DeFi into EOS EVM, and increase the enthusiasm of users and other cooperative project parties to participate in DeFi , bringing higher activity to the EOS EVM ecology    |
- | 2    | Product delivery  | You can submit the original UI design drawings of the pages of the liquidity incentive distribution voting module, bribery reward module and related data statistics module, as well as the prototype design files of the project; submit the contract documents including the liquidity incentive voting distribution module and bribery reward module system; provide Support users to complete the user interface such as the liquidity incentive distribution voting function, the user's bribery reward function for the liquidity pool, and related data statistics; provide liquidity incentive voting data content and related data statistics API, etc., to facilitate external collection|
- | 3    | Marketing     | Provide marketing activities and tutorials to attract users to participate in Noah related functions and increase user participation rate   |
- | 4    | Support needed     | Development costs $30,000     |
  
-### Marketing Milestone 4
-- **Estimated duration:** 0.5 month
-- **FTE:** 15 FTE
-- **Costs:** $10,000
 
- | ID         | Item     | Detail          |
- | ---------- | :-----------: | :-----------: |
- | 1    | Goal        | Noah community users exceeds 8,000, daily online users exceeds 1,000; the in-depth cooperation community 50+, effectively covering 20,000 users; Twitter exceeds 10,000 followers, maintaining the most active community in EOS EVM. The attention of EOS chain and external chain users to Noah indirectly drains EOS EVM and increases the popularity of EOS EVM   |
- | 2    | Product delivery | Noah volunteer team exceeds 100 people, including 30 elite volunteers, 50 community leaders, 10 well-known cooperative media, and 50+ cooperative communities |
- | 3    | Marketing     | Utilize ENF existing media resources to broadcast about Noah; conduct community growth promotions with 10+ top influencers and 50+ small and medium influencers; conduct in-depth community cooperation with 50+ large and medium-sized communities and have different marketing activities;|
- | 4    | Support needed     | $15,000 for marketing expenditure plus free media support from EOS Network Foundation|
-
-### Security Audit Milestone 5
+**Security Audit Milestone 3**
 - **Unit price:** $12,000 per man-week
 - **Man-power:** 3 man-weeks
-- **Total costs:** $36,000
+- **Total costs:** Paid in the form of ENF & Audit company cooperation framework
 
  | ID         | Item     | Detail          |
  | ---------- | :-----------: | :-----------: |
@@ -191,7 +168,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 # Chinese中文
 
-- **项目名称：**  诺亚 - 6大模块
+- **项目名称：**  诺亚 - 流动性挖矿、权益证明、流动性激励投票
 - **团队名称：**  Noahark
 - **EOS支付地址：**  btxhdbttqhgs
 - **等级：** 3
@@ -295,7 +272,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 
 ## 开发路线
 
-**6大模块开发：**
+**6大模块部分开发：**
 1. 诺亚流动性质押挖矿功能（2023.06）
 2. NOAH权益证明 （2023.06）
 3. 流动性激励分配投票 （2023.06）
@@ -303,15 +280,15 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 5. 贿赂 （2023.07）
 6. 权益加成及数据统计 （2023.07）
 
-### 里程碑总结
-- **总预计持续时间：** 5个月
+**里程碑总结**
+- **总预计持续时间：** 3个月
 - **全职当量 (FTE)：** 15 FTE
-- **总成本：** 148,000  美元
+- **总成本：** 48,500  美元
 
-### 开发里程碑1
+**开发里程碑1**
 - **预计持续时间：** 1个月
 - **全职当量 (FTE)：** 5 FTE
-- **成本：** 30,000 美元
+- **成本：** 20,000 美元
  
  | ID         | 项     | 描述          |
  | ---------- | :-----------: | :-----------: |
@@ -321,10 +298,10 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
  | 4    | 所需支持| 项目初期各类费用、初始流动池费用及开发费合计30,000美元     |
 
 
-### 开发里程碑2
+**开发里程碑2**
 - **预计持续时间：** 2个月
 - **全职当量 (FTE)：** 15 FTE
-- **成本：** 48,000 美元
+- **成本：** 28,500 美元
 
  | ID         | 项     | 描述          |
  | ---------- | :-----------: | :-----------: |
@@ -334,34 +311,11 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
  | 4    | 所需支持     | 开发费用53,000美元   |
 
 
-### 开发里程碑3
-- **预计持续时间：** 1个月
-- **全职当量 (FTE)：** 15 FTE
-- **成本：** 24,000 美元
 
- | ID         | 项     | 描述          |
- | ---------- | :-----------: | :-----------: |
- | 1    | 目标          | 支持用户完成流动性激励分配投票功能、用户对流动池进行贿赂奖励功能及相关数据统计等功能，把流动性投票和贿赂的DeFi带入到EOS EVM，提高用户以及其他合作项目方参与DeFi的积极性，给EOS EVM生态带来更高的活跃度    |
- | 2    | 产品交付  | 可提交流动性激励分配投票模块、贿赂奖励模块及相关数据统计模块等页面的UI设计图原件，以及项目的原型设计文件；提交包含流动性激励投票分配模块、贿赂奖励模块系统的合约文件；提供支持用户完成流动性激励分配投票功能、用户对流动池进行贿赂奖励功能及相关数据统计等用户操作界面；提供流动性激励投票数据内容以及相关数据统计API等，方便外部收集|
- | 3    | 市场营销     | 开启市场活动，提供教程文档，吸引用户参与到诺亚相关功能，增加用户留存度和参与度   |
- | 4    | 所需支持     | 开发费用30,000美元     |
-
-### 市场里程碑4
-- **预计持续时间：** 0.5个月
-- **全职当量 (FTE)：** 15 FTE
-- **成本：** 10,000 美元
-
- | ID         | 项     | 描述          |
- | ---------- | :-----------: | :-----------: |
- | 1    | 目标        | 诺亚主社群人数超过8,000人，日常在线人数突破1,000人；深度合作社区50+，有效覆盖2万个用户；推特关注数1万人以上，保持EOS EVM最活跃社区的地位，通过吸引EOS链以及外链用户对诺亚的关注，间接对EOS EVM进行引流，增加EOS EVM知名度    |
- | 2    | 产品功能交付 | 诺亚将拥有一个超过100人志愿者团队，其中精英志愿者30名、各大社区领袖50名、知名合作媒体10名、已合作社区50+ |
- | 3    | 市场营销     | 充分利用基金会已有的资源，与多个知名区块链媒体进行曝光引流；与10+的头部KOL及50+中小KOL志愿者进行粉丝裂变；与50+大中型社区进行深度社区合作，包括置顶、接龙、空投、AMA等活动；|
- | 4    | 所需支持     | EOS网络基金会的媒体资源、社区资源以及市场费用15,000美元   |
-
-### 安全审计里程碑5
+**安全审计里程碑3**
 - **单位价格（Unit price）：** 12,000 美元 /周
 - **人力资源（Man-Power）：**  3周
-- **总成本：** 36,000 美元
+- **总成本：** 以ENF与审计公司合作框架的形式支付
 
  | ID         | 项     | 描述          |
  | ---------- | :-----------: | :-----------: |
