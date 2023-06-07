@@ -1,6 +1,6 @@
 # EOS Network Foundation Grant Proposal
 
-- **Project Name:** Noahark - LP mining, incentives, and voting
+- **Project Name:** Noahark - LP mining, incentives, and voting from 6 modules
 - **Team Name:** Noahark
 - **EOS Payment Address:** btxhdbttqhgs
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
@@ -168,7 +168,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 # Chinese中文
 
-- **项目名称：**  诺亚 - 流动性挖矿、权益证明、流动性激励投票
+- **项目名称：**  诺亚 - 6大模块之流动性挖矿、权益证明、流动性激励投票
 - **团队名称：**  Noahark
 - **EOS支付地址：**  btxhdbttqhgs
 - **等级：** 3
