@@ -122,7 +122,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 **Development Milestone 1**
 - **Estimated duration:** 1 month
-- **FTE:** 10 FTE
+- **FTE:** 15 FTE
 - **Costs:** $20,000
  
  | ID         | Item     | Detail          |
@@ -287,7 +287,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 
 **开发里程碑1**
 - **预计持续时间：** 1个月
-- **全职当量 (FTE)：** 10 FTE
+- **全职当量 (FTE)：** 15 FTE
 - **成本：** 20,000 美元
  
  | ID         | 项     | 描述          |
