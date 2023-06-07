@@ -1,6 +1,6 @@
 # EOS Network Foundation Grant Proposal
 
-- **Project Name:** Noahark - unlocking, bribery, and bonus from 6 modules
+- **Project Name:** Noahark - unlocking, bribery, and vtoken from 6 modules
 - **Team Name:** Noahark
 - **EOS Payment Address:** btxhdbttqhgs
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
@@ -155,7 +155,7 @@ https://github.com/NoaharkEVM/noaharkswap
 
 # Chinese中文
 
-- **项目名称：**  诺亚 - 6大模块之解锁，贿赂，增益
+- **项目名称：**  诺亚 - 解锁，贿赂，vtoken
 - **团队名称：**  Noahark
 - **EOS支付地址：**  btxhdbttqhgs
 - **等级：** 3
