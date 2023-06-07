@@ -130,7 +130,7 @@ https://github.com/NoaharkEVM/noaharkswap
  | 1    | Goal    | Through the 100% community airdrop model, the project launch will attract users including the EOS chain and other chains to participate in the EOS EVM, experience Noah, realize that the project is 100% from the community, and the Noah token launch will drive 3029 EOS EVM user participation, established an initial liquidity pool NOAH/EOS, with a total value of ~$20,000 (completed)    |
  | 2    | Product delivery | The Noah airdrop claim page has been launched and related functions have been implemented; relevant documents such as NOAH airdrop function, original UI design diagram, airdrop function contract document, etc. can be provided|
  | 3    | Marketing | Formed a Noah volunteer team of 75 people, 50 opinion leaders, 35 cooperative communities, and community influence covering 3,000 users; NOAH Exchange has launched CMC and geckoterminal, and NOAH tokens have been listed on CMC; Cooperation resources for in-depth secondary cooperation  |
- | 4    | Support needed| The project's primary fee, initial liquidity pool fee and development fee total $30,000     |
+ | 4    | Support needed| The project's primary fee, initial liquidity pool fee and development fee total $20,000     |
 
 
 
@@ -144,7 +144,7 @@ https://github.com/NoaharkEVM/noaharkswap
  | 1    | Goal     | Realize the functions of Noah token staking, liquidity mining, equity addition and Noah unlocking, give users a convenient and fast DeFi interactive experience, bring more DeFi models and benefits to users, and establish a DeFi platform flag on EOS EVM    |
  | 2    | Product delivery | Submit the original UI design drawings and project prototype design files of the NOAH token stake module, liquidity mining module, equity addition module, and NOAH unlocking module; submit the token stake  contract, liquidity mining contract and NOAH unlocking contract; develop Realize interfaces such as users stake NOAH, participate in liquidity mining, receive multiple rewards, and NOAH linear unlocking functions; provide stake data, unlock data and mining reward data APIs, etc., to facilitate external collection |
  | 3    | Marketing | Provide marketing activities and tutorials to attract users to participate in Noah related functions and increase user participation rate    |
- | 4    | Support needed     | Development costs $53,000   |
+ | 4    | Support needed     | Development costs $28,500   |
 
  
 
@@ -158,7 +158,7 @@ https://github.com/NoaharkEVM/noaharkswap
  | 1    | Goal        | Conduct contract security audits on the six modules of Noah’s newly launched liquidity mining, token equity proof, liquidity incentive voting, Noah’s unlocking, bribery, and equity addition to improve Noah’s security and increase users’ trust in Noah and EOS EVM   |
  | 2    | Product delivery | Audit report on the Noah Stage 2 products from Certik or other well-known security audit companies  |
  | 3    | Marketing     | Through community communication, media announcements and other forms, focus on the safety of the product to attract more users|
- | 4    | Support needed     | Audit costs $20,000   |
+ | 4    | Support needed     | Audit costs Paid in the form of ENF & Audit company cooperation framework   |
 
 ## Other Information
 - **How did you hear about the grant program? :** EOS EVM Hackathon
@@ -295,7 +295,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
  | 1    | 目标     | 通过100%源于社区空投的模式进行项目启发射，吸引包括EOS链和其他链的用户参与到EOS EVM，体验诺亚，实现项目100%源于社区，诺亚代币发射，带动了3029个EOS EVM用户的参与度，建立了初始流动池NOAH/EOS，总价值为约2万美元（已完成）    |
  | 2    | 产品交付 | 诺亚空投领取页面已上线，并实现了相关功能；可提供NOAH空投功能、UI设计图原件、空投功能的合约文件等相关文档|
  | 3    | 市场营销 | 组建了诺亚志愿者团队75人、意见领袖50名、已合作社区35个、社区影响力覆盖3000名用户；NOAH交易所已经上线CMC、geckoterminal，NOAH代币已上线CMC；后续可利用这些已合作资源进行深度二次合作  |
- | 4    | 所需支持| 项目初期各类费用、初始流动池费用及开发费合计30,000美元     |
+ | 4    | 所需支持| 项目初期各类费用、初始流动池费用及开发费合计20,000美元     |
 
 
 **开发里程碑2**
@@ -308,7 +308,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
  | 1    | 目标     | 实现诺亚代币质押、流动性挖矿、权益加成和诺亚解锁的功能，给用户方便快捷的DeFi交互体验，给用户带来更多的DeFi模式和收益，在EOS EVM树立一个DeFi的标杆    |
  | 2    | 产品交付 | 提交NOAH代币质押模块、流动性挖矿模块、权益加成模块、NOAH解锁模块的UI设计图原件、项目原型设计文件；提交包含代币质押合约、流动性挖矿合约和NOAH解锁合约；开发实现用户质押NOAH、参与流动性挖矿、领取多个奖励及NOAH线性解锁功能等界面；提供质押数据、解锁数据和挖矿奖励数据API等，方便外部收集 |
  | 3    | 市场营销 | 提供市场活动以及教程文档，吸引用户参与到诺亚相关功能，增加用户留存度和参与度    |
- | 4    | 所需支持     | 开发费用53,000美元   |
+ | 4    | 所需支持     | 开发费用28,500美元   |
 
 
 
@@ -322,7 +322,7 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
  | 1    | 目标        | 对诺亚新上线的流动性挖矿、代币权益证明、流动性激励投票、诺亚解锁、贿赂、权益加成这6大模块进行合约安全审计，提升诺亚的安全性，增加用户对诺亚及EOS EVM资产安全的信任度    |
  | 2    | 产品功能交付 | Certik或者其他知名安全审计公司关于诺亚第二期产品的审计报告 |
  | 3    | 市场营销     | 通过社区传播、媒体宣发等形式，主打产品的安全性，吸引更多用户|
- | 4    | 所需支持     | 审计费20,000美元   |
+ | 4    | 所需支持     | 审计费以ENF与审计公司合作框架的形式支付   |
 
 
 ## 其他信息
