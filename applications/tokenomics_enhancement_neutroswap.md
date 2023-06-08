@@ -85,6 +85,8 @@ The primary objective of staked positions in the form of spNFTs is to replace co
 
 #### [**4. Protocol Revenue Distribution**](https://docs.neutroswap.io/neutroswap-v2-coming-soon/protocol-revenue)
 
+![Protocol Revenue Distribution](https://1194041802-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fen8htS8yWPtDJdaEljt1%2Fuploads%2FR5Sc2oApBRBbTOTG3zaq%2Fpurple%20gradient%20pie%20chart%20graph.png?alt=media&token=c7ae361e-b2b3-4b21-a82f-266ee5456b6c)
+
 The protocol-generated revenue will be distributed as follows:
 
 - 60% is allocated to Liquidity Providers in the form of LP tokens.
@@ -187,22 +189,22 @@ We have completed the [technical documentation](https://docs.neutroswap.io/neutr
 - **Full-Time Equivalent (FTE):** 6 FTE
 - **Total Costs:** 50,000 USD
 
-### Milestone 0 - Requirement Analysis and Marketing Plan
+### Milestone 0 - Requirement Analysis
 
 - **Estimated duration:** 2 weeks
 - **FTE:** 2
 - **Costs:** 5,000 USD
 
-| ID  | Deliverable                            | Specification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ID  | Deliverable                            | Specification |
 | --- | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0a. | License                                | MIT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 0b. | Threads                                | Publish **twitter threads** explaining all the updates that'll we'll be rolling out                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 0a. | License | MIT |
+| 0b. | Threads | Publish **twitter threads** explaining all the updates that'll we'll be rolling out about Neutroswap V2|
 | 1.  | General Requirement and Migration Plan | **Smart contract Requirement**<br> Write a detailed requirements for the smart contract <br><br> **Subgraph Migration Plan** <br> Analyze required changes on 3 of our subgraphs, and create migration plan for it <br><br> **High Fidelity Prototype** <br> Publish a high-fidelity prototype for the new UI required for the updates. The prototype will be publicly available in Figma for others to use. <br><br> **Front-end Migration Plan** <br> Do a code structure research on how the current and future component would work together <br><br> **Integration Testing Plan** <br> Research on how our current toolchain like ethers and foundry would work in the testing environment |
-| 2.  | Documentation | Enhance the technical documentation and tutorial to comprehensively explain all the updates, enabling users to familiarize themselves with the new enhancements.|
+| 2.  | Documentation | Deliver comprehensive documentation for Neutroswap V2, encompassing a range of instructional materials, example files, and detailed guidelines within the project's repository.|
 
-### Milestone 1 - Smart Contract Development, Audit, and Marketing Site
+### Milestone 1 - Smart Contract Development
 
-- **Estimated duration:** 3 weeks
+- **Estimated duration:** 4 weeks
 - **FTE:** 3
 - **Costs:** 25,000 USD
 
@@ -210,37 +212,39 @@ We have completed the [technical documentation](https://docs.neutroswap.io/neutr
 | --- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0a. | License                       | Apache 2.0                                                                                                                                                                                         |
 | 0b. | Documentation                 | We will provide both **inline documentation** of the code and a technical **tutorial** that explains how users can utilize all of the new updates works.                                           |
-| 0c. | Unit Test                     | Core functions will be fully covered by unit tests to ensure functionality and robustness. These test will be provided in the repository for the public                                            |
-| 0d. | Testing Guide                 | Guide will also be included in the repository                                                                                                                                                      |
-| 1.  | Smart Contract Security Audit | Publish the all the necessary smart contract such as xNEUTRO, spNFTs, plugins in a public repo with the audit report included. This smart contract will also publicly available on our team Github |
-| 2.  | Marketing Page                | Product landing page makeover that also describes all of the new features                                                                                                                          |
+| 0c. | Unit Test                     | Core functions will be fully covered by unit tests to ensure functionality and robustness. These test will be provided in the repository for the public |
+| 0d. | Testing Guide                 | The functions of this milestone can be tested by running the unit tests we provide, and guidance on how to run these tests is provided in the Readme file. |
+| 1.  | Core Contracts | Publish the all the necessary smart contract such as xNEUTRO, spNFTs, plugins in a public repo with the audit report included. This smart contract will also publicly available on our team Github |
+| 2.  | Tokenomics contracts | xNEUTRO can only be redeem with vesting period. It will allow burning mechanism for $NEUTRO. However, $NEUTRO can be converted into $xNEUTRO in instant. |
+| 3.  | Plugins contracts | Plugin contracts are enabling users to allocate their xNEUTRO into their desired plugins: Dividends, Yield boosters and launchpad |
+| 3.  | Protocol revenue contracts | Develop and implement smart contracts to enhance Neutroswap's protocol revenue generation capabilities and enable efficient distribution of rewards to $xNEUTRO holders. |
+| 4.  | Smart contract audit | Conduct a comprehensive audit of Neutroswap's smart contracts to ensure their security, functionality, and compliance with best practices and industry standards. |
 
 ### Milestone 2 - Graph Node Deployment, Subgraphs, and Web Development
 
-- **Estimated duration:** 3 weeks
+- **Estimated duration:** 4 weeks
 - **FTE:** 4
-- **Costs:** 10,000 USD
+- **Costs:** 15,000 USD
 
 | ID  | Deliverable          | Specification                                                                                                                                                                                            |
 | --- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0a. | License              | Apache 2.0                                                                                                                                                                                               |
-| 0b. | Integration Tests    | Integration tests will be developed, including new and modified tests.                                                                                                                                   |
-| 1.  | Subgraph Development | Publish a public subgraphs that can be used publicly                                                                                                                                                     |
-| 3.  | Additional UI        | Implementing the high-fidelity prototype from earlier stage. Adding new components necessary enabling users to interact with all of the new updates while keeping the current UI accessible to all users |
-| 4.  | Analytics            | User will be able to see xNEUTRO, spNFTs, and activity in all of the new contracts                                                                                                                       |
-| 5.  | Testnet Deployment   | Deploy the new contract, subgraphs, and web to the EOSEVM Testnet environment                                                                                                                            |
-| 6.  | Medium Post          | All contract addresses and public subgraph links will be available on both Discord and Medium account                                                                                                    |
+| 0a. | License              | Apache 2.0 |
+| 0b. | Integration Tests    | Integration tests will be developed, including new and modified tests. |
+| 1.  | Subgraph Development | Publish a Neutroswap public subgraphs that can be used publicly |
+| 2.  | New V2 UI        | Implementing the V2 high-fidelity prototype from earlier stage. Adding new components necessary enabling users to interact with all of the new updates while keeping the current UI accessible to all users. |
+| 3.  | Analytics            | User will be able to see xNEUTRO, spNFTs, and activity in all of the new contracts |
+| 4.  | Testnet Deployment   | Deploy the new contract, subgraphs, and web to the EOSEVM Testnet environment |
 
-### Milestone 3 - Neutroswap Updates Mainnet Deployment
+### Milestone 3 - Mainnet Deployment & Marketing
 
 - **Estimated duration:** 2 weeks
 - **FTE:** 2
-- **Costs:** 10,000 USD
+- **Costs:** 5,000 USD
 
 | ID  | Deliverable               | Specification                                                                      |
 | --- | ------------------------- | ---------------------------------------------------------------------------------- |
 | 0a. | License                   | Apache 2.0                                                                         |
-| 0b. | Testnet Integration Test  | Do integration testing on testnet before migrating the whole stack to the mainnet  |
+| 0b. | Article  | We will publish an informative threads on twitter, explaining the concept of V2 smart contracts and how they will be utilized within our project. |
 | 1.  | Smart Contract Deployment | Deploy smart contract to the EOS-EVM mainnet                                       |
 | 2.  | Graph Node Deployment     | Publish a private graph-node instance for the EOS-EVM mainnet environment          |
 | 3.  | Subgraph Deployment       | Publish public subgraphs for Neutroswap updates and start indexing EOS-EVM mainnet |
