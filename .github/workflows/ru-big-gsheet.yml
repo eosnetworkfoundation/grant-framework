@@ -57,7 +57,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - id: 'update_worksheet'
-        uses: jroehl/gsheet.action@v1.2.0
+        #uses: jroehl/gsheet.action@v1.2.0
+        uses: jroehl/gsheet.action@v2.0.1
         with:
           spreadsheetId: 1hTRqt_iGDmFvwbn9leKwr7e-tL9eqHS3-h_dDP5Fpu8
           commands: |

@@ -1,3 +1,5 @@
+# Write the dummy spreadsheet for testing etc.
+# 22May2023 - updated to latest jroehl/gsheet.action@v2.0.1 to supress node12 warnings
 name: Reusable Gsheet Update
 on:
   workflow_call:
@@ -14,8 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - id: 'update_worksheet'
-        uses: jroehl/gsheet.action@v1.2.0
+        uses: jroehl/gsheet.action@v2.0.1
         with:
+          # this is the dummy spreadsheet
           spreadsheetId: 1FsNUKcfAJAorZGHpEzbRKLVYWbpZ_93Ts-R-JTpRK_A 
           commands: |
             [
