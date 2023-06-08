@@ -64,7 +64,26 @@ $xNEUTRO will be non-transferable and act as our governance token. $xNEUTRO main
 
 The upcoming mechanism will replace the existing Neutro Farms as they both serve similar purposes. The key distinction is that instead of solely depositing LP tokens into the Farms smart contract, users will receive spNFTs in exchange for their deposited LP tokens, making it tradeable.
 
-#### [**3. Protocol Revenue Distribution**](https://docs.neutroswap.io/neutroswap-v2-coming-soon/protocol-revenue)
+Users have the opportunity to mint staked positions NFT (spNFTs) by wrapping Neutroswap LP tokens, which involves depositing them into the respective contract.
+
+This action transfers the deposit to a designated NFTPool contract, resulting in the issuance of spNFTs. Consider this NFT as a deposit receipt, confirming the ownership of the staked position.
+
+The ownership of the spNFTs acts as the sole authorization for a user to withdraw the corresponding funds, irrespective of the entity utilizing them. Therefore, the owner of the spNFT is effectively the rightful owner of the associated LPs, even if they were not the initial depositor.
+
+spNFTs go beyond being mere receipts; they serve as replacements for traditional yield-generating farms commonly found in DeFi protocols. Additionally, spNFTs provide an additional layer of features that unlock unlimited opportunities and potential extensions, offering a myriad of possibilities:
+
+#### [**3. Yield Farming**](https://docs.neutroswap.io/neutroswap-v2-coming-soon/staked-positions-spnfts/yield-farming)
+
+The primary objective of staked positions in the form of spNFTs is to replace conventional yield farming mechanisms and receive incentives provided by Neutroswap. However, these staked positions offer a versatile range of uses beyond this initial purpose.
+
+1. Yield-bearing NFTs: From a user's perspective, the mechanics of Neutroswap's spNFTs bear resemblances to regular DeFi farms. However, in contrast to allocating rewards solely to traditional farms, Neutroswap's Master contract distributes incentives to all staking positions associated with team-defined selected wrapped LPs. This approach ensures that incentives are widely distributed across the ecosystem.
+
+2. Rewards: Neutroswap incentives are provided in the form of dual rewards, where eligible wrapped Neutroswap LPs enable their corresponding staked positions to receive both $NEUTRO and xNEUTRO rewards. The distribution ratio of these rewards varies for each asset, with the default allocation set to 80% $xNEUTRO / 20% $NEUTRO.
+
+3. Yield multipliers: There are two methods to enhance returns from yield-generating staked positions: utilizing locks or the Yield Multiplier plugin. The specific values of these enhancements vary based on the staked asset, ranging from 0% to 150% (x1 to x2.5), although the default is typically set at 100% (x2). By summing these two multipliers, the total multiplier for the position is determined. Each pool will have its own maximum boost, with a default cap of 200% (x3) and an absolute cap of 250% (x3.5). These parameters are applied within the Neutroswap ecosystem.
+
+
+#### [**4. Protocol Revenue Distribution**](https://docs.neutroswap.io/neutroswap-v2-coming-soon/protocol-revenue)
 
 The protocol-generated revenue will be distributed as follows:
 
@@ -75,12 +94,15 @@ The protocol-generated revenue will be distributed as follows:
 
 The Core Contributors funds will be solely utilized to cover operational expenses. At the end of each month, any remaining unused amount will be reallocated at the team's discretion, either towards Dividends or for Buyback and Burn purposes.
 
-#### [**4. Deflationary Mechanism**](https://docs.neutroswap.io/neutroswap-v2-coming-soon/deflationary-mechanism)
+#### [**5. Deflationary Mechanism**](https://docs.neutroswap.io/neutroswap-v2-coming-soon/deflationary-mechanism)
 
 We applied a few mechanism that will increase the buying pressure of $NEUTRO with the aim of making it for attractive for future investors, while increasing value for $NEUTRO holders.
 
 - Buyback and Burn: A portion of the protocol revenues is allocated towards the buyback and burn of $NEUTRO tokens, creating persistent buying pressure on the token.
 - xNEUTRO Reedem: During the [redeem of $xNEUTRO to $NEUTRO](https://docs.neutroswap.io/neutroswap-v2-coming-soon/xneutro-token/convert-redeem#redeeming-xneutro-greater-than-neutro), if the vesting duration is not set to the maximum, the xNEUTRO:NEUTRO ratio will be adjusted to a value below 1:1, ranging from 1:0.5 as the minimum. Any surplus $NEUTRO obtained during this process will be automatically burned.
+Let's take an example to illustrate this process: 
+If a user chooses to redeem 1000 $xNEUTRO with the minimum vesting duration of 15 days, they will receive a ratio of 1:0.5, resulting in 500 $NEUTRO. Consequently, a total of 1000 - 500 = 500 $NEUTRO will be burned throughout the redemption process.
+
 - xNEUTRO Deallocation: When users deallocate $xNEUTRO from a Plugin, a deallocation tax is imposed, typically set at 0.5%. This tax may vary across contracts. Furthermore, the corresponding amount of $NEUTRO will be automatically burned as a result of the deallocation process.
 
 ### Ecosystem Fit
@@ -163,27 +185,26 @@ We have completed the [technical documentation](https://docs.neutroswap.io/neutr
 
 - **Total Estimated Duration:** 3 months
 - **Full-Time Equivalent (FTE):** 6 FTE
-- **Total Costs:** 100,000 USD
+- **Total Costs:** 50,000 USD
 
 ### Milestone 0 - Requirement Analysis and Marketing Plan
 
 - **Estimated duration:** 2 weeks
 - **FTE:** 2
-- **Costs:** 20,000 USD
+- **Costs:** 5,000 USD
 
 | ID  | Deliverable                            | Specification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | --- | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0a. | License                                | MIT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | 0b. | Threads                                | Publish **twitter threads** explaining all the updates that'll we'll be rolling out                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 0c. | Marketing                              | Form a group of multiple DeFi influencers and create a plan that can help bring more awareness about DeFi EOS EVM ecosystem                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | 1.  | General Requirement and Migration Plan | **Smart contract Requirement**<br> Write a detailed requirements for the smart contract <br><br> **Subgraph Migration Plan** <br> Analyze required changes on 3 of our subgraphs, and create migration plan for it <br><br> **High Fidelity Prototype** <br> Publish a high-fidelity prototype for the new UI required for the updates. The prototype will be publicly available in Figma for others to use. <br><br> **Front-end Migration Plan** <br> Do a code structure research on how the current and future component would work together <br><br> **Integration Testing Plan** <br> Research on how our current toolchain like ethers and foundry would work in the testing environment |
-| 2.  | Documentation                          | Enhance the technical documentation and tutorial to comprehensively explain all the updates, enabling users to familiarize themselves with the new enhancements.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 2.  | Documentation | Enhance the technical documentation and tutorial to comprehensively explain all the updates, enabling users to familiarize themselves with the new enhancements.|
 
 ### Milestone 1 - Smart Contract Development, Audit, and Marketing Site
 
 - **Estimated duration:** 3 weeks
 - **FTE:** 3
-- **Costs:** 30,000 USD
+- **Costs:** 25,000 USD
 
 | ID  | Deliverable                   | Specification                                                                                                                                                                                      |
 | --- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -198,7 +219,7 @@ We have completed the [technical documentation](https://docs.neutroswap.io/neutr
 
 - **Estimated duration:** 3 weeks
 - **FTE:** 4
-- **Costs:** 20,000 USD
+- **Costs:** 10,000 USD
 
 | ID  | Deliverable          | Specification                                                                                                                                                                                            |
 | --- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -214,7 +235,7 @@ We have completed the [technical documentation](https://docs.neutroswap.io/neutr
 
 - **Estimated duration:** 2 weeks
 - **FTE:** 2
-- **Costs:** 30,000 USD
+- **Costs:** 10,000 USD
 
 | ID  | Deliverable               | Specification                                                                      |
 | --- | ------------------------- | ---------------------------------------------------------------------------------- |
