@@ -31,17 +31,17 @@
 
 **Stage Two (not completed)**
 
-- [ ] “Red Envelope” smart contract source code will be made available (*.cpp)
-- [ ] “Red Envelope”  Prebuilt WASM binaries *.wasm & *.abi (with version control)
-- [ ] “Red Envelope”  General documentation README.md
-- [ ] “Red Envelope”  Contract audit
+- [ ] “Red Envelope” smart contract source code will be made available (*.cpp) (remaining 1 weeks)
+- [ ] “Red Envelope”  Prebuilt WASM binaries *.wasm & *.abi (with version control) (remaining 1 weeks)
+- [ ] “Red Envelope”  General documentation README.md (remaining 3 days)
+- [ ] “Red Envelope”  Contract audit (remaining 2 days)
 
 **Stage Three (not completed) **
 
-- [ ] “Anonymous Bank” smart contract source code will be made available (*.cpp)
-- [ ] “Anonymous Bank” Prebuilt WASM binaries *.wasm & *.abi (with version control)
-- [ ] “Anonymous Bank” General documentation README.md
-- [ ] “Anonymous Bank” Contract audit
+- [ ] “Anonymous Bank” smart contract source code will be made available (*.cpp) (remaining 1 weeks)
+- [ ] “Anonymous Bank” Prebuilt WASM binaries *.wasm & *.abi (with version control) (remaining 1 weeks)
+- [ ] “Anonymous Bank” General documentation README.md (remaining 3 days)
+- [ ] “Anonymous Bank” Contract audit (remaining 2 days)
 
 ## Project Overview
 
@@ -172,17 +172,17 @@ https://github.com/eosdaoswap
 
 **第二阶段（未完成）“柚子红包项目”**
 
-- [ ] 提供柚子红包项目智能合约源代码 接口
-- [ ] 预构建的 WASM 二进制文件 *.wasm 和 *.abi（带版本控制）
-- [ ] 通用文档 README.md
-- [ ] Sentnl 合约审计
+- [ ] 提供柚子红包项目智能合约源代码 接口   (还需要1周)
+- [ ] 预构建的 WASM 二进制文件 *.wasm 和 *.abi（带版本控制）  (还需要1周)
+- [ ] 通用文档 README.md (还需要3天)
+- [ ] Sentnl 合约审计 (还需要2天)
 
 **第三阶段（未完成）“匿名银行项目”**
 
-- [ ] 提供匿名银行项目智能合约源代码 接口
-- [ ] 预构建的 WASM 二进制文件 *.wasm 和 *.abi（带版本控制）
-- [ ] 通用文档 README.md
-- [ ] Sentnl 合约审计
+- [ ] 提供匿名银行项目智能合约源代码 接口  (还需要1周)
+- [ ] 预构建的 WASM 二进制文件 *.wasm 和 *.abi（带版本控制）  (还需要1周)
+- [ ] 通用文档 README.md  (还需要3天)
+- [ ] Sentnl 合约审计  (还需要2天)
 
 ### 项目概况
 **概述**
