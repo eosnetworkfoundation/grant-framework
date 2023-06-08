@@ -109,7 +109,7 @@ https://github.com/eosdaoswap
 
 ### Milestone Summary
 
-- **Total Estimated Duration:** 4 months (remaining 3 weeks)
+- **Total Estimated Duration:** 4 months (remaining 7 weeks)
 - **Full-Time Equivalent (FTE):** 6 FTE
 - **Total Costs:** 80,000 USD
 
@@ -117,21 +117,21 @@ https://github.com/eosdaoswap
 
  | Deliverable      | Status    | Cost    |
  | ---------- | :-----------:  | :-----------: |
- | SC development (prototype)     | Completed     | $6,000     |
- | SC development (production)     | Completed     | $8,000     |
- | Developer documentation     | Not completed     | $3,000     |
- | User documentation     | Not completed     | $2,500     |
- | Sentnl Audit     | Completed     | $8,500     |
- | SC development (prototype)     | Completed     | $6,000     |
- | SC development (production)     | Completed     | $6,000     |
- | Developer documentation     | Not completed     | $3,000     |
- | User documentation     | Not completed     | $2,500     |
- | Sentnl Audit     | Not completed     | $8,500     |
- | SC development (prototype)     | Completed     | $6,000     |
- | SC development (production)     | Completed     | $6,000     |
- | Developer documentation     | Not completed     | $3,000     |
- | User documentation     | Not completed     | $2,500     |
- | Sentnl Audit     | Not completed     | $8,500     |
+ | DAOSWAP SC development (prototype)     | Completed     | $6,000     |
+ | DAOSWAP SC development (production)     | Completed     | $8,000     |
+ | DAOSWAP Developer documentation     | Not completed     | $3,000     |
+ | DAOSWAP User documentation     | Not completed     | $2,500     |
+ | DAOSWAP Sentnl Audit     | Completed     | $8,500     |
+ | Red Envelope SC development (prototype)     | Completed     | $6,000     |
+ | Red Envelope SC development (production)     | Not completed     | $6,000     |
+ | Red Envelope Developer documentation     | Not completed     | $3,000     |
+ | Red Envelope User documentation     | Not completed     | $2,500     |
+ | Red Envelope Sentnl Audit     | Not completed     | $8,500     |
+ | Anonymous Bank SC development (prototype)     | Completed     | $6,000     |
+ | Anonymous Bank SC development (production)     | Not completed     | $6,000     |
+ | Anonymous Bank Developer documentation     | Not completed     | $3,000     |
+ | Anonymous Bank User documentation     | Not completed     | $2,500     |
+ | Anonymous Bank Sentnl Audit     | Not completed     | $8,500     |
 
 
 ## Additional Information
@@ -172,17 +172,17 @@ https://github.com/eosdaoswap
 
 **第二阶段（未完成）“柚子红包项目”**
 
-- [x] 提供柚子红包项目智能合约源代码 接口
-- [x] 预构建的 WASM 二进制文件 *.wasm 和 *.abi（带版本控制）
-- [x] 通用文档 README.md
-- [x] Sentnl 合约审计
+- [ ] 提供柚子红包项目智能合约源代码 接口
+- [ ] 预构建的 WASM 二进制文件 *.wasm 和 *.abi（带版本控制）
+- [ ] 通用文档 README.md
+- [ ] Sentnl 合约审计
 
 **第三阶段（未完成）“匿名银行项目”**
 
-- [x] 提供匿名银行项目智能合约源代码 接口
-- [x] 预构建的 WASM 二进制文件 *.wasm 和 *.abi（带版本控制）
-- [x] 通用文档 README.md
-- [x] Sentnl 合约审计
+- [ ] 提供匿名银行项目智能合约源代码 接口
+- [ ] 预构建的 WASM 二进制文件 *.wasm 和 *.abi（带版本控制）
+- [ ] 通用文档 README.md
+- [ ] Sentnl 合约审计
 
 ### 项目概况
 **概述**
@@ -225,7 +225,7 @@ https://github.com/eosdaoswap
 
 
 **里程碑总结**
-- **总预计持续时间：**4 个月 
+- **总预计持续时间：**4 个月 （剩余7周）
 - **全职当量 (FTE)：**6 FTE
 - **总成本：** 80,000 美元
 
