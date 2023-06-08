@@ -3,7 +3,7 @@
 - **Project Name:** Noahark - unlocking, bribery, and vtoken from 6 modules
 - **Team Name:** Noahark
 - **EOS Payment Address:** btxhdbttqhgs
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
 - **Pomelo Grant(s):** https://pomelo.io/grants/noah
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
@@ -158,7 +158,7 @@ https://github.com/NoaharkEVM/noaharkswap
 - **项目名称：**  诺亚 - 解锁，贿赂，vtoken
 - **团队名称：**  Noahark
 - **EOS支付地址：**  btxhdbttqhgs
-- **等级：** 3
+- **等级：** 2
 - **Pomelo资助：** https://pomelo.io/grants/noah
 - **项目是开源的：** 是
 - **项目是代币销售的一部分：** 否
