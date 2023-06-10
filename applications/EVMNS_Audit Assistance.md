@@ -3,7 +3,7 @@
 -   **Project Name:** Security Audit Assistance for EVMNS
 -   **Team Name:** EVMNS Labs
 -   **EOS Payment Address:** evmnsdomains
--   **Level:** 3
+-   **Level:** 2
 -   **Pomelo Grant(s):** https://pomelo.io/grants/evmns
 -   **Project is Open-Source:** Yes
 -   **Project was part of Token sale:** No
