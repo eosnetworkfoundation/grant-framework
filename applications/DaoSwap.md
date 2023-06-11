@@ -59,7 +59,7 @@ EOS users including any dapp user and project teams
 For generating yield and income when holding EOS
 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
-There are no similar projects in the EOSIO ecosystem for pomelo red envelopes and anonymous banking services, and these two projects are an innovation; DAOSWAP has similar projects, such as DFS
+There are no similar projects in the EOSIO ecosystem for pomelo red envelopes and anonymous banking services, and these two projects are an innovation; SWAP has similar projects, such as DeFis
   
 - If so, how is your project different?
 DAOSWAP has functions such as market making lockdown and market making red envelopes, which other platforms do not have
@@ -214,7 +214,7 @@ Dex, as one of the few blockchain application products that can be implemented, 
 -持有EOS用于产生收益和收入
 
 - **在EOSIO生态系统中还有其他类似的项目吗？**
--柚子红包和匿名银行服务在EOSIO生态系统中没有类似的项目，这两个项目是一项创新；DAOSWAP有类似的项目，比如DFS
+-柚子红包和匿名银行服务在EOSIO生态系统中没有类似的项目，这两个项目是一项创新；SWAP有类似的项目，比如DeFis
 
 - **如果是这样，您的项目有何不同？**
 -DAOSWAP有做市锁仓，做市红包等功能，其他平台没有
