@@ -110,15 +110,15 @@ https://github.com/eosdaoswap
 
 | # | Deliverables | Details |
 | --- | --- | --- |
-| 1. |  Complete basic functions  | Improve the friendliness of users when registering with EOS accounts, purchasing NET resources, purchasing memory, and transferring funds for free, making user operations more convenient。  |  
+| 1. |  Complete basic functions  | Improve the friendliness of users when registering with EOS accounts, purchasing NET resources, purchasing memory, and transferring funds for free, making user operations more convenient.  |  
 | 2. | Complete lock function | Improve the market making lockdown function, allowing users to have a clear understanding of the details of upcoming lockups and ensuring the transparency of lockup information.  |  
-| 3. |  Complete market functions  |  Increase the buying and selling of tokens as well as fee charts, allowing users to better understand the trend of tokens through intuitive charts。  |  
-| 4. | Complete mining functions |  Add rewards for multiple tokens, such as adding rewards for specific tokens for specific time periods on top of existing mining pools 。|  
-| 5. | Perfect market making function |  Improve user market making logs to provide users with a clear understanding of each market making and profit situation。  |  
-| 6. |  UI design 	|  The designer completes the front-end UI design work based on the requirements document。 | 
-| 7. |  Frontend interface development  |  Develop front-end interfaces through UI design, improve functionality, and interface with wallets。 |  
-| 8. |  Server deployment and launch  |  Deploy the upgraded DAOSWAP service online and go live on time  |
-| 9. |  Monthly active user goals  |  Monthly active users who have reached over 2000 after going live through market operations activities  |
+| 3. |  Complete market functions  |  Increase the buying and selling of tokens as well as fee charts, allowing users to better understand the trend of tokens through intuitive charts.  |  
+| 4. | Complete mining functions |  Add rewards for multiple tokens, such as adding rewards for specific tokens for specific time periods on top of existing mining pools .|  
+| 5. | Perfect market making function |  Improve user market making logs to provide users with a clear understanding of each market making and profit situation.  |  
+| 6. |  UI design 	|  The designer completes the front-end UI design work based on the requirements document. | 
+| 7. |  Frontend interface development  |  Develop front-end interfaces through UI design, improve functionality, and interface with wallets. |  
+| 8. |  Server deployment and launch  |  Deploy the upgraded DAOSWAP service online and go live on time . |
+| 9. |  Monthly active user goals  |  Monthly active users who have reached over 2000 after going live through market operations activities . |
 
 
 ### Milestone 2 — Red Envelopes features are complete
@@ -134,12 +134,12 @@ https://github.com/eosdaoswap
 | 2. |  Add voting red envelopes  |  After participating in the EOS main chain voting, users can participate in red envelope grabbing to improve the voting participation of the EOS main chain. | 
 | 3. |  Add red envelopes for newcomers  |  For example, only users who do not hold a certain token can grab red envelopes, allowing the project team to obtain more new users through this feature. | 
 | 4. | White List Red Envelope |  Through various methods such as linking, users can quickly become whitelisted users of a certain activity and participate in red envelope grabbing. |  
-| 5. |  Timed red envelope  |  The project team can set a fixed red envelope at once, such as sending red envelopes on time at 8 pm every day for ten consecutive days, so that the project team does not have to send red envelopes every day  |  
+| 5. |  Timed red envelope  |  The project team can set a fixed red envelope at once, such as sending red envelopes on time at 8 pm every day for ten consecutive days, so that the project team does not have to send red envelopes every day . |  
 | 6. |  UI design 	|  The designer completes the front-end UI design work based on the requirements document.  | 
 | 7. |  Frontend interface development  | Develop front-end interfaces through UI design, improve functionality, and interface with wallets.  |  
-| 8. |  Server deployment and launch  |  Deploy the upgraded grapefruit red envelope service online and go live on time  |
-| 9. |  Contract audit  |  Audit the pomelo red envelope contract to ensure its security and provide basic services for EOS community design |
-| 10. |  Monthly active user goals  |  Monthly active users who have reached over 2000 after going live through market operations activities  |
+| 8. |  Server deployment and launch  |  Deploy the upgraded grapefruit red envelope service online and go live on time .|
+| 9. |  Contract audit  |  Audit the pomelo red envelope contract to ensure its security and provide basic services for EOS community design .|
+| 10. |  Monthly active user goals  |  Monthly active users who have reached over 2000 after going live through market operations activities . |
 
 ### Milestone 3 — Anonymous Bank Upgrade, Audit, and Open Source
 
@@ -154,9 +154,9 @@ https://github.com/eosdaoswap
 | 2. | Hackathon |  Conduct a hacker marathon activity on the upgraded anonymous bank, and launch an anonymous algorithm reward challenge in the community. Anonymous testing is considered complete until no one discovers a vulnerability. Multiple small-scale anonymous tests have been initiated in the early stages. |  
 | 3. |  UI design 	|  The designer completes the front-end UI design work based on the requirements document.  | 
 | 4. |  Frontend interface development  |  Develop front-end interfaces through UI design, improve functionality, and interface with wallets.  |  
-| 5. |  Server deployment and launch  |  Deploy all services related to anonymous banks online and go live on time  |
-| 6. |  Contract audit  |  Audit anonymous bank contracts to ensure their security, and then open source to provide basic services for EOS community design |
-| 7. |  Monthly active user goals  |  Monthly active users reaching over 1000 after launch through market operations activities  |
+| 5. |  Server deployment and launch  |  Deploy all services related to anonymous banks online and go live on time .|
+| 6. |  Contract audit  |  Audit anonymous bank contracts to ensure their security, and then open source to provide basic services for EOS community design .|
+| 7. |  Monthly active user goals  |  Monthly active users reaching over 1000 after launch through market operations activities . |
 
 
 
@@ -258,8 +258,8 @@ Dex, as one of the few blockchain application products that can be implemented, 
 | 5. | 做市功能完善 | 完善用户做市日志，让用户清楚了解每次做市及盈利情况。  |  
 | 6. | UI设计	| 设计师根据需求文件完成前端UI设计工作。 | 
 | 7. | 前端界面开发 | 通过UI设计来开发前台界面，完善功能，并对接钱包。 |  
-| 8. | 服务器部署和上线 | 对升级完成的DAOSWAP服务部署到线上并准时上线 |
-| 9. | 月活用户目标 | 通过市场运营活动在上线后达到2,000以上的月活用户 |
+| 8. | 服务器部署和上线 | 对升级完成的DAOSWAP服务部署到线上并准时上线 。|
+| 9. | 月活用户目标 | 通过市场运营活动在上线后达到2,000以上的月活用户 。|
 
 
 ### 里程碑2 — 柚子红包功能完善
@@ -275,12 +275,12 @@ Dex, as one of the few blockchain application products that can be implemented, 
 | 2. | 增加投票红包 | 用户参与EOS主链投票后可以参与抢红包，提高EOS主链的投票参与度。| 
 | 3. | 增加新人红包 | 比如没有持有某个token的用户才能抢红包,让项目团队通过此功能获取更多的新用户 。| 
 | 4. | 白名单红包 | 通过链接等多种方式，让用户快速的成为某场活动的白名单用户，参与抢红包。 |  
-| 5. | 定时红包 | 项目方可以一次性设定定时红包，比如每天晚上8点准时发红包，连续发十天，这样就不用项目方每天发红包 |  
+| 5. | 定时红包 | 项目方可以一次性设定定时红包，比如每天晚上8点准时发红包，连续发十天，这样就不用项目方每天发红包 。|  
 | 6. | UI设计	| 设计师根据需求文件完成前端UI设计工作。 | 
 | 7. | 前端界面开发 | 通过UI设计来开发前台界面，完善功能，并对接钱包。 |  
-| 8. | 服务器部署和上线 | 对升级完成的柚子红包服务部署到线上并准时上线 |
-| 9. | 合约审计 | 对柚子红包合约进行审计，确保其安全性 ，为EOS社区设计提供基础服务|
-| 10. | 月活用户目标 | 通过市场运营活动在上线后达到2,000以上的月活用户 |
+| 8. | 服务器部署和上线 | 对升级完成的柚子红包服务部署到线上并准时上线 。 |
+| 9. | 合约审计 | 对柚子红包合约进行审计，确保其安全性 ，为EOS社区设计提供基础服务。|
+| 10. | 月活用户目标 | 通过市场运营活动在上线后达到2,000以上的月活用户。 |
 
 
 ### 里程碑3 — 匿名银行升级、审计及开源
@@ -296,9 +296,9 @@ Dex, as one of the few blockchain application products that can be implemented, 
 | 2. | 黑客马拉松 | 对升级完成的匿名银行进行黑客马拉松活动，在社区发起匿名算法奖励挑战，直到没有人发现漏洞才算完成匿名测试，前期已发起多次小规模的匿名测试 。|  
 | 3. | UI设计	| 设计师根据需求文件完成前端UI设计工作。 | 
 | 4. | 前端界面开发 | 通过UI设计来开发前台界面，完善功能，并对接钱包。 |  
-| 5. | 服务器部署和上线 | 将所有与匿名银行的服务部署到线上并准时上线 |
-| 6. | 合约审计 | 对匿名银行合约进行审计，确保其安全性，然后进行开源  ，为EOS社区设计提供基础服务|
-| 7. | 月活用户目标 | 通过市场运营活动在上线后达到1,000以上的月活用户 |
+| 5. | 服务器部署和上线 | 将所有与匿名银行的服务部署到线上并准时上线 。|
+| 6. | 合约审计 | 对匿名银行合约进行审计，确保其安全性，然后进行开源  ，为EOS社区设计提供基础服务 。|
+| 7. | 月活用户目标 | 通过市场运营活动在上线后达到1,000以上的月活用户 。 |
 
 **附加信息**
 
