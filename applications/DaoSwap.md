@@ -21,9 +21,9 @@
 
 ## Open source 
 
-- Red envelope project ：https://github.com/eosdaoswap/redpacket
-- SWAP project ：https://github.com/eosdaoswap/daoswapooooo
-- Anonymous project：Plan to open source within 8 weeks
+- **Red envelope project:** https://github.com/eosdaoswap/redpacket
+- **SWAP project:** https://github.com/eosdaoswap/daoswapooooo
+- **Anonymous project:** Plan to open source within 8 weeks
 
 
 ## Project Overview
