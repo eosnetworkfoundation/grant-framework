@@ -15,12 +15,12 @@
 - **Contact Email:** uabcontafed@gmail.com
 - **Website:** https://swapdao.app
 
-> ?? *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
+>  *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Open source 
 
-- **Red envelope project:** https://github.com/eosdaoswap/redpacket
-- **SWAP project:** https://github.com/eosdaoswap/daoswapooooo
+- **Red envelope project:**  https://github.com/eosdaoswap/redpacket
+- **SWAP project:**  https://github.com/eosdaoswap/daoswapooooo
 
 
 ## Project Overview
@@ -43,19 +43,19 @@ It provides more services for EOS users and project teams to gain more revenue a
 
 > Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
 - Where and how does your project fit into the ecosystem? 
-Provide project teams with services such as pomelo red envelopes, market mining, and market lockdown, without the need for repeated development by the project team. Provide EOS users with pomelo red envelopes, market mining, market lockdown, account registration, CPU purchase, memory purchase, and resource free transfer services, allowing EOS users to experience multiple EOS interactive experiences in a one-stop manner.
+> Provide project teams with services such as pomelo red envelopes, market mining, and market lockdown, without the need for repeated development by the project team. Provide EOS users with pomelo red envelopes, market mining, market lockdown, account registration, CPU purchase, memory purchase, and resource free transfer services, allowing EOS users to experience multiple EOS interactive experiences in a one-stop manner.
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? 
-EOS users including any dapp user and project teams
+> EOS users including any dapp user and project teams
 
 - What need(s) does your project meet?
-For generating yield and income when holding EOS
+> For generating yield and income when holding EOS
 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
- There is no similar project for the pomelo red envelope service in the EOSIO ecosystem, and this project is an innovation; SWAP has similar projects, such as DeFi 
+> There is no similar project for the pomelo red envelope service in the EOSIO ecosystem, and this project is an innovation; SWAP has similar projects, such as DeFi 
  
 - If so, how is your project different?
-DAOSWAP has functions such as market making lockdown and market making red envelopes, which other platforms do not have
+> DAOSWAP has functions such as market making lockdown and market making red envelopes, which other platforms do not have
 
 ## Team
 
@@ -72,7 +72,7 @@ DAOSWAP has functions such as market making lockdown and market making red envel
 ### Team Experience
 
 > Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
-MIXDAO is the DAO organization of the Pink Dream Manor project and an early ecological participant in EOS. Currently, it is still deeply involved in ecological construction. The team has been operating in the EOS ecosystem for many years and has been committed to the development and innovation of EOS ecological public products. It is currently one of the most active groups in the EOS chain, regularly holding Tencent meetings to promote EOS ecology, and mentioning PINK community in the Chinese community is well-known.
+> MIXDAO is the DAO organization of the Pink Dream Manor project and an early ecological participant in EOS. Currently, it is still deeply involved in ecological construction. The team has been operating in the EOS ecosystem for many years and has been committed to the development and innovation of EOS ecological public products. It is currently one of the most active groups in the EOS chain, regularly holding Tencent meetings to promote EOS ecology, and mentioning PINK community in the Chinese community is well-known.
 
 > If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
 
