@@ -72,7 +72,7 @@ It provides more services for EOS users and project teams to gain more revenue a
 ### Team Experience
 
 > Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
-> MIXDAO is the DAO organization of the Pink Dream Manor project and an early ecological participant in EOS. Currently, it is still deeply involved in ecological construction. The team has been operating in the EOS ecosystem for many years and has been committed to the development and innovation of EOS ecological public products. It is currently one of the most active groups in the EOS chain, regularly holding Tencent meetings to promote EOS ecology, and mentioning PINK community in the Chinese community is well-known.
+- MIXDAO is the DAO organization of the Pink Dream Manor project and an early ecological participant in EOS. Currently, it is still deeply involved in ecological construction. The team has been operating in the EOS ecosystem for many years and has been committed to the development and innovation of EOS ecological public products. It is currently one of the most active groups in the EOS chain, regularly holding Tencent meetings to promote EOS ecology, and mentioning PINK community in the Chinese community is well-known.
 
 > If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
 
