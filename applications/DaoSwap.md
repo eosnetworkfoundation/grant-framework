@@ -3,7 +3,7 @@
 - **Project Name:** PINK Pink Dream Estate (PINK)
 - **Team Name:** MIXDAO Team
 - **EOS Payment Address:** daoyieldoooo
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
 - **Pomelo Grant(s):** https://pomelo.io/grants/pinkertoken
 - **Project is Open-Source:** Yes*
 - **Project was part of Token sale:** No
@@ -178,7 +178,7 @@ Dex, as one of the few blockchain application products that can be implemented, 
 - **项目名称：**  PINK粉红梦庄园（PINK）
 - **团队名称：**  MIXDAO团队
 - **EOS支付地址：**  daoyieldoooo
-- **等级：** 3
+- **等级：** 2
 - **Pomelo资助：** https://pomelo.io/grants/pinkertoken
 - **项目是开源的：** 是 *
 - **项目是代币销售的一部分：** 否
