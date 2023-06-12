@@ -19,6 +19,13 @@
 
 Neutroswap is an automated market-maker (AMM) on the EOS EVM blockchain that is community-driven and offers the low fees for swapping assets. Neutroswap's staking and yield farming rewards are among the highest in the EOS EVM ecosystem, attracting those seeking profitable returns on their assets. Our team decides to focus more towards bringing liquidity to EOS EVM chain more. It will enable more users, projects and exposure coming to EOS EVM due to TVL increase and project development.
 
+The goal is to further enhance and expand the Neutroswap platform within the EOS EVM ecosystem. The specific objectives include:
+1. Revenue Sharing: Dividends is designed to generate revenue from its [protocol earnings](https://docs.neutroswap.io/neutroswap-v2-coming-soon/protocol-revenue). A portion of these earnings is allocated to reward $xNEUTRO token holders, providing a sustainable mechanism for value distribution and aligning the interests of the community with the success of the platform.
+2. Increasing Liquidity: Neutroswap seeks to attract and increase liquidity within the EOS EVM ecosystem by incentivizing users to provide liquidity to the platform's various pools. This increased liquidity helps improve the overall trading experience, reduces slippage, and promotes a vibrant and active marketplace.
+3. Supporting Project Launches: Neutroswap aspires to become a [launchpad](https://docs.neutroswap.io/neutroswap-v2-coming-soon/plugins/launchpad) for new projects within the EOS EVM ecosystem. By offering a platform for fair and transparent token launches, Neutroswap helps innovative projects raise funds and gain exposure. This goal aligns with Neutroswap's mission to support the growth and development of the broader DeFi ecosystem on EOS.
+4. Deflationary Measures: Neutroswap may implement deflationary mechanisms to manage token supply and enhance scarcity. This may include burning a portion of tokens through periodic [token burns or implementing buyback programs](https://docs.neutroswap.io/neutroswap-v2-coming-soon/deflationary-mechanism), effectively reducing the circulating supply and potentially increasing the value of $NEUTRO over time.
+5. Enhancing User Experience: Neutroswap aims to provide a seamless and intuitive user experience, making it easier for users to navigate the platform, conduct token swaps, provide liquidity, and participate in various DeFi activities. The goal is to create a user-friendly environment that appeals to both experienced DeFi users and newcomers to the ecosystem.
+
 ### Overview
 
 - **Name:** Neutroswap
