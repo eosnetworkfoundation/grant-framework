@@ -225,7 +225,7 @@ We have completed the [technical documentation](https://docs.neutroswap.io/neutr
 | 1.  | Core Contracts | Publish the all the necessary smart contract such as xNEUTRO, spNFTs, plugins in a public repo with the audit report included. This smart contract will also publicly available on our team Github |
 | 2.  | Tokenomics contracts | xNEUTRO can only be redeem with vesting period. It will allow burning mechanism for $NEUTRO. However, $NEUTRO can be converted into $xNEUTRO in instant. |
 | 3.  | Plugins contracts | Plugin contracts are enabling users to allocate their xNEUTRO into their desired plugins: Dividends, Yield boosters and launchpad |
-| 3.  | Protocol revenue contracts | Develop and implement smart contracts to enhance Neutroswap's protocol revenue generation capabilities and enable efficient distribution of rewards to $xNEUTRO holders. |
+| 4.  | Protocol revenue contracts | Develop and implement smart contracts to enhance Neutroswap's protocol revenue generation capabilities and enable efficient distribution of rewards to $xNEUTRO holders. |
 
 ### Milestone 2 - Graph Node Deployment, Subgraphs, and Web Development
 
