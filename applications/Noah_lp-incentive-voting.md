@@ -151,14 +151,14 @@ https://github.com/NoaharkEVM/noaharkswap
 **Security Audit Milestone 3**
 - **Unit price:** $12,000 per man-week
 - **Man-power:** 3 man-weeks
-- **Total costs:** Paid in the form of ENF & Audit company cooperation framework
+- **Total costs:** estimated $36,000, not counting as milestone grant fund
 
  | ID         | Item     | Detail          |
  | ---------- | :-----------: | :-----------: |
  | 1    | Goal        | Conduct contract security audits on the six modules of Noah’s newly launched liquidity mining, token equity proof, liquidity incentive voting, Noah’s unlocking, bribery, and equity addition to improve Noah’s security and increase users’ trust in Noah and EOS EVM   |
  | 2    | Product delivery | Audit report on the Noah Stage 2 products from Certik or other well-known security audit companies  |
  | 3    | Marketing     | Through community communication, media announcements and other forms, focus on the safety of the product to attract more users|
- | 4    | Support needed     | Audit costs Paid in the form of ENF & Audit company cooperation framework   |
+ | 4    | Support needed     | Audit costs estimated $36,000, not counting as milestone grant fund   |
 
 ## Other Information
 - **How did you hear about the grant program? :** EOS EVM Hackathon
@@ -315,14 +315,14 @@ Noahark是一个专注于DeFi协议开发和运营的全球区块链团队。我
 **安全审计里程碑3**
 - **单位价格（Unit price）：** 12,000 美元 /周
 - **人力资源（Man-Power）：**  3周
-- **总成本：** 以ENF与审计公司合作框架的形式支付
+- **总成本：** 预估为36,000美元，不计入里程碑赞助资金
 
  | ID         | 项     | 描述          |
  | ---------- | :-----------: | :-----------: |
  | 1    | 目标        | 对诺亚新上线的流动性挖矿、代币权益证明、流动性激励投票、诺亚解锁、贿赂、权益加成这6大模块进行合约安全审计，提升诺亚的安全性，增加用户对诺亚及EOS EVM资产安全的信任度    |
  | 2    | 产品功能交付 | Certik或者其他知名安全审计公司关于诺亚第二期产品的审计报告 |
  | 3    | 市场营销     | 通过社区传播、媒体宣发等形式，主打产品的安全性，吸引更多用户|
- | 4    | 所需支持     | 审计费以ENF与审计公司合作框架的形式支付   |
+ | 4    | 所需支持     | 审计费预估为36,000美元，不计入里程碑赞助资金   |
 
 
 ## 其他信息
