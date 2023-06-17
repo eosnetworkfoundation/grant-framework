@@ -1,0 +1,298 @@
+# EOS Network Foundation Grant Proposal
+
+- **Project Name:** cXc
+- **Team Name:** cXc Team
+- **EOS Payment Address:** godsolislove
+- **Level:** 1
+- **Pomelo Grant(s):** [musicnfts](https://pomelo.io/grants/musicnfts), [nftmedia](https://pomelo.io/grants/nftmedia), [killerapp](https://pomelo.io/grants/killerapp) [democracy](https://pomelo.io/grants/democracy)
+- **Project is Open-Source:** Yes
+- **Project was part of Token sale:** Yes
+- **Repository where Project resides:** 
+Contracts: https://github.com/dougbutner/beta-pseudo/blob/main/real-contracts
+UI: https://github.com/currentxchange/cxc-music-web-alpha
+Systemic Details: https://github.com/currentxchange/purple-explainer 
+
+## Contact
+
+- **Contact Name:** Douglas James Butner
+- **Contact Email:** douglas@cxc.world / dougbutner@gmail.com
+- **Website:** https://cxc.world / https://currentxchange.com / https://linktr.ee/cxc.world
+
+
+
+## Project Overview
+
+### Scope of Grant
+
+The scope of this grant is to create: 
+
+Ups contract: A new type of EOSIO/Antelope-based curation system  
+    - ups contract, the deliverable of the grant, enables ranking by receiving token::transfers with memos that indicate what piece of content they would like to upvote
+    - Creates a tokenized integer-based multi-upvote system with quantized time units fauceting members 1 upvote-power per time unit
+    - Records the temporal asects of the vote + cumulative score of each ranked content enable novel curated displays (see [demo](https://youtu.be/coNc4iJB7OM?t=137))
+
+
+A payment model for collectives 
+    - Code allows a circular doling out of integer upvote rewards to members a group, including weighted options
+
+A Top-Chart award contract
+    - Token awards are given to those who fare the best in the democratic curation by ranking in the top 64 by number of upvotes received in a day.
+
+
+### Organization Overview
+Current X Change LLC (cXc), a sole-proprietorship headquartered in Maryland, USA, launched cXc.world in 2018, an innovative music map web application that integrates blockchain technology and geotemporal curation. cXc introduces a new type of economy on the WAX blockchain, paying both artists and curators. The platform provides a unique and democratized music + Music NFT discovery experience through Mapps (Map dapps) curated using the ups contract.
+
+> Current X Change LLC was founded in 2014 by Douglas Butner
+
+### Overview
+
+- **Name:** cXc
+- **Brief Description:** The project aims to launch a novel and open-source content curation model tailored for the Antelope blockchain for the Beta release of cXc.world, an innovative platform that integrates music and blockchain technology on WAX (open source tech I developed) that enable artists to receive payments in BLUX tokens (or any token) each time a user gives their content an upvote, with upvotes time-linked. 
+
+- **Relationship to EOS Network / Antelope:** This project requires A robust chain without fees to be successful for all members. It only makes sense for us to be on Antelope. The project integrates with the EOS Network by utilizing the WAX blockchain to implement the Purple Economy and enable token-based transactions for content creators on cXc.world. It leverages the EOSIO/Antelope software to enhance the music map experience and facilitate the democratic curation of content. I launched cXc.world with integration on Steemit, before Hive, then we moved to WAX in 2021.
+
+- **Reason for Interest:** I'm grateful to the ENF for providing what I see as the best blockchain tech out there, and want to contribute to that stack. While Antelope has some of the best technology in Blockchain, it has a disproportionately small share of the impact of other blockchains. I want to build the apps that create that impact to benefit the lives of all. I can only do that on-chain with this tech stack to the best of my knowledge. I'm also tired of trying to earn a living as a teacher distracting me from coding, so I'd like to join up and walk together with the ENF and community in this way.
+
+
+### Project Details
+
+
+- Mock-ups/designs of any UI components
+
+Current UI: cXc.world
+Beta UI + Demp: https://www.youtube.com/watch?v=coNc4iJB7OM
+
+- Data models of the core functionality
+Main upvote contract header: https://github.com/dougbutner/beta-pseudo/blob/main/real-contracts/ups.hpp
+
+- API specifications of the core functionality
+We don't have a public API yet, so we didn't publish documentation. 
+
+- An overview of the technology stack to be used
+
+For the grant, C++ smart contracts for EOSIO / Antelope using official CLI and using the eosio.token standard. The frontend app uses jQuery, leaflet, waxjs, php, and (now) postgres.
+
+- Documentation of core components, protocols, architecture, etc. to be deployed
+Systemic documentation can be found [here](https://github.com/currentxchange/purple-explainer) though some needed changes have been discovered while writing the contracts that were not reflected (yet) in the documentation.
+Final systemic documentation will be in the published repo in milestone 1. 
+
+Current documention is in-code 
+https://github.com/dougbutner/beta-pseudo/blob/main/real-contracts/ups.cpp
+https://github.com/dougbutner/beta-pseudo/blob/main/real-contracts/helpups.cpp
+
+- PoC/MVP or other relevant prior work or research on the topic
+
+MVP on Music NFT map: https://music.cxc.world/f/nft
+
+- What your project is _not_ or will _not_ provide or implement
+Our project is not intended to implement any sort of image hosting, music hosting, or any type of media hosting. This project, in the scope of the development of this grant, will not provide or implement the NFT standards which are covered in our Pomelo grants. cXc operates as a tokenomic curation layer on top of both web 2 and web3, and the scope of the grant is to publish that layer.
+
+
+
+
+### Ecosystem Fit
+
+- Where and how does your project fit into the ecosystem? 
+
+We empower NFT creators using Atomic Assets / Atomichub. 
+
+We give developers a specific toolbox for tokenizing their own projects.
+
+cXc fits in as one of the most ambitious and paradigm-shifting apps in the ecosystem in the respect that both our novel curation system and our unique user interface stand poised with potential to bring in big web2 and web3 audiences to the Antelope ecosystem. 
+
+ We had previously worked with several projects on wax, we have been mentioned on [EOS hot sauce 107 ](https://eosnation.io/eos-hot-sauce-107/)
+
+cXc smart contracts utilize the atomic assets standard as the basis for their own NFT standards. They then use the incredible speed of Antelope Blockchains to create a new creation economy that would not be economically feasible on any other blockchain.
+
+- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+
+Our app is currently focus towards musicians and music lovers. Our target audience for the deliverable in this grant is developers who may be interested to build on Antelope, or are already building on Antelope. 
+
+- What need(s) does your project meet?
+
+Antelope developers need to have access to more gamefi tools.
+
+We meet the growing societal need for attention systems that are not toxic, or at least transparent enough that you know exactly why it is toxic.
+
+- Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
+
+Yup is a similar idea to our project because it involves upvoting content, and is a tokenized curation layer.
+
+  - If so, how is your project different?
+
+Our project provides NFT media standards, and our curation system works with the tokenized media standards. Our system is designed to be both inflationary and deflationary, creating a stable economy. 
+
+  - If not, are there similar projects in related ecosystems?
+
+I believe that the closest system is Hive (Steemit), and I really do love Hive. We would be like an integer-based, multi-upvote version of Hive that has a map instead of a blog.
+
+## Team
+
+### Team members
+
+- **Team Leader:** Douglas James Butner
+
+
+### Legal Structure
+- **Registered Legal Entity:** Current X Change LLC
+- **Registered Address:** 489 Collier Rd, Accident, MD 21520
+
+Current X Change LLC is a sole-proprietorship for tax purposes, operating as the same entity as my LLC because of little/no profit meaning there hasn't been tax benefits to the structure. Tetra (mentioned later, and subject of a Pomelo grant) is not incorporated and represents myself, Douglas Butner.
+
+### Team Experience
+
+- I have 15 years as a webmaster + full-stack developer, starting with building a social networking website and deploying it at age 16 (2008) 
+- I have built + maintained over a dozen Wordpress and Drupal sites 
+- I built and launched cXc.world in 3 months in 2018 using jQuery, leaflet.js and PHP and a relational database
+- I maintained cXc.world for nearly 5 years, and lead our project's marketing, community and tech development
+
+Pomelo experience [musicnfts](https://pomelo.io/grants/musicnfts), [nftmedia](https://pomelo.io/grants/nftmedia), [killerapp](https://pomelo.io/grants/killerapp) [democracy](https://pomelo.io/grants/democracy), and [evmxideathon](https://www.youtube.com/watch?v=ggHqQgSNXHg)
+
+
+
+### Team Org Repos
+
+**Profiles**
+https://github.com/currentxchange
+https://github.com/dougbutner
+
+**cXc Smart Contracts for Curation System**
+README https://github.com/dougbutner/beta-pseudo
+
+Main .hpp and .cpp 
+https://github.com/dougbutner/beta-pseudo/blob/main/real-contracts/ups.hpp
+https://github.com/dougbutner/beta-pseudo/blob/main/real-contracts/ups.cpp
+
+Main functions file
+https://github.com/dougbutner/beta-pseudo/blob/main/real-contracts/helpups.cpp
+
+**CompatibleAtomic Assets NFT Metadata Standards**
+https://github.com/currentxchange/Music-NFT-Standard 
+https://github.com/dougbutner/Geotemporal-NFT-Standard
+
+### Team Member Repos
+
+- https://github.com/dougbutner
+
+### Team LinkedIn Profiles (if available)
+
+- https://www.linkedin.com/in/douglasbutner/
+
+## Development Status
+
+Smart Contract - Needs testing
+
+90%
+https://github.com/dougbutner/beta-pseudo/blob/main/real-contracts/ups.hpp
+
+85%
+https://github.com/dougbutner/beta-pseudo/blob/main/real-contracts/ups.cpp
+
+60%
+https://github.com/dougbutner/beta-pseudo/blob/main/real-contracts/helpups.cpp
+
+Varios helper files completed in the repo, songs.hpp, upsifter.cpp
+
+
+# Demo of current progress
+https://www.youtube.com/watch?v=coNc4iJB7OM
+
+ Demo note: This was a Beta of cXc.world using Postgres, before making the decision to move the backend to Antelope. The demo shows the UI in it's rough state.
+
+
+
+## Development Roadmap
+
+### Milestone Summary
+
+Summary: I will build the ups contract and help developers use it.
+
+
+- **Total Estimated Duration:** 2 month 
+- **Full-Time Equivalent (FTE):** 1 FTE
+- **Total Costs:** 9,990 USD
+
+
+
+### Milestone 1 - Ups Smart Contracts Completion: Finish + add testing to 
+
+- **Estimated duration:** 1 month
+- **FTE:**  1
+- **Costs:** 4,995 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT |
+| 0b. | Documentation | I will document the code as it is written to show the functionality and how an end user (Antelope dapp developer) would implement for their use case.  |
+| 0c. | Testing Guide | I will add a README to the current repo in the `real-contracts` directory explaining the structure of the files, as well as a instructions to unit testing when it is added. |
+| 1. | Finish Smart Contracts | I will complete the ups smart contract, including all of the functionality detailed ups.cpp, and helpups.cpp files, and excluding the top 64 chart functionality.  |  
+| 2. | Launch New Repo | I will move the smart contract code to a dedicated repo to house the contracts. |  
+| 3. | Add Unit Testing | I will pick a test suite and incorporate it in repo. |  
+| 4. | Create Docker image | I will create and share a docker image for the new repo. |  
+
+
+Other's works used: [Atomic Assets](https://github.com/pinknetworkx/atomicassets-contract) header file, eosio.token contract, tech stacks
+
+
+### Milestone 2 - Ups Smart contracts : Add functionality, Audit + Testnet Launch
+
+Summary: I will set up testnet implementations of the contracts and invite developers to try them out.
+
+- **Estimated duration:** 1 month
+- **FTE:**  1
+- **Costs:** 4,995 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT |
+| 0b. | Documentation |  |
+| 0c. | Testing Guide | I will continue unit testing the project and instruct users how to test in the README. I will update the READMEs when needed. |
+| 0e. | Article | I will publish an article on Hive and Medium that explains the technical aspects of the contract for a technical audience. I will publish second article announcing the system with the benefits for a general audience. I will encourage developers to use the technology, and link to relevant Antelope developer docs. I will encourage people to try our system on testnet. |
+| 1. | Top 64 Charts Awards | I will extend the repo to include the [functionality described here](https://github.com/currentxchange/purple-explainer/blob/master/Top-Charts.md) that awards the top 64 artists every day. This will be a separate contract with an action anyone can call to pay everyone. The contract will check if it's a day has passed, and if so, calculate who has recieved the most ups that day, and send out the rewards in an EOSIO token. |
+| 2. | Open Audit | I will first use LLMs to begin to audit the code. Then I will communicate our intentions to community developers in the Antelope telegram group, incentivizing bug-finding in a way that may be token-based or recognition based.  |  
+| 3. | Continual Improvements | I will continue to look for ways to improve the performance and usability of the contracts, while maintaining and fortifying security. I will listen to community feedback and concerns by asking for feedback in the Antelope developer telegram group.  |  
+
+
+## Future Plans
+
+- how you intend to use, enhance, promote and support your project in the short term
+
+We plan to continually interact in the Antelope telegram group, as well as to promote the article by scheduling it into our recurring Twitter posts. In the short term we will keep our ears open, and listen for any good ideas to incorporate in the future, as well as anything we should remove that is insecure or inefficient .
+
+- the team's long-term plans and intentions in relation to it.
+
+We plan to continue to develop the system in future grants, widening the use cases of the NFTs, as well as lowering the learning curve of implementation for our ups system by second-party developers. 
+
+This means maintaining and extending both the core of our system, which is the subject of this grant, and are tertiary technologies like NFT standards, which are the subject of our Pomelo grants. 
+
+We have plans to extend the curation system into the sphere of decentralized finance and governance.
+
+We will continue to promote both our project, the ups contract, and Antelope as the shining technology to enable it.
+
+
+## Additional Information
+
+**How did you hear about the Grants Program?** 
+
+From the Antelope Developers telegram.
+
+- Work you have already done.
+
+You can find the current state of the smart contracts here: 
+
+https://github.com/dougbutner/beta-pseudo/blob/main/real-contracts
+
+
+- If there are any other teams who have already contributed (financially) to the project.
+
+Several teams and individuals have contributed small amounts by interacting with our tokenomic system and through donating to our Pomelo grants.
+
+[IEO PURPLE release info](https://peakd.com/hive-193816/@currentxchange/cxcworld-launches-purple-a-co-creative-economy-on-wax-blockchain-via-dollarpurple-initial-offering-on-waxalcorexchange)
+
+[Everstone NFT release Info](https://peakd.com/hive-179421/@currentxchange/everstone-nfts-public-sale-announcement-purple-staking-nfts-to-boost-music)
+
+We've also received funding from the evmxideathon and Pomelo.
+
+- Previous grants you may have applied for.
+
+Pomelo grants: [musicnfts](https://pomelo.io/grants/musicnfts), [nftmedia](https://pomelo.io/grants/nftmedia), [killerapp](https://pomelo.io/grants/killerapp) [democracy](https://pomelo.io/grants/democracy), and [evmxideathon](https://www.youtube.com/watch?v=ggHqQgSNXHg)
