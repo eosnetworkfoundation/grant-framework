@@ -222,7 +222,7 @@ Note: Some of the milestones can possibly overlap and be done in parallel.
 | 0a. | License |  Apache 2.0  |
 | 0b. | Documentation | Documentation for the frontend libraries for developers. |
 | 0c. | Unit tests | Unit tests for all the specified contracts, to ensure both proper functionality and better security. |
-| 1. | SC Profiles | Contract for members profiles management. |  
+| 1. | NFT Marketplace | A NFT marketplace taking data from both: simpleassets and atomichub. |  
 | 2. | SC Licenses | Contract for managing product licenses sold by developers / product sellers. |  
 
 ### Milestone 5 - Nice1 Link (Lvl2)
@@ -244,8 +244,9 @@ Note: Some of the milestones can possibly overlap and be done in parallel.
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 1. | Nice1 Link | Website for players and developers. |  
-| 1.a | NFT marketplace | A NFT marketplace taking data from both: simpleassets and atomichub. | 
-| 1.b | News section | A kind-of-a decentralized news section.. |  
+| 2. | SC Profiles | Contract for members profiles management. | 
+| 3. | News section | A kind-of-a decentralized news section. |  
+| 4. | NFTS viewer | Management and visualization of user NFTs  |  
 
 
 
