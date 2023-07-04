@@ -1,4 +1,4 @@
-# EOS Network Foundation Grant Proposal
+![image](https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/43a61741-4bcc-45ca-863f-0239db8ef14c)# EOS Network Foundation Grant Proposal
 
 - **Project Name:** Fundle
 - **Team Name:** Fundle
@@ -48,16 +48,15 @@ This grant will be used to integrate with EOS EVM, audit the protocol, launch th
 
 #### Application UI 
 <img width="1296" alt="image" src="https://user-images.githubusercontent.com/54183058/191728363-99844410-721e-4e51-ae91-471825e49806.png">
-![image](https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/5008a2d0-1138-4b49-85f0-18c916b2f18c)
 
 #### Token-based Membership Protocol
 
-We have developed a token-based membership protocol based on a token bonding curve mechanism. The protocol facilitates buy and sell and provides a stable and dynamic way to determine value. Each community has its own curve and utility token. Tokens can be bought by providing collateral for the curve in USDC. At purchase a new community token is mint/created based on the current supply of the token. When users want to sell their tokens the tokens are burned according to the current price and supply. 
+We have developed a token-based membership protocol based on a token bonding curve mechanism. The protocol facilitates buy and sell and provides a stable and dynamic way to determine value. Each community has its own curve and utility token. Tokens can be bought by providing collateral for the curve in USDC. At purchase a new community token is mint/created based on the current supply of the token. When a token is sold, it is burned and so does the supply decreases.
 
-Our community tokens have a more stable price mechanism compared to cryptocurrencies to foster reduced volatility, usability, and adoption. The value is determined by engagement and ecosystem growth. The utility (added value) of the token drives popularity which influences the purchase behavior and holding patterns of token holders.
+Our innovative token bonding curve protocol have a more stable price mechanism compared to cryptocurrencies to foster reduced volatility, usability, and adoption. The price of a community token is tied to amount of economic value created in ecosystem, the price increases when the ecosystem grows (supply). This mechanism mitigates the influence of price manipulation by offering predictability, and discourages artificial inflation for profit.
 
-The price of a community token is tied to amount of economic value created in ecosystem, the price increase when ecosystem grows (supply). 
-This mechanism mitigates the influence of price manipulation by offering predictability, and discourages artificial inflation for profit. 
+In this way there is a stable mechanism regarding price where both the community and business can be rewarded for the value they help creating. Engagement and benefits determine the added value and thus, utility of the token. This utility (added value) of the token drives popularity which influences the purchase behavior and holding patterns of token holders.
+ 
 
 - Mock-ups/designs of any UI components
 - Data models of the core functionality
@@ -72,7 +71,6 @@ This mechanism mitigates the influence of price manipulation by offering predict
 - Where and how does your project fit into the ecosystem?
 
   Fundle's potential partnership with the EOS blockchain presents an exciting opportunity to introduce a whole new cohort of users to the world of crypto and EOS. By leveraging the power of EOS, Fundle can showcase what is possible to build on this innovative blockchain by demonstrating the practical value of this blockchain in the real world. With a focus on fostering interaction between members and businesses, Fundle is set to generate a significant volume of transactions on the EOS Blockchain, which will, increase liquidity and volume in the EOS ecosystem. Moreover, Fundle's collaboration with EOS will enable many new and non-crypto users to explore and interact with the EOS ecosystem, expanding EOS customer base. With our application ready for launch, Fundle is set to make a significant impact on the EOS ecosystem and beyond.
-
   
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
@@ -173,13 +171,7 @@ Zaisan has been around in EOSIO ecosystem for several years, formally known as E
 
 ## Development Status
 
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+We have just **released the private beta version of Fundle**! We have developed and finished the application and token bonding curve protocol. Everything is right now working and running on the Polygon blockchain and the application is already tested on usability and bugs with customers. The IOS app is on its way. We are planning to launch the platform in the coming months! We are ready to launch, set to make a significant impact in the EOS ecosystem and beyond.
 
 ## Development Roadmap
 
