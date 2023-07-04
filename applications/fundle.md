@@ -218,7 +218,7 @@ On the application side we will improve our features so that users can have more
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
 | 1. | IOS App | We will finish the IOS app so that users can easily view and manage their memberships, buy tokens, discover communities and interact via the chat, all to stimulate engagement.  |  
-| 2. | Product sales | We will integrate the product/sales functionality. Members can purchase exclusive items, products, merchandise with their community tokens. This will increase the number of transactions on the EOS EVM via Fundle and enables businesses to use Fundle as an additional sales channel.  |  
+| 2. | Product sales functionality | We will integrate the product/sales functionality. Members can purchase exclusive items, products, merchandise with their community tokens. This will increase the number of transactions on the EOS EVM via Fundle and enables businesses to use Fundle as an additional sales channel.  |  
 | 3. | Website Token Plugin | We will develop a token plugin which brands can integrate in their own website so that customers can directly buy and sell tokens at the brand website. This will increase the number of transactions on the EOS EVM via Fundle.  |  
 | 4. | Analytics dashboard improvement | We will improve the business dashboard so that businesses can gain more insights into (and stats about) members to sharpen their marketing strategies.  |  
 
