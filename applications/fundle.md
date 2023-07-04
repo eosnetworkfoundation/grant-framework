@@ -47,6 +47,7 @@ This grant will be used to integrate with EOS EVM, audit the protocol, launch th
 
 ### Ecosystem Fit
 - Where and how does your project fit into the ecosystem?
+
   Fundle's potential partnership with the EOS blockchain presents an exciting opportunity to introduce a whole new cohort of users to the world of crypto and EOS. By leveraging the power of EOS, Fundle can showcase what is possible to build on this innovative blockchain by demonstrating the practical value of this blockchain in the real world. With a focus on fostering interaction between members and businesses, Fundle is set to generate a significant volume of transactions on the EOS Blockchain, which will, increase liquidity and volume in the EOS ecosystem. Moreover, Fundle's collaboration with EOS will enable many new and non-crypto users to explore and interact with the EOS ecosystem, expanding EOS customer base. With our application ready for launch, Fundle is set to make a significant impact on the EOS ecosystem and beyond.
 
   
@@ -60,9 +61,9 @@ This grant will be used to integrate with EOS EVM, audit the protocol, launch th
 
 - What need(s) does your project meet?
 - Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+  To the best of our knowledge there are no similar projects in EOS or related ecosystems. Compared to other community building platforms we are unique with our token protocol. With Fundle we introduce a new generation of community building with more opportunities for engagement, revenue generation and benefits. Our token modal, digital economies and ways of interaction between business and members sets us apart. 
 
+  The Fundle protocol generates collective value, next to the business, members can now also benefit financially from community growth. Customers will have a personalized unique membership experience. The token protocol provides a unique stable and dynamic way to determine community value. At last, there is a completely different dynamic on our platform with a social media design instead of a whitelabel solution, such as some other community building platforms have. 
 
 ## Team
 ### Team members
