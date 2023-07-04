@@ -61,6 +61,7 @@ This grant will be used to integrate with EOS EVM, audit the protocol, launch th
 
 - What need(s) does your project meet?
 - Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
+
   To the best of our knowledge there are no similar projects in EOS or related ecosystems. Compared to other community building platforms we are unique with our token protocol. With Fundle we introduce a new generation of community building with more opportunities for engagement, revenue generation and benefits. Our token modal, digital economies and ways of interaction between business and members sets us apart. 
 
   The Fundle protocol generates collective value, next to the business, members can now also benefit financially from community growth. Customers will have a personalized unique membership experience. The token protocol provides a unique stable and dynamic way to determine community value. At last, there is a completely different dynamic on our platform with a social media design instead of a whitelabel solution, such as some other community building platforms have. 
