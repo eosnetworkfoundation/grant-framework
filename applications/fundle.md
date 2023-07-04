@@ -1,4 +1,4 @@
-# EOS Network Foundation Grant Proposal
+![image](https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/c6448b2c-24c2-4f41-ae4e-589c36bcabf9)# EOS Network Foundation Grant Proposal
 
 - **Project Name:** Fundle
 - **Team Name:** Fundle
@@ -34,7 +34,30 @@ This grant will be used to integrate with EOS EVM, audit the protocol, launch th
 
 ### Project Details
 
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
+  Our team has an ambitious long-term commitment to make Fundle the most popular all-in-one platform for community building and managing. 
+  
+  We see an interesting opportunity in community-building market. In these markets involvement and interaction are essential for success. With the entrance of web3, we can strengthen and improve these factors. 
+  
+  For businesses, the top benefits of an online community are customer loyalty, reduction in support costs and brand awareness. 70% of communities positively affect the brand and company culture. Companies with online communities are 60% more profitable than companies which do not focus on online communities.
+  
+  An average member contributes $67 of worth yearly to the community. 33% of organizations with an online community have 10,000 or more members. In the coming years, the social business market will potentially grow with a CAGR of 30.8% to 7 trillion by 2030. Community building is becoming an increasingly important topic for businesses. 
+  
+  Active participation, involvement, and engagement remains difficult for large businesses. 55% of community professionals find it difficult to consistently engage members when running online communities.  For small businesses building and managing communities remains challenging and a barrier. 44% of community professionals said it was hard to put a quantity to the community value of the community and 59% points to community scaling as one of their main goals.
+  
+  These market trends and opportunities form the basis of the Fundle platform. We can revolutionize this landscape by utilizing blockchain technology. The way of community building needs to be redeveloped to let it reach its maximum potential. We believe that building long-term relationships, involvement and control is essential for this. Our community token model allows businesses to reward members and engage with them more closely than before. 
+
+#### Application UI 
+<img width="1296" alt="image" src="https://user-images.githubusercontent.com/54183058/191728363-99844410-721e-4e51-ae91-471825e49806.png">
+![image](https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/5008a2d0-1138-4b49-85f0-18c916b2f18c)
+
+#### Token-based Membership Protocol
+
+We have developed a token-based membership protocol based on a token bonding curve mechanism. The protocol facilitates buy and sell and provides a stable and dynamic way to determine value. Each community has its own curve and utility token. Tokens can be bought by providing collateral for the curve in USDC. At purchase a new community token is mint/created based on the current supply of the token. When users want to sell their tokens the tokens are burned according to the current price and supply. 
+
+Our community tokens have a more stable price mechanism compared to cryptocurrencies to foster reduced volatility, usability, and adoption. The value is determined by engagement and ecosystem growth. The utility (added value) of the token drives popularity which influences the purchase behavior and holding patterns of token holders.
+
+The price of a community token is tied to amount of economic value created in ecosystem, the price increase when ecosystem grows (supply). 
+This mechanism mitigates the influence of price manipulation by offering predictability, and discourages artificial inflation for profit. 
 
 - Mock-ups/designs of any UI components
 - Data models of the core functionality
