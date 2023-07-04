@@ -17,21 +17,21 @@
 
 ## Project Overview
 
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
+This grant will be used to integrate with EOS EVM, audit the protocol, launch the platform and further develop platform features. 
 
 ### Overview
 
-> Please provide the following:
+- **Name:** Fundle - Community Building
+- **Brief Description:** Fundle is the all-in-one community-building platform to increase customer engagement, brand loyalty and benefits through a unique token-based membership model and new customer experiences! With Fundle, businesses can build a digital economy around their brand to get the most out of their community and further strengthen their brand-customer relationship. 
 
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOS Network / Antelope:** An indication of how your project relates to / integrates into the EOS Network or Antelope software.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+With Fundle we introduce a new generation of community building with more opportunities for engagement, revenue generation and benefits. Each business has its own token. Fans and customers can buy their desired amount of tokens to unlock the benefits and interactions they would like to have with the brand, based on the number of tokens they hold (discounts, products, interaction, access to events/experiences, etc.).  The model allows the community to be rewarded for the value they are helping create in the business. In addition, the platform offers new marketing/sales opportunities and customer insights.v
+
+For more details please visit: https://wefundle.com/
+
+- **Relationship to EOS Network / Antelope:** With this grants we will deploy our protocol smart contracts and run our platform on the EOS EVM! 
+- **Reason for Interest:** Web 3 allows us to revolutionize and strengthen the position of the community. EOS EVM allows us to “simply” integrate with the EOS ecosystem and allows our users to use the tools they are familiar with, such as MetaMask. We truly believe in the added value of EOS as blockchain, we would like to utilize the benefits of high throughput and low transaction costs for our users. These aspects are crucial for the success of our platform. With the entrance of the ENF, we see that many good developments are going on, and therefore we have trust in EOS for the future!
 
 ### Project Details
-
-
-
 
 > We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
@@ -45,10 +45,9 @@
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
 ### Ecosystem Fit
-
-> Help us locate your project in the EOS Network landscape and what problems it tries to solve by answering each of these questions:
-
 - Where and how does your project fit into the ecosystem?
+
+  
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
 Our target businesses are those who are interested in the potential of online community building and are focused on innovating their businesses to improve customer experiences. These businesses should preferably already be actively online and have existing communities where they would like to expand and interact with more. We are targeting web 3 interested brands, influencers with brands, and crowdfunding projects that want to offer new customer experiences or build, grow and manage their communities.
