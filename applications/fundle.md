@@ -24,11 +24,12 @@ This grant will be used to integrate with EOS EVM, audit the protocol, launch th
 - **Name:** Fundle - Community Building
 - **Brief Description:** Fundle is the all-in-one community-building platform to increase customer engagement, brand loyalty and benefits through a unique token-based membership model and new customer experiences! With Fundle, businesses can build a digital economy around their brand to get the most out of their community and further strengthen their brand-customer relationship. 
 
-With Fundle we introduce a new generation of community building with more opportunities for engagement, revenue generation and benefits. Each business has its own token. Fans and customers can buy their desired amount of tokens to unlock the benefits and interactions they would like to have with the brand, based on the number of tokens they hold (discounts, products, interaction, access to events/experiences, etc.).  The model allows the community to be rewarded for the value they are helping create in the business. In addition, the platform offers new marketing/sales opportunities and customer insights.v
+- With Fundle we introduce a new generation of community building with more opportunities for engagement, revenue generation and benefits. Each business has its own token. Fans and customers can buy their desired amount of tokens to unlock the benefits and interactions they would like to have with the brand, based on the number of tokens they hold (discounts, products, interaction, access to events/experiences, etc.).  The model allows the community to be rewarded for the value they are helping create in the business. In addition, the platform offers new marketing/sales opportunities and customer insights.v
 
-For more details please visit: https://wefundle.com/
+- For more details please visit: https://wefundle.com/
 
-- **Relationship to EOS Network / Antelope:** With this grants we will deploy our protocol smart contracts and run our platform on the EOS EVM! 
+- **Relationship to EOS Network / Antelope:** With this grant we will deploy our protocol smart contracts and run our platform on the EOS EVM!
+
 - **Reason for Interest:** Web 3 allows us to revolutionize and strengthen the position of the community. EOS EVM allows us to “simply” integrate with the EOS ecosystem and allows our users to use the tools they are familiar with, such as MetaMask. We truly believe in the added value of EOS as blockchain, we would like to utilize the benefits of high throughput and low transaction costs for our users. These aspects are crucial for the success of our platform. With the entrance of the ENF, we see that many good developments are going on, and therefore we have trust in EOS for the future!
 
 ### Project Details
