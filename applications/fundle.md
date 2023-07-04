@@ -47,15 +47,16 @@ This grant will be used to integrate with EOS EVM, audit the protocol, launch th
 
 ### Ecosystem Fit
 - Where and how does your project fit into the ecosystem?
+  Fundle's potential partnership with the EOS blockchain presents an exciting opportunity to introduce a whole new cohort of users to the world of crypto and EOS. By leveraging the power of EOS, Fundle can showcase what is possible to build on this innovative blockchain by demonstrating the practical value of this blockchain in the real world. With a focus on fostering interaction between members and businesses, Fundle is set to generate a significant volume of transactions on the EOS Blockchain, which will, increase liquidity and volume in the EOS ecosystem. Moreover, Fundle's collaboration with EOS will enable many new and non-crypto users to explore and interact with the EOS ecosystem, expanding EOS customer base. With our application ready for launch, Fundle is set to make a significant impact on the EOS ecosystem and beyond.
 
   
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
-Our target businesses are those who are interested in the potential of online community building and are focused on innovating their businesses to improve customer experiences. These businesses should preferably already be actively online and have existing communities where they would like to expand and interact with more. We are targeting web 3 interested brands, influencers with brands, and crowdfunding projects that want to offer new customer experiences or build, grow and manage their communities.
+  Our target businesses are those who are interested in the potential of online community building and are focused on innovating their businesses to improve customer experiences. These businesses should preferably already be actively online and have existing communities where they would like to expand and interact with more. We are targeting web 3 interested brands, influencers with brands, and crowdfunding projects that want to offer new customer experiences or build, grow and manage their communities.
 
-These can be businesses with existing communities who like to have more interaction with their fanbase to gain more (value) from their community and offer new customer experiences. Or startups who want to build, grow and manage their community/business.
+  These can be businesses with existing communities who like to have more interaction with their fanbase to gain more (value) from their community and offer new customer experiences. Or startups who want to build, grow and manage their community/business.
 
-Members buy tokens to become part of the digital community and enjoy the benefits. We are also targeting members who have never used web 3 tools before.
+  Members buy tokens to become part of the digital community and enjoy the benefits. We are also targeting members who have never used blockchain before.  The system is easy understandable (already tested) and customer friendly. This makes our platform useful and interesting for a wide range of people.
 
 - What need(s) does your project meet?
 - Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
