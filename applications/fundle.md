@@ -60,6 +60,14 @@ This grant will be used to integrate with EOS EVM, audit the protocol, launch th
   Members buy tokens to become part of the digital community and enjoy the benefits. We are also targeting members who have never used blockchain before.  The system is easy understandable (already tested) and customer friendly. This makes our platform useful and interesting for a wide range of people.
 
 - What need(s) does your project meet?
+
+   Current platforms lack community involvement and interaction. Members cannot really be "part of" and there is little interaction. 
+  <img width="1387" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/fa970c47-ab2d-4316-aa07-6c6328d69226">
+
+  From business perspective, much more can be gained from a community (skills, opinions, etc.). An involved and active community will result in loyal customers, a reduction in support costs and an increase in brand awareness and trust. This will positively affect the profit and success of the business.
+
+  <img width="1387" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/292ffc00-2e27-4f00-876e-9b58af839d4b">
+
 - Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
 
   To the best of our knowledge there are no similar projects in EOS or related ecosystems. Compared to other community building platforms we are unique with our token protocol. With Fundle we introduce a new generation of community building with more opportunities for engagement, revenue generation and benefits. Our token modal, digital economies and ways of interaction between business and members sets us apart. 
