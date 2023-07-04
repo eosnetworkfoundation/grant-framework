@@ -177,7 +177,7 @@ We have just **released the private beta version of Fundle**! We have developed 
 
 ### Milestone Summary
 
-- **Total Estimated Duration:** 3 months 
+- **Total Estimated Duration:** 4 months 
 - **Full-Time Equivalent (FTE):** 2 FTE
 - **Total Costs:** 25,000 USD
 
