@@ -1,4 +1,4 @@
-![image](https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/c6448b2c-24c2-4f41-ae4e-589c36bcabf9)# EOS Network Foundation Grant Proposal
+# EOS Network Foundation Grant Proposal
 
 - **Project Name:** Fundle
 - **Team Name:** Fundle
