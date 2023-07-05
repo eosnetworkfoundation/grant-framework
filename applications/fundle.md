@@ -210,10 +210,10 @@ We have just **released the private beta version of Fundle**! We have developed 
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | Testing | We will audit the contracts of our protocol via an external party on security vulnerabilities so that everything is secure and working as expected. Core functions will be fully covered by unit tests to ensure functionality and robustness. We will make a about how to run the tests for the customized contracts. We will also provide the audit report.|
-| 0b. | Post | We will publish a post about the auditting results of our contracts to foster trust and transparancy.
-| 1. | Application interface to EOS EVM | We will integrate our application with the EOS EVM |  
-| 2. | Documentation | We will provide extensive **tutorials** and **demos** to simplify wallet and platform onboarding and to explain how a user can use our dApp. |
+| 1a. | Testing | We will audit the contracts of our protocol via an external party on security vulnerabilities so that everything is secure and working as expected. Core functions will be fully covered by unit tests to ensure functionality and robustness. We will make a about how to run the tests for the customized contracts. We will also provide the audit report.|
+| 1b. | Post | We will publish a post about the auditting results of our contracts to foster trust and transparancy.
+| 2. | Application interface to EOS EVM | We will integrate our application with the EOS EVM |  
+| 3. | Documentation | We will provide extensive **tutorials** and **demos** to simplify wallet and platform onboarding and to explain how a user can use our dApp. |
 
 ### Milestone 2 Example — Marketing & Sales Campaign
 
