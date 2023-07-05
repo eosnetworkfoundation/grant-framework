@@ -88,7 +88,8 @@ In this way there is a stable mechanism regarding price where both the community
  
 
 #### Architecture
-<img width="637" alt="image" src="https://user-images.githubusercontent.com/54183058/193469553-1f083355-a2b3-4512-90d7-9cd5f76e5330.png">![image](https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/5df6834a-9105-43b9-8aa7-81576634bced)
+![image](https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/767aa425-2eb5-4ce8-90bf-b5723f05cc54)
+
 
 
 
