@@ -22,11 +22,18 @@ This grant will be used to integrate with EOS EVM, audit the protocol, launch th
 ### Overview
 
 - **Name:** Fundle - Community Building
-- **Brief Description:** Fundle is the all-in-one community-building platform to increase customer engagement, brand loyalty and benefits through a unique token-based membership model and new customer experiences! With Fundle, businesses can build a digital economy around their brand to get the most out of their community and further strengthen their brand-customer relationship. 
-
-  With Fundle we introduce a new generation of community building with more opportunities for engagement, revenue generation and benefits. Each business has its own token. Fans and customers can buy their desired amount of tokens to unlock the benefits and interactions they would like to have with the brand, based on the number of tokens they hold (discounts, products, interaction, access to events/experiences, etc.).  The model allows the community to be rewarded for the value they are helping create in the business. In addition, the platform offers new marketing/sales opportunities and customer insights.v
-
-  For more details please visit: https://wefundle.com/
+- **Brief Description:**
+  Fundle is the all-in-one community-building platform to increase customer engagement, brand loyalty and benefits through a unique token-based membership model and new customer experiences! With Fundle, businesses can build a digital economy around their brand to get the most out of their community and further strengthen their brand-customer relationship.
+  
+  With Fundle we introduce a new generation of community building with more opportunities for engagement, revenue generation and benefits. Each business has its own token. Fans and customers can buy their desired amount of tokens to unlock the benefits and interactions they would like to have with the brand, based on the number of tokens they hold (discounts, products, interaction, access to events/experiences, etc.). Members will have social & economic incentives to help the business succeed and the community will grow not only by its members but also in economic value. The tokens stimulate active participation and promotion of the business.
+  
+  Our mission is to increase customer engagement, benefits and deliver more value from the community for both business and members. Community tokens allow businesses to engage with their fans more closely than ever before and allows the community to be rewarded for the value they are helping create in the business. In addition, the platform can enable new revenue streams, customer insights and the tokens can be used as an effective marketing tool for businesses.
+  
+  Communities will play a vital role in improving user experience and brand to customer relationships. The future will be digital, social and community-driven and web3 will change how the world will interact with each other. We believe that the current concept of monthly membership fees can be upset by the community token model.
+  
+  Fundle and EOS EVM potential partnership presents an exciting opportunity to introduce new users to the world of web3 and EOS. Our platform will generate transactions, boost liquidity and volume in the EOS ecosystem and showcase what is possible to build on EOS. 
+  
+   For more details please visit: https://wefundle.com/
 
 - **Relationship to EOS Network / Antelope:** With this grant we will deploy our protocol smart contracts and run our platform on the EOS EVM!
 
@@ -47,7 +54,15 @@ This grant will be used to integrate with EOS EVM, audit the protocol, launch th
   These market trends and opportunities form the basis of the Fundle platform. We can revolutionize this landscape by utilizing blockchain technology. The way of community building needs to be redeveloped to let it reach its maximum potential. We believe that building long-term relationships, involvement and control is essential for this. Our community token model allows businesses to reward members and engage with them more closely than before. 
 
 #### Application UI 
-<img width="1296" alt="image" src="https://user-images.githubusercontent.com/54183058/191728363-99844410-721e-4e51-ae91-471825e49806.png">
+
+| ID | Deliverable | 
+|----|-------------|
+| <img width="1436" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/f8c3115b-c597-4aeb-8fa5-39727cd27342"> | <img width="1436" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/98a3d55f-90bb-4ba1-a2ee-73c3feef8ed0"> |
+| <img width="1436" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/9fb045a8-f5da-46a7-820a-0d43efc2dc4f">
+ | <img width="1436" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/8ef82051-5303-47fb-ab3e-aa795f92241e"> |<img width="1436" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/8c458597-3b1f-4ec0-9053-6b656eae7b78"> |
+
+
+
 
 #### Token-based Membership Protocol
 
@@ -91,7 +106,7 @@ In this way there is a stable mechanism regarding price where both the community
 
 - Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
 
-  To the best of our knowledge there are no similar projects in EOS or related ecosystems. Compared to other community building platforms we are unique with our token protocol. With Fundle we introduce a new generation of community building with more opportunities for engagement, revenue generation and benefits. Our token modal, digital economies and ways of interaction between business and members sets us apart. 
+  To the best of our knowledge there are no similar projects in EOS or related ecosystems. Compared to other community building platforms we are unique with our token protocol. With Fundle we introduce a new generation of community building with more opportunities for engagement, revenue generation and benefits. Our token model, digital economies and ways of interaction between business and members sets us apart. 
 
   The Fundle protocol generates collective value, next to the business, members can now also benefit financially from community growth. Customers will have a personalized unique membership experience. The token protocol provides a unique stable and dynamic way to determine community value. At last, there is a completely different dynamic on our platform with a social media design instead of a whitelabel solution, such as some other community building platforms have. 
 
@@ -167,7 +182,6 @@ Zaisan has been around in EOSIO ecosystem for several years, formally known as E
 - https://www.linkedin.com/in/robin-starink-80111815b/
 - https://www.linkedin.com/in/leo-frehe-9433811/
 - https://www.linkedin.com/in/rhettoudkerkpool/
-
 
 ## Development Status
 
