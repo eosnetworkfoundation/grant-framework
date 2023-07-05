@@ -30,7 +30,7 @@ Our plan is to use this grant to integrate with EOS EVM, audit the protocol, lau
 
 - **Name:** Fundle - Community Building
 - **Brief Description:**
-  Fundle is the all-in-one community-building platform to increase customer engagement, brand loyalty and benefits through a unique token-based membership model and new customer experiences! With Fundle, businesses can build a digital economy around their brand to get the most out of their community and further strengthen their brand-customer relationship.
+  Fundle is the all-in-one "social" community-building platform to increase customer engagement, brand loyalty and benefits through a unique token-based membership model and new customer experiences! With Fundle, businesses can build a digital economy around their brand to get the most out of their community and further strengthen their brand-customer relationship.
   
   With Fundle we introduce a new generation of community building with more opportunities for engagement, revenue generation and benefits. Each business has its own token. Fans and customers can buy their desired amount of tokens to unlock the benefits and interactions they would like to have with the brand, based on the number of tokens they hold (discounts, products, interaction, access to events/experiences, etc.). Members will have social & economic incentives to help the business succeed and the community will grow not only by its members but also in economic value. The tokens stimulate active participation and promotion of the business.
   
