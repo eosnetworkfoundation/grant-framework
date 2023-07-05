@@ -16,8 +16,9 @@
 - **Website:** https://wefundle.com
 
 ## Project Overview
+This proposal is for the EVM dApp grant: https://eosnetwork.com/lp/evm-dapp-funding/. We will use the grant to integrate with EOS EVM, audit the protocol, launch the platform and further develop platform features. 
 
-This grant will be used to integrate with EOS EVM, audit the protocol, launch the platform and further develop platform features. 
+
 
 ### Overview
 
@@ -33,7 +34,12 @@ This grant will be used to integrate with EOS EVM, audit the protocol, launch th
   
   Fundle and EOS EVM potential partnership presents an exciting opportunity to introduce new users to the world of web3 and EOS. Our platform will generate transactions, boost liquidity and volume in the EOS ecosystem and showcase what is possible to build on EOS. 
   
-   For more details please visit: https://wefundle.com/
+   For more details please visit:
+  
+  - Website: https://wefundle.com/
+  - LinkedIn: https://www.linkedin.com/company/wefundle/
+  - Instagram: https://www.instagram.com/wefundle/
+  
 
 - **Relationship to EOS Network / Antelope:** With this grant we will deploy our protocol smart contracts and run our platform on the EOS EVM!
 
