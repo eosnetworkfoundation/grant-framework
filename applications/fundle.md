@@ -50,16 +50,20 @@ This grant will be used to integrate with EOS EVM, audit the protocol, launch th
   An average member contributes $67 of worth yearly to the community. 33% of organizations with an online community have 10,000 or more members. In the coming years, the social business market will potentially grow with a CAGR of 30.8% to 7 trillion by 2030. Community building is becoming an increasingly important topic for businesses. 
   
   Active participation, involvement, and engagement remains difficult for large businesses. 55% of community professionals find it difficult to consistently engage members when running online communities.  For small businesses building and managing communities remains challenging and a barrier. 44% of community professionals said it was hard to put a quantity to the community value of the community and 59% points to community scaling as one of their main goals.
-  
+
   These market trends and opportunities form the basis of the Fundle platform. We can revolutionize this landscape by utilizing blockchain technology. The way of community building needs to be redeveloped to let it reach its maximum potential. We believe that building long-term relationships, involvement and control is essential for this. Our community token model allows businesses to reward members and engage with them more closely than before. 
 
-#### Application UI 
+#### How it works  
 
-| ID | Deliverable | 
-|----|-------------|
-| <img width="1436" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/f8c3115b-c597-4aeb-8fa5-39727cd27342"> | <img width="1436" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/98a3d55f-90bb-4ba1-a2ee-73c3feef8ed0"> |
-| <img width="1436" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/9fb045a8-f5da-46a7-820a-0d43efc2dc4f">
- | <img width="1436" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/8ef82051-5303-47fb-ab3e-aa795f92241e"> |<img width="1436" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/8c458597-3b1f-4ec0-9053-6b656eae7b78"> |
+![image](https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/e0e91d30-c22a-4e97-b9af-c8ce3e1378c4)
+
+  Fundle also provides an integrated chat to stimulate intensive communication and interaction, which makes it the all-in-one tool. Community can chat directly within the platform, enhances community building experience and eliminates the need for external chat channels. Business has access to opinions of community members to create user-centric products that align with needs and preferences, boosting member engagement, loyalty, and revenue.
+
+<img width="800" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/f8c3115b-c597-4aeb-8fa5-39727cd27342">
+<img width="800" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/98a3d55f-90bb-4ba1-a2ee-73c3feef8ed0"> 
+<img width="800" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/9fb045a8-f5da-46a7-820a-0d43efc2dc4f">
+<img width="800" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/8ef82051-5303-47fb-ab3e-aa795f92241e"> 
+<img width="800" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/8c458597-3b1f-4ec0-9053-6b656eae7b78"> 
 
 
 
@@ -72,15 +76,6 @@ Our innovative token bonding curve protocol have a more stable price mechanism c
 
 In this way there is a stable mechanism regarding price where both the community and business can be rewarded for the value they help creating. Engagement and benefits determine the added value and thus, utility of the token. This utility (added value) of the token drives popularity which influences the purchase behavior and holding patterns of token holders.
  
-
-- Mock-ups/designs of any UI components
-- Data models of the core functionality
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
 ### Ecosystem Fit
 - Where and how does your project fit into the ecosystem?
