@@ -90,6 +90,7 @@ In this way there is a stable mechanism regarding price where both the community
 #### Architecture
 <img width="800" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/5f3f3c0c-77ca-47a9-93ee-59fb15dce0d5">
 
+Fundle is commercial software and not open source and therefore we will not share the sourcecode of our protocol and application with the ENF. 
 
 ### Ecosystem Fit
 - Where and how does your project fit into the ecosystem?
