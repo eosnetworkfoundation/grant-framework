@@ -16,8 +16,14 @@
 - **Website:** https://wefundle.com
 
 ## Project Overview
-This proposal is for the EVM dApp grant: https://eosnetwork.com/lp/evm-dapp-funding/. We will use the grant to integrate with EOS EVM, audit the protocol, launch the platform and further develop platform features. 
+This proposal is for the EVM dApp grant: https://eosnetwork.com/lp/evm-dapp-funding/. 
 
+It is the perfect timing for Fundle and EOS to collaborate:
+- We have just **released the private beta version of Fundle**! This is V1 of our application and everything is right now working and running on the Polygon blockchain with MetaMask. The application is tested on usability and bugs with customers. Integration with EOS EVM can be done relatively easy. We can schedule a meeting to show/give access to the private beta version!
+- We are **gaining traction**, the momentum is growing and we are in talks with businesses about being launching customers. When we have 4 communities we will launch the platform.
+- We will **generate transactions** and introduce **new users** to the world of web3 and EOS. Fundle is an innovative product and can be the **perfect use case** to showcase what is possible to build on EOS. 
+
+Our plan is to use this grant to integrate with EOS EVM, audit the protocol, launch the platform and further develop platform features. We are ready to launch, with this grant we can boost the launch of our platform, together with the power of the EOS ecosystem!
 
 
 ### Overview
@@ -186,7 +192,7 @@ Zaisan has been around in EOSIO ecosystem for several years, formally known as E
 
 ## Development Status
 
-We have just **released the private beta version of Fundle**! We have developed and finished the application and token bonding curve protocol. Everything is right now working and running on the Polygon blockchain with MetaMask and the application is already tested on usability and bugs with customers. The IOS app is on its way. We are planning to launch the platform in the coming months! We are ready to launch, set to make a significant impact in the EOS ecosystem and beyond.
+We have just **released the private beta version of Fundle**! We have developed and finished the application and token bonding curve protocol. Everything is right now working and running on the Polygon blockchain with MetaMask and the application is already tested on usability and bugs with customers. We can schedule a meeting to show/give access to the private beta version! The IOS app is on its way. We are planning to launch the platform in the coming months! We are ready to launch, set to make a significant impact in the EOS ecosystem and beyond.
 
 ## Development Roadmap
 
