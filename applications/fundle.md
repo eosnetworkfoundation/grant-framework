@@ -88,8 +88,7 @@ In this way there is a stable mechanism regarding price where both the community
  
 
 #### Architecture
-<img width="800" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/f2ab444c-aaab-4eca-886e-69fc902423d9">
-
+<img width="800" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/4b0baa84-adbc-4e45-9373-8b900d2dffba">
 
 
 ### Ecosystem Fit
