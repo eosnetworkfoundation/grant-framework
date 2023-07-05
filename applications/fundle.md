@@ -52,10 +52,8 @@ Our plan is to use this grant to integrate with EOS EVM, audit the protocol, lau
 - **Reason for Interest:** Web 3 allows us to revolutionize and strengthen the position of the community. EOS EVM allows us to “simply” integrate with the EOS ecosystem and allows our users to use the tools they are familiar with, such as MetaMask. We truly believe in the added value of EOS as blockchain, we would like to utilize the benefits of high throughput and low transaction costs for our users. These aspects are crucial for the success of our platform. With the entrance of the ENF, we see that many good developments are going on, and therefore we have trust in EOS for the future!
 
 ### Project Details
-
-  Our team has an ambitious long-term commitment to make Fundle the most popular all-in-one platform for community building and managing. 
   
-  We see an interesting opportunity in community-building market. In these markets involvement and interaction are essential for success. With the entrance of web3, we can strengthen and improve these factors. 
+  We see an interesting opportunity in community-building market. In this market involvement and interaction are essential for success. With the entrance of web3, we can strengthen and improve these factors and the position of the community. 
   
   For businesses, the top benefits of an online community are customer loyalty, reduction in support costs and brand awareness. 70% of communities positively affect the brand and company culture. Companies with online communities are 60% more profitable than companies which do not focus on online communities.
   
@@ -239,18 +237,15 @@ On the application side we will improve our features so that users can have more
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
 | 1. | IOS App | We will finish the IOS app so that users can easily view and manage their memberships, buy tokens, discover communities and interact via the chat, all to stimulate engagement.  |  
-| 2. | Product sales functionality | We will integrate the product/sales functionality. Members can purchase exclusive items, products, merchandise with their community tokens. This will increase the number of transactions on the EOS EVM via Fundle and enables businesses to use Fundle as an additional sales channel.  |  
-| 3. | Website Token Plugin | We will develop a token plugin which brands can integrate in their own website so that customers can directly buy and sell tokens at the brand website. This will increase the number of transactions on the EOS EVM via Fundle.  |  
-| 4. | Analytics dashboard improvement | We will improve the business dashboard so that businesses can gain more insights into (and stats about) members to sharpen their marketing strategies.  |  
+| 2. | Product sales functionality | We will integrate the product/sales functionality. Members can purchase exclusive items, products, or merchandise with their community tokens. This will increase the number of transactions on the EOS EVM via Fundle and enables businesses to use Fundle as an additional sales channel.  |  
+| 3. | Website Token Plugin | We will develop a token plugin which brands can integrate in their own website so that customers can also directly buy and sell tokens at the brand website. This will increase the number of transactions on the EOS EVM via Fundle.  |  
+| 4. | Analytics dashboard improvement | We will improve the business dashboard so that businesses can gain more insights into and stats about members to sharpen their marketing strategies.  |  
 
 ## Future Plans
 
-We see many expansion options for the Fundle platform and we will stay commited to it. We really believe in full tokenization and digital economies for brands. In the coming years we will move towards the adoption of digital economies.
+We see many expansion options for the Fundle platform and we will stay commited to it. We really believe in full tokenization and digital economies for brands. In the coming years we will move towards the adoption of digital economies. Our team has an ambitious long-term commitment to make Fundle the most popular all-in-one platform for community building and managing. 
 
-> Please include here:
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+<img width="1440" alt="image" src="https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/3acc8869-be3d-4016-a215-b9286eb3d9b6">
 
 
 ## Additional Information
