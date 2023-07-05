@@ -94,7 +94,7 @@ In this way there is a stable mechanism regarding price where both the community
   
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
-  Our target businesses are those who are interested in the potential of online community building and are focused on innovating their businesses to improve customer experiences. These businesses should preferably already be actively online and have existing communities where they would like to expand and interact with more. We are targeting web 3 interested brands, influencers with brands, and crowdfunding projects that want to offer new customer experiences or build, grow and manage their communities.
+  Our target businesses are those who are interested in the potential of online community building and are focused on innovating their businesses to improve customer experiences. These businesses should preferably already be actively online and have existing communities where they would like to expand and interact with more. We are targeting web 3 interested brands, innovative products, influencers with brands, and crowdfunding projects that want to offer new customer experiences or build, grow and manage their communities.
 
   These can be businesses with existing communities who like to have more interaction with their fanbase to gain more (value) from their community and offer new customer experiences. Or startups who want to build, grow and manage their community/business.
 
