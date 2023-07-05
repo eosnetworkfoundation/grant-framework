@@ -87,6 +87,11 @@ Our innovative token bonding curve protocol have a more stable price mechanism c
 In this way there is a stable mechanism regarding price where both the community and business can be rewarded for the value they help creating. Engagement and benefits determine the added value and thus, utility of the token. This utility (added value) of the token drives popularity which influences the purchase behavior and holding patterns of token holders.
  
 
+#### Architecture
+<img width="637" alt="image" src="https://user-images.githubusercontent.com/54183058/193469553-1f083355-a2b3-4512-90d7-9cd5f76e5330.png">![image](https://github.com/WiebeHendriks/grant-framework-ENF/assets/54183058/5df6834a-9105-43b9-8aa7-81576634bced)
+
+
+
 ### Ecosystem Fit
 - Where and how does your project fit into the ecosystem?
 
