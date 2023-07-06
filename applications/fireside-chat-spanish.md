@@ -1,34 +1,19 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-> 
-> Please do not remove any of the mandatory lines that start with **bold labels** or as headlines! Your application will be rejected!
->
-> Please do not remove the bolding of labels (such as **Bold Label:** ) as it is needed by the automated parsers - that includes the bolding on lines starting with a bullet as part of a list.
-> 
-> Please note that this application will be **automatically parsed**.  Please only put the data required in the fields following the bolded labels.
->
-> Deleting lines that start with **Bold Labels:** will cause your grant to be rejected! Please fill this out carefully if you want to be approved!
->
-> All "comment" lines starting with a `>` (such as this one and the ones above and below) should be removed.
-
-- **Project Name:** Name of your project (e.g. Anchor Wallet)
-- **Team Name:** Legal name of your team (e.g. Greymass, Inc.)
-- **EOS Payment Address:** EOS payment address
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
-- **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
-- **Project is Open-Source:** Yes/No
-- **Project was part of Token sale:** Yes/No
-- **Repository where Project resides:** https://github.com/<your_organisation>/<project_repo>
-> Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
+- **Project Name:** Fireside Chat in Spanish 
+- **Team Name:** Creamy Vainilla C.A 
+- **EOS Payment Address:** eosespanlorg
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
+- **Pomelo Grant(s):** (https://pomelo.io/grants/eosespanol)
+- **Project is Open-Source:** Yes
+- **Project was part of Token sale:** No
+- **Repository where Project resides:** https://github.com/EOSSpanish
 
 ## Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** myemail@mycompany.com
-- **Website:** https://yourwebsite.com
+- **Contact Name:** Nelson Antonio Aular Quintero.
+- **Contact Email:** aqanelson@gmail.com
+- **Website:** 
 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -73,38 +58,53 @@
 
 ### Team members
 
-- **Team Leader:** Name of team leader
-- Name of team member 1
-- Name of team member 2
-- Name of team member 3, etc.
+- **Team Leader:** Nelson Antonio Aular Quintero.
+- Verónica Coromoto Díaz Duran.
+- Leonardo Díaz.
+
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity. (e.g. Greymass, Inc.)
-- **Registered Address:** Address of your registered legal entity. Please keep it in a single line. (e.g. 123 Main Street, London LK1 234, UK)
+- Registered Legal Entity: It is currently being legalized, for now we have the Creamy Vanilla C.A registry.
+- Registered Address: Venezuela Cojedes, San Carlos. C-165gle line. 
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
+-Nelson Aular:
+Social Media and CM of EOS VISION.
+Co-founder of Eos- Español and community manager.
+Defibox moderator in Spanish.
+And moderator of different channels and social networks (EOS FACEBOOK, EOS REDDIT, EOS VISION TELEGRAM)
 
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+-Verónica Díaz:
+Founder of Creamy Vanilla the first Smoothies store in EOS. Just like the Vanill Creamy collection on AtomicHub.
+Community Manager of EOSTARTER.
+Working bee and administrator in EOS BEES in Spanish.
+Active Eden member.
+Defibox administrator in Spanish.
+Ambassador of EOS SUPPORT in Spanish.
+Discord Manager of Function Loops Club (International Producer.)
+And moderator of different channels and social networks (EOS COMMUNITY DISCORD, EOS FACEBOOK, EOS REDDIT, EOS TELEGRAM AND EDEN ON EOS)
+
+ -Leonardo Diaz: 
+Trained Venezuelan journalist and photographer.
+Eden member
+Ambassador of EOS SUPPORT in Spanish.
+EOS VISION Designer
 
 ### Team Org Repos
 
-- https://github.com/<your_organization>
-- https://github.com/<your_organization>/<project_1>
-- https://github.com/<your_organization>/<project_2>
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+-(https://github.com/EOSSpanish)
 
 ### Team Member Repos
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- (https://github.com/nelsonaularq)
+- (https://github.com/Creamyvanill)
+
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/in/<person_1>
-- https://www.linkedin.com/in/<person_2>
+- (https://www.linkedin.com/mwlite/in/nelson-aular-a137b2259)
+- (https://www.linkedin.com/in/veronicadiazvcdd/
 
 ## Development Status
 
