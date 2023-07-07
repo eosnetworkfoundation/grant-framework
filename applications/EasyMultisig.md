@@ -97,5 +97,5 @@ https://www.linkedin.com/in/esteban-s-988b6457/
 - If dem adecuade add support for other EVMs in the Antelope ecosystem.
 
 ## Additional Information
-**This is our second grant application.
-The contracts deployed code can be reviewed on the explorer, meaning that their security is independent from the frontend. Also the contracts deployed can be interacted with by using the EOSEVM explorer.
+This is our second grant application.
+The multisig contracts deployed code can be reviewed on the explorer, resulting in that their security is independent from the frontend. Also the contracts deployed can be interacted with by using the EOSEVM explorer.
