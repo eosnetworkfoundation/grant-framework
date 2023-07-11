@@ -1,7 +1,10 @@
 
 **Project Name:** Dream DAO
+
 **Team Name:** Dream DAO
+
 **EOS Payment Address:** dreamdaogenz
+
 **Level:** 1 (small)
 **Pomelo Grant(s)****:** N/A
 **Project is Open-Source:** No
