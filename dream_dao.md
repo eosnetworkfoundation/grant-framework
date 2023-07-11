@@ -1,6 +1,6 @@
 **Project Overview**
 
-**Project Name:** Dream DAO
+**Project Name:** Dream DAO 
 
 **Team Name:** Dream DAO
 
