@@ -12,7 +12,7 @@
 
 **Project is Open-Source:** No
 
-**Project was part of Token sale:** No 
+**Project was part of Token sale:** Yes
 
 **Repository where Project resides:** https://dream-dao.gitbook.io/how-we-dao-dream-dao/ https://github.com/dreamdaoed3
 
