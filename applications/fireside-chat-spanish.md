@@ -19,40 +19,37 @@
 
 ## Project Overview
 
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
+The EOS Fireside Chat in Spanish is the meeting place for the entire Hispanic community!
 
 ### Overview
 
 > Please provide the following:
 
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOS Network / Antelope:** An indication of how your project relates to / integrates into the EOS Network or Antelope software.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+- **Name:** The EOS Fireside Chat in Spanish
+- **Brief Description:** The Fireside Chat allows you to organize a series of talks, weekly news and interviews in Spanish, carried out through the Discord platform, with the aim of providing information, education and promoting community participation in the EOS ecosystem.
+- **Relationship to EOS Network / Antelope:** The EOS Fireside Chat is an event directly related to the EOS community and ecosystem. It is a space where community members can come together to discuss, learn and share information about EOS. The main objective of the Fireside Chat is to provide a meeting place and promote the active participation of the community in the development and evolution of EOS.
+- **Reason for Interest:** This project of talks and interviews on Discord for the EOS community offers access to valuable information, education, active participation, networking opportunities and the possibility of accessing the content later. These reasons can arouse great interest among the members of the EOS community, thus giving us the opportunity to grow as a community and see more projects and development.
 
 ### Project Details
 
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
-
-- Mock-ups/designs of any UI components
-- Data models of the core functionality
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+-Who is the host? Veronica Diaz
+-Any co-host? Nelson Aular.
+-Who is recording and broadcasting the event? Posted on which social media platforms/sites?
+The event will be recorded via OBS live on Youtube and Twitter.
+-Dates of events? Every Thursday at 19:00 UTC
+-How often? 2 times a month.
+-Game Plan: Access to the official notes of the Fireside Chat, special interviews, invitations to different people, deliveries of Pop Tokens.
 
 ### Ecosystem Fit
 
 > Help us locate your project in the EOS Network landscape and what problems it tries to solve by answering each of these questions:
 
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+- Where and how does your project fit into the ecosystem? This Discord chat and interview project fits into the EOS ecosystem by providing a space for community interaction and education. It focuses on providing relevant information, promoting active participation and fostering the growth and development of EOS. By offering thematic talks and interviews with experts, the project contributes to the exchange of knowledge and strengthens the community at large.
+- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? The target audience for this project are members of the Spanish-speaking EOS community and anyone who wishes to join. This can include developers of chains, dApps, wallets, and general users who are interested in learning more about EOS and actively participating in its development. It is also intended to attract designers and anyone interested in the EOS ecosystem.
+- What need(s) does your project meet? This project addresses the need for information, education and active participation in the EOS ecosystem in Spanish. It provides an opportunity where community members can access up-to-date information from throughout the week, learn from leading experts and leaders, ask questions, and participate in interactive discussions. In addition, recordings allow content to be accessed later, satisfying the need to access quality information at any time.
+- Are there any other projects similar to yours in the EOS Network / Antelope ecosystem? Although there may be other projects related to the dissemination of information and participation in the EOS ecosystem, not all are the same, it is important to investigate specifically within the EOS network and the Antelope ecosystem to carry out the different talks so that you have a previous experience of the topics. EOS already has two Fireside Chats in English and Chinese.
+  - If so, how is your project different? The selection of specific topics for the community in Spanish, the quality of the guests and experts, the format of the talks and interviews, the interaction with the community.
+
 
 ## Team
 
@@ -108,13 +105,7 @@ EOS VISION Designer
 
 ## Development Status
 
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+-The project has been created after having different talks and conversations, where the corresponding permissions for its creation were sought.
 
 ## Development Roadmap
 
