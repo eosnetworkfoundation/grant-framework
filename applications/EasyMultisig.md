@@ -5,8 +5,8 @@
 - **EOS Payment Address:** trustswap111
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 - **Pomelo Grant(s):** https://pomelo.io/grants/eosevmmultis
-- Project is Open-Source: Yes
-- Project was part of Token sale: No
+- **Project is Open-Source:** Yes
+- **Project was part of Token sale:** No
 - Repository where Project resides: https://github.com/evm20/easymultisig
 
 ## Contact
