@@ -7,7 +7,7 @@
 - **Pomelo Grant(s):** https://pomelo.io/grants/eosevmmultis
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
-- Repository where Project resides: https://github.com/evm20/easymultisig
+- **Repository where Project resides:** https://github.com/evm20/easymultisig
 
 ## Contact
 
