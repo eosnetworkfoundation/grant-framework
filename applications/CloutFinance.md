@@ -135,7 +135,6 @@ We have completed the Documentation outlining our plans. However, we are current
 | ----- | ----------- | ------------- |
 | 0a. | Social Outreach | Social Media campaigns to be planned with videos and infographics to be prepared |
 | 0b. | Quests | To get the quick attention from web3 Community from other ecosystem, quests will be launched which will giveaway from CLOUT and USDT tokens |
-|  
 | 0c. | Moderators | Getting moderators to engage and handle the community meanwhile of development |
 
 
