@@ -127,77 +127,74 @@ For each milestone,
 
 ### Milestone Summary
 
-> Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
-> You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
-> of all of your Milestones.  Please **DO NOT** remove the three lines below.  If you do, your grant will be rejected or delayed while you fix it.
-- **Total Estimated Duration:** 2 months 
-- **Full-Time Equivalent (FTE):** 2 FTE
-- **Total Costs:** 12,000 USD
+- **Total Estimated Duration:** 5 months 
+- **Full-Time Equivalent (FTE):** 
+- **Total Costs:** 2,000 USD
 
-> Please note that this application is automatically parsed.<br/>
-> For the above fields, please only put the answer on that line.  If you want to add more information, please put it below these instructions.<br/>
-> Please remember to delete all lines that start with `>` as they are just instructions and not needed in the application submission.<br/>
-> 
-> Notes on above fields:
-> - Total Estimated Duration: Duration of the whole project (example: 2 months or 7 weeks)
-> - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
-> - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
-
-### Milestone 1 Example — Implement EOS Application
-
-- **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 8,000 USD
-
-| ID | Deliverable | Specification |
-| ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Application interface to Antelope | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
-| 3. | Caching layer | We will create a caching layer ... |  
-| 4. | API interface to our app | We will create an API that ... |  
-
-
-
-### Milestone 2 Example — Additional features
+### Milestone 1 — Fireside Chat in Spanish month of August.
 
 - **Estimated Duration:** 1 month
-- **FTE:**  2
-- **Costs:** 4,000 USD
+- **FTE:**  
+- **Costs:** 400 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Added UI functionality | We will add UI functionality to... |  
-| 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
+| 0a. | First Fireside Chat of the Month of August | Hosting, development and creation of the first Fireside Chat in Spanish of the month. |
+| 0b. | Second Fireside Chat of the Month of August | Hosting, development and creation of the second Fireside Chat in Spanish of the month. |
 
+### Milestone 2 — Fireside Chat in Spanish month of September.
 
-... Add more milestones as above as needed ...
+- **Estimated Duration:** 1 month
+- **FTE:**  
+- **Costs:** 400 USD
 
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | First Fireside Chat of the Month of September | Hosting, development and creation of the first Fireside Chat in Spanish of the month. |
+| 0b. | Second Fireside Chat of the Month of September | Hosting, development and creation of the Second Fireside Chat in Spanish of the month. |
+
+### Milestone 3 — Fireside Chat in Spanish month of October.
+
+- **Estimated Duration:** 1 month
+- **FTE:**  
+- **Costs:** 400 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | First Fireside Chat of the Month of October | Hosting, development and creation of the first Fireside Chat in Spanish of the month. |
+| 0b. | Second Fireside Chat of the Month of October | Hosting, development and creation of the Second Fireside Chat in Spanish of the month. |
+
+### Milestone 4 — Fireside Chat in Spanish month of November.
+
+- **Estimated Duration:** 1 month
+- **FTE:**  
+- **Costs:** 400 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | First Fireside Chat of the Month of November | Hosting, development and creation of the first Fireside Chat in Spanish of the month. |
+| 0b. | Second Fireside Chat of the Month of November | Hosting, development and creation of the Second Fireside Chat in Spanish of the month. |
+
+### Milestone 5 — Fireside Chat in Spanish month of December.
+
+- **Estimated Duration:** 1 month
+- **FTE:**  
+- **Costs:** 400 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | First Fireside Chat of the Month of December | Hosting, development and creation of the first Fireside Chat in Spanish of the month. |
+| 0b. | Second Fireside Chat of the Month of December | Hosting, development and creation of the Second Fireside Chat in Spanish of the month. |
 
 ## Future Plans
 
-> Please include here:
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
-
+My team has experience in translation and we would like to have a Red EOS Foundation in Spanish later on.
+Promote EOS in different events in Spanish as well as expand the Fireside Chat to other places.
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** EOS Network Foundation Website
 
 > Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+I work for EOS in Spanish and I have two years at EOS. I had never asked for a grant but I have participated in Pomelo.
