@@ -1,4 +1,4 @@
-name: Reusable Gsheet Update
+name: AM Reusable Gsheet Update
 on:
   workflow_call:
     inputs:
@@ -57,10 +57,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - id: 'update_worksheet'
-        #uses: jroehl/gsheet.action@v1.2.0
-        uses: jroehl/gsheet.action@v2.0.1
+        uses: jroehl/gsheet.action@v1.2.0
         with:
-          spreadsheetId: 1hTRqt_iGDmFvwbn9leKwr7e-tL9eqHS3-h_dDP5Fpu8
+          spreadsheetId: 128L-4NQpOT0f2MLRcd5NiNAMsxS_Y1XGqFRXnyxtfLk
           commands: |
             [
               { "command": "appendData", "args": { "data": [["${{ inputs.pr_no }}", "${{ inputs.project_name }}", 

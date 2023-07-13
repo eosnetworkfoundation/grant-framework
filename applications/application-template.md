@@ -6,13 +6,13 @@
 > 
 > Please do not remove any of the mandatory lines that start with **bold labels** or as headlines! Your application will be rejected!
 >
-> Please do not remove the bolding of labels (such as **Team Name:** ) as it is needed by the automated parsers - that includes the bolding on lines starting with a bullet as part of a list.
+> Please do not remove the bolding of labels (such as **Bold Label:** ) as it is needed by the automated parsers - that includes the bolding on lines starting with a bullet as part of a list.
 > 
-> Please note that this application will be **automatically parsed**.  Please only put the data required in the fields following the bolded labels (such as **Team Name:**.
+> Please note that this application will be **automatically parsed**.  Please only put the data required in the fields following the bolded labels.
 >
 > Deleting lines that start with **Bold Labels:** will cause your grant to be rejected! Please fill this out carefully if you want to be approved!
 >
-> All lines starting with a `>` (such as this one and the ones above and below) should be removed.
+> All "comment" lines starting with a `>` (such as this one and the ones above and below) should be removed.
 
 - **Project Name:** Name of your project (e.g. Anchor Wallet)
 - **Team Name:** Legal name of your team (e.g. Greymass, Inc.)
@@ -42,7 +42,7 @@
 
 - **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
 - **Brief Description:** A brief description of your project.
-- **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
+- **Relationship to EOS Network / Antelope:** An indication of how your project relates to / integrates into the EOS Network or Antelope software.
 - **Reason for Interest:** An indication of why your team is interested in creating this project.
 
 ### Project Details
@@ -60,12 +60,12 @@
 
 ### Ecosystem Fit
 
-> Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
+> Help us locate your project in the EOS Network landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 - What need(s) does your project meet?
-- Are there any other projects similar to yours in the EOSIO ecosystem?
+- Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
   - If so, how is your project different?
   - If not, are there similar projects in related ecosystems?
 
@@ -103,8 +103,8 @@
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/<person_1>
+- https://www.linkedin.com/in/<person_2>
 
 ## Development Status
 
@@ -138,7 +138,7 @@ For each milestone,
 
 > Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
 > You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
-> of all of your Milestones.
+> of all of your Milestones.  Please **DO NOT** remove the three lines below.  If you do, your grant will be rejected or delayed while you fix it.
 - **Total Estimated Duration:** 2 months 
 - **Full-Time Equivalent (FTE):** 2 FTE
 - **Total Costs:** 12,000 USD
@@ -152,7 +152,7 @@ For each milestone,
 > - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
 > - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
 
-### Milestone 1 Example — Implement EOSIO Application
+### Milestone 1 Example — Implement EOS Application
 
 - **Estimated duration:** 1 month
 - **FTE:**  2
@@ -161,11 +161,11 @@ For each milestone,
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
 | 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
 | 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Application interface to EOSIO | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
+| 1. | Application interface to Antelope | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
 | 2. | Front-End / User Interface | We will create a UI that connects to ... |  
 | 3. | Caching layer | We will create a caching layer ... |  
 | 4. | API interface to our app | We will create an API that ... |  
@@ -181,7 +181,7 @@ For each milestone,
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
 | 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
 | 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)

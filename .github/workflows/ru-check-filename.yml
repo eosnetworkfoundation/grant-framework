@@ -1,0 +1,36 @@
+# Reusable filename checker
+# Checks for the following conditions and exits if found:
+# 1) missing the ".md" file extension
+# 2) embedded spaced in the filename
+# The job will exit and print an error message to the Annotations (Console) so others can diagnose.
+#
+# Ted Cahall 18May2023
+#
+name: Reusable Filename checker
+on:
+  workflow_call:
+    inputs:
+      filename:
+        required: true
+        type: string
+        
+jobs:
+  checkfile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: test-has-md
+        if: ${{ endsWith(inputs.filename, '.md') }}
+        run: |
+          echo "filename ${{inputs.filename}} ends with .md"
+      - name: test-missing-md
+        if: ${{ !endsWith(inputs.filename, '.md') }}
+        uses: actions/github-script@v6
+        with:
+          script: |
+            core.setFailed('filename ${{inputs.filename}} does not end with .md')
+      - name: test-spaces
+        if: ${{ contains(inputs.filename, ' ') }}
+        uses: actions/github-script@v6
+        with:
+          script: |
+            core.setFailed('filename \'${{inputs.filename}}\' cannot contain spaces.  Exiting.')

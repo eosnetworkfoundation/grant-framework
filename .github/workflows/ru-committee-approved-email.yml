@@ -2,6 +2,7 @@
 # and now will go to the evaluators.  Gives them instructions on next steps.
 #
 # Ted Cahall 26May2022
+# 22May2023 - updated to dawidd6/action-send-mail@v3.7.1 to supress node12 warnings
 
 name: Committee Approved Email to Grantee
 on:
@@ -34,7 +35,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: send email
-        uses: dawidd6/action-send-mail@v3.6.1
+        uses: dawidd6/action-send-mail@v3.7.1
         with:
           server_address: smtp.gmail.com
           server_port: 465
@@ -69,7 +70,7 @@ jobs:
             Best,<br/>
             ENF Operations Team
           to: ${{inputs.app_email}}
-          from: grants@eosn.foundation
-          reply_to: grants@eosn.foundation
-          bcc: grants@eosn.foundation
+          from: grants@eosnetwork.com
+          reply_to: grants@eosnetwork.com
+          bcc: grants@eosnetwork.com,grant-committee-approved@eosnetwork.com
 

@@ -1,0 +1,78 @@
+# Scrape application file to the "DataBigScrape" spreadsheet
+# Alysha Mims copy of Ted Cahall 12Nov2022
+#
+
+name: AM Scrape Application to Gsheet
+
+on:
+  workflow_dispatch:
+    inputs:
+      AppFile:
+        type: string
+        description: Name of Application File
+        
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: greet
+        id: test_echo
+        run: | 
+          echo "Application file is: ${{ github.event.inputs.AppFile }}"
+          export APP_EMAIL=`/bin/grep "**Contact Email:**" "applications/${{ github.event.inputs.AppFile }}" | cut -d" " -f4`
+          echo "email_addr=$APP_EMAIL" >> $GITHUB_OUTPUT
+          echo email addr is $APP_EMAIL
+      - name: test_output
+        run: echo "the new output test shows the email_addr is ${{ steps.test_echo.outputs.email_addr }}"
+
+  call-parser:
+    uses: ./.github/workflows/am-big-parser.yml
+    with:
+      filename: "applications/${{ github.event.inputs.AppFile }}"
+    needs: build
+
+  echo-the-returned-fields:
+    runs-on: ubuntu-latest
+    needs: call-parser
+    steps:
+      - id: echo-output
+        run: |
+          echo "basename ${{ needs.call-parser.outputs.basename }} "
+          echo "project name ${{ needs.call-parser.outputs.project_name }} "
+          echo "contact name ${{ needs.call-parser.outputs.contact_name }}"
+          echo "team name ${{ needs.call-parser.outputs.team_name }}"
+          echo "app_email ${{ needs.call-parser.outputs.app_email }}"
+          echo "total cost ${{ needs.call-parser.outputs.total_cost }}"
+          echo "legal entity ${{ needs.call-parser.outputs.legal_entity }}"
+          echo "legal addr ${{ needs.call-parser.outputs.legal_addr }}"
+          echo "level ${{ needs.call-parser.outputs.level }}"
+          echo "eos_addr ${{ needs.call-parser.outputs.eos_addr }}"
+          echo "github_actor ${{ needs.call-parser.outputs.github_actor }}"
+          echo "pr_no ${{ needs.call-parser.outputs.pr_no }}"
+          echo "website ${{ needs.call-parser.outputs.website }}"
+          echo "open_source ${{ needs.call-parser.outputs.open_source }}"
+          echo "token_sale ${{ needs.call-parser.outputs.token_sale }}"
+  write-spreadsheet:
+    uses: ./.github/workflows/am-big-gsheet.yml
+    needs: call-parser
+    with:
+      project_name: ${{ needs.call-parser.outputs.project_name }}
+      contact_name: ${{ needs.call-parser.outputs.contact_name }}
+      team_name: ${{ needs.call-parser.outputs.team_name }}
+      app_email: ${{ needs.call-parser.outputs.app_email }}
+      total_cost: ${{ needs.call-parser.outputs.total_cost }}
+      legal_entity: ${{ needs.call-parser.outputs.legal_entity }}
+      legal_addr: ${{ needs.call-parser.outputs.legal_addr }}
+      level: ${{ needs.call-parser.outputs.level }}
+      eos_addr: ${{ needs.call-parser.outputs.eos_addr }}
+      github_actor: ${{ needs.call-parser.outputs.github_actor }}
+      pr_no: ${{ needs.call-parser.outputs.pr_no }}
+      website: ${{ needs.call-parser.outputs.website }}
+      open_source: ${{ needs.call-parser.outputs.open_source }}
+      token_sale: ${{ needs.call-parser.outputs.token_sale }}
+      basename: ${{ needs.call-parser.outputs.basename }}
+    secrets:
+      gsheet_private_key: ${{ secrets.GHSEET_API_KEY }}

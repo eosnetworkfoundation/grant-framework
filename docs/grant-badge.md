@@ -25,5 +25,5 @@ To that end, we’ve created a set of badges for grant recipients. They are avai
 
 Also, please don't use the **name or logo of the EOS Network Foundation** in any context that could misrepresent your relationship with the EOS Network Foundation. Infringement of these guidelines can result in an immediate annulment of the grant.
 
-In case of any questions, please don’t hesitate to reach out to us at grants@eosn.foundation.
+In case of any questions, please don’t hesitate to reach out to us at grants@eosnetwork.com.
 

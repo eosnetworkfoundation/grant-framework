@@ -27,11 +27,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: greet
         run: | 
           echo "string is ${{ github.event.inputs.string }}"
+          echo "string2 is ${{ github.event.inputs.string2 }}"
           echo "environment is ${{ github.event.inputs.environment }}"
           echo "boolean is ${{ github.event.inputs.boolean }}"
           echo "choice is ${{ github.event.inputs.choice }}"

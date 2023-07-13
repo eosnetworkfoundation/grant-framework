@@ -1,0 +1,110 @@
+# Parse the ENF Grant Framework Application and return the important parts
+# Alysha Mims modified copy of - Ted Cahall 25May2022 - 
+#                                           30June2022 modified to scrape more fields.
+#                                           12Nov2022 - Added more fields for the Big Scrape and made a new file from old one
+# File may be called from a PR or with a filename passed in (not associated with a PR)
+#
+name: AM Reusable "Big" Application Parser
+on:
+  workflow_call:
+    inputs:
+      filename:
+        required: true
+        type: string
+    outputs:
+      app_email:
+        value: ${{ jobs.parse.outputs.app_email }}
+      contact_name:
+        value: ${{ jobs.parse.outputs.contact_name }}
+      project_name:
+        value: ${{ jobs.parse.outputs.project_name }}
+      team_name:
+        value: ${{ jobs.parse.outputs.team_name }}
+      total_cost:
+        value: ${{ jobs.parse.outputs.total_cost }}
+      legal_entity:
+        value: ${{ jobs.parse.outputs.legal_entity }}
+      legal_addr:
+        value: ${{ jobs.parse.outputs.legal_addr }}
+      level:
+        value: ${{ jobs.parse.outputs.level }}
+      eos_addr:
+        value: ${{ jobs.parse.outputs.eos_addr }}
+      repo_owner:
+        value: ${{ jobs.parse.outputs.repo_owner }}
+      github_actor:
+        value: ${{ jobs.parse.outputs.github_actor }}
+      pr_no:
+        value: ${{ jobs.parse.outputs.pr_no }}
+      website:
+        value: ${{ jobs.parse.outputs.website }}
+      open_source:
+        value: ${{ jobs.parse.outputs.open_source }}
+      token_sale:
+        value: ${{ jobs.parse.outputs.token_sale }}
+      basename:
+        value: ${{ jobs.parse.outputs.basename }}
+  
+jobs:
+  parse:
+    #if: inputs.filename
+    runs-on: ubuntu-latest
+    outputs:
+      app_email: ${{ steps.grep_appl.outputs.email_addr }}
+      contact_name: ${{ steps.grep_appl.outputs.contact_name }}
+      project_name: ${{ steps.grep_appl.outputs.project_name }}
+      team_name: ${{ steps.grep_appl.outputs.team_name }}
+      total_cost: ${{ steps.grep_appl.outputs.total_cost }}
+      legal_entity: ${{ steps.grep_appl.outputs.legal_entity }}
+      legal_addr: ${{ steps.grep_appl.outputs.legal_addr }}
+      level: ${{ steps.grep_appl.outputs.level }}
+      eos_addr: ${{ steps.grep_appl.outputs.eos_addr }}
+      basename: ${{ steps.grep_appl.outputs.basename }}
+      github_actor: ${{ steps.grep_appl.outputs.github_actor }}
+      pr_no: ${{ steps.grep_appl.outputs.pr_no }}
+      website: ${{ steps.grep_appl.outputs.website }}
+      open_source: ${{ steps.grep_appl.outputs.open_source }}
+      token_sale: ${{ steps.grep_appl.outputs.token_sale }}
+      
+    steps:
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      # Parse the application template for the required fields
+      - name: assign the env variables from the parsing
+        id: grep_appl
+        run: |
+          export APP_EMAIL=`/bin/grep -F "**Contact Email:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4`
+          echo "email_addr=$APP_EMAIL" >> $GITHUB_OUTPUT
+          export CNAME=`/bin/grep -F "**Contact Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
+          echo "contact_name=$CNAME" >> $GITHUB_OUTPUT
+          export PNAME=`/bin/grep -F "**Project Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-10`
+          echo "project_name=$PNAME" >> $GITHUB_OUTPUT
+          export TNAME=`/bin/grep -F "**Team Name:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-10`
+          echo "team_name=$TNAME" >> $GITHUB_OUTPUT
+          export TCOST=`/bin/grep -F "**Total Costs:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-8`
+          echo "total_cost=$TCOST" >> $GITHUB_OUTPUT
+          export LENTITY=`/bin/grep -F "**Registered Legal Entity:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f5-12`
+          echo "legal_entity=$LENTITY" >> $GITHUB_OUTPUT
+          export LADDR=`/bin/grep -F "**Registered Address:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f4-30`
+          echo "legal_addr=$LADDR" >> $GITHUB_OUTPUT
+          export LEVEL=`/bin/grep -F "**[Level](https" ${{ inputs.filename }} | tr -s " " | cut -d" " -f3-8`
+          echo "level=$LEVEL" >> $GITHUB_OUTPUT
+          export EOSADDR=`/bin/grep -F "**EOS Payment Address:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f5-8`
+          echo "eos_addr=$EOSADDR" >> $GITHUB_OUTPUT
+          export WEBSITE=`/bin/grep -F "**Website:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f3-8`
+          echo "website=$WEBSITE" >> $GITHUB_OUTPUT
+          export OPENSOURCE=`/bin/grep -F "**Project is Open-Source:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f5`
+          echo "open_Source=$OPENSOURCE" >> $GITHUB_OUTPUT
+          export TOKENSALE=`/bin/grep -F "**Project was part of Token sale:**" ${{ inputs.filename }} | tr -s " " | cut -d" " -f8`
+          echo "token_sale=$TOKENSALE" >> $GITHUB_OUTPUT
+          # following three only work when parser launched by a pull request
+          echo "repo_owner=${{ github.event.pull_request.head.repo.owner.login }}" >> $GITHUB_OUTPUT
+          echo "pr_no=${{ github.event.pull_request.number }}" >> $GITHUB_OUTPUT
+          echo "github_actor=${{ github.actor }}" >> $GITHUB_OUTPUT
+          export BASENAME=`/bin/echo ${{ inputs.filename }} | cut -d"/" -f2`
+          echo "basename=$BASENAME" >> $GITHUB_OUTPUT
+          echo $BASENAME

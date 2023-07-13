@@ -4,11 +4,11 @@ While we ask teams to provide details of their envisioned solution, we are aware
 
 The list below serves only as a guide and is not exhaustive.
 
-## Core EISIO Chain / Sub-modules
+## Core Antelope Chain / Sub-modules
 
 ### Applies to
 
-- Building/extending the core EOSIO code base or sub-modules.
+- Building/extending the core [Antelope](https://antelope.io/) code base or sub-modules.
 
 ### Requirements
 

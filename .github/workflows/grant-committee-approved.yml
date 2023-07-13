@@ -5,6 +5,7 @@
 # grant-committee-approved.yml
 #
 # Ted Cahall 31May2022
+# Updated to remove node12 warnings 22May2023
 
 name: Grant Committee Approved
 
@@ -28,7 +29,7 @@ jobs:
     steps:
       - name: Get application file name
         id: 'files'
-        uses: Ana06/get-changed-files@v2.0.0
+        uses: Ana06/get-changed-files@v2.2.0
         with:
           filter: 'applications/*.md'
 

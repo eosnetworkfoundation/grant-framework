@@ -1,0 +1,56 @@
+# This is a test job to test various filenames for two known error conditions:
+# 1) missing the ".md" file extension
+# 2) embedded spaced in the filename
+# The job will exit and print an error message to the Annotations (Console) so others can diagnose.
+#
+# Ted Cahall 18May2023
+#
+name: Test Jobs Exit plus file test
+
+on:
+  workflow_dispatch:
+    inputs:
+      filename:
+        type: string
+        description: Enter a sample filename with or without extension
+
+jobs:
+  echofile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: echofilename
+        run: | 
+          echo "The filename is ${{ github.event.inputs.filename }}"
+          
+  testfile:
+    runs-on: ubuntu-latest
+    needs: echofile
+    steps:
+      - name: test-has-md
+        if: ${{ endsWith(github.event.inputs.filename, '.md') }}
+        run: |
+          echo "filename ${{github.event.inputs.filename}} ends with .md"
+      - name: test-missing-md
+        if: ${{ !endsWith(github.event.inputs.filename, '.md') }}
+        uses: actions/github-script@v6
+        with:
+          script: |
+            core.setFailed('filename ${{github.event.inputs.filename}} does not end with .md')
+      - name: test-spaces
+        if: ${{ contains(github.event.inputs.filename, ' ') }}
+        uses: actions/github-script@v6
+        with:
+          script: |
+            core.setFailed('filename \'${{github.event.inputs.filename}}\' cannot contain spaces.  Exiting.')
+          
+  nextjobstep:
+    runs-on: ubuntu-latest
+    needs: testfile
+    steps:
+      - name: finaljob
+        run: |
+          echo "job completed successfully"
+          
+      
+          

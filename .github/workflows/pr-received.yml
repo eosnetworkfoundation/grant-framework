@@ -26,19 +26,25 @@ jobs:
     steps:
       - name: Get application file name
         id: 'files'
-        uses: Ana06/get-changed-files@v2.1.0
+        uses: Ana06/get-changed-files@v2.2.0
         with:
           filter: 'applications/*.md'
+
+  testfile:
+    uses: ./.github/workflows/ru-check-filename.yml
+    with:
+      filename: "${{ needs.get_filename.outputs.filename }}"
+    needs: get_filename
 
   call-parser:
     uses: ./.github/workflows/ru-big-parser.yml
     with:
       filename: "${{ needs.get_filename.outputs.filename }}"
-    needs: get_filename
+    needs: [get_filename, testfile]
 
   echo-the-returned-fields:
     runs-on: ubuntu-latest
-    needs: [get_filename, call-parser]
+    needs: call-parser
     steps:
       - id: echo-output
         run: |

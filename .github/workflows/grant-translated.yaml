@@ -16,7 +16,7 @@ jobs:
     steps:
       - name: Get grant application file name
         id: 'files'
-        uses: Ana06/get-changed-files@v2.0.0
+        uses: Ana06/get-changed-files@v2.2.0
         with:
           filter: 'applications/*.md'
           
@@ -44,18 +44,19 @@ jobs:
       - name: assign the env from the email name
         id: grep_email
         run: |
-          export APP_EMAIL=`/bin/grep "**Contact Email:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4`
-          #echo "::set-env name=APP_EMAIL::$APP_EMAIL"
-          echo "::set-output name=email_addr::$APP_EMAIL"
-          export CNAME=`/bin/grep "**Contact Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
-          echo "::set-output name=contact_name::$CNAME"
-          export PNAME=`/bin/grep "**Project Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
-          echo "::set-output name=project_name::$PNAME"
-          export TNAME=`/bin/grep "**Team Name:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
-          echo "::set-output name=team_name::$TNAME"
-          export TCOST=`/bin/grep "**Total Costs:**" ${{ needs.get_filename.outputs.filename }} | cut -d" " -f4-8`
-          echo "::set-output name=total_cost::$TCOST"
+          export APP_EMAIL=`/bin/grep -F "**Contact Email:**" ${{ needs.get_filename.outputs.filename }} | tr -s " " | cut -d" " -f4`
+          echo "email_addr=$APP_EMAIL" >> $GITHUB_OUTPUT
+          # old way-> echo "::set-output name=email_addr::$APP_EMAIL"
+          export CNAME=`/bin/grep -F "**Contact Name:**" ${{ needs.get_filename.outputs.filename }} | tr -s " " | cut -d" " -f4-8`
+          echo "contact_name=$CNAME" >> $GITHUB_OUTPUT
+          export PNAME=`/bin/grep -F "**Project Name:**" ${{ needs.get_filename.outputs.filename }} | tr -s " " | cut -d" " -f4-8`
+          echo "project_name=$PNAME"  >> $GITHUB_OUTPUT
+          export TNAME=`/bin/grep -F "**Team Name:**" ${{ needs.get_filename.outputs.filename }} | tr -s " " | cut -d" " -f4-8`
+          echo "team_name=$TNAME" >> $GITHUB_OUTPUT
+          export TCOST=`/bin/grep -F "**Total Costs:**" ${{ needs.get_filename.outputs.filename }} | tr -s " " | cut -d" " -f4-8`
+          echo "total_cost=$TCOST" >> $GITHUB_OUTPUT
           echo ${{ github.actor }} ${{ github.event_name }} ${{ github.event.pull_request.head.repo.owner.login }}
+          #echo $APP_MAIL $CNAME $PNAME $TNAME $TCOST
 
   checklabel:
     needs: [get_filename, parse_app]
@@ -63,7 +64,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - id: 'update_worksheet'
-        uses: jroehl/gsheet.action@v1.2.0
+        uses: jroehl/gsheet.action@v2.0.1
         with:
           #spreadsheetId: 1FsNUKcfAJAorZGHpEzbRKLVYWbpZ_93Ts-R-JTpRK_A #This is the DummyTest sheet
           spreadsheetId: 1RdSK5Y_URnTSzg__fRHV51jwO90x4AUMy0ym0ytWwKA

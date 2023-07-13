@@ -1,0 +1,39 @@
+# This is a test job to test various filenames for two known error conditions:
+# 1) missing the ".md" file extension
+# 2) embedded spaced in the filename
+# The job will exit and print an error message to the Annotations (Console) so others can diagnose.
+#
+# Ted Cahall 18May2023
+#
+name: Test Reusable Check Filename
+
+on:
+  workflow_dispatch:
+    inputs:
+      filename:
+        type: string
+        description: Enter a sample filename with or without extension
+
+jobs:
+  echofile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: echofilename
+        run: | 
+          echo "The filename is ${{ github.event.inputs.filename }}"
+          
+  testfile:
+    needs: echofile
+    uses: ./.github/workflows/ru-check-filename.yml
+    with:
+      filename: "${{ github.event.inputs.filename }}"
+  
+  job-complete:
+    runs-on: ubuntu-latest
+    needs: testfile
+    steps:
+      - name: echofilename
+        run: | 
+          echo "Job Complete.  The filename is ${{ github.event.inputs.filename }}"
+      

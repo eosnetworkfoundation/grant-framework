@@ -1,7 +1,7 @@
 <img src="img/enf-header.png" />
 
 # EOS Network Foundation Grant Framework
-As part of the EOS Network Foundation's (ENF) charter to grow and support the EOS ecosystem, the ENF has developed a multi-level grant program to help power research, software development, and maintenance of the EOSIO code base.  For more information about the ENF, please visit our [website](https://eosnetwork.com/) or [YouTube account](https://www.youtube.com/c/EverythingEOS).
+As part of the EOS Network Foundation's (ENF) charter to grow and support the EOS ecosystem, the ENF has developed a multi-level grant program to help power research, software development, and maintenance of the [Antelope](https://antelope.io/) code base.  For more information about the ENF, please visit our [website](https://eosnetwork.com/funding/) or [YouTube account](https://www.youtube.com/c/EverythingEOS).
 
 ## Grant Guidelines
 Individuals, small teams, and companies are all permitted to apply for grants. The purpose of the grants is to enable developers, businesses and individuals to build on EOS.  Grants [vary in size](#grant-levels) based on the size and scope of the initiative.  All forms of projects are open for submission, core chain modifications, tools, libraries, etc. as long as they are fully open-source.  Strong technical projects that clearly add to the Public Good are preferred.
@@ -10,12 +10,12 @@ The odds of getting your project approved increase if you follow our [acceptance
 The EOS Network Foundation (ENF) funds development grants for "Public Good" as well as those to “for profit” entities - with the goal that all grants will enhance the EOS community. Grants proposals are accepted in three levels, each having different amounts and acceptance criteria.  ENF Grants have guidelines, an application process, and a multi-stage approval process.  They also have a milestone based pay-out system.
 <table width="100%">
   <tr><th>&nbsp;</th><th>Individual / Small</th><th>Team / Medium</th><th>Company / Large</th></tr>
-  <tr><td><b>Amount</b></td><td align="center">Up to $10,000</td><td align="center">Up to $50,000</td><td align="center">Over $50,000</td></tr>
+  <tr><td><b>Amount</b></td><td align="center">Up to $10,000</td><td align="center">Up to $50,000</td><td align="center">Up to $200,000</td></tr>
   <tr>
     <td valign="top"><b>Requirements</b></td>
     <td valign="top"><ul><li>No prior Pomelo grant required</li><li>Selection by Grant Committee</li><li>2 Grant Evaluator approvals</li></ul></td>
     <td valign="top"><ul><li>Prior <a href="https://pomelo.io/">Pomelo grant</a> required</li><li>Selection by Grant Committee</li><li>3 Grant Evaluator approvals</li></ul></td>
-    <td valign="top"><ul><li>Special KYC process</li><li>Selection by Grant Committee</li><li>4 Grant Evaluator approvals</li><li>Pitch Call</li><li>Grants > $100k - ENF Approval</li></ul></td>
+    <td valign="top"><ul><li>Special KYC process</li><li>Selection by Grant Committee</li><li>4 Grant Evaluator approvals</li><li>Prior <a href="https://pomelo.io/">Pomelo grant</a> recommended</li><li>Grants > $100k - ENF Approval</li></ul></td>
   </tr>
   <tr>
     <td valign="top"><b>Benefits</b></td>
@@ -24,16 +24,37 @@ The EOS Network Foundation (ENF) funds development grants for "Public Good" as w
     <td valign="top"><ul><li>All benefits from Levels 1 and 2</li><li>Introductions to ENF Ventures VC partners*</li></ul></td>
   </tr>
 </table>
-* ENF Ventures will be established at a future date in 2022.
+* ENF Ventures will be established at a future date in 2023.
 
 ## Three Grant Types
-There are three types of grants that the ENF considers.  Some are originated by the community itself, and some are proposed in the form of an RFP by the ENF.
+There are three types of grants that the ENF considers. Some are originated by the community itself, and some are 
+proposed in the form of an RFP by the ENF.
+
 ### 1. New Proposal
-Most grant applications will take the form of a "New Proposal" from a member of the EOS community.  These projects range from core chain enhancements, SDKs, tools, and applications.  These are initiated by members of the community and run through the standard [Grant Process](#grant-process) below.  You may also want to look at the [list of approved applications](docs/accepted_grant_applications.md).
+Most grant applications will take the form of a "New Proposal" from a member of the EOS community.
+These projects range from core chain enhancements, SDKs, tools, and applications. These are initiated by members of the 
+community and run through the standard [Grant Process](#grant-process) below.
+
+> ⚠ **Grants are meant to kickstart your project, not sustain it**
+>
+> Our grant program is designed to provide initial support to projects so that they can become self-sustaining. 
+> We do not provide long-term funding, and if a project fails to become self-sustaining after reaching the minimum 
+> viable product (MVP) stage, we may consider it uninteresting to the wider community and stop approving grants for it.
+> 
+> This rule does not apply to grants that focus on components that should not have a business model, 
+> such as core chain enhancements, developer tooling, and so on. Those will always be evaluated based on the value
+> they bring to the community they are targeted at.
+
 ### 2. Maintenance Grant
-Maintenance grants are also initiated by the community to bring back support for a library, SDK or tool that has fallen out of maintenance.  These proposals are more limited in scope and milestone to ensure proper progress is made.  Maintenance grants should not be used to add feature or functionality to existing code, but to bring it up to current levels of the chain, operating system, or programming language levels.  New functionality to existing projects can be applied via a "New Proposal". Read more about [Maintenance Grants](docs/maintenance-grants.md).
+Maintenance grants are also initiated by the community to bring back support for a library, SDK or tool that has fallen 
+out of maintenance. These proposals are more limited in scope and milestone to ensure proper progress is made.  
+Maintenance grants should not be used to add feature or functionality to existing code, but to bring it up to current 
+levels of the chain, operating system, or programming language levels.  New functionality to existing projects can be 
+applied via a "New Proposal". Read more about [Maintenance Grants](docs/maintenance-grants.md).
+
 ### 3. RFP Response
 From time to time, the ENF will propose a work request to the community in the form of an RFP.  All community members, teams and companies are welcome to reply to the RFP.  Responses from multiple teams are expected.  The ENF will then select the best RFP response and award the work to the team that submitted it. [Read more on RFPs and how to reply to them](docs/rfp_info.md).
+
 <br/><br/>
 
 ## Grant Process (for New Proposals)
@@ -90,12 +111,12 @@ The Grant Committee are senior members of the EOS community that know the priori
 
 ### Grant Evaluators
 The Grant Evaluators review applications approved by the Grant Committee for technical merit and achievability.   They are more technical in nature and are more concerned with whether the proposal solves the problem optimally, is realizable in the specified time frame, and utilizes proper processes as required for the milestone achievement metrics.
+- [Bart Wyatt](https://github.com/wanderingbort)
 - [Areg Hayrapetian](https://github.com/arhag)
 - [Matt Witherspoon](https://github.com/spoonincode)
 - [Bucky Kittinger](https://github.com/larryk85)
-- [Bart Wyatt](https://github.com/wanderingbort)
-- [Denis Carriere](https://github.com/DenisCarriere)
 - [Nathan James](https://github.com/nsjames)
+- [Denis Carriere](https://github.com/DenisCarriere)
 
 ### Grant Operations
 The Grant Operations team manages the overall workflow of the ENF Grant process including: application acceptance and routing, notification of acceptance or rejection, monitoring of milestones and distribution of payments.
