@@ -1,7 +1,7 @@
 # EOS Network Foundation Grant Proposal
 
 - **Project Name:** Fireside Chat in Spanish 
-- **Team Name:** Creamy Vainilla C.A 
+- **Team Name:** Creamy Vanilla C.A Marketing Agency
 - **EOS Payment Address:** eosespanlorg
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 - **Pomelo Grant(s):** (https://pomelo.io/grants/eosespanol)
@@ -61,8 +61,8 @@ The event will be recorded via OBS live on Youtube and Twitter.
 
 
 ### Legal Structure
-- Registered Legal Entity: It is currently being legalized, for now we have the Creamy Vanilla C.A registry.
-- Registered Address: Venezuela Cojedes, San Carlos. C-165gle line. 
+- Registered Legal Entity: Legal registration in Creamy Vanilla C.A Marketing Agency
+- Registered Address: Venezuela Cojedes, San Carlos Main street, C-165.
 
 ### Team Experience
 
