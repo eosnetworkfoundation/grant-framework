@@ -61,8 +61,8 @@ The event will be recorded via OBS live on Youtube and Twitter.
 
 
 ### Legal Structure
-- Registered Legal Entity: Legal registration in Creamy Vanilla C.A Marketing Agency
-- Registered Address: Venezuela Cojedes, San Carlos Main street, C-165.
+- **Registered Legal Entity:** Legal registration in Creamy Vanilla C.A Marketing Agency
+- **Registered Address:**: Venezuela Cojedes, San Carlos Main street, C-165.
 
 ### Team Experience
 
