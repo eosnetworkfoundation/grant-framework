@@ -88,6 +88,13 @@ We will implement basic IBC functionality into a usable Typescript library.
 - Format the response from a proof server into a usable transaction format to be submitted to the blockchain.
 - Monitor the steps above and provide useful error handling.
 
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT
+| 0b. | Documentation | Basic code comments and readme at this stage. |
+| 0c. | Testing Guide | Tests will be provided in the final milestone. |
+| 0d. | NPM Library | Will be usable in a beta stage. |
+
 ### Milestone 2 — Implementation of the NPM package in our own application
 
 - **Estimated duration:** 1 month
@@ -95,6 +102,14 @@ We will implement basic IBC functionality into a usable Typescript library.
 - **Costs:** 10,000 USD
 
 The typescript library will be implemented into one or more of our existing projects (such as AntelopeX or Boid) and any missing features will be implemented and bugs eliminated. Additionally we will add helper functions for common IBC use cases such as token transfers.
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT
+| 0b. | Documentation | Basic code comments and readme at this stage. |
+| 0c. | Testing Guide | Tests will be provided in the final milestone. |
+| 0d. | NPM Library | Will be in a polished and nearly production ready stage. |
+
 ### Milestone 3 — Documentation, tests and external integration
 
 - **Estimated duration:** 1 month
@@ -102,6 +117,14 @@ The typescript library will be implemented into one or more of our existing proj
 - **Costs:** 10,000 USD
 
 We will write comprehensive documentation of the library as well as code comments and basic tests. We will reach out to other projects and help them to implement the library into their codebase when possible. We may make tweaks to the functionality based on feedback from external projects.
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT
+| 0b. | Documentation | Documentation site will be live and comprehensive. |
+| 0c. | Testing Guide | Basic tests will cover all of the core features. |
+| 0d. | NPM Library | Will be in a polished and production ready state. |
+| 0e. | Article | We will publish a Medium article that explains the library for a general audience and links to the documentation for developers. |
 
 ## Future Plans
 
