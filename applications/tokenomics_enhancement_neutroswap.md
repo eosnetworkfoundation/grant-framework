@@ -253,9 +253,10 @@ We have completed the [technical documentation](https://docs.neutroswap.io/neutr
 | 0a. | License                   | Apache 2.0                                                                         |
 | 0b. | Article  | We will publish an informative threads on twitter, explaining the concept of V2 smart contracts and how they will be utilized within our project. |
 | 1.  | Smart Contract Deployment | Deploy smart contract to the EOS-EVM mainnet                                       |
-| 2.  | Graph Node Deployment     | Publish a private graph-node instance for the EOS-EVM mainnet environment          |
-| 3.  | Subgraph Deployment       | Publish public subgraphs for Neutroswap updates and start indexing EOS-EVM mainnet |
-| 4.  | New UI Deployment         | Deploy the new UI to Production                                                    |
+| 2.  | Smart Contract Code Verification     |     Verify the smart contract codes on official EOS-EVM mainnet Explorer by providing ABIs, bytecodes, and contract addresses      |
+| 3.  | Graph Node Deployment     | Publish a private graph-node instance for the EOS-EVM mainnet environment          |
+| 4.  | Subgraph Deployment       | Publish public subgraphs for Neutroswap updates and start indexing EOS-EVM mainnet |
+| 5.  | New UI Deployment         | Deploy the new UI to Production                                                    |
 
 ## Future Plans
 
