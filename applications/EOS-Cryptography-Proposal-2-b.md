@@ -94,7 +94,7 @@ Our team built and deployed Port itself (server solution) which acts as our beta
 
 - **Total Estimated Duration:** 19 weeks
 - **Full-Time Equivalent (FTE):**  57 FTE weeks
-- **Total Costs:** $87.000
+- **Total Costs:** $87,000
 
 ### Milestone 1 - Optimization
 - **Estimated duration:** 12 weeks
