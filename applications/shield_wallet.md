@@ -46,7 +46,7 @@
 
 ### Legal Structure 
 - **Registered Legal Entity:** Genki (Trademark in registration process)
-- **Registered Address:** N/A
+- **Registered Address:** Av. Benjamín Franklin 175, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX
 
 ### Team Experience
 
