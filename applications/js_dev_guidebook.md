@@ -10,6 +10,8 @@
 
 - **Pomelo Grant(s):** N/A
 
+- **Project is Open-Source:** Yes
+
 - **Project was part of Token sale:** No
 
 - **Repository where Project resides:** https://antbook.douglas.life/
