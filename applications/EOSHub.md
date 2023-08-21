@@ -226,18 +226,11 @@ Finally, in the fourth milestone, we will consolidate all the insights gathered 
 
 ## Future Plans
 
-> Please include here:
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions about it.
+After the completion of these milestones, we plan to continue to scale the EOS Hub even further. Our goal is to add more projects and provide monthly updates to ensure the dashboard remains a valuable and up-to-date resource for the EOS. Based on the outputs of the EOS DAO Ecosystem Map, an EOS DAO Acceleration Program will be made. To support the Resource Coordination and Execution of the Program, several products may be deployed to the EOS EVM, such as a Launch Pad and a Balancer Friendly Fork which will provide the required tools to enhance DAO growth and liquidity onto EOS. 
 
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** Through our partners HyphaDAO
 
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- If any other teams have already contributed (financially) to the project.
-- Previous grants you may have applied for.
