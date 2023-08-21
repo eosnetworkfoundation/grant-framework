@@ -1,4 +1,4 @@
-# EOS Hub Grant Proposal
+# EOS Network Foundation Grant Proposal
 
 
 
