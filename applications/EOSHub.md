@@ -81,15 +81,15 @@ There are no direct equivalents to the EOS hub within the EOS and Antelope ecosy
 
 Luuk Weber's professional experience showcases his strong background in Web 3, fund management, and entrepreneurship. His involvement in Web 3 is evident through roles such as a Strategist at PrimeDAO, where he contributed to the systemic advancement of DAO tooling. He was also an investment associate at Cycber Capital where he specialized in DeFi, Stablecoins, DAOs, and Tokenomics. Luuk also has experience in fund management at Icoinic Capital, where he managed the DeFi Fund. With all the experience that Luuk developed he decided to start Kolektivo Labs, a Web3 Venture Studio. 
 
-**Enrique Badaracco 
-**
+**Enrique Badaracco **
+
 Enrique began his career in 2017 as an IT Operator, working in various roles that focused on IT Operations and technical support. In 2020, Enrique made a shift in his career by moving into the field of design within the Web 3 space. He took on the role of Digital Designer at Kolektivo Labs in the Netherlands, where he honed his skills in creative ideation, graphic design, web design, and branding.
 
-**Jash Mirpuri
-**
+**Jash Mirpuri**
+
 Jash Mirpuri, after obtaining his master's degree in Financial Economics, embarked on his professional journey as an Analyst in portfolio management, where he spent a year and a month honing his skills. Following this experience, he transitioned into Investment Banking, serving as a Junior Analyst in Rotterdam, Zuid-Holland, Netherlands, for five months. This role allowed him to further develop his analytical abilities within the financial sector. Later, Jash made a significant career move by entering the Web 3 space. 
 
-This team has worked on varios projects in the passed, including building out PrimeDAO and Kolektivo, and supporting Balancer, dHedge, and Celo. ****
+This team has worked on varios projects in the passed, including building out PrimeDAO and Kolektivo, and supporting Balancer, dHedge, and Celo. 
 
 ### Team Org Repos
 
@@ -97,12 +97,13 @@ This team has worked on varios projects in the passed, including building out Pr
 - https://github.com/Kolektivo
 
 
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+
 
 ### Team Member Repos
 
 - N.A
-### Team LinkedIn Profiles (if available)
+
+### Team LinkedIn Profiles 
 
 - https://www.linkedin.com/in/luukweber/
 - https://www.linkedin.com/in/enriquebadaracco/
@@ -125,21 +126,20 @@ This team has worked on varios projects in the passed, including building out Pr
 
 ## Development Roadmap
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
+Over the course of 4 months, with the dedicated effort of 3 full-time equivalents (FTEs), and a total budget of 35,000 USD, we plan to accomplish significant milestones that will enhance the EOS ecosystem.
 
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to the EOS ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
+We will kick off our project by building upon our existing work where we have already assessed 15 projects on EOS using our proven methodology, these can be seen here. This forms the foundation of our first milestone, where we will develop a comprehensive DeFi and DAO infrastructure map for the EOS ecosystem. This map will highlight existing tools and initiatives and identify gaps that can inform future EOS Ecosystem spending.
 
-For each milestone,
+Moving into the second milestone, we will enhance the EOS Dashboard by adding new features and improving its user interface. We will also expand the scope of the dashboard by adding new EOS and EOS EVM projects. To engage the community and generate a wealth of project reports, we will host an EOS Rate-a-thon, a community initiative that rewards participants for their contributions. In the third milestone, we will continue to refine the EOS Dashboard with updates and the addition of  more new EOS and EOS EVM projects. To maintain community engagement and continue the momentum of report generation, we will host another EOS Rate-a-thon.
 
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
+Finally, in the fourth milestone, we will consolidate all the insights gathered over the course of the project into a comprehensive yet easy-to-digest EOS Ecosystem Report. This highly visual report will serve as a valuable tool for both existing and potential EOS ecosystem members, providing a snapshot of all initiatives and the untapped potential of the EOS Network. Through these milestones, we aim to significantly enhance the EOS ecosystem by providing a comprehensive and up-to-date resource for EOS and EOS EVM projects, fostering community engagement, and delivering a valuable EOS Ecosystem Report.
 
-> :zap: If any of your deliverables is based on someone else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
+
+- Total Estimated Duration: 4 months
+- Full-Time Equivalent (FTE): 3 FTE
+- Total Costs: 35,000  USD
+
+
 
 ### Milestone Summary
 
