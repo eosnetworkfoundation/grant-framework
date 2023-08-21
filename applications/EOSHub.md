@@ -144,7 +144,7 @@ Finally, in the fourth milestone, we will consolidate all the insights gathered 
 ### Milestone 1 — Deployment of EOS Hub
 
 - **Estimated duration:** 1 month
-- **FTE:**  2
+- **FTE:**  3
 - **Costs:** 12,500 USD
 
 | ID | Deliverable | Specification |
@@ -153,7 +153,7 @@ Finally, in the fourth milestone, we will consolidate all the insights gathered 
 | 0b. | Documentation | Documenation will serve as a guide for developers and users to understand the platform's workings and its significance in the EOS ecosystem.  |
 | 0c. | Testing Guide | The testing guide ensures that the platform remains robust and reliable, meeting the standards set for its operation. |
 | 0d. | Docker | N.A |
-| 0e. | Article | An article will be published introducing the EOS Hub, its features, and its significance to the EOS ecosystem. This will serve as a public announcement and overview of the platform's capabilities. ] 
+| 0e. | Article | An article will be published introducing the EOS Hub, its features, and its significance to the EOS ecosystem. This will serve as a public announcement and overview of the platform's capabilities. | 
 | 1. | Application interface to Antelope | N.A |  
 | 2. | Front-End / User Interface | The user interface of the EOS Hub will be deployed, designed to offer a responsive and intuitive user experience.|  
 | 3. | Caching layer | N.A |  
@@ -174,7 +174,7 @@ Finally, in the fourth milestone, we will consolidate all the insights gathered 
 | 0b. | Documentation | We will enhance the EOS Hub by adding new features and improving its user interface. We will also add  new EOS and EOS EVM projects to the dashboard.  |
 | 0c. | Testing Guide | A detailed guide will be made available, outlining the steps and procedures to test all functionalities of the EOS Hub.  |
 | 0d. | Docker | N.A |
-| 0e. | Article | An article will be published introducing the new projects and new features ] 
+| 0e. | Article | An article will be published introducing the new projects and new features. | 
 | 1. | Application interface to Antelope | N.A |  
 | 2. | Front-End / User Interface | This frontend updates will serve as the primary interaction point for users, ensuring they can navigate and access the platform's features with ease.|  
 | 3. | Caching layer | N.A |  
@@ -194,7 +194,7 @@ Finally, in the fourth milestone, we will consolidate all the insights gathered 
 | 0b. | Documentation | We will also host an EOS Rate-a-thon to continue engaging the community and producing more project reports. Participants will be rewarded for their contributions.  |
 | 0c. | Testing Guide | Validate the updates made to the EOS Hub and the written content of the rate-a-thon |
 | 0d. | Docker | N.A |
-| 0e. | Article | We will publish an article summarizing the outcomes of the EOS Rate-a-thon. ] 
+| 0e. | Article | We will publish an article summarizing the outcomes of the EOS Rate-a-thon. |
 | 1. | Application interface to Antelope | N.A |  
 | 2. | Front-End / User Interface | The user interface will be updated with the results of the rate-a-thon as well as the analysts|  
 | 3. | Caching layer | N.A |  
@@ -214,7 +214,7 @@ Finally, in the fourth milestone, we will consolidate all the insights gathered 
 | 0b. | Documentation | Consolidate all insights into a comprehensive yet easy-to-digest EOS Ecosystem Report.   |
 | 0c. | Testing Guide | N.A |
 | 0d. | Docker | N.A |
-| 0e. | Article | We will publish an article summarizing the report as well as displaying our findings. ] 
+| 0e. | Article | We will publish an article summarizing the report as well as displaying our findings. |
 | 1. | Application interface to Antelope | N.A |  
 | 2. | Front-End / User Interface | The user interface of the EOS Hub will be deployed, designed to offer a responsive and intuitive user experience.|  
 | 3. | Caching layer | N.A |  
@@ -229,7 +229,7 @@ Finally, in the fourth milestone, we will consolidate all the insights gathered 
 > Please include here:
 
 - how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+- the team's long-term plans and intentions about it.
 
 
 ## Additional Information
@@ -239,5 +239,5 @@ Finally, in the fourth milestone, we will consolidate all the insights gathered 
 > Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
 - Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
+- If any other teams have already contributed (financially) to the project.
 - Previous grants you may have applied for.
