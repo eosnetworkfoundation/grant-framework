@@ -60,54 +60,68 @@ Our project serves to address several essential needs within the EOS DAO Ecosyst
 
 **Enhanced Understanding**: This project will enhance the understanding of the DAO landscape on the EOS network, supporting its development and maturity. This knowledge could be instrumental for new and existing DAOs, developers, users, and other stakeholders.
 
-It appears that there are no direct equivalents to the EOS hub within the EOS and Antelope ecosystem. This makes the project unique and potentially very valuable to the EOS community, as it provides a comprehensive overview of EOS & EOS EVM projects in a way that no other project currently does. The EOS hub shares similarities with a few projects in the broader crypto ecosystem. Baserank is a crowdsourced platform that evaluates the risk of crypto assets based on ratings from various sources. Lastly, Messari is a data aggregator that provides information and ratings on various cryptocurrencies based on their fundamental and technical aspects.
+There are no direct equivalents to the EOS hub within the EOS and Antelope ecosystem. This makes the project unique and potentially very valuable to the EOS community, as it provides a comprehensive overview of EOS & EOS EVM projects in a way that no other project currently does. The EOS hub shares similarities with a few projects in the broader crypto ecosystem. Baserank is a crowdsourced platform that evaluates the risk of crypto assets based on ratings from various sources. Lastly, Messari is a data aggregator that provides information and ratings on various cryptocurrencies based on their fundamental and technical aspects.
 
 ## Team
 
 ### Team members
 
-- **Team Leader:** Name of team leader
-- Name of team member 1
-- Name of team member 2
-- Name of team member 3, etc.
+- **Team Leader:** Luuk Weber, Project Manager
+-Enrique Badaracco, Digital Designer
+- Jash Mirpuri, Senior Analyst
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity. (e.g. Greymass, Inc.)
-- **Registered Address:** Address of your registered legal entity. Please keep it in a single line. (e.g. 123 Main Street, London LK1 234, UK)
+- **Registered Legal Entity:** Prime Development Foundation
+- **Registered Address:** President Romule Betancourt Boulevard 
+
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
+**Luuk Weber**
 
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+Luuk Weber's professional experience showcases his strong background in Web 3, fund management, and entrepreneurship. His involvement in Web 3 is evident through roles such as a Strategist at PrimeDAO, where he contributed to the systemic advancement of DAO tooling. He was also an investment associate at Cycber Capital where he specialized in DeFi, Stablecoins, DAOs, and Tokenomics. Luuk also has experience in fund management at Icoinic Capital, where he managed the DeFi Fund. With all the experience that Luuk developed he decided to start Kolektivo Labs, a Web3 Venture Studio. 
+
+**Enrique Badaracco 
+**
+Enrique began his career in 2017 as an IT Operator, working in various roles that focused on IT Operations and technical support. In 2020, Enrique made a shift in his career by moving into the field of design within the Web 3 space. He took on the role of Digital Designer at Kolektivo Labs in the Netherlands, where he honed his skills in creative ideation, graphic design, web design, and branding.
+
+**Jash Mirpuri
+**
+Jash Mirpuri, after obtaining his master's degree in Financial Economics, embarked on his professional journey as an Analyst in portfolio management, where he spent a year and a month honing his skills. Following this experience, he transitioned into Investment Banking, serving as a Junior Analyst in Rotterdam, Zuid-Holland, Netherlands, for five months. This role allowed him to further develop his analytical abilities within the financial sector. Later, Jash made a significant career move by entering the Web 3 space. 
+
+This team has worked on varios projects in the passed, including building out PrimeDAO and Kolektivo, and supporting Balancer, dHedge, and Celo. ****
 
 ### Team Org Repos
 
-- https://github.com/<your_organization>
-- https://github.com/<your_organization>/<project_1>
-- https://github.com/<your_organization>/<project_2>
+- https://github.com/PrimeDAO
+- https://github.com/Kolektivo
+
 
 > Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
 ### Team Member Repos
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
-
+- N.A
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/in/<person_1>
-- https://www.linkedin.com/in/<person_2>
+- https://www.linkedin.com/in/luukweber/
+- https://www.linkedin.com/in/enriquebadaracco/
+- https://www.linkedin.com/in/jaswant-mirpuri-1b67211b7/
 
 ## Development Status
 
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+- ttps://forum.gnosis.io/t/draft-should-gnosisdao-fund-gnosis-chain-ecosystem-analysis-and-dashboard/5975
+- https://twitter.com/HyphaDAO/status/1673662474237648898?s=20
+- https://mautic.hypha.earth/email/preview/49
+- https://blog.refidao.com/refi-deep-dive-refi-rate-athon/
+- https://medium.com/primedao/the-primerating-metaverse-rate-a-thon-is-coming-8d7af84d3a8b
+- https://medium.com/primedao/research-on-demand-by-prime-rating-b96873d79b7c?source=user_profile---------14----------------------------
+- https://medium.com/primedao/prime-rating-season-two-is-coming-f691ddc37b84?source=user_profile---------27----------------------------
+- https://medium.com/primedao/new-prime-rating-web-app-goes-live-with-over-125-reports-from-20-raters-8cf4e302d0e5?source=user_profile---------37----------------------------
+- https://medium.com/primedao/new-prime-rating-web-app-goes-live-with-over-125-reports-from-20-raters-8cf4e302d0e5?source=user_profile---------37----------------------------
+- https://medium.com/primedao/game-on-introducing-prime-rating-season-one-65476aa0fc6d?source=user_profile---------39----------------------------
+
 
 ## Development Roadmap
 
