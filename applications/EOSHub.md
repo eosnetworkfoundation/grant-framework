@@ -14,19 +14,18 @@
 
 ## Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** myemail@mycompany.com
-- **Website:** https://yourwebsite.com
+- **Contact Name:**Luuk Weber
+- **Contact Email:** luuk@prime.xyz
+- **Website:** [https://yourwebsite.com](https://www.prime.xyz/eosdashboard)
 
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
+
 
 ## Project Overview
 
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
+
 
 ### Overview
 
-> Please provide the following:
 
 - **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
 - **Brief Description:** A brief description of your project.
