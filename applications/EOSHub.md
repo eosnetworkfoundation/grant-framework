@@ -141,7 +141,7 @@ Moving into the second milestone, we will enhance the EOS Dashboard by adding ne
 Finally, in the fourth milestone, we will consolidate all the insights gathered over the course of the project into a comprehensive yet easy-to-digest EOS Ecosystem Report. This highly visual report will serve as a valuable tool for both existing and potential EOS ecosystem members, providing a snapshot of all initiatives and the untapped potential of the EOS Network. Through these milestones, we aim to significantly enhance the EOS ecosystem by providing a comprehensive and up-to-date resource for EOS and EOS EVM projects, fostering community engagement, and delivering a valuable EOS Ecosystem Report.
 
 
-### Milestone 1 Example — Deployment of EOS Hub
+### Milestone 1 — Deployment of EOS Hub
 
 - **Estimated duration:** 1 month
 - **FTE:**  2
@@ -161,25 +161,67 @@ Finally, in the fourth milestone, we will consolidate all the insights gathered 
 
 
 
-### Milestone 2 Example — Additional features
+### Milestone 2  — EOS Hub growth through additional projects and maintenance
 
-- **Estimated Duration:** 1 month
-- **FTE:**  2
-- **Costs:** 4,000 USD
+
+- **Estimated duration:** 1 month
+- **FTE:**  3
+- **Costs:** 5,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Added UI functionality | We will add UI functionality to... |  
-| 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
+| 0a. | License | MIT |
+| 0b. | Documentation | We will enhance the EOS Hub by adding new features and improving its user interface. We will also add  new EOS and EOS EVM projects to the dashboard.  |
+| 0c. | Testing Guide | A detailed guide will be made available, outlining the steps and procedures to test all functionalities of the EOS Hub.  |
+| 0d. | Docker | N.A |
+| 0e. | Article | An article will be published introducing the new projects and new features ] 
+| 1. | Application interface to Antelope | N.A |  
+| 2. | Front-End / User Interface | This frontend updates will serve as the primary interaction point for users, ensuring they can navigate and access the platform's features with ease.|  
+| 3. | Caching layer | N.A |  
+| 4. | API interface to our app | We will create an API that allows third-party applications to interact with the EOS Dashboard. |  
 
 
-... Add more milestones as above as needed ...
+### Milestone 3 — EOS Rate-a-thon
+
+
+- **Estimated duration:** 1 month
+- **FTE:**  3
+- **Costs:** 12,500 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT |
+| 0b. | Documentation | We will also host an EOS Rate-a-thon to continue engaging the community and producing more project reports. Participants will be rewarded for their contributions.  |
+| 0c. | Testing Guide | Validate the updates made to the EOS Hub and the written content of the rate-a-thon |
+| 0d. | Docker | N.A |
+| 0e. | Article | We will publish an article summarizing the outcomes of the EOS Rate-a-thon. ] 
+| 1. | Application interface to Antelope | N.A |  
+| 2. | Front-End / User Interface | The user interface will be updated with the results of the rate-a-thon as well as the analysts|  
+| 3. | Caching layer | N.A |  
+| 4. | API interface to our app | We will create an API that allows third-party applications to interact with the EOS Dashboard. |  
+
+
+### Milestone 4 Example — EOS Ecosystem Report Compilation
+
+
+- **Estimated duration:** 1 month
+- **FTE:**  3
+- **Costs:** 5,000 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT |
+| 0b. | Documentation | Consolidate all insights into a comprehensive yet easy-to-digest EOS Ecosystem Report.   |
+| 0c. | Testing Guide | N.A |
+| 0d. | Docker | N.A |
+| 0e. | Article | We will publish an article summarizing the report as well as displaying our findings. ] 
+| 1. | Application interface to Antelope | N.A |  
+| 2. | Front-End / User Interface | The user interface of the EOS Hub will be deployed, designed to offer a responsive and intuitive user experience.|  
+| 3. | Caching layer | N.A |  
+| 4. | API interface to our app | We will create an API that allows third-party applications to interact with the EOS Dashboard. |  
+
+
+
 
 
 ## Future Plans
