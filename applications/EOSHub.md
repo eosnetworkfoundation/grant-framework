@@ -14,13 +14,24 @@
 
 ## Contact
 
-- **Contact Name:**Luuk Weber
+- **Contact Name:** Luuk Weber
 - **Contact Email:** luuk@prime.xyz
 - **Website:** [https://yourwebsite.com](https://www.prime.xyz/eosdashboard)
 
 
 
 ## Project Overview
+Our team has already successfully created and launched an EOS ecosystem dashboard in collaboration with Kolektivo Labs and Hypha DAO, which is live and provides a detailed and easy-to-navigate overview of 10+ different EOS & EOS EVM projects. 
+
+After the successful development of the EOS ecosystem dashboard and Pomelo grant participation - we intend to expand the Dashboard into a full fledge EOS Hub. The EOS Ecosystem hub is a standalone platform with it’s own brand and socials that will provide a deepdive on all projects on EOS and EOS EVM, create ecosystem reports and EOS guides.  The EOS Hub will provide all EOS stakeholders with a comprehensive overview of the ecosystem projects status and quality. Which helps with curation, grant allocation, partnerships and exploration. 
+
+The EOS hub is free to use and projects reviewed do not have to pay a fee of any kind. EOS native analysts can get involved to help create reports that will shape up the hub - this not only enhances the quality of the hub but also helps EOS native contributors grow. EOS native analysts will be rewarded once a report has been reviewed.  All insights will be put together in an EOS Ecosystem Report - an easy-to-digest and highly visual report that can be utilized by existing and potential EOS ecosystem members to get a snapshot of all initiatives and potential of the EOS Network. This comprehensive approach will ensure that we continue to provide valuable resources for the EOS ecosystem. 
+
+An extensive DeFi and DAO infrastructure map which will highlight existing tools and ecosystem initiatives, and identify missing pieces which can help prioritize EOS Ecosystem development.
+An overview of the top  EOS native projects - This will help existing and potential EOS ecosystem members to better understand project quality to guide their contributions.
+
+
+Looking ahead, we see great potential in establishing an EOS DAO Ecosystem Acceleration program that will leverage our collective network, services, and technology to greatly accelerate DAO and DeFi growth on EOS. Our project will focus on creating the ecosystem insights required to run an effective acceleration program and prioritize product deployment.
 
 
 
