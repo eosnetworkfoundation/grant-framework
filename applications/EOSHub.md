@@ -81,7 +81,7 @@ There are no direct equivalents to the EOS hub within the EOS and Antelope ecosy
 
 Luuk Weber's professional experience showcases his strong background in Web 3, fund management, and entrepreneurship. His involvement in Web 3 is evident through roles such as a Strategist at PrimeDAO, where he contributed to the systemic advancement of DAO tooling. He was also an investment associate at Cycber Capital where he specialized in DeFi, Stablecoins, DAOs, and Tokenomics. Luuk also has experience in fund management at Icoinic Capital, where he managed the DeFi Fund. With all the experience that Luuk developed he decided to start Kolektivo Labs, a Web3 Venture Studio. 
 
-**Enrique Badaracco **
+**Enrique Badaracco**
 
 Enrique began his career in 2017 as an IT Operator, working in various roles that focused on IT Operations and technical support. In 2020, Enrique made a shift in his career by moving into the field of design within the Web 3 space. He took on the role of Digital Designer at Kolektivo Labs in the Netherlands, where he honed his skills in creative ideation, graphic design, web design, and branding.
 
@@ -150,14 +150,12 @@ Finally, in the fourth milestone, we will consolidate all the insights gathered 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
 | 0a. | License | MIT |
-| 0b. | Documentation | Comprehensive documentation will be provided, detailing the architecture, functionalities, and features of the EOS Hub. This will serve as a guide for developers and users to understand the platform's workings and its significance in the EOS ecosystem.  |
-| 0c. | Testing Guide | 
-A detailed guide will be made available, outlining the steps and procedures to test all functionalities of the EOS Hub. This ensures that the platform remains robust and reliable, meeting the standards set for its operation. |
+| 0b. | Documentation | Documenation will serve as a guide for developers and users to understand the platform's workings and its significance in the EOS ecosystem.  |
+| 0c. | Testing Guide | The testing guide ensures that the platform remains robust and reliable, meeting the standards set for its operation. |
 | 0d. | Docker | N.A |
-| 0e. | Article | 
-An article will be published introducing the EOS Hub, its features, and its significance to the EOS ecosystem. This will serve as a public announcement and overview of the platform's capabilities. ] 
+| 0e. | Article | An article will be published introducing the EOS Hub, its features, and its significance to the EOS ecosystem. This will serve as a public announcement and overview of the platform's capabilities. ] 
 | 1. | Application interface to Antelope | N.A |  
-| 2. | Front-End / User Interface | The user interface of the EOS Hub will be deployed, designed to offer a responsive and intuitive user experience. This frontend will serve as the primary interaction point for users, ensuring they can navigate and access the platform's features with ease.|  
+| 2. | Front-End / User Interface | The user interface of the EOS Hub will be deployed, designed to offer a responsive and intuitive user experience.|  
 | 3. | Caching layer | N.A |  
 | 4. | API interface to our app | We will create an API that allows third-party applications to interact with the EOS Dashboard. |  
 
