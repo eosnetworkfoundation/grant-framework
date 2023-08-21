@@ -126,56 +126,40 @@ This team has worked on varios projects in the passed, including building out Pr
 
 ## Development Roadmap
 
-Over the course of 4 months, with the dedicated effort of 3 full-time equivalents (FTEs), and a total budget of 35,000 USD, we plan to accomplish significant milestones that will enhance the EOS ecosystem.
 
-We will kick off our project by building upon our existing work where we have already assessed 15 projects on EOS using our proven methodology, these can be seen here. This forms the foundation of our first milestone, where we will develop a comprehensive DeFi and DAO infrastructure map for the EOS ecosystem. This map will highlight existing tools and initiatives and identify gaps that can inform future EOS Ecosystem spending.
+### Milestone Summary
 
-Moving into the second milestone, we will enhance the EOS Dashboard by adding new features and improving its user interface. We will also expand the scope of the dashboard by adding new EOS and EOS EVM projects. To engage the community and generate a wealth of project reports, we will host an EOS Rate-a-thon, a community initiative that rewards participants for their contributions. In the third milestone, we will continue to refine the EOS Dashboard with updates and the addition of  more new EOS and EOS EVM projects. To maintain community engagement and continue the momentum of report generation, we will host another EOS Rate-a-thon.
+
+- **Total Estimated Duration:** 4 months 
+- **Full-Time Equivalent (FTE):** 3 FTE
+- **Total Costs:** 35,000 USD
+
+Over the course of 4 months, with the dedicated effort of 3 full-time equivalents (FTEs), and a total budget of 35,000 USD, we plan to accomplish significant milestones that will enhance the EOS ecosystem. We will kick off our project by building upon our existing work where we have already assessed 15 projects on EOS using our proven methodology, these can be seen here. This forms the foundation of our first milestone, where we will develop a comprehensive DeFi and DAO infrastructure map for the EOS ecosystem. This map will highlight existing tools and initiatives and identify gaps that can inform future EOS Ecosystem spending.
+
+Moving into the second milestone, we will enhance the EOS Dashboard by adding new features and improving its user interface. We will also expand the scope of the dashboard by adding new EOS and EOS EVM projects. In the third milestone, we will host an EOS Rate-a-thon, a community initiative that rewards participants for their contributions.
 
 Finally, in the fourth milestone, we will consolidate all the insights gathered over the course of the project into a comprehensive yet easy-to-digest EOS Ecosystem Report. This highly visual report will serve as a valuable tool for both existing and potential EOS ecosystem members, providing a snapshot of all initiatives and the untapped potential of the EOS Network. Through these milestones, we aim to significantly enhance the EOS ecosystem by providing a comprehensive and up-to-date resource for EOS and EOS EVM projects, fostering community engagement, and delivering a valuable EOS Ecosystem Report.
 
 
-- Total Estimated Duration: 4 months
-- Full-Time Equivalent (FTE): 3 FTE
-- Total Costs: 35,000  USD
-
-
-
-### Milestone Summary
-
-> Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
-> You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
-> of all of your Milestones.  Please **DO NOT** remove the three lines below.  If you do, your grant will be rejected or delayed while you fix it.
-- **Total Estimated Duration:** 2 months 
-- **Full-Time Equivalent (FTE):** 2 FTE
-- **Total Costs:** 12,000 USD
-
-> Please note that this application is automatically parsed.<br/>
-> For the above fields, please only put the answer on that line.  If you want to add more information, please put it below these instructions.<br/>
-> Please remember to delete all lines that start with `>` as they are just instructions and not needed in the application submission.<br/>
-> 
-> Notes on above fields:
-> - Total Estimated Duration: Duration of the whole project (example: 2 months or 7 weeks)
-> - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
-> - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
-
-### Milestone 1 Example — Implement EOS Application
+### Milestone 1 Example — Deployment of EOS Hub
 
 - **Estimated duration:** 1 month
 - **FTE:**  2
-- **Costs:** 8,000 USD
+- **Costs:** 12,500 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Application interface to Antelope | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
-| 3. | Caching layer | We will create a caching layer ... |  
-| 4. | API interface to our app | We will create an API that ... |  
+| 0a. | License | MIT |
+| 0b. | Documentation | Comprehensive documentation will be provided, detailing the architecture, functionalities, and features of the EOS Hub. This will serve as a guide for developers and users to understand the platform's workings and its significance in the EOS ecosystem.  |
+| 0c. | Testing Guide | 
+A detailed guide will be made available, outlining the steps and procedures to test all functionalities of the EOS Hub. This ensures that the platform remains robust and reliable, meeting the standards set for its operation. |
+| 0d. | Docker | N.A |
+| 0e. | Article | 
+An article will be published introducing the EOS Hub, its features, and its significance to the EOS ecosystem. This will serve as a public announcement and overview of the platform's capabilities. ] 
+| 1. | Application interface to Antelope | N.A |  
+| 2. | Front-End / User Interface | The user interface of the EOS Hub will be deployed, designed to offer a responsive and intuitive user experience. This frontend will serve as the primary interaction point for users, ensuring they can navigate and access the platform's features with ease.|  
+| 3. | Caching layer | N.A |  
+| 4. | API interface to our app | We will create an API that allows third-party applications to interact with the EOS Dashboard. |  
 
 
 
