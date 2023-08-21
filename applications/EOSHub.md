@@ -21,51 +21,46 @@
 
 
 ## Project Overview
-Our team has already successfully created and launched an EOS ecosystem dashboard in collaboration with Kolektivo Labs and Hypha DAO, which is live and provides a detailed and easy-to-navigate overview of 10+ different EOS & EOS EVM projects. 
-
-After the successful development of the EOS ecosystem dashboard and Pomelo grant participation - we intend to expand the Dashboard into a full fledge EOS Hub. The EOS Ecosystem hub is a standalone platform with it’s own brand and socials that will provide a deepdive on all projects on EOS and EOS EVM, create ecosystem reports and EOS guides.  The EOS Hub will provide all EOS stakeholders with a comprehensive overview of the ecosystem projects status and quality. Which helps with curation, grant allocation, partnerships and exploration. 
-
-The EOS hub is free to use and projects reviewed do not have to pay a fee of any kind. EOS native analysts can get involved to help create reports that will shape up the hub - this not only enhances the quality of the hub but also helps EOS native contributors grow. EOS native analysts will be rewarded once a report has been reviewed.  All insights will be put together in an EOS Ecosystem Report - an easy-to-digest and highly visual report that can be utilized by existing and potential EOS ecosystem members to get a snapshot of all initiatives and potential of the EOS Network. This comprehensive approach will ensure that we continue to provide valuable resources for the EOS ecosystem. 
-
-An extensive DeFi and DAO infrastructure map which will highlight existing tools and ecosystem initiatives, and identify missing pieces which can help prioritize EOS Ecosystem development.
-An overview of the top  EOS native projects - This will help existing and potential EOS ecosystem members to better understand project quality to guide their contributions.
-
-
-Looking ahead, we see great potential in establishing an EOS DAO Ecosystem Acceleration program that will leverage our collective network, services, and technology to greatly accelerate DAO and DeFi growth on EOS. Our project will focus on creating the ecosystem insights required to run an effective acceleration program and prioritize product deployment.
 
 
 
 ### Overview
 
 
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOS Network / Antelope:** An indication of how your project relates to / integrates into the EOS Network or Antelope software.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+- **Name:** EOS Hub 
+- **Brief Description:** The EOS Hub is a platform designed to enhance the EOS ecosystem by providing a comprehensive and up-to-date resource for EOS and EOS EVM projects.
+- **Relationship to EOS Network / Antelope:** The EOS Hub will provide all EOS stakeholders with a comprehensive overview of the ecosystem projects' status and quality. EOS Hub will foster community engagement, streamline EOS ecosystem insights, and offer tools to accelerate DAO and DeFi growth on EOS. 
+- **Reason for Interest:** As the EOS ecosystem grows, there's a need for a unified platform where projects, developers, and stakeholders can come together. The EOS Hub aims to be that central point of reference, providing a comprehensive overview of EOS projects, tools, and initiatives.
 
 ### Project Details
 
-> We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
+Our team has already successfully created and launched an EOS ecosystem dashboard in collaboration with Kolektivo Labs and Hypha DAO, which is live and provides a detailed and easy-to-navigate overview of 10+ different EOS & EOS EVM projects. 
 
-- Mock-ups/designs of any UI components
-- Data models of the core functionality
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+After the successful development of the EOS ecosystem dashboard and Pomelo grant participation - we intend to expand the Dashboard into a full fledge EOS Hub. The EOS Ecosystem hub is a standalone platform with it’s own brand and socials that will provide a deepdive on all projects on EOS and EOS EVM, create ecosystem reports and EOS guides.  The EOS Hub will provide all EOS stakeholders with a comprehensive overview of the ecosystem projects status and quality. Which helps with curation, grant allocation, partnerships and exploration. 
+
+The EOS hub is free to use and projects reviewed do not have to pay a fee of any kind. EOS native analysts can get involved to help create reports that will shape up the hub - this not only enhances the quality of the hub but also helps EOS native contributors grow. EOS native analysts will be rewarded once a report has been reviewed.  All insights will be put together in an EOS Ecosystem Report - an easy-to-digest and highly visual report that can be utilized by existing and potential EOS ecosystem members to get a snapshot of all initiatives and potential of the EOS Network. This comprehensive approach will ensure we continue providing valuable resources for the EOS ecosystem. 
+
+An extensive DeFi and DAO infrastructure map which will highlight existing tools and ecosystem initiatives, and identify missing pieces which can help prioritize EOS Ecosystem development.
+An overview of the top  EOS native projects - This will help existing and potential EOS ecosystem members to better understand project quality to guide their contributions.
+
+Eos Hub will also be providing a detailed and easy-to-navigate overview of different EOS & EOS EVM projects. It's designed to improve ecosystem growth and coordination. The Hub API will provide easy and reliable access to all EOS data, including project Ratings and sub-category scores. 
+
+Looking ahead, we see great potential in establishing an EOS DAO Ecosystem Acceleration program that will leverage our collective network, services, and technology to accelerate DAO and DeFi growth on EOS greatly. Our project will focus on creating the ecosystem insights required to run an effective acceleration program and prioritize product deployment.
+
 
 ### Ecosystem Fit
 
-> Help us locate your project in the EOS Network landscape and what problems it tries to solve by answering each of these questions:
+Our primary target audience includes EOS blockchain developers, Decentralized Autonomous Organizations (DAOs), dApp developers, EOS wallet users, and participants within the EOS ecosystem. 
 
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+Our project serves to address several essential needs within the EOS DAO Ecosystem:
+
+**Ecosystem Mapping**: By creating a comprehensive ecosystem assessment, we aim to provide a clear, detailed map of the EOS DAO Ecosystem. This would be beneficial to all participants in the ecosystem, helping them better understand the environment and identify opportunities and challenges.
+
+**Guided Resource Allocation**: The Ecosystem Report will serve as a critical foundation for directing EOS Network resources more effectively. This can help maximize the impact of these resources, promoting growth and innovation within the EOS DAO Ecosystem.
+
+**Enhanced Understanding**: This project will enhance the understanding of the DAO landscape on the EOS network, supporting its development and maturity. This knowledge could be instrumental for new and existing DAOs, developers, users, and other stakeholders.
+
+It appears that there are no direct equivalents to the EOS hub within the EOS and Antelope ecosystem. This makes the project unique and potentially very valuable to the EOS community, as it provides a comprehensive overview of EOS & EOS EVM projects in a way that no other project currently does. The EOS hub shares similarities with a few projects in the broader crypto ecosystem. Baserank is a crowdsourced platform that evaluates the risk of crypto assets based on ratings from various sources. Lastly, Messari is a data aggregator that provides information and ratings on various cryptocurrencies based on their fundamental and technical aspects.
 
 ## Team
 
