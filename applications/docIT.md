@@ -2,8 +2,8 @@
 
 - **Project Name:** EOS Documentation Discord Bot
 - **Team Name:** EOS Docs Team
-- **EOS Payment Address:** coinbasebase | memo: 4132734636
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
+- **EOS Payment Address:** pxgxehrjd4kg
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 - **Pomelo Grant(s):** N/A
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
