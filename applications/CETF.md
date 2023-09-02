@@ -197,52 +197,48 @@ Ideally, we'd like to request some funds for audit of our contracts but that is 
 | 3. | Giving the rights to rebalance to the fund managers. |
 
 
-### Milestone 3 — Phase 2 deployment to WAX mainnet
+### Milestone 3 — Kick-off of CETF 2.0
 
 - **Estimated Duration:** 3 weeks
 - **FTE:** 1
-- **Costs:** 2,500 USD
+- **Costs:** 5000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | MIT |
-| 0b. | Documentation | Front-end and smart contract repos will contain documentation on how to set up a fund.  |
-| 0c. | Unit Tests | Core functions (rebalancing, creation and redemption of the fund) will be covered by unit tests to ensure functionality and robustness. |
-| 1. | Integration of Alcor Exchange into CETF contracts for the fund rebalancing function. Other configurations of the fund.|
-| 2. | Setting up domains / Configuring WAX accounts / Deployment of contracts |
-| 3. | Setting up Discord / Telegram. |
-| 4. | On-boarding custodians for the fund's msig. |
-| 5. | On-boarding fund managers. |
+| 0b. | Documentation | Documentation will be updated with all the relevant changes.  |
+| 0c. | Unit Tests | Tests will be provided for the new features |
+| 0d. | Rationale behind changing the milestones | After deployment of the fund on EOS we decided that we need to further improve CETF before deploying it to WAX (previously Milestone 3) and TELOS (previously Milestone 4). Improvements need to be made in areas of on-boarding, UX (simplification of the UI), tokenomics and governance. Such improvements would enable us to abstract away the blockchain and attract investors outside of EOS eco-system. Our plan is to raise seed round from EOS Labs. 5k that is yet to be received from this grant would serve as a kick-off and enable us to start with the changes in the contracts and design of the new UI. New Milestone 3 will consist of three deliverables.|
 
+| 1. | Addition of Performance fee (smart contracts).| Currently the fund on EOS has only management fee. It is a very small percentage charged when user initially invests. Low fee is attractive for the investors in the fund but resuls in very low profits for the protocol. Performance fee is crucial because it will ensure high profit margin for the CETF protocol. Potential profits will incentivize developers and external investors to contribute to the protocol.|
 
+| 2. | Complete refactoring of the smart contracts (+audit with chatGPT) |
 
-### Milestone 4 — Phase 2 deployment to Telos mainnet
-
-- **Estimated Duration:** 3 weeks
-- **FTE:** 1
-- **Costs:** 2,500 USD
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | MIT |
-| 0b. | Documentation | Front-end and smart contract repos will contain documentation on how to set up a fund.  |
-| 0c. | Unit Tests | Core functions (rebalancing, creation and redemption of the fund) will be covered by unit tests to ensure functionality and robustness. |
-| 1. | Integration of T-Swaps into CETF contracts for the fund rebalancing function. Other configurations of the fund.|
-| 2. | Setting up domains / Configuring Telos accounts / Deployment of contracts |
-| 3. | Setting up Discord / Telegram. |
-| 4. | On-boarding custodians for the fund's msig. |
-| 5. | On-boarding fund managers. |
-
+| 3. | New UI/UX design in Figma |
 
 ## Future Plans
 
-- Firstly, the idea would be to grow the three funds on EOS / WAX / TELOS. Solidify and perfect our method of asset management. According to our calculations that takes into account the market capitalizations of other chains that have asset management protocols (and metrics of their DEX-es), we have estimated that at current time there is potential to hold from 700k - 2.1m USD in ETFs on EOSIO (details in our pitch deck).
+<b>Roadmap</b>
 
-- Secondly, once we've grown a bit our AUM, idea is to raise proper seed round, potentially through Helios. Use the funds to develop the Phase 3, described in the Project's Details. In essence, Phase 3 enables anyone to easily create and manage ETFs and make them accessible for investors.
+1. Seed round.
+2. Fractal/DAO launch. 
+3. Upgrade to CETF 2.0 including:
+    Complete refactoring of smart contracts
+    New UI/UX for the progressive web-app
+    Performance fee integration
+    Referral system
+    On-boarding system
+4. Smart contract audit
+5. Milestone 1 - Campaign to reach 1m in AUM in one fund.
+6. Series A
+7. Platform for custom fund creation
+8. Milestone 2 - Campaign to reach 50m AUM across all funds.
+
+
+Our estimation is that 95% of tokens in our fund will be ETH, Ethereum based tokens and BTC. Hence our bet is on EOS having reliable bridge. Initial lack of liquidity would not be even a problem, as the demand for our fund could provide incentives to bring more liquidity to EOS.
+
 
 
 ## Additional Information
 
 **How did you hear about the Grants Program?** Zack's tweet.
-
-- We are also in communication with Helios and Telos Foundation to raise some funds. 
