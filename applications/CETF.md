@@ -219,18 +219,7 @@ Ideally, we'd like to request some funds for audit of our contracts but that is 
 
 1. Seed round.
 2. Fractal/DAO launch. 
-3. Upgrade to CETF 2.0 including:
-<br>
-    Complete refactoring of smart contracts
-<br>
-    New UI/UX for the progressive web-app
-<br>
-    Performance fee integration
-<br>
-    Referral system
-<br>
-    On-boarding system for investors outside EOS and crypto in general (Upland style)
-<br>
+3. Upgrade to CETF 2.0 (complete refactoring of smart contracts, new UI/UX progressive web-app, performance fee integration, referral system, on-boarding for investors outside EOS eco-system)
 4. Smart contract audit
 5. Milestone 1 - Campaign to reach 1m in AUM in one fund.
 6. Series A
@@ -238,7 +227,7 @@ Ideally, we'd like to request some funds for audit of our contracts but that is 
 8. Milestone 2 - Campaign to reach 50m AUM across all funds.
 
 
-Our estimation is that 95% of tokens in our fund will be ETH, Ethereum based tokens and BTC. Hence our bet is on EOS having reliable bridge. Initial lack of liquidity would not be even a problem, as the demand for our fund could provide incentives to bring more liquidity to EOS.
+- Our estimation is that 95% of tokens in our fund will be ETH, Ethereum based tokens and BTC. Hence our bet is on EOS having reliable bridge. Initial lack of liquidity would not be even a problem, as the demand for our fund could provide incentives to bring more liquidity to EOS.
 
 
 
