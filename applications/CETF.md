@@ -224,7 +224,7 @@ Ideally, we'd like to request some funds for audit of our contracts but that is 
 5. Milestone 1 - Campaign to reach 1m USD in AUM in one fund.
 6. Series A.
 7. Platform for custom fund creation.
-8. Milestone 2 - Campaign to reach 50m USD AUM across all funds.
+8. Milestone 2 - Campaign to reach 50m USD in AUM across all funds.
 
 
 - Our estimation is that 95% of tokens in our fund will be ETH, Ethereum based tokens and BTC. Hence our bet is on EOS network having reliable bridge. Initial lack of liquidity would not be even a problem, as the demand for our fund could provide incentives to bring more liquidity to EOS.
