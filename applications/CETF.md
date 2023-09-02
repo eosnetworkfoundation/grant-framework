@@ -207,9 +207,9 @@ Ideally, we'd like to request some funds for audit of our contracts but that is 
 | -----: | ----------- | ------------- |
 | 0a. | License | MIT |
 | 0b. | Documentation | Documentation will be updated with all the relevant changes.  |
-| 0c. | Unit Tests | Tests will be provided for the new features |
-| 0d. | Rationale behind changing the milestones | After deployment of the fund on EOS we decided that we need to further improve CETF before deploying it to WAX (previously Milestone 3) and TELOS (previously Milestone 4). Improvements need to be made in areas of on-boarding, UX (simplification of the UI), tokenomics and governance. Such improvements would enable us to abstract away the blockchain and attract investors outside of EOS eco-system. Our plan is to raise seed round, potentially from EOS Labs. 5k that is yet to be received from this grant would serve as a kick-off and enable us to start with the changes in the contracts and design of the new UI. New Milestone 3 will consist of three deliverables.|
-| 1. | Addition of Performance fee (smart contracts).| Currently the fund on EOS has only management fee. It is a very small percentage charged when user initially invests. Low fee is attractive for the investors in the fund but resuls in very low profits for the protocol. Performance fee is crucial because it will ensure high profit margin for the CETF protocol. Potential profits will incentivize developers and external investors to contribute to the protocol.|
+| 0c. | Unit Tests | Tests will be provided for the new features. |
+| 0d. | Rationale behind changing the milestones | After deployment of the fund on EOS we decided that we need to further improve CETF before deploying it to WAX (previously Milestone 3) and TELOS (previously Milestone 4). Improvements need to be made in areas of on-boarding, UX (simplification of the UI), tokenomics and governance. Such improvements would enable us to abstract away the blockchain so that we could focus on much wider target group - investors outside of the EOS eco-system. Our plan is to raise seed round, potentially from EOS Labs. 5k that is yet to be received from this grant would serve as a kick-off and enable us to start with the changes in the contracts and design of the new UI. New Milestone 3 will consist of three deliverables.|
+| 1. | Addition of Performance fee (smart contracts)| Currently the fund on EOS has only management fee. It is a very small percentage charged when user initially invests. Low fee is attractive for the investors in the fund but resuls in very low profits for the protocol. Performance fee is crucial because it will ensure high profit margin for the CETF protocol. Potential profits will incentivize developers and external investors to contribute to the protocol.|
 | 2. | Complete refactoring of the smart contracts (+audit with chatGPT) |
 | 3. | New UI/UX design in Figma |
 
@@ -219,15 +219,15 @@ Ideally, we'd like to request some funds for audit of our contracts but that is 
 
 1. Seed round.
 2. Fractal/DAO launch. 
-3. Upgrade to CETF 2.0 (complete refactoring of smart contracts, new UI/UX progressive web-app, performance fee integration, referral system, on-boarding for investors outside EOS eco-system)
-4. Smart contract audit
+3. Upgrade to CETF 2.0 (complete refactoring of smart contracts, new UI/UX progressive web-app, performance fee integration, referral system, on-boarding system for investors outside EOS eco-system).
+4. Smart contract audit.
 5. Milestone 1 - Campaign to reach 1m in AUM in one fund.
-6. Series A
-7. Platform for custom fund creation
+6. Series A.
+7. Platform for custom fund creation.
 8. Milestone 2 - Campaign to reach 50m AUM across all funds.
 
 
-- Our estimation is that 95% of tokens in our fund will be ETH, Ethereum based tokens and BTC. Hence our bet is on EOS having reliable bridge. Initial lack of liquidity would not be even a problem, as the demand for our fund could provide incentives to bring more liquidity to EOS.
+- Our estimation is that 95% of tokens in our fund will be ETH, Ethereum based tokens and BTC. Hence our bet is on EOS network having reliable bridge. Initial lack of liquidity would not be even a problem, as the demand for our fund could provide incentives to bring more liquidity to EOS.
 
 
 
