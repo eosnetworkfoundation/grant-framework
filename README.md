@@ -6,7 +6,6 @@
 > 
 > This initiative has been sunset, and we are no longer accepting grant applications. 
 > 
-> If you want to pursue funding for EOS projects you can reach out to [EOS Labs](https://www.eoslabs.io/) or [EOS Network Ventures](https://eosnetworkventures.com/).
 
 As part of the EOS Network Foundation's (ENF) charter to grow and support the EOS ecosystem, the ENF has developed a multi-level grant program to help power research, software development, and maintenance of the [Antelope](https://antelope.io/) code base.  For more information about the ENF, please visit our [website](https://eosnetwork.com/funding/) or [YouTube account](https://www.youtube.com/c/EverythingEOS).
 
